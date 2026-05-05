@@ -7,10 +7,11 @@
  *
  * For ≥3 measurements: use least-squares regression slope.
  *
- * Thresholds:
- *   PSAV > 2.0 ng/mL/yr before RP → worse outcomes
- *   PSAV > 0.75 ng/mL/yr during AS → triggers re-biopsy (note: not treatment change)
- *   EAU Movember consensus: PSAV alone should NOT change management → trigger investigation
+ * Thresholds (EAU 2026):
+ *   PSAV > 2.0 ng/mL/yr before RP → associated with worse outcomes [994]
+ *   PSAV > 0.75 ng/mL/yr during AS → trigger re-biopsy/investigation
+ *     (EAU Movember consensus: PSAV alone should NOT change management)
+ *   PSAV < 0.75 ng/mL/yr → low/acceptable velocity
  *
  * DIY: YES — requires ≥2 PSA measurements with dates
  */
@@ -48,9 +49,10 @@
   }
   function interpret(result) {
     if (result == null) return null;
-    if (result < 0.75) return `${result} ng/mL/yr — Low/acceptable velocity`;
-    if (result < 2.0) return `${result} ng/mL/yr — Moderate; close monitoring`;
-    return `${result} ng/mL/yr — High (>2.0); aggressive disease suspected`;
+    if (result <= 0)    return `${result} ng/mL/yr — No rise (PSA stable/declining)`;
+    if (result < 0.75)  return `${result} ng/mL/yr — Low velocity; AS continuation`; // Movember: PSAV alone should NOT change management
+    if (result < 2.0)  return `${result} ng/mL/yr — Moderate (0.75–2.0); investigate — consider re-biopsy if on AS`;
+    return `${result} ng/mL/yr — High (>2.0); rapid progression — aggressive disease suspected (EAU 2026)`;
   }
   if (typeof window !== 'undefined') window.__registerCalculator__(meta.id, meta, calculate, interpret);
   if (typeof module !== 'undefined') module.exports = { meta, calculate, interpret };

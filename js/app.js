@@ -15,7 +15,7 @@ import * as psaVel    from './calculators/psa-velocity.js';
 import * as nlr       from './calculators/nlr.js';
 import * as plr       from './calculators/plr.js';
 import * as pni       from './calculators/pni.js';
-import * as capsra    from './calculators/capsra.js';
+import * as capraS   from './calculators/capra-s.js';
 import * as fpsa      from './calculators/fpsa.js';
 import * as egfr      from './calculators/egfr.js';
 import * as renalNeph from './calculators/renal-nephrometry.js';
@@ -27,7 +27,7 @@ import * as pcptrc    from './calculators/pcptrc-20.js';
 
 const CALCULATORS = [
   psaDt, briganti, gandaglia, espl, phi, cpsa, psaDens, psaVel,
-  nlr, plr, pni, capsra, fpsa, egfr, renalNeph, nmibc, eauRisk, eauBcr,
+  nlr, plr, pni, capraS, fpsa, egfr, renalNeph, nmibc, eauRisk, eauBcr,
   erspc, pcptrc
 ];
 

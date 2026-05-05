@@ -23,7 +23,7 @@
 (function() {
   'use strict';
   const meta = {
-    id: 'capsra',
+    id: 'capra-s',
     name: 'CAPRA-S Score',
     shortName: 'CAPRA-S',
     category: 'post-rp-risk',
