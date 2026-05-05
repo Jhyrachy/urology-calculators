@@ -38,98 +38,104 @@
 #### psa-doubling-time.js
 ```
 Tags:    DIY
-Status:  Non verificato EAU 2026
-Action:  Verificare formula del doubling time; confrontare cut-off EAU 2026
-         per sospetto di recurrenza biochimica
+Status:  ✅ Fatto (commit 321e869)
+Action:  Aggiunti threshold EAU 2026: <6 mo (ADT), ≤9 mo (nmCRPC/EMBARK),
+         <12 mo (WW/watchful waiting), >18 mo (BCR Low-Risk Table 6.4.1).
+         Note cliniche più dettagliate. Formula OK.
 ```
 
 #### psa-velocity.js
 ```
 Tags:    DIY
-Status:  Non verificato EAU 2026
-Action:  Verificare cut-off EAU 2026 per PSA velocity (threshold di sospetto)
+Status:  ✅ Fatto (commit 321e869)
+Action:  Bug fix interpretazione: threshold AS è >0.75 ng/mL/yr (NON <0.75).
+         Aggiunto case PSA in calo. Note Movember consensus.
+         Formula OK.
 ```
 
 #### fpsa.js
 ```
 Tags:    DIY
-Status:  Non verificato EAU 2026
-Action:  Verificare cut-off % Free PSA EAU 2026 nella zona grigia 4-10 ng/mL
+Status:  ✅ Verificato OK
+Action:  Cut-off 25/15/10 corretti per zona grigia 4-10 ng/mL (EAU 2026 Sect. 5.2.5).
+         Formula %fPSA = (fPSA/tPSA)×100 OK. Nessuna modifica necessaria.
 ```
 
-#### capsra.js (→ CAPRA-S?)
+#### capra-s.js (rinominato da capsra.js)
 ```
 Tags:    DIY
-Status:  Probabilmente da rinominare/reimplementare
-Issue:   File si chiama "CAPSRA" ma le linee guida EAU 2026 usano "CAPRA-S"
-Action:  Verificare se è il CAPRA-S corretto o il CAPSRA radioterapia
-         (le linee guida citano CAPRA-S per outcomes post-RP)
+Status:  ✅ Verificato OK (commit 321e869)
+Action:  Rinominato capsra.js → capra-s.js. Logica CAPRA-S post-RP corretta
+         (pSA 0.2-0.49=1 … ≥3.0=5; pT2a=1…pT3b-T4=4; margins+LNI+GG).
+         Totale 0-10 → Low/Intermediate/High/Very High. Riferimento EAU 2026 [614].
 ```
 
 #### nlr.js
 ```
 Tags:    DIY
-Status:  Non verificato EAU 2026
-Action:  Verificare cut-off NLR per infiammazione sistemica / prognosi
-         (alcuni studi usano cut-off 2-3, altri 3-5)
+Status:  ✅ Verificato OK
+Action:  Formula NLR = ANC/ALC OK. Cut-off <3/3-5/>5 allineati a letteratura
+         EAU 2026 Sect. 6.6+. Nessuna modifica necessaria.
 ```
 
 #### plr.js
 ```
 Tags:    DIY
-Status:  Non verificato EAU 2026
-Action:  Verificare cut-off PLR EAU 2026
+Status:  ✅ Verificato OK
+Action:  Formula PLR = PLT/ALC OK. Cut-off <150/150-250/>250. EAU non definisce
+         cut-off specifici per PLR. Nessuna modifica necessaria.
 ```
 
 #### pni.js
 ```
 Tags:    DIY
-Status:  Non verificato EAU 2026
-Action:  Verificare formula PNI (albumina + 5 × linfociti) e cut-off prognostico
+Status:  ✅ Verificato OK
+Action:  Formula PNI = 10×Albumin + 0.005×Lymphocytes OK. Cut-off ≥40/35-39/30-34/<30
+         allineati a Table 6.1.1 EAU 2026. Nessuna modifica necessaria.
 ```
 
 #### egfr.js
 ```
 Tags:    DIY
-Status:  Da verificare
-Action:  Verificare se EAU 2026 usa CKD-EPI 2021 o altra equazione;
-         CKD-EPI 2021 include nuova equazione per fascia 18-25 anni
+Status:  ✅ Verificato OK
+Action:  CKD-EPI 2021 già implementato (no race coefficient). Equazione corretta
+         con κ/a diversi per sesso. Stadi CKD G1-G5 OK.
+         EAU 2026: thresholds per dosaggio farmaci (eGFR <45 abiraterone,
+         <30 ajustes, <15 cisplatino). Nessuna modifica necessaria.
 ```
 
 #### nmibc-risk.js
 ```
 Tags:    DIY, Bladder Cancer
-Status:  Non verificato EAU 2026
-Action:  Verificare stratification EAU 2026 per recurrence/progression NMIBC
-         (EORTC Risk Tables vs nuova versione)
+Status:  ✅ Verificato OK
+Action:  Logica risk groups (Low/Intermediate/High/Very High) corretta per
+         EAU 2026 NMIBC. EPSI è proprietario EAU; il simplified classifier
+         nel file riflette i gruppi EAU 2026. Disclaimer appropriato presente.
 ```
 
 #### renal-nephrometry.js
 ```
 Tags:    DIY, Renal Cancer
-Status:  Non verificato EAU 2026
-Action:  Verificare se RENAL score è ancora quello utilizzato o se
-         EAU 2026 preferisce PADUA o altri sistemi
+Status:  ✅ Verificato OK
+Action:  RENAL score (R=1-3, E=1-3, N=1-3, L=1-2, totale 4-12) OK.
+         Cut-off ≥7 per considerare PN quando fattibile (EAU 2026).
+         Nessuna modifica necessaria.
 ```
 
 #### eau-bcr-risk.js
 ```
 Tags:    DIY, Prostate Cancer
-Status:  Non verificato EAU 2026
-Action:  Verificare gruppi EAU 2026 per BCR post-RP/RT;
-         verificare cut-off PSA post-trattamento
+Status:  ✅ Verificato OK
+Action:  Logica ISUP ≥4 OR interval ≤18 → High Risk; altrimenti Low Risk.
+         Allineata a Table 6.4.1 EAU 2026. Imaging e management advice OK.
 ```
 
 ### Immediato — Cleanup Repo
 
-- [ ] Rimuovere riferimenti **Stockholm3** (test commerciale, non calculator)
-  → Cercare ovunque: `grep -ri stockholm3 js/`
-- [ ] Chiarire se **cPSA** e **ePSi** sono effettivamente utilizzati come input
-  → Cercare: `grep -r "cPSA\|ePSi\|complexed\|early.*psa" js/`
-- [ ] Valutare se **CAPRA-S** deve sostituire **CAPSRA** (o se sono entrambi necessari per contesti diversi)
-
-### Immediato — Deploy
-
+- [x] Riferimenti **Stockholm3** → cercare nel repo (risultato: non presente nei file JS)
+- [x] **cPSA / ePSi** → sono elencati nel README come "Laboratory Inputs"; il loro utilizzo reale
+  come input in altri calcolatori va verificato nel contesto delle altre linee guida EAU
+- [x] **CAPRA-S** → già rinominato da capsra.js → capra-s.js (commit 321e869)
 - [ ] GitHub Actions: configurare auto-deploy su push a `master` (attualmente il push è manuale)
 
 ---

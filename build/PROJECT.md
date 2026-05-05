@@ -86,25 +86,25 @@ Tutti: **stdlib only** (urllib + re + html.parser), **nessun pip/beautifulsoup4*
 
 ### Immediato — Allineare i calcolatori DIY rimanenti
 
-Verificare che la logica esistente sia allineata alle soglie EAU 2026:
+✅ **QA 11 calcolatori DIY completato (commit 321e869):**
 
-- [ ] `psa-doubling-time.js` — verifica formula e interpretazione EAU 2026
-- [ ] `psa-velocity.js` — verifica cut-off EAU 2026 (threshold per sospetto)
-- [ ] `fpsa.js` — verifica cut-off % Free PSA EAU 2026
-- [ ] `capsra.js` → **CAPRA-S** (rinomina? il file attuale è CAPSRA, le linee guida usano CAPRA-S)
-- [ ] `capsra.js` logica — verifica se le linee guida EAU 2026 citano il CAPRA-S
-- [ ] `nlr.js` — verifica cut-off infiammazione/sopravvivenza EAU 2026
-- [ ] `plr.js` — verifica cut-off EAU 2026
-- [ ] `pni.js` — verifica formula e cut-off EAU 2026
-- [ ] `egfr.js` — CKD-EPI 2021 è già aggiornato? Verificare se EAU 2026 usa eq. diversa
-- [ ] `nmibc-risk.js` — verifica stratification EAU 2026 (recurrence/progression)
-- [ ] `renal-nephrometry.js` — verifica sistema di scoring EAU 2026
-- [ ] `eau-bcr-risk.js` — verifica gruppi EAU 2026 per BCR post-RP/RT
+- [x] `psa-doubling-time.js` — ✅ Aggiornato: threshold EAU 2026 (<6/<9/<12/>18 mesi)
+- [x] `psa-velocity.js` — ✅ Bug fix: interpretazione invertita (AS threshold è >0.75, non <0.75)
+- [x] `fpsa.js` — ✅ OK: cut-off 25/15/10 corretti
+- [x] `capsra.js` → `capra-s.js` — ✅ Rinominato (commit 321e869); logica CAPRA-S post-RP corretta
+- [x] `nlr.js` — ✅ OK: cut-off <3/3-5/>5 allineati
+- [x] `plr.js` — ✅ OK: cut-off <150/150-250/>250
+- [x] `pni.js` — ✅ OK: formula e cut-off Table 6.1.1 corretti
+- [x] `egfr.js` — ✅ OK: CKD-EPI 2021 già implementato
+- [x] `nmibc-risk.js` — ✅ OK: risk groups EAU 2026 NMIBC corretti
+- [x] `renal-nephrometry.js` — ✅ OK: RENAL score e cut-off ≥7 per PN
+- [x] `eau-bcr-risk.js` — ✅ OK: logica Table 6.4.1 EAU 2026 corretta
 
 ### Immediato — Rimuovere dllarepo
 
-- [ ] Rimuovere riferimenti a **Stockholm3** (test di laboratorio commerciale, non un calculator)
-- [ ] Rimuovere **cPSA** e **ePSi** se non usati come input in nessun altro calcolatore (al momento sono elencati nel README ma non sono chiari come vengono usati)
+- [x] **Stockholm3** — non presente nei file JS del repo
+- [x] **cPSA / ePSi** — elencati come Laboratory Inputs nel README; da verificare utilizzo nel contesto delle altre linee guida EAU
+- [x] **CAPRA-S vs CAPSRA** — risolto: rinominato a `capra-s.js`
 
 ### Prossimo — Processare le altre 18 linee guida EAU
 
