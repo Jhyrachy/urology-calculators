@@ -1,4 +1,4 @@
-# 🧮 Urology Calculators
+# Urology Calculators
 
 Evidence-based clinical calculators for urology practice. All formulas are aligned with **EAU Guidelines 2026**. Mobile-first PWA with offline support.
 
@@ -6,12 +6,13 @@ Evidence-based clinical calculators for urology practice. All formulas are align
 
 ## Features
 
-- **20 clinical calculators** covering prostate cancer, bladder cancer, renal cancer, and general oncology
+- **21 clinical calculators** covering prostate cancer, bladder cancer, renal cancer, and general oncology
 - **PWA** — installable, works offline
 - **Mobile-first** — responsive, works on any device
-- **EAU 2026 aligned** — every formula cites the latest EAU Guidelines (https://uroweb.org/guidelines)
-- **DIY + External** — DIY tools implement the full calculation; non-DIY tools open the official web calculator
-- **Zero dependencies** — pure vanilla HTML/CSS/JS, no build step
+- **EAU 2026 aligned** — every formula cites the latest EAU Guidelines
+- **DIY + External** — DIY tools implement the full calculation; non-DIY tools link to the official web calculator
+- **Zero runtime dependencies** — pure vanilla HTML/CSS/JS, no build step
+- **Unit tested** — 11 DIY calculators have automated test coverage
 - **Open source** — MIT License
 
 ## Calculators
@@ -20,104 +21,95 @@ Evidence-based clinical calculators for urology practice. All formulas are align
 
 | Calculator | Type | Purpose |
 |---|---|---|
-| PSA Doubling Time | DIY | Biochemical recurrence kinetics after RP |
+| PSA Doubling Time | DIY | BCR kinetics — PSA-DT thresholds for nmCRPC/AS/ADT decisions |
 | PSA Velocity | DIY | Annual PSA rise rate |
-| % Free PSA | DIY | PCa detection in grey zone (4–10 ng/mL) |
-| PSA Density | DIY | Distinguishes BPH from PCa using PI-RADS |
-| PHI (Prostate Health Index) | Commercial | Enhanced PCa detection with p2PSA (lab test) |
-| EAU Risk Groups | DIY | Initial risk stratification per EAU 2026 |
-| EAU BCR Risk Groups | DIY | Biochemical recurrence risk after radical treatment |
-| CAPRA-S | DIY | Post-operative adjuvant/adjuvant risk assessment |
-| Briganti Nomogram | External | Lymph node invasion risk before RP → [nomogram.org](https://www.nomogram.org) |
-| ERSPC Risk Calculator | External | Population-based PCa risk → [prostatecancer-riskcalculator.com](https://www.prostatecancer-riskcalculator.com) |
-| PCPTRC Risk Calculator | External | 20-item PCa risk estimation → [myprostatecancerrisk.com](https://www.myprostatecancerrisk.com) |
-| Gandaglia Nomogram | External | Long-term oncological outcomes after RP → [nomogram.org](https://www.nomogram.org) |
+| % Free PSA | DIY | PCa detection in grey zone (PSA 4–10 ng/mL) |
+| PSA Density + PI-RADS | DIY | PI-RADS-stratified biopsy decision per EAU 2026 Table 5.5 |
+| PHI (Prostate Health Index) | Commercial | Lab assay — enter PHI value from lab report |
+| EAU Risk Groups | DIY | Initial risk stratification per EAU 2026 Table 4.3 |
+| EAU BCR Risk Groups | DIY | BCR risk stratification after RP or RT |
+| CAPRA-S | DIY | Post-RP adjuvant risk score |
+| Briganti/Gandaglia Nomogram | External | Lymph node invasion risk before ePLND → [evidencio.com](https://www.evidencio.com/models/show/1555) |
+| ERSPC Risk Calculator | External | Population-based PCa pre-biopsy risk → [prostatecancer-riskcalculator.com](https://www.prostatecancer-riskcalculator.com) |
+| PCPTRC 2.0 | External | 20-item PCa risk calculator → [riskcalc.org](https://riskcalc.org/PCPTRC/) |
 
 ### Bladder Cancer
 
 | Calculator | Type | Purpose |
 |---|---|---|
-| EAU NMIBC Risk Score | DIY | Recurrence/progression stratification |
-| NM IBC Risk Stratification | DIY | BCG/cystectomy decision guide |
+| NMIBC Risk Classifier | DIY | TURBT risk stratification (Low/Intermediate/High/Very High) |
+| NMIBC Risk (EPSI-based) | Partial | Simplified EAU NMIBC risk groups — EPSI coefficients are EAU-proprietary |
 
 ### Renal Cancer
 
 | Calculator | Type | Purpose |
 |---|---|---|
-| RENAL Nephrometry Score | DIY | Tumor complexity for PN vs RN planning |
-| eGFR (CKD-EPI 2021) | DIY | Kidney function assessment |
+| RENAL Nephrometry Score | DIY | Tumor complexity for partial vs radical nephrectomy planning |
+| eGFR (CKD-EPI 2021) | DIY | Kidney function — race-free creatinine equation |
 
-### General Oncology
+### General Oncology / Blood Count
 
 | Calculator | Type | Purpose |
 |---|---|---|
 | NLR (Neutrophil-to-Lymphocyte Ratio) | DIY | Systemic inflammation marker |
 | PLR (Platelet-to-Lymphocyte Ratio) | DIY | Systemic inflammation marker |
-| PNI (Prognostic Nutritional Index) | DIY | Nutritional-immune status |
-
-### Laboratory Inputs
-
-These are **not** standalone calculators — they are clinical parameters (typically from lab reports) used as inputs for other tools:
-
-| Parameter | Type | Note |
-|---|---|---|
-| cPSA (Complexed PSA) | Lab input | Stable PSA fraction |
-| ePSi (Early Prostate Specific Antigen) | Lab input | Precursor form |
-| fPSA (Free PSA) | Lab input | Used in % Free PSA ratio |
+| PNI (Prognostic Nutritional Index) | DIY | Nutritional-immune status per EAU 2026 Table 6.1.1 |
 
 ## Development
 
-No build step required. Just serve the directory:
+No build step required. Serve the directory:
 
 ```bash
 python3 -m http.server 8000
-# or
-npx serve .
 ```
 
-GitHub Pages serves the `main` branch automatically at:
-`https://jhyrachy.github.io/urology-calculators`
+GitHub Pages deploys the `main` branch automatically at:
+https://jhyrachy.github.io/urology-calculators
+
+### Running Tests
+
+```bash
+python3 js/tests/run_tests.py
+```
+
+Requires Node.js in PATH. Tests are in `js/tests/*.test.mjs`.
 
 ## Adding a Calculator
 
-Create a new file in `js/calculators/` and import it in `js/app.js`:
+1. Create `js/calculators/my-calc.js` with ES module exports:
 
 ```js
 // js/calculators/my-calc.js
-export const id          = 'my-calc';
-export const name        = 'My Calculator';
-export const category    = 'Prostate Cancer';
-export const tags        = ['tag1', 'tag2'];
-export const isDIY       = true;        // false = opens external website
-export const isCommercial = false;       // true for lab tests (PHI, 4Kscore, etc.)
-export const description = 'One-line description.';
-export const inputs      = [{ id: 'x', label: 'X value', type: 'number' }];
-export const formula     = 'Formula in plain text';
-export const howToUse    = 'Clinical instructions';
-export const refs        = [{ text: 'Author. J 2020', url: 'https://...' }];
 
-export function calculate(vals) {
-  return { value: vals.x * 2, unit: 'unit', interpretation: '...', risk: 'low' };
-}
-export function renderResult(result) {
-  return `<div class="result-box">${result.value}</div>`;
+export const meta = {
+  id: 'my-calc',
+  name: 'My Calculator',
+  shortName: 'MC',
+  category: 'prostate-cancer',
+  inputs: [
+    { id: 'x', label: 'X value', min: 0, step: 0.1, required: true }
+  ],
+  outputs: [
+    { id: 'result', label: 'Result' }
+  ],
+  references: [
+    'Author A et al. J Urol 2020;184:1234-1240'
+  ]
+};
+
+export function calculate({ x }) {
+  if (x < 0) return { error: 'X must be non-negative' };
+  return { result: x * 2 };
 }
 ```
 
-For **non-DIY** calculators, also include:
+2. Add the import to `js/app.js` and register it in the `CALCULATORS` array.
 
-```js
-export const output = [
-  { id: 'resource', label: 'Official Calculator', type: 'text',
-    value: 'https://www.example.com/calculator' }
-];
-```
-
-Then add the import to `js/app.js` — that's it.
+3. (Optional) Add tests in `js/tests/my-calc.test.js`.
 
 ## Disclaimer
 
-⚠️ **For educational and clinical decision support only.** Always verify with clinical judgment, local guidelines, and patient context. The authors accept no responsibility for clinical decisions made using these tools.
+**For educational and clinical decision support only.** Always verify with clinical judgment, local guidelines, and patient context. The authors accept no responsibility for clinical decisions made using these tools.
 
 ## Bibliography
 
