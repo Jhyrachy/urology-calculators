@@ -49,7 +49,7 @@ for fname in sorted(os.listdir(TEST_DIR)):
     if not fname.endswith('.test.mjs'):
         continue
     test_path = os.path.join(TEST_DIR, fname)
-    calc_path = os.path.join(CALC_DIR, fname[:-8] + '.js')  # .test.mjs → .js
+    calc_path = os.path.join(CALC_DIR, fname[:-9] + '.js')  # .test.mjs → .js (remove 9 chars: .test.mjs)
 
     if not os.path.exists(calc_path):
         print(f"  SKIP {fname} (no calculator)")

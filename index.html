@@ -13,16 +13,33 @@
 <body>
   <header>
     <h1>🧮 Urology Calculators</h1>
-    <p class="subtitle">Evidence-based clinical tools</p>
+    <p class="subtitle">Evidence-based clinical tools — EAU 2026</p>
   </header>
 
-  <nav>
-    <input type="search" id="search" placeholder="Search calculators..." aria-label="Search calculators">
+  <nav id="tab-nav" role="tablist" aria-label="Application sections">
+    <button id="tab-btn-calc" class="tab-btn" role="tab" aria-selected="true" aria-controls="panel-calc">
+      <span class="tab-icon">🧮</span> Calcolatori
+    </button>
+    <button id="tab-btn-fc" class="tab-btn" role="tab" aria-selected="false" aria-controls="panel-fc">
+      <span class="tab-icon">📊</span> Flowchart
+    </button>
   </nav>
 
-  <main id="app">
-    <!-- Calculator cards injected here by app.js -->
-  </main>
+  <div id="search-bar">
+    <input type="search" id="search" placeholder="Search..." aria-label="Search">
+  </div>
+
+  <div id="panel-calc" role="tabpanel" aria-labelledby="tab-btn-calc">
+    <main id="app">
+      <!-- Calculator cards injected here by app.js -->
+    </main>
+  </div>
+
+  <div id="panel-fc" role="tabpanel" aria-labelledby="tab-btn-fc" class="hidden">
+    <main id="flowcharts-view">
+      <!-- Flowchart cards injected here by app.js -->
+    </main>
+  </div>
 
   <footer>
     <p>⚠️ For educational use only. Always verify with clinical judgment.</p>
