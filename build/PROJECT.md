@@ -100,6 +100,14 @@ Tutti: **stdlib only** (urllib + re + html.parser), **nessun pip/beautifulsoup4*
 - [x] `renal-nephrometry.js` — ✅ OK: RENAL score e cut-off ≥7 per PN
 - [x] `eau-bcr-risk.js` — ✅ OK: logica Table 6.4.1 EAU 2026 corretta
 
+### 🔜 Flowchart — EAU 2026 Prostate Cancer (completati)
+
+- [x] **4 Flowchart prostate-cancer** (commit 0a692c5) — screening, Active Surveillance, BCR post-RP/RT, monitoraggio ADT — file in `js/flowcharts/pc-*.js`, prefisso `pc-` per distinguerli dalle linee guida future
+  - `js/flowcharts/pc-screening.js` — Screening e PSA opportunistic
+  - `js/flowcharts/pc-active-surveillance.js` — Criteri, protocollo, trigger
+  - `js/flowcharts/pc-bcr-followup.js` — BCR post-RP/RT, monitoraggio
+  - `js/flowcharts/pc-adt-monitoring.js` — Follow-up durante ADT
+
 ### Immediato — Rimuovere dllarepo
 
 - [x] **Stockholm3** — non presente nei file JS del repo
