@@ -98,7 +98,7 @@ function renderHome(filter = '') {
         ${c.meta.isDIY === false ? '<span class="tag closed">NOT DIY — formula closed</span>' : ''}
         ${c.meta.isCommercial ? '<span class="tag commercial">Commercial test</span>' : ''}
       </article>`).join('')
-    : '<p class="no-results">No calculators match your search.</p>';
+    : '<p class="no-results">No calculators match your search.</p>');
 }
 
 // ---- Render result (flexible) ----
@@ -239,7 +239,7 @@ window._openFlowchart = (id) => {
   detailEl.classList.remove('hidden');
   detailEl.innerHTML = '<div id="fc-container"></div>';
   fc.render(document.getElementById('fc-container'));
-  history.pushState({ flowchart: id }, '', `#flowchart-' + id);
+    history.pushState({ flowchart: id }, '', `#flowchart-${id}`);
   window.scrollTo(0, 0);
 };
 window._back = () => {
