@@ -1,166 +1,69 @@
 /**
- * EPSI (EAU Risk Score for NMIBC)
- * ================================
+ * EPSI — EAU Prognostic Index for NMIBC
+ * EAU 2026: separate NMIBC guideline — risk stratification
  *
- * CLINICAL USE:
- *   European Association of Urology (EAU) risk score for predicting
- *   recurrence and progression in non-muscle-invasive bladder cancer (NMIBC).
- *   Used to stratify patients into low, intermediate, and high risk groups
- *   to guide treatment (BCG, cystectomy, follow-up intensity).
+ * NOT DIY — EPSI coefficients are proprietary to EAU working group.
+ * Simplified EAU 2026 NMIBC risk stratification shown here.
  *
- * RISK GROUPS (simplified from EAU NMIBC guidelines):
- *   LOW RISK:
- *     - Single, Ta, G1, <3cm, no CIS
- *   INTERMEDIATE RISK:
- *     - All others not fitting low or high
- *   HIGH RISK:
- *     - T1, G3, CIS, multiple/recurrent, ≥3cm, G2pTa >1 tumor
+ * Risk groups (simplified EAU 2026 NMIBC):
+ *   Low: primary, solitary, G1-2, Ta, <3cm, no CIS
+ *   Intermediate: selected TaG2, small recurrences
+ *   High: T1, G3, CIS, multiple/recurrent large tumours
+ *   Very High: T1G3 + CIS or other very high-risk features
  *
- * THIS CALCULATOR:
- *   Assigns points to each factor to give a numeric risk score.
- *
- * REFERENCE:
- *   EAU Guidelines on Non-muscle-invasive Bladder Cancer.
- *   European Urology. Updated annually.
- *   https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer
+ * DIY: PARTIAL — risk stratification is evidence-based;
+ *       exact EPSI formula is EAU-proprietary
  */
-
-const id       = 'epsi';
-const name     = 'EAU NMIBC Risk Score';
-const category = 'Bladder Cancer';
-const tags     = ['NMIBC', 'bladder cancer', 'recurrence', 'progression', 'BCG', 'risk stratification'];
-const description =
-  'Stratifies non-muscle-invasive bladder cancer (NMIBC) patients into ' +
-  'low, intermediate, and high risk groups to guide BCG therapy and follow-up.';
-
-const inputs = [
-  {
-    id: 'stage',
-    label: 'T-stage',
-    type: 'select',
-    options: [
-      { value: 'Ta',  label: 'Ta — papillary, confined to urothelium' },
-      { value: 'T1',  label: 'T1 — invades lamina propria' },
+(function() {
+  'use strict';
+  const meta = {
+    id: 'epsi',
+    name: 'NMIBC Risk (EPSI-based)',
+    shortName: 'EPSI',
+    category: 'bladder-cancer',
+    inputs: [
+      { id: 'stage',     label: 'T stage',               type: 'select',
+        options: ['Ta', 'T1', 'Tis (CIS)'],                               required: true },
+      { id: 'grade',     label: 'WHO Grade',              type: 'select',
+        options: ['G1 (low grade)', 'G2 (low grade)', 'G3 (high grade)'], required: true },
+      { id: 'num',       label: 'Number of tumours',       min: 1, step: 1, required: true },
+      { id: 'size',      label: 'Largest tumour diameter (cm)', min: 0, step: 0.5, required: true },
+      { id: 'recurrent', label: 'Prior recurrence?',      type: 'checkbox' }
     ],
-  },
-  {
-    id: 'grade',
-    label: 'Tumor grade (WHO 1973 or 2004/2016)',
-    type: 'select',
-    options: [
-      { value: 'G1', label: 'G1 — Low grade (1973) / Grade 1 (2004)' },
-      { value: 'G2', label: 'G2 — Intermediate grade (1973)' },
-      { value: 'G3', label: 'G3 — High grade (1973) / Grade 3 (2004)' },
+    outputs: [
+      { id: 'risk_group', label: 'NMIBC Risk Group' },
+      { id: 'management', label: 'Management' }
     ],
-  },
-  {
-    id: 'size',
-    label: 'Tumor size (cm)',
-    placeholder: 'e.g. 2.5',
-    type: 'number',
-  },
-  {
-    id: 'count',
-    label: 'Number of tumors',
-    placeholder: 'e.g. 1',
-    type: 'number',
-  },
-  {
-    id: 'cis',
-    label: 'Concomitant CIS',
-    type: 'select',
-    options: [
-      { value: 'no',  label: 'No CIS' },
-      { value: 'yes', label: 'Yes — concurrent carcinoma in situ' },
+    references: [
+      'EAU 2026 NMIBC Guidelines — EPSI risk stratification',
+      'For exact EPSI scoring: EAU NMIBC official app'
     ],
-  },
-  {
-    id: 'recurrence',
-    label: 'Prior recurrence history',
-    type: 'select',
-    options: [
-      { value: 'primary', label: 'Primary (first tumor)' },
-      { value: 'recurrent', label: 'Recurrent (previous TURBTs)' },
-    ],
-  },
-];
+    disclaimer: 'EPSI is EAU-proprietary. This tool implements simplified EAU 2026 NMIBC risk groups for clinical guidance. For official EPSI scoring, use the EAU NMIBC app.'
+  };
+  function calculate({ stage, grade, num, size, recurrent }) {
+    const isG3  = grade === 'G3 (high grade)';
+    const isCIS = stage === 'Tis (CIS)';
+    const isT1  = stage === 'T1';
+    const large = size > 3;
+    const multi = num > 1;
+    const recur = !!recurrent;
 
-const formula = `EAU Risk Group Scoring:
-
-  Points are assigned per factor:
-  - T1              → +2
-  - G3/High grade  → +2
-  - Size ≥3cm       → +1
-  - Multiplicity    → +1 (≥2 tumors)
-  - CIS present     → +2
-  - Recurrent       → +1
-
-  Risk Group:
-    0–1 points  → LOW RISK
-    2–4 points  → INTERMEDIATE RISK
-    ≥5 points  → HIGH RISK
-
-Reference: EAU Guidelines on Non-Muscle-Invasive Bladder Cancer`;
-
-const howToUse =
-  'Enter the pathological findings from TURBT. This score assigns a numeric ' +
-  'risk level to guide treatment intensity: low-risk patients may need only ' +
-  'single instillation of mitomycin C post-TURBT; intermediate-risk patients ' +
-  'benefit from adjuvant BCG; high-risk patients should be considered for ' +
-  'early cystectomy or radical treatment.';
-
-const refs = [
-  {
-    text: 'EAU Guidelines — Non-Muscle-Invasive Bladder Cancer',
-    url: 'https://uroweb.org/guidelines/non-muscle-invasive-bladder-cancer',
-  },
-  {
-    text: 'Sylvester RJ, et al. Eur Urol 2019 — EAU risk group validation',
-    url: 'https://doi.org/10.1016/j.eururo.2019.02.014',
-  },
-];
-
-function calculate(vals) {
-  const { stage, grade, size, count, cis, recurrence } = vals;
-  let score = 0;
-  const factors = [];
-
-  if (stage === 'T1')    { score += 2; factors.push('T1 invasion (+2)'); }
-  if (grade === 'G3')    { score += 2; factors.push('G3/High grade (+2)'); }
-  if (size >= 3)         { score += 1; factors.push('Size ≥3cm (+1)'); }
-  if (count >= 2)        { score += 1; factors.push(`Multiplicity ${count} tumors (+1)`); }
-  if (cis === 'yes')     { score += 2; factors.push('CIS present (+2)'); }
-  if (recurrence === 'recurrent') { score += 1; factors.push('Prior recurrence (+1)'); }
-
-  let group, interpretation, risk;
-  if (score <= 1) {
-    group = 'LOW RISK';
-    interpretation = 'Adjuvant mitomycin C post-TURBT. Standard follow-up.';
-    risk = 'low';
-  } else if (score <= 4) {
-    group = 'INTERMEDIATE RISK';
-    interpretation = 'Consider adjuvant BCG instillations. More frequent cystoscopies.';
-    risk = 'moderate';
-  } else {
-    group = 'HIGH RISK';
-    interpretation = 'Early cystectomy should be discussed. BCG + close surveillance or radical treatment.';
-    risk = 'high';
+    let risk, mgmt;
+    if (isCIS || (isT1 && isG3)) {
+      risk = 'Very High Risk';
+      mgmt = 'Re-TURBT within 4-6 weeks + BCG or early radical cystectomy';
+    } else if (isT1 || (isG3 && (multi || large)) || (isT1 && recur)) {
+      risk = 'High Risk';
+      mgmt = 'Re-TURBT + BCG intravesical therapy; consider cystectomy in selected cases';
+    } else if (isT1 || isG3 || multi || large || recur) {
+      risk = 'Intermediate Risk';
+      mgmt = 'Intravesical therapy (BCG or MMC); close follow-up with cystoscopy';
+    } else {
+      risk = 'Low Risk';
+      mgmt = 'TURBT alone; single post-TURBT instillation may be considered';
+    }
+    return { risk_group: risk, management: mgmt };
   }
-
-  return { score, maxScore: 9, group, interpretation, risk, factors };
-}
-
-function renderResult(result) {
-  const colorMap = { high: 'danger', moderate: 'warning', low: 'success' };
-  return `<div class="result-box ${colorMap[result.risk]}">
-    <div class="result-label">NMIBC Risk Group</div>
-    <div class="result-value">${result.group}</div>
-    <div style="font-size:0.8rem;margin:0.5rem 0;">Score: ${result.score}/9</div>
-    <p style="font-size:0.875rem;">${result.interpretation}</p>
-    <ul style="font-size:0.8rem;margin-top:0.5rem;padding-left:1.2rem;color:var(--text-muted);">
-      ${result.factors.map(f => `<li>${f}</li>`).join('')}
-    </ul>
-  </div>`;
-}
-
-export { id, name, category, tags, description, inputs, formula, howToUse, refs, calculate, renderResult };
+  if (typeof window !== 'undefined') window.__registerCalculator__(meta.id, meta, calculate);
+  if (typeof module !== 'undefined') module.exports = { meta, calculate };
+})();

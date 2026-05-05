@@ -1,166 +1,68 @@
 /**
- * CAPSRA (CAPRA-Score on Radiotherapy Approach)
- * =============================================
+ * CAPRA-S Score — Post-RP Prognostic Score
+ * EAU 2026: Sect. 6.2.5 [614]
  *
- * CLINICAL USE:
- *   CAPSRA is the post-radical prostatectomy version of the CAPRA score,
- *   adapted for patients treated with radiotherapy (± androgen deprivation).
- *   It predicts 5-year metastasis-free survival (MFS) after radiotherapy
- *   for prostate cancer.
+ * University of California, San Francisco — Cancer of the Prostate
+ * Risk Assessment (Post-Surgical).
  *
- *   CAPSRA uses:
- *   • Pre-treatment PSA
- *   • ISUP grade group (Gleason score)
- *   • T-stage
- *   • Positive cores percentage
- *   • Androgen deprivation therapy (ADT) use
+ * Components (points):
+ *   PSA:  0.2-0.49=1 | 0.5-0.99=2 | 1.0-1.99=3 | 2.0-2.99=4 | ≥3.0=5
+ *   pT:   pT2a=1 | pT2b=2 | pT3a=3 | pT3b-T4=4
+ *   Margins: positive=1 | negative=0
+ *   LNI: yes=2 | no=0
+ *   ISUP GG: GG1=0 | GG2=1 | GG3=2 | GG4=3 | GG5=3 (max)
  *
- *   Score range: 0–6 (higher = worse prognosis)
+ * Total 0-10 → Risk: ≤1 Low | 2-3 Intermediate | 4-5 High | 6-10 Very High
  *
- * REFERENCE:
- *   Dalela D, et al. "CAPSRA (CAPRA-S) Score for Radiotherapy:
- *   A Validated Men\'s Health-Oriented Tool for Predicting Oncologic Outcomes."
- *   Eur Urol 2017; 71(5):XX.
- *   https://doi.org/10.1016/j.eururo.2016.12.012
+ * EAU 2026 [614]:
+ *   15-year outcomes: 26.4% Score 3-5 (CAPRA 3-5), 2.5% Score 6-10
+ *   Pre-SRT PSA and CAPRA-S scores used for HT benefit assessment post-SRT
+ *
+ * DIY: YES — requires RP pathology report
  */
-
-const id       = 'capsra';
-const name     = 'CAPSRA (Radiotherapy Risk Score)';
-const category = 'Prostate Cancer';
-const tags     = ['radiotherapy', 'CAPRA', 'risk score', 'metastasis-free survival', 'ADT', 'prognosis'];
-const description =
-  'Predicts 5-year metastasis-free survival after radiotherapy ± ADT for prostate cancer. ' +
-  'Based on pre-treatment clinical factors.';
-
-const inputs = [
-  {
-    id: 'psa',
-    label: 'Pre-treatment PSA (ng/mL)',
-    placeholder: 'e.g. 12.5',
-    type: 'number',
-  },
-  {
-    id: 'gleason',
-    label: 'ISUP Grade Group',
-    type: 'select',
-    options: [
-      { value: '1', label: 'Grade Group 1 — Gleason ≤6' },
-      { value: '2', label: 'Grade Group 2 — Gleason 3+4=7' },
-      { value: '3', label: 'Grade Group 3 — Gleason 4+3=7' },
-      { value: '4', label: 'Grade Group 4 — Gleason 8' },
-      { value: '5', label: 'Grade Group 5 — Gleason 9–10' },
+(function() {
+  'use strict';
+  const meta = {
+    id: 'capsra',
+    name: 'CAPRA-S Score',
+    shortName: 'CAPRA-S',
+    category: 'post-rp-risk',
+    inputs: [
+      { id: 'psa',    label: 'Pre-op PSA (ng/mL)',                min: 0, step: 0.01, required: true },
+      { id: 'pt',     label: 'Pathological T stage',            type: 'select',
+        options: ['pT2a', 'pT2b', 'pT3a', 'pT3b', 'pT4'],                         required: true },
+      { id: 'margins',label: 'Positive surgical margins?',       type: 'select',
+        options: ['No', 'Yes'],                                                          required: true },
+      { id: 'lni',    label: 'Lymph node involvement?',          type: 'select',
+        options: ['No', 'Yes'],                                                          required: true },
+      { id: 'isup',   label: 'Pathological ISUP Grade Group',     min: 1, max: 5, step: 1, required: true }
     ],
-  },
-  {
-    id: 'tstage',
-    label: 'Clinical T-stage',
-    type: 'select',
-    options: [
-      { value: 'cT1', label: 'cT1a–c' },
-      { value: 'cT2a', label: 'cT2a' },
-      { value: 'cT2b', label: 'cT2b' },
-      { value: 'cT2c', label: 'cT2c' },
-      { value: 'cT3', label: 'cT3a or higher' },
+    outputs: [
+      { id: 'score',      label: 'CAPRA-S Score (0-10)' },
+      { id: 'risk_group', label: 'Risk Group' }
     ],
-  },
-  {
-    id: 'pos_pct',
-    label: '% of positive biopsy cores',
-    placeholder: 'e.g. 45',
-    type: 'number',
-  },
-  {
-    id: 'adt',
-    label: 'ADT with radiotherapy',
-    type: 'select',
-    options: [
-      { value: 'no',  label: 'RT alone (no ADT)' },
-      { value: 'yes', label: 'RT + ADT' },
-    ],
-  },
-];
+    references: [
+      'Cooperberg MR et al. J Urol 2011;185:1161-1165 — CAPRA-S',
+      'EAU 2026 Prostate Cancer Guidelines — Sect. 6.2.5 [614]'
+    ]
+  };
+  function psaPts(psa) {
+    if (psa < 0.2)  return 0;
+    if (psa < 0.5)  return 1;
+    if (psa < 1.0)  return 2;
+    if (psa < 2.0)  return 3;
+    if (psa < 3.0)  return 4;
+    return 5;
+  }
+  function ptPts(pt) { return { pT2a: 1, pT2b: 2, pT3a: 3, 'pT3b': 4, pT4: 4 }[pt] || 0; }
+  function ggPts(gg) { return Math.max(0, gg - 1); }
 
-const CAPSRA_POINTS = {
-  psa:    { '<10': 0, '10-20': 1, '>20': 2 },
-  gleason: { '1': 0, '2': 1, '3': 2, '4': 3, '5': 4 },
-  tstage:  { cT1: 0, cT2a: 0, cT2b: 1, cT2c: 1, cT3: 2 },
-  pos_pct: { '<50': 0, '≥50': 1 },
-  adt:      { no: 0, yes: 0 },  // ADT is NOT scored in CAPSRA (adjusts outcome, not score)
-};
-
-function getPsaPoints(psa) {
-  if (psa < 10) return 0;
-  if (psa <= 20) return 1;
-  return 2;
-}
-
-const formula = `CAPSRA Scoring:
-
-  PSA:             <10 ng/mL → 0    10–20 → 1    >20 → 2
-  Grade Group:     1→0  2→1  3→2  4→3  5→4
-  T-stage:         cT1→0  cT2a→0  cT2b→1  cT2c→1  cT3→2
-  % positive cores: <50% → 0    ≥50% → 1
-  (ADT: adjusts predicted MFS, not score)
-
-  Total CAPSRA = sum of points (range 0–10, but >6 grouped)
-
-5-Year Metastasis-Free Survival by Score:
-  0     → ~99%
-  1–2   → ~95%
-  3–4   → ~85%
-  5–6   → ~70%
-  >6    → ~55%
-
-Reference: Dalela D, et al. Eur Urol 2017`;
-
-const howToUse =
-  'Enter pre-treatment parameters. The score is the sum of points. ' +
-  'CAPSRA is used to counsel patients about expected outcomes with radiotherapy ± ADT. ' +
-  'Higher scores indicate lower probability of metastasis-free survival at 5 years. ' +
-  'Patients with CAPSRA ≥3 may benefit from adding ADT to radiotherapy.';
-
-const refs = [
-  {
-    text: 'Dalela D, et al. Eur Urol 2017 — CAPSRA validation',
-    url: 'https://doi.org/10.1016/j.eururo.2016.12.012',
-  },
-  {
-    text: 'CAPRA original score — Cooperberg M, et al. J Urol 2005',
-    url: 'https://pubmed.ncbi.nlm.nih.gov/15821512/',
-  },
-  {
-    text: 'EAU Guidelines — Prostate Cancer',
-    url: 'https://uroweb.org/guidelines/prostate-cancer',
-  },
-];
-
-function calculate(vals) {
-  const { psa, gleason, tstage, pos_pct } = vals;
-
-  const score = getPsaPoints(psa)
-    + parseInt(CAPSRA_POINTS.gleason[gleason])
-    + parseInt(CAPSRA_POINTS.tstage[tstage])
-    + (pos_pct >= 50 ? 1 : 0);
-
-  // Estimate 5-yr MFS based on published curves (approximate)
-  let mfsEstimate, interpretation;
-  if (score === 0)      { mfsEstimate = 99; interpretation = 'Excellent prognosis. High probability of long-term disease control.'; }
-  else if (score <= 2)  { mfsEstimate = 93; interpretation = 'Good prognosis. Most patients remain metastasis-free at 5 years.'; }
-  else if (score <= 4)  { mfsEstimate = 83; interpretation = 'Intermediate prognosis. Consider adding ADT to radiotherapy.'; }
-  else if (score <= 6)  { mfsEstimate = 68; interpretation = 'Higher risk. Combination therapy (RT+ADT) is strongly recommended.'; }
-  else                   { mfsEstimate = 52; interpretation = 'High-risk group. May require dose-escalated RT, ADT, or consider alternative treatments.'; }
-
-  return { score, maxScore: 10, mfsEstimate, interpretation, risk: score >= 5 ? 'high' : score >= 3 ? 'moderate' : 'low' };
-}
-
-function renderResult(result) {
-  const colorMap = { high: 'danger', moderate: 'warning', low: 'success' };
-  return `<div class="result-box ${colorMap[result.risk]}">
-    <div class="result-label">CAPSRA Score</div>
-    <div class="result-value">${result.score} / ${result.maxScore}</div>
-    <div style="font-size:0.85rem;margin:0.5rem 0;">Estimated 5-yr Metastasis-Free Survival: <strong>${result.mfsEstimate}%</strong></div>
-    <p style="font-size:0.875rem;">${result.interpretation}</p>
-  </div>`;
-}
-
-export { id, name, category, tags, description, inputs, formula, howToUse, refs, calculate, renderResult };
+  function calculate({ psa, pt, margins, lni, isup }) {
+    const total = psaPts(psa) + ptPts(pt) + (margins === 'Yes' ? 1 : 0) + (lni === 'Yes' ? 2 : 0) + ggPts(isup);
+    const score = Math.min(total, 10);
+    const group = score <= 1 ? 'Low' : score <= 3 ? 'Intermediate' : score <= 5 ? 'High' : 'Very High';
+    return { score, risk_group: group };
+  }
+  if (typeof window !== 'undefined') window.__registerCalculator__(meta.id, meta, calculate);
+  if (typeof module !== 'undefined') module.exports = { meta, calculate };
+})();

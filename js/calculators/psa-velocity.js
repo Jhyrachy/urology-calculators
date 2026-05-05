@@ -1,120 +1,57 @@
 /**
  * PSA Velocity (PSAV)
- * ===================
+ * EAU 2026: Sect. 6.4.3 — PSA kinetics
  *
- * CLINICAL USE:
- *   PSA velocity measures the rate of PSA increase over time (ng/mL per year).
- *   Used to assess risk of prostate cancer and its aggressiveness.
+ * Formula (simplified, 2 measurements):
+ *   PSAV = (PSA₂ − PSA₁) / Δt_years
  *
- * FORMULA:
- *   PSAV = (PSA2 - PSA1) / time × 12   [expressed as ng/mL/year]
+ * For ≥3 measurements: use least-squares regression slope.
  *
- *   For 3-measurement method:
- *   PSAV = (PSA3 - PSA1) / ((date3 - date1).days / 365.25)
+ * Thresholds:
+ *   PSAV > 2.0 ng/mL/yr before RP → worse outcomes
+ *   PSAV > 0.75 ng/mL/yr during AS → triggers re-biopsy (note: not treatment change)
+ *   EAU Movember consensus: PSAV alone should NOT change management → trigger investigation
  *
- * THRESHOLDS (D'Amico criteria):
- *   ≤ 0.35 ng/mL/yr  → low risk
- *   0.35–2.0 ng/mL/yr → intermediate
- *   > 2.0 ng/mL/yr   → high risk (associated with fatal PCa in pre-PSA era)
- *
- * REFERENCE:
- *   D'Amico AV, et al. "Prostate Specific Antigen Velocity as a Measure
- *   of the Natural History of Prostate Cancer."
- *   JAMA 2003; 289(18):2693-2704.
- *   https://doi.org/10.1001/jama.289.18.2693
+ * DIY: YES — requires ≥2 PSA measurements with dates
  */
-
-const id       = 'psa-velocity';
-const name     = 'PSA Velocity';
-const category = 'Prostate Cancer';
-const tags     = ['PSA', 'kinetics', 'risk', 'active surveillance', 'biochemical recurrence'];
-const description =
-  'Measures how fast PSA is rising over time (ng/mL per year). ' +
-  'Used for risk stratification and monitoring of active surveillance patients.';
-
-const inputs = [
-  {
-    id: 'psa1',
-    label: 'First PSA (ng/mL)',
-    placeholder: 'e.g. 2.1',
-    type: 'number',
-  },
-  {
-    id: 'psa2',
-    label: 'Second PSA (ng/mL)',
-    placeholder: 'e.g. 2.8',
-    type: 'number',
-  },
-  {
-    id: 'months',
-    label: 'Time between PSA tests (months)',
-    placeholder: 'e.g. 12',
-    type: 'number',
-  },
-];
-
-const formula = `Two-measurement PSAV:
-
-  PSAV (ng/mL/yr) = (PSA2 - PSA1) / months × 12
-
-Three-measurement method (more accurate):
-  PSAV = (PSA3 - PSA1) / years_between_first_and_third
-
-D'Amico thresholds:
-  ≤ 0.35 ng/mL/yr  → Low risk
-  0.35–2.0 ng/mL/yr → Intermediate
-  > 2.0 ng/mL/yr   → High risk — associated with higher mortality`;
-
-const howToUse =
-  'Enter two PSA values and the time between them in months. ' +
-  'For most accurate results, use ≥3 measurements over ≥12 months. ' +
-  'A PSAV >0.35 ng/mL/yr should raise suspicion even if absolute PSA is low. ' +
-  'A PSAV >2.0 ng/mL/yr is associated with higher risk of fatal prostate cancer.';
-
-const refs = [
-  {
-    text: "D'Amico AV, et al. JAMA 2003;289(18):2693-2704",
-    url: 'https://doi.org/10.1001/jama.289.18.2693',
-  },
-  {
-    text: 'PSA kinetics review — European Urology 2014',
-    url: 'https://doi.org/10.1016/j.eururo.2014.01.013',
-  },
-  {
-    text: 'EAU Guidelines — Prostate Cancer',
-    url: 'https://uroweb.org/guidelines/prostate-cancer',
-  },
-];
-
-function calculate(vals) {
-  const { psa1, psa2, months } = vals;
-  if (psa2 <= psa1) {
-    throw new Error('PSA2 must be greater than PSA1 (PSA must be rising)');
+(function() {
+  'use strict';
+  const meta = {
+    id: 'psa-velocity',
+    name: 'PSA Velocity',
+    shortName: 'PSAV',
+    category: 'kinetics',
+    inputs: [
+      { id: 'psa1',  label: 'Initial PSA (ng/mL)',        min: 0, step: 0.01, required: true },
+      { id: 'date1', label: 'Date 1 (YYYY-MM-DD)',        type: 'text',        required: true },
+      { id: 'psa2',  label: 'Follow-up PSA (ng/mL)',      min: 0, step: 0.01, required: true },
+      { id: 'date2', label: 'Date 2 (YYYY-MM-DD)',        type: 'text',        required: true }
+    ],
+    outputs: [
+      { id: 'result', label: 'PSAV (ng/mL/year)' },
+      { id: 'interpretation', label: 'Interpretation' }
+    ],
+    references: [
+      'EAU 2026 Prostate Cancer Guidelines — Sect. 6.4.3',
+      'D\'Amico AV et al. JAMA 2004 — PSAV before RP',
+      'Movember Consensus: PSAV alone should trigger investigation, not treatment'
+    ]
+  };
+  function calculate({ psa1, psa2, date1, date2 }) {
+    if (psa1 < 0 || psa2 < 0) return { error: 'Invalid PSA values' };
+    const d1 = new Date(date1), d2 = new Date(date2);
+    if (isNaN(d1) || isNaN(d2) || d2 <= d1) return { error: 'Invalid dates' };
+    const days = (d2 - d1) / (1000 * 60 * 60 * 24);
+    if (days <= 0) return { error: 'Date 2 must be after Date 1' };
+    const years = days / 365.25;
+    return { result: parseFloat(((psa2 - psa1) / years).toFixed(3)) };
   }
-  const psav = ((psa2 - psa1) / months) * 12;
-
-  let interpretation, risk;
-  if (psav <= 0.35) {
-    interpretation = 'Low PSA velocity — stable disease, low risk of aggressive cancer.';
-    risk = 'low';
-  } else if (psav <= 2.0) {
-    interpretation = 'Intermediate PSA velocity — monitor closely, consider biopsy.';
-    risk = 'moderate';
-  } else {
-    interpretation = 'High PSA velocity — associated with higher risk of fatal prostate cancer. Urgent work-up recommended.';
-    risk = 'high';
+  function interpret(result) {
+    if (result == null) return null;
+    if (result < 0.75) return `${result} ng/mL/yr — Low/acceptable velocity`;
+    if (result < 2.0) return `${result} ng/mL/yr — Moderate; close monitoring`;
+    return `${result} ng/mL/yr — High (>2.0); aggressive disease suspected`;
   }
-
-  return { value: psav, unit: 'ng/mL/yr', interpretation, risk };
-}
-
-function renderResult(result) {
-  const colorMap = { high: 'danger', moderate: 'warning', low: 'success' };
-  return `<div class="result-box ${colorMap[result.risk]}">
-    <div class="result-label">PSA Velocity</div>
-    <div class="result-value">${result.value.toFixed(2)} ${result.unit}</div>
-    <p style="margin-top:0.5rem;font-size:0.875rem;">${result.interpretation}</p>
-  </div>`;
-}
-
-export { id, name, category, tags, description, inputs, formula, howToUse, refs, calculate, renderResult };
+  if (typeof window !== 'undefined') window.__registerCalculator__(meta.id, meta, calculate, interpret);
+  if (typeof module !== 'undefined') module.exports = { meta, calculate, interpret };
+})();

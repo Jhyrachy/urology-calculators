@@ -1,122 +1,48 @@
 /**
- * PHI (Prostate Health Index)
- * ============================
+ * PHI — Prostate Health Index
+ * EAU 2026: Sect. 5.2.5 [280,281]
  *
- * CLINICAL USE:
- *   PHI is a mathematical combination of total PSA, free PSA, and [-2]proPSA.
- *   It is more specific than PSA alone for detecting prostate cancer, especially
- *   in men with PSA in the 4–10 ng/mL range and a negative DRE.
+ * Commercial serum biomarker (Beckman Coulter FDA-approved assay).
+ * NOT DIY — formula closed, requires proprietary p2PSA measurement.
  *
- * FORMULA:
- *   PHI = ([-2]proPSA / free PSA) × √PSA
- *   (some versions use: PHI = [-2]proPSA/fPSA × 1000 for integer math)
+ * Clinical use: Reduces unnecessary biopsies in men with PSA 4-10 ng/mL.
+ * EAU 2026: "Outperforms f/t PSA for csPCa detection"
+ * Threshold: PHI >25-30 associated with higher csPCa risk
  *
- * FDA-cleared thresholds:
- *   < 25   → low probability of PCa (biopsy may be avoided)
- *   25–35  → intermediate — consider other factors
- *   > 35   → higher probability of PCa — biopsy recommended
- *
- * NOTE:
- *   [-2]proPSA (p2PSA) must be measured by specific immunoassays
- *   (e.g. Beckman Coulter DxI). Not all labs offer this test.
- *
- * REFERENCE:
- *   Catalona WJ, et al. "Multicenter Evaluation of the Prostate Health Index
- *   for Detection of Prostate Cancer." J Urol 2011; 185(5):1650-1655.
- *   https://doi.org/10.1016/j.juro.2010.12.032
+ * NOT DIY: p2PSA requires Beckman Coulter Access immunoassay
  */
-
-const id       = 'phi';
-const name     = 'Prostate Health Index (PHI)';
-const category = 'Prostate Cancer';
-const tags     = ['PSA', 'biomarker', 'diagnosis', 'free PSA', 'proPSA', 'PHI'];
-const description =
-  'Combines total PSA, free PSA, and [-2]proPSA for more accurate detection ' +
-  'of prostate cancer in the 4–10 ng/mL PSA range.';
-
-const inputs = [
-  {
-    id: 'psa',
-    label: 'Total PSA (ng/mL)',
-    placeholder: 'e.g. 6.5',
-    type: 'number',
-  },
-  {
-    id: 'fpsa',
-    label: 'Free PSA (ng/mL)',
-    placeholder: 'e.g. 0.85',
-    type: 'number',
-  },
-  {
-    id: 'p2psa',
-    label: '[-2]proPSA (p2PSA) (pg/mL)',
-    placeholder: 'e.g. 18.5',
-    type: 'number',
-  },
-];
-
-const formula = `PHI Formula:
-
-  PHI = ([-2]proPSA / free PSA) × √(total PSA)
-
-  = (p2PSA / fPSA) × √PSA
-
-FDA-cleared thresholds (Beckman Coulter assay):
-  PHI < 25   → Low risk — biopsy may be avoided
-  PHI 25–35  → Intermediate — correlate with DRE and clinical context
-  PHI > 35   → High risk — biopsy recommended
-
-Reference: Catalona WJ, et al. J Urol 2011;185(5):1650-1655`;
-
-const howToUse =
-  'Requires three lab values from the same blood draw. These must be ' +
-  'measured using the Beckman Coulter immunoassay platform for valid results. ' +
-  'PHI is most useful when total PSA is between 4–10 ng/mL and DRE is negative. ' +
-  'It reduces unnecessary biopsies by ~30% compared to PSA alone.';
-
-const refs = [
-  {
-    text: 'Catalona WJ, et al. J Urol 2011;185(5):1650-1655',
-    url: 'https://doi.org/10.1016/j.juro.2010.12.032',
-  },
-  {
-    text: 'Loeb S, et al. Eur Urol 2013 — systematic review of PHI',
-    url: 'https://doi.org/10.1016/j.eururo.2013.03.004',
-  },
-  {
-    text: 'EAU Guidelines — Prostate Cancer Diagnosis',
-    url: 'https://uroweb.org/guidelines/prostate-cancer',
-  },
-];
-
-function calculate(vals) {
-  const { psa, fpsa, p2psa } = vals;
-  if (fpsa <= 0 || psa <= 0) throw new Error('PSA and fPSA must be positive');
-
-  const phi = (p2psa / fpsa) * Math.sqrt(psa);
-
-  let interpretation, risk;
-  if (phi < 25) {
-    interpretation = 'Low probability of prostate cancer. Biopsy may be avoided. Continue routine screening.';
-    risk = 'low';
-  } else if (phi <= 35) {
-    interpretation = 'Intermediate probability. Consider DRE, family history, and patient preference before biopsy.';
-    risk = 'moderate';
-  } else {
-    interpretation = 'High probability of prostate cancer. Biopsy is recommended.';
-    risk = 'high';
+(function() {
+  'use strict';
+  const meta = {
+    id: 'phi',
+    name: 'Prostate Health Index (PHI)',
+    shortName: 'PHI',
+    category: 'serum-biomarker-commercial',
+    inputs: [
+      { id: 'lab_note', label: 'Note', type: 'info',
+        value: 'Commercial lab test — enter your PHI value from the lab report. DIY formula not reproducible.' },
+      { id: 'phi_value', label: 'PHI value (from lab report)', min: 0, step: 0.1, required: false }
+    ],
+    outputs: [
+      { id: 'interpretation', label: 'Interpretation (EAU 2026)' }
+    ],
+    references: [
+      'EAU 2026 Prostate Cancer Guidelines — Sect. 5.2.5 [280,281]',
+      'Loeb S et al. Eur Urol 2015;68:464-471 — PHI meta-analysis',
+      'Beckman Coulter PHI assay — FDA-approved'
+    ],
+    isDIY: false,
+    isCommercial: true,
+    disclaimer: 'PHI is a commercial laboratory test. The p2PSA isoform measurement requires the Beckman Coulter proprietary assay and cannot be approximated. Enter the PHI value from your laboratory report.'
+  };
+  function calculate({ phi_value }) {
+    if (!phi_value || phi_value <= 0) {
+      return { interpretation: 'Enter your PHI value from the laboratory report.' };
+    }
+    if (phi_value < 25) return { interpretation: `Low-moderate risk (PHI ${phi_value}) — csPCa less likely` };
+    if (phi_value < 35) return { interpretation: `Moderate-high risk (PHI ${phi_value}) — csPCa likely; biopsy recommended` };
+    return { interpretation: `High risk (PHI ${phi_value}) — csPCa highly likely; biopsy recommended` };
   }
-
-  return { value: phi, unit: '', interpretation, risk };
-}
-
-function renderResult(result) {
-  const colorMap = { high: 'danger', moderate: 'warning', low: 'success' };
-  return `<div class="result-box ${colorMap[result.risk]}">
-    <div class="result-label">PHI Score</div>
-    <div class="result-value">${result.value.toFixed(1)}</div>
-    <p style="margin-top:0.5rem;font-size:0.875rem;">${result.interpretation}</p>
-  </div>`;
-}
-
-export { id, name, category, tags, description, inputs, formula, howToUse, refs, calculate, renderResult };
+  if (typeof window !== 'undefined') window.__registerCalculator__(meta.id, meta, calculate);
+  if (typeof module !== 'undefined') module.exports = { meta, calculate };
+})();
