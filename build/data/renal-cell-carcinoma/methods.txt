@@ -1,0 +1,92 @@
+IntroductionMethodsEpidemiology Aetiology And PathologyStaging And Classification SystemsDiagnostic EvaluationPrognostic FactorsDisease ManagementHereditary And Syndrome Specific RccFollow UpReferencesConflict Of InterestCitation InformationCopyright And Terms Of Use2. METHODS2.1. Data identificationFor the 2025 RCC Guidelines, new and relevant evidence has been identified, collated and appraised through a structured assessment of the literature. A broad and comprehensive scoping exercise covering all areas of the RCC Guidelines was carried out. Databases searched included Medline, EMBASE, and the Cochrane Libraries, covering a time frame between 1 May 2024 and 1 May 2025. Databases covered included Medline, EMBASE and the Cochrane Library. After de-duplication, a total of 1,690 unique records were identified, retrieved and screened for relevance. A search strategy is published online: https://uroweb.org/guidelines/renal-cell-carcinoma/publications-appendices.
+
+The Panels develop the recommendations within the Guidelines to prioritise clinically important care decisions. The strength of each recommendation is determined by the balance between desirable and undesirable consequences of alternative management strategies, the quality of the evidence (including certainty of estimates), and the nature and variability of patient values and preferences. This decision process, which can be reviewed in the strength rating forms which accompany each guideline statement, addresses a number of key elements:
+
+Strong recommendations typically indicate a high degree of evidence quality and/or a favourable balance of benefit to harm and patient preference. Weak recommendations typically indicate availability of lower quality evidence, and/or equivocal balance between benefit and harm, and uncertainty or variability of patient preference [2].
+
+Additional methodology information and a list of associations endorsing the EAU Guidelines can be found online: https://uroweb.org/eau-guidelines/methodology-policies.
+
+All publications ensuing from systematic reviews (SR)s have been peer-reviewed. The 2025 print of the RCC Guidelines was also peer-reviewed prior to publication.
+
+The RCC Guideline Panel supports the focus on patient-reported outcomes, as well as the development of clinical quality indicators [3]. The Panel identified potential quality indicators that may help assessing quality of care:
+
+The Panel have set up a database to investigate current practice in follow-up of RCC patients in a number of European centres. Assessing patterns of recurrence and use of imaging techniques are primary outcomes for this project.
+
+In addition, the panel has collected data from various European datasets on atypical recurrences following minimally invasive renal surgery to establish incidence and insight on potential causes, their management and outcome.
+
+Additionally, a registry for Bosniak III-IV cysts has been established to investigate if diameter of the cyst or nodule is leading in clinical management. An SR as preparatory step has been published [4].
+
+The panel plan to perform a survey investigating the decision factors and the rate of urologists performing NSS in patients with T1a N0M0.
+
+The results of ongoing and new SRs will be included in future updates of the RCC Guidelines:
+
+  • Epidemiology Aetiology And Pathology
+
+  • Staging And Classification Systems
+
+  • Diagnostic Evaluation
+
+  • Prognostic Factors
+
+  • Disease Management
+
+  • Hereditary And Syndrome Specific Rcc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Epidemiology Aetiology And Pathology
+
+  • Staging And Classification Systems
+
+  • Diagnostic Evaluation
+
+  • Prognostic Factors
+
+  • Disease Management
+
+  • Hereditary And Syndrome Specific Rcc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • the overall quality of the evidence which exists for the recommendation [1];
+
+  • the magnitude of the effect (individual or combined effects);
+
+  • the certainty of the results (precision, consistency, heterogeneity and other statistical or study related factors);
+
+  • the balance between desirable and undesirable outcomes; and
+
+  • the impact and certainty of patient values and preferences on the intervention.
+
+  • the proportion of patients undergoing thorax computed tomography (CT) for staging of pulmonary metastasis;
+
+  • proportion of patients with T1aN0M0 tumours undergoing nephron-sparing surgery (NSS) as first treatment;
+
+  • the proportion of patients with metastatic RCC (mRCC) offered systemic therapy; and
+
+  • the proportion of patients who undergo minimally invasive or operative treatment as first treatment who die within 30 days.
+
+  • Systematic review of the treatment modalities in Oligometastatic RCC with and without systemic therapy.
+
+
+## 2. METHODS
+
+
+
+## 2.1. Data identification
+
+
+
+## 2.2. Review
+
+
+
+## 2.3. Future goals

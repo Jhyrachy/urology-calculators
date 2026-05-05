@@ -1,0 +1,66 @@
+IntroductionMethodsEpidemiology Aetiology And PathologyStaging And Classification SystemsDiagnostic EvaluationPrognostic FactorsDisease ManagementHereditary And Syndrome Specific RccFollow UpReferencesConflict Of InterestCitation InformationCopyright And Terms Of Use4. STAGING AND CLASSIFICATION SYSTEMS4.1. StagingThe Tumour Node Metastasis (TNM) classification system is recommended for clinical and scientific use [90]. Tumour size, venous invasion, renal capsular invasion, adrenal involvement, LN and distant metastasis are included in the TNM classification system (Table 4.1). However, some uncertainties remain:
+
+The TNM classification should not be considered the only criterion for clinical decision-making, but patient’s condition, comorbidities and wishes are of fundamental importance to select the most optimal treatment. The EAU panel proposed a clinically guided RCC staging classification in 2022, based on changes observed in the management of small renal masses (SRM) and locally advanced and metastatic disease [91]. A proposed imaging analysis of Tumour Contour Irregularity might be a valuable tool to enhance the preoperative staging between T1 and T3a RCCs for treatment decisions [100], as well.
+
+Table 4.1: 2017 TNM classification system [101]
+
+A help desk for specific questions about TNM classification is available at http://www.uicc.org/tnm.*Adapted based on the American Joint Committee on Cancer (AJCC), 8th Edn. 2017 [94].
+
+Objective anatomic classification systems, such as the Preoperative Aspects and Dimensions Used for an Anatomical (PADUA) classification system, the SPARE score [103] the R.E.N.A.L. nephrometry score, the C-index, the Arterial Based Complexity (ABC) Scoring System, DAP score [104], and the Zonal NePhRO scoring system, have been proposed to standardise the description of renal tumours [105-107], while other tools such as the MAP score [108] assess adherent perinephric fat and predict the risk of intra- and postoperative complications during partial nephrectomy. These systems include assessment of tumour size, exophytic/endophytic properties, proximity to the collecting system and renal sinus, and anterior/posterior or lower/upper pole location. Increasing tumour shape irregularity on imaging is associated with an increased risk of pT3a upgrading and grade 3-4 disease, but the positive margin rate was similar [109]. In a head-to-head comparison of all the available anatomical classification systems [110], a dedicated uroradiologist prospectively reviewed preoperative CT scan to assign points to variables of interest included in RENAL, PADUA, SPARE, C-Index, DAP and MAP score in 202 RCC surgical candidates. The primary outcome was surgical success, defined as PN completion, absence of grade > II Clavien-Dindo complications, ischemia time ≤ 20min., and negative surgical margins. The secondary outcome was PN completion relative to RN. At multivariable analyses, all the scores, scores independently predicted both outcomes (p < 0.001). However, the highest predictive accuracy for surgical success and PN completion was recorded for SPARE (AUC: 0.79 and 0.89) [110].
+
+The use of those anatomic classification systems is helpful. The systems allow a standardised preoperative assessment, surgical decision support, perioperative risk prediction, patient counselling and outcome comparison across centres, as well as objective prediction of potential morbidity of NSS and tumour ablation techniques. However, when selecting the most optimal treatment option, anatomic scores must be considered together with patient features and surgeon experience.
+
+  • Epidemiology Aetiology And Pathology
+
+  • Staging And Classification Systems
+
+  • Diagnostic Evaluation
+
+  • Prognostic Factors
+
+  • Disease Management
+
+  • Hereditary And Syndrome Specific Rcc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Epidemiology Aetiology And Pathology
+
+  • Staging And Classification Systems
+
+  • Diagnostic Evaluation
+
+  • Prognostic Factors
+
+  • Disease Management
+
+  • Hereditary And Syndrome Specific Rcc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • The sub-classification of T1a versus T1b tumours using a cut-off of 4cm might not be optimal in NSS for localised cancer [91]. A cut-off of 3cm has been proposed, particularly for its implications for decision-making [91].
+
+  • The value of size stratification of T2 tumours has been questioned [92], as well.
+
+  • Renal sinus fat invasion might carry a worse prognosis than perinephric fat invasion but is nevertheless included in the same pT3a stage group [93-96] (LE: 3).
+
+  • Sub T-stages (pT2b, pT3a, pT3c and pT4) may overlap [97]:- N status should be better stratified to discriminate by burden of lymph node involvement (size, number and morphology) with a view to considering extensive local regional lymph node disease as an M status.- M status would require sub stratification according to the metastatic burden. For adequate M staging, accurate preoperative imaging (chest and abdominal CT) should be performed [98,99] (LE: 4).
+
+
+## 4. STAGING AND CLASSIFICATION SYSTEMS
+
+
+
+## 4.1. Staging
+
+
+
+## 4.2. Anatomic classification systems

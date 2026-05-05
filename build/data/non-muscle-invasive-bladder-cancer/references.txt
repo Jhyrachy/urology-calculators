@@ -1,0 +1,1120 @@
+IntroductionMethodsEpidemiology And AetiologyPathological Staging, Grading And Classification SystemsDiagnosisPredicting Disease Recurrence And ProgressionDisease ManagementFollow-up Of Patients With NmibcPatient Reported Outcome Measures And Quality Indicators For NmibcPragmatic Deintensification Strategy In NmibcReferencesConflict Of InterestCitation InformationCopyright And Terms Of Use11. REFERENCES1.Masson-Lecomte, A., et al. EAU Guidelines on Urothelial Carcinomas of the Upper Urinary Tract. 2026. Edn. presented at the 41st EAU Annual Congress London 2026. https://uroweb.org/guidelines/upper-urinary-tract-urothelial-cell-carcinoma
+
+2.van der Heijden, A.G., et al. EAU Guidelines on Muscle-invasive and Metastatic Bladder Cancer. 2026. Edn. presented at the 41st EAU Annual Congress London 2026. https://uroweb.org/guidelines/muscle-invasive-and-metastatic-bladder-cancer
+
+3.Neuzillet, Y., et al. EAU Guidelines on Primary Urethral Carcinoma. 2026. Edn. presented at the 41st EAU Annual Congress London 2026. https://uroweb.org/guidelines/primary-urethral-carcinoma
+
+4.Phillips, B. Oxford Centre for Evidence-based Medicine Levels of Evidence. Updated by Jeremy Howick March 2009. https://www.cebm.net/2009/06/oxford-centre-evidence-based-medicine-levels-evidencemarch-2009/
+
+5.Guyatt, G.H., et al. Going from evidence to recommendations. BMJ, 2008. 336: 1049. https://www.ncbi.nlm.nih.gov/pubmed/18467413
+
+6.International Agency for Research on Cancer. Estimated number of new cases in 2022, worldwide, both sexes, all ages. World Health Organization. 2022. https://gco.iarc.fr/today/en/fact-sheets-cancers
+
+7.Burger, M., et al. Epidemiology and risk factors of urothelial bladder cancer. Eur Urol, 2013. 63: 234. https://www.ncbi.nlm.nih.gov/pubmed/22877502
+
+8.Teoh, J.Y., et al. Global Trends of Bladder Cancer Incidence and Mortality, and Their Associations with Tobacco Use and Gross Domestic Product Per Capita. Eur Urol, 2020. 78: 893. https://www.ncbi.nlm.nih.gov/pubmed/32972792
+
+9.Comperat, E., et al. Clinicopathological characteristics of urothelial bladder cancer in patients less than 40 years old. Virchows Arch, 2015. 466: 589. https://www.ncbi.nlm.nih.gov/pubmed/25697540
+
+10.Freedman, N.D., et al. Association between smoking and risk of bladder cancer among men and women. JAMA, 2011. 306: 737. https://www.ncbi.nlm.nih.gov/pubmed/21846855
+
+11.Laaksonen, M.A., et al. The future burden of kidney and bladder cancers preventable by behavior modification in Australia: A pooled cohort study. Int J Cancer, 2020. 146: 874. https://www.ncbi.nlm.nih.gov/pubmed/31107541
+
+12.Jubber, I., et al. Epidemiology of Bladder Cancer in 2023: A Systematic Review of Risk Factors. Eur Urol, 2023. 84: 176. https://www.ncbi.nlm.nih.gov/pubmed/37198015
+
+13.van Osch, F.H., et al. Quantified relations between exposure to tobacco smoking and bladder cancer risk: a meta-analysis of 89 observational studies. Int J Epidemiol, 2016. 45: 857. https://www.ncbi.nlm.nih.gov/pubmed/27097748
+
+14.Bjurlin, M.A., et al. Carcinogen Biomarkers in the Urine of Electronic Cigarette Users and Implications for the Development of Bladder Cancer: A Systematic Review. Eur Urol Oncol, 2021. 4: 766. https://www.ncbi.nlm.nih.gov/pubmed/32192941
+
+15.Larsson, S.C., et al. Genome-wide association study and Mendelian randomization analyses reveal insights into bladder cancer etiology. JNCI Cancer Spectr, 2025. 9. https://www.ncbi.nlm.nih.gov/pubmed/39898788
+
+16.Colt, J.S., et al. A case-control study of occupational exposure to metalworking fluids and bladder cancer risk among men. Occup Environ Med, 2014. 71: 667. https://www.ncbi.nlm.nih.gov/pubmed/25201311
+
+17.Pesch, B., et al. Screening for bladder cancer with urinary tumor markers in chemical workers with exposure to aromatic amines. Int Arch Occup Environ Health, 2014. 87: 715. https://www.ncbi.nlm.nih.gov/pubmed/24129706
+
+18.Koutros, S., et al. Diesel exhaust and bladder cancer risk by pathologic stage and grade subtypes. Environ Int, 2020. 135: 105346. https://www.ncbi.nlm.nih.gov/pubmed/31864026
+
+19.Kayyal-Tarabeia, I., et al. Residence near industrial complex and cancer incidence: A registry-based cohort of 1,022,637 participants with a follow-up of 21 years, Israel. Environ Res, 2023. 216: 114471. https://www.ncbi.nlm.nih.gov/pubmed/36208787
+
+20.Egbers, L., et al. The prognostic value of family history among patients with urinary bladder cancer. Int J Cancer, 2015. 136: 1117. https://www.ncbi.nlm.nih.gov/pubmed/24978702
+
+21.Kim, H.J., et al. Familial Risk and Interaction With Smoking and Alcohol Consumption in Bladder Cancer: A Population-Based Cohort Study. World J Oncol, 2023. 14: 382. https://www.ncbi.nlm.nih.gov/pubmed/37869241
+
+22.van der Post, R.S., et al. Risk of urothelial bladder cancer in Lynch syndrome is increased, in particular among MSH2 mutation carriers. J Med Genet, 2010. 47: 464. https://www.ncbi.nlm.nih.gov/pubmed/20591884
+
+23.Corral, R., et al. Comprehensive analyses of DNA repair pathways, smoking and bladder cancer risk in Los Angeles and Shanghai. Int J Cancer, 2014. 135: 335. https://www.ncbi.nlm.nih.gov/pubmed/24382701
+
+24.Figueroa, J.D., et al. Identification of a novel susceptibility locus at 13q34 and refinement of the 20p12.2 region as a multi-signal locus associated with bladder cancer risk in individuals of European ancestry. Hum Mol Genet, 2016. 25: 1203. https://www.ncbi.nlm.nih.gov/pubmed/26732427
+
+25.Zhong, J.H., et al. Association between APE1 Asp148Glu polymorphism and the risk of urinary cancers: a meta-analysis of 18 case-control studies. Onco Targets Ther, 2016. 9: 1499. https://www.ncbi.nlm.nih.gov/pubmed/27042118
+
+26.Al-Zalabani, A.H., et al. Modifiable risk factors for the prevention of bladder cancer: a systematic review of meta-analyses. Eur J Epidemiol, 2016. 31: 811. https://www.ncbi.nlm.nih.gov/pubmed/27000312
+
+27.Wu, J., et al. A Functional rs353293 Polymorphism in the Promoter of miR-143/145 Is Associated with a Reduced Risk of Bladder Cancer. PLoS One, 2016. 11: e0159115. https://www.ncbi.nlm.nih.gov/pubmed/27438131
+
+28.Martin, C., et al. Familial Cancer Clustering in Urothelial Cancer: A Population-Based Case-Control Study. J Natl Cancer Inst, 2018. 110: 527. https://www.ncbi.nlm.nih.gov/pubmed/29228305
+
+29.Yu, E.Y., et al. Family History and Risk of Bladder Cancer: An Analysis Accounting for First- and Second-degree Relatives. Cancer Prev Res (Phila), 2022. 15: 319. https://www.ncbi.nlm.nih.gov/pubmed/35027464
+
+30.Lenfant, L., et al. Genetic variability in 13q33 and 9q34 is linked to aggressiveness patterns and a higher risk of progression of non-muscle-invasive bladder cancer at the time of diagnosis. BJU Int, 2021. 127: 375. https://www.ncbi.nlm.nih.gov/pubmed/32975901
+
+31.Rossi, M., et al. Flavonoids and bladder cancer risk. Cancer Causes Control, 2019. 30: 527. https://www.ncbi.nlm.nih.gov/pubmed/30903485
+
+32.Buckland, G., et al. Adherence to the Mediterranean diet and risk of bladder cancer in the EPIC cohort study. Int J Cancer, 2014. 134: 2504. https://www.ncbi.nlm.nih.gov/pubmed/24226765
+
+33.Liu, H., et al. Fruit and vegetable consumption and risk of bladder cancer: an updated meta-analysis of observational studies. Eur J Cancer Prev, 2015. 24: 508. https://www.ncbi.nlm.nih.gov/pubmed/25642791
+
+34.Vieira, A.R., et al. Fruits, vegetables, and bladder cancer risk: a systematic review and meta-analysis. Cancer Med, 2015. 4: 136. https://www.ncbi.nlm.nih.gov/pubmed/25461441
+
+35.Zhao, L., et al. Association of body mass index with bladder cancer risk: a dose-response meta-analysis of prospective cohort studies. Oncotarget, 2017. 8: 33990. https://www.ncbi.nlm.nih.gov/pubmed/28389625
+
+36.Witlox, W.J.A., et al. An inverse association between the Mediterranean diet and bladder cancer risk: a pooled analysis of 13 cohort studies. Eur J Nutr, 2020. 59: 287. https://www.ncbi.nlm.nih.gov/pubmed/30737562
+
+37.Dianatinasab, M., et al. Dietary fats and their sources in association with the risk of bladder cancer: A pooled analysis of 11 prospective cohort studies. Int J Cancer, 2022. 151: 44. https://www.ncbi.nlm.nih.gov/pubmed/35182086
+
+38.Dianatinasab, M., et al. The association between meat and fish consumption and bladder cancer risk: a pooled analysis of 11 cohort studies. Eur J Epidemiol, 2021. 36: 781. https://www.ncbi.nlm.nih.gov/pubmed/34036467
+
+39.Jochems, S.H.J., et al. Fruit consumption and the risk of bladder cancer: A pooled analysis by the Bladder Cancer Epidemiology and Nutritional Determinants Study. Int J Cancer, 2020. 147: 2091. https://www.ncbi.nlm.nih.gov/pubmed/32285440
+
+40.Boot, I.W.A., et al. Dietary B group vitamin intake and the bladder cancer risk: a pooled analysis of prospective cohort studies. Eur J Nutr, 2022. 61: 2397. https://www.ncbi.nlm.nih.gov/pubmed/35129646
+
+41.Kang, M., et al. Diet Quality and Risk of Bladder Cancer in the Multiethnic Cohort Study. Nutrients, 2024. 16. https://www.ncbi.nlm.nih.gov/pubmed/38931318
+
+42.Al-Zalabani, A.H., et al. Tea consumption and risk of bladder cancer in the Bladder Cancer Epidemiology and Nutritional Determinants (BLEND) Study: Pooled analysis of 12 international cohort studies. Clin Nutr, 2022. 41: 1122. https://www.ncbi.nlm.nih.gov/pubmed/35413574
+
+43.Bryan, R.T., et al. Selenium and Vitamin E for Prevention of Non-Muscle-Invasive Bladder Cancer Recurrence and Progression: A Randomized Clinical Trial. JAMA Netw Open, 2023. 6: e2337494. https://www.ncbi.nlm.nih.gov/pubmed/37847504
+
+44.Wang, Z., et al. Associations of dietary isothiocyanate exposure from cruciferous vegetable consumption with recurrence and progression of non-muscle-invasive bladder cancer: findings from the Be-Well Study. Am J Clin Nutr, 2023. 117: 1110. https://www.ncbi.nlm.nih.gov/pubmed/37044209
+
+45.Helte, E., et al. Exposure to Drinking Water Trihalomethanes and Risk of Cancer: A Systematic Review of the Epidemiologic Evidence and Dose-Response Meta-Analysis. Environ Health Perspect, 2025. 133: 16001. https://www.ncbi.nlm.nih.gov/pubmed/39837568
+
+46.Steinmaus, C., et al. Increased lung and bladder cancer incidence in adults after in utero and early-life arsenic exposure. Cancer Epidemiol Biomarkers Prev, 2014. 23: 1529. https://www.ncbi.nlm.nih.gov/pubmed/24859871
+
+47.Koutros, S., et al. Potential effect modifiers of the arsenic-bladder cancer risk relationship. Int J Cancer, 2018. 143: 2640. https://www.ncbi.nlm.nih.gov/pubmed/29981168
+
+48.Arafa, A., et al. Chronic exposure to nitrate in drinking water and the risk of bladder cancer: a meta-analysis of epidemiological evidence. Public Health, 2022. 203: 123. https://www.ncbi.nlm.nih.gov/pubmed/35063929
+
+49.Zhang, Y., et al. Personal use of permanent hair dyes and cancer risk and mortality in US women: prospective cohort study. BMJ, 2020. 370: m2942. https://www.ncbi.nlm.nih.gov/pubmed/32878860
+
+50.Moschini, M., et al. External Beam Radiotherapy Increases the Risk of Bladder Cancer When Compared with Radical Prostatectomy in Patients Affected by Prostate Cancer: A Population-based Analysis. Eur Urol, 2019. 75: 319. https://www.ncbi.nlm.nih.gov/pubmed/30293908
+
+51.Minami, T., et al. External beam radiotherapy combination is a risk factor for bladder cancer in patients with prostate cancer treated with brachytherapy. World J Urol, 2023. 41: 1317. https://www.ncbi.nlm.nih.gov/pubmed/37024557
+
+52.Teleka, S., et al. Risk of bladder cancer by disease severity in relation to metabolic factors and smoking: A prospective pooled cohort study of 800,000 men and women. Int J Cancer, 2018. 143: 3071. https://www.ncbi.nlm.nih.gov/pubmed/29756343
+
+53.Hektoen, H.H., et al. Vitamin D and Vitamin D-binding protein and risk of bladder cancer: A nested case-control study in the Norwegian Janus Serum Bank Cohort. Cancer Med, 2021. 10: 4107. https://www.ncbi.nlm.nih.gov/pubmed/34080787
+
+54.An, H., et al. Physical Activity and Bladder Cancer Risk: Findings of the Japan Collaborative Cohort Study. Cancer Res Treat, 2024. 56: 616. https://www.ncbi.nlm.nih.gov/pubmed/37817564
+
+55.Tuccori, M., et al. Pioglitazone use and risk of bladder cancer: population based cohort study. BMJ, 2016. 352: i1541. https://www.ncbi.nlm.nih.gov/pubmed/27029385
+
+56.Otto, W., et al. WHO 1973 grade 3 and infiltrative growth pattern proved, aberrant E-cadherin expression tends to be of predictive value for progression in a series of stage T1 high-grade bladder cancer after organ-sparing approach. Int Urol Nephrol, 2017. 49: 431. https://www.ncbi.nlm.nih.gov/pubmed/28035618
+
+57.Brierley, J.D., et al. TNM Classification of Malignant Tumours, 9th Edition. 2026. https://www.uicc.org/news-and-updates/25-7-announcements/9th-edition-uicc-tnm-classification-malignant-tumours-now-available
+
+58.van Rhijn, B.W., et al. A new and highly prognostic system to discern T1 bladder cancer substage. Eur Urol, 2012. 61: 378. https://www.ncbi.nlm.nih.gov/pubmed/22036775
+
+59.Comperat, E., et al. What’s new in WHO fifth edition - urinary tract. Histopathology, 2022. 81: 439. https://www.ncbi.nlm.nih.gov/pubmed/35942645
+
+60.WHO Classification of Tumours Editorial Board. WHO Classification of Tumours. Urinary and male genital tumours. International Agency for Research on Cancer 5th Edn.; Vol 8. 2022. https://publications.iarc.fr/610
+
+61.Moch, H., et al. WHO Classification of Tumours of the Urinary System and Male Genital Organs. International Agency for Research on Cancer 4th Edn. 2016.https://www.iarc.who.int/
+
+62.Comperat, E., et al. The Genitourinary Pathology Society Update on Classification of Variant Histologies, T1 Substaging, Molecular Taxonomy, and Immunotherapy and PD-L1 Testing Implications of Urothelial Cancers. Adv Anat Pathol, 2021. 28: 196. https://www.ncbi.nlm.nih.gov/pubmed/34128484
+
+63.Kim, H.S., et al. Presence of lymphovascular invasion in urothelial bladder cancer specimens after transurethral resections correlates with risk of upstaging and survival: a systematic review and meta-analysis. Urol Oncol, 2014. 32: 1191. https://www.ncbi.nlm.nih.gov/pubmed/24954108
+
+64.Tilki, D., et al. Lymphovascular invasion is independently associated with bladder cancer recurrence and survival in patients with final stage T1 disease and negative lymph nodes after radical cystectomy. BJU Int, 2013. 111: 1215. https://www.ncbi.nlm.nih.gov/pubmed/23181623
+
+65.Martin-Doyle, W., et al. Improving selection criteria for early cystectomy in high-grade t1 bladder cancer: a meta-analysis of 15,215 patients. J Clin Oncol, 2015. 33: 643. https://www.ncbi.nlm.nih.gov/pubmed/25559810
+
+66.Mari, A., et al. A systematic review and meta-analysis of the impact of lymphovascular invasion in bladder cancer transurethral resection specimens. BJU Int, 2019. 123: 11. https://www.ncbi.nlm.nih.gov/pubmed/29807387
+
+67.D’Andrea, D., et al. Accurate prediction of progression to muscle-invasive disease in patients with pT1G3 bladder cancer: A clinical decision-making tool. Urol Oncol, 2018. 36: 239 e1. https://www.ncbi.nlm.nih.gov/pubmed/29506941
+
+68.Sauter G, A.F., Amin M, et al. Tumours of the urinary system: non-invasive urothelial neoplasias. In: WHO classification of classification of tumours of the urinary system and male genital organs. IARCC Press, 2004: 29.https://publications.iarc.who.int/Book-And-Report-Series/Who-Classification-Of-Tumours/Pathology-And-Genetics-Of-Tumours-Of-The-Urinary-System-And-Male-Genital-Organs-2004
+
+69.Soukup, V., et al. Prognostic Performance and Reproducibility of the 1973 and 2004/2016 World Health Organization Grading Classification Systems in Non-muscle-invasive Bladder Cancer: A European Association of Urology Non-muscle Invasive Bladder Cancer Guidelines Panel Systematic Review. Eur Urol, 2017. 72: 801. https://www.ncbi.nlm.nih.gov/pubmed/28457661
+
+70.Mariappan, P., et al. Combining two grading systems: the clinical validity and inter-observer variability of the 1973 and 2004 WHO bladder cancer classification systems assessed in a UK cohort with 15 years of prospective follow-up. World J Urol, 2021. 39: 425. https://www.ncbi.nlm.nih.gov/pubmed/32266509
+
+71.Hentschel, A.E., et al. Papillary urothelial neoplasm of low malignant potential (PUN-LMP): Still a meaningful histo-pathological grade category for Ta, noninvasive bladder tumors in 2019? Urol Oncol, 2020. 38: 440. https://www.ncbi.nlm.nih.gov/pubmed/31704141
+
+72.Beijert, I.J., et al. The Importance of Being Grade 3: A Plea for a Three-tier Hybrid Classification System for Grade in Primary Non-muscle-invasive Bladder Cancer. Eur Urol, 2024. 86: 391. https://www.ncbi.nlm.nih.gov/pubmed/39209674
+
+73.Ferro, M., et al. Enhanced prognostic value of four-tier hybrid grading system in Ta non-muscle-invasive bladder cancer. BJU Int, 2025. https://www.ncbi.nlm.nih.gov/pubmed/40557582
+
+74.van Rhijn, B.W.G., et al. Prognostic Value of the WHO1973 and WHO2004/2016 Classification Systems for Grade in Primary Ta/T1 Non-muscle-invasive Bladder Cancer: A Multicenter European Association of Urology Non-muscle-invasive Bladder Cancer Guidelines Panel Study. Eur Urol Oncol, 2021. 4: 182. https://www.ncbi.nlm.nih.gov/pubmed/33423944
+
+75.Andersson, M., et al. The diagnostic challenge of suspicious or positive malignant urine cytology findings when cystoscopy findings are normal: an outpatient blue-light flexible cystoscopy may solve the problem. Scand J Urol, 2021. 55: 263. https://www.ncbi.nlm.nih.gov/pubmed/34037496
+
+76.Lamm, D., et al. Updated concepts and treatment of carcinoma in situ. Urol Oncol, 1998. 4: 130. https://www.ncbi.nlm.nih.gov/pubmed/21227218
+
+77.Witjes, J.A., et al. Review pathology in a diagnostic bladder cancer trial: effect of patient risk category. Urology, 2006. 67: 751. https://www.ncbi.nlm.nih.gov/pubmed/16566990
+
+78.May, M., et al. Prognostic accuracy of individual uropathologists in noninvasive urinary bladder carcinoma: a multicentre study comparing the 1973 and 2004 World Health Organisation classifications. Eur Urol, 2010. 57: 850. https://www.ncbi.nlm.nih.gov/pubmed/19346063
+
+79.van Rhijn, B.W., et al. Pathological stage review is indicated in primary pT1 bladder cancer. BJU Int, 2010. 106: 206. https://www.ncbi.nlm.nih.gov/pubmed/20002439
+
+80.Comperat, E., et al. An interobserver reproducibility study on invasiveness of bladder cancer using virtual microscopy and heatmaps. Histopathology, 2013. 63: 756. https://www.ncbi.nlm.nih.gov/pubmed/24102813
+
+81.Mangrud, O.M., et al. Reproducibility and prognostic value of WHO1973 and WHO2004 grading systems in TaT1 urothelial carcinoma of the urinary bladder. PLoS One, 2014. 9: e83192. https://www.ncbi.nlm.nih.gov/pubmed/24409280
+
+82.Veskimae, E., et al. What Is the Prognostic and Clinical Importance of Urothelial and Nonurothelial Histological Variants of Bladder Cancer in Predicting Oncological Outcomes in Patients with Muscle-invasive and Metastatic Bladder Cancer? A European Association of Urology Muscle Invasive and Metastatic Bladder Cancer Guidelines Panel Systematic Review. Eur Urol Oncol, 2019. 2: 625. https://www.ncbi.nlm.nih.gov/pubmed/31601522
+
+83.Comperat, E.M., et al. Grading of Urothelial Carcinoma and The New “World Health Organisation Classification of Tumours of the Urinary System and Male Genital Organs 2016”. Eur Urol Focus, 2019. 5: 457. https://www.ncbi.nlm.nih.gov/pubmed/29366854
+
+84.Lonati, C., et al. Accuracy of Transurethral Resection of the Bladder in Detecting Variant Histology of Bladder Cancer Compared with Radical Cystectomy. Eur Urol Focus, 2022. 8: 457. https://www.ncbi.nlm.nih.gov/pubmed/33867307
+
+85.Willis, D.L., et al. Clinical outcomes of cT1 micropapillary bladder cancer. J Urol, 2015. 193: 1129. https://www.ncbi.nlm.nih.gov/pubmed/25254936
+
+86.Comperat, E., et al. Micropapillary urothelial carcinoma of the urinary bladder: a clinicopathological analysis of 72 cases. Pathology, 2010. 42: 650. https://www.ncbi.nlm.nih.gov/pubmed/21080874
+
+87.Kaimakliotis, H.Z., et al. Plasmacytoid variant urothelial bladder cancer: is it time to update the treatment paradigm? Urol Oncol, 2014. 32: 833. https://www.ncbi.nlm.nih.gov/pubmed/24954925
+
+88.Willis, D.L., et al. Micropapillary bladder cancer: current treatment patterns and review of the literature. Urol Oncol, 2014. 32: 826. https://www.ncbi.nlm.nih.gov/pubmed/24931270
+
+89.Beltran, A.L., et al. Clinicopathological characteristics and outcome of nested carcinoma of the urinary bladder. Virchows Arch, 2014. 465: 199. https://www.ncbi.nlm.nih.gov/pubmed/24878757
+
+90.Soave, A., et al. Does the extent of variant histology affect oncological outcomes in patients with urothelial carcinoma of the bladder treated with radical cystectomy? Urol Oncol, 2015. 33: 21 e1. https://www.ncbi.nlm.nih.gov/pubmed/25465301
+
+91.Masson-Lecomte, A., et al. Oncological outcomes of advanced muscle-invasive bladder cancer with a micropapillary variant after radical cystectomy and adjuvant platinum-based chemotherapy. World J Urol, 2015. 33: 1087. https://www.ncbi.nlm.nih.gov/pubmed/25179011
+
+92.Seisen, T., et al. Impact of histological variants on the outcomes of nonmuscle invasive bladder cancer after transurethral resection. Curr Opin Urol, 2014. 24: 524. https://www.ncbi.nlm.nih.gov/pubmed/25051021
+
+93.Burger, M., et al. Prediction of progression of non-muscle-invasive bladder cancer by WHO 1973 and 2004 grading and by FGFR3 mutation status: a prospective study. Eur Urol, 2008. 54: 835. https://www.ncbi.nlm.nih.gov/pubmed/18166262
+
+94.Fristrup, N., et al. Cathepsin E, maspin, Plk1, and survivin are promising prognostic protein markers for progression in non-muscle invasive bladder cancer. Am J Pathol, 2012. 180: 1824. https://www.ncbi.nlm.nih.gov/pubmed/22449953
+
+95.Palou, J., et al. Protein expression patterns of ezrin are predictors of progression in T1G3 bladder tumours treated with nonmaintenance bacillus Calmette-Guerin. Eur Urol, 2009. 56: 829. https://www.ncbi.nlm.nih.gov/pubmed/18926620
+
+96.van Rhijn, B.W., et al. The FGFR3 mutation is related to favorable pT1 bladder cancer. J Urol, 2012. 187: 310. https://www.ncbi.nlm.nih.gov/pubmed/22099989
+
+97.Remy, E., et al. A Modeling Approach to Explain Mutually Exclusive and Co-Occurring Genetic Alterations in Bladder Tumorigenesis. Cancer Res, 2015. 75: 4042. https://www.ncbi.nlm.nih.gov/pubmed/26238783
+
+98.Dyrskjot, L., et al. Prognostic Impact of a 12-gene Progression Score in Non-muscle-invasive Bladder Cancer: A Prospective Multicentre Validation Study. Eur Urol, 2017. 72: 461. https://www.ncbi.nlm.nih.gov/pubmed/28583312
+
+99.Marzouka, N.A., et al. The Lund Molecular Taxonomy Applied to Non-Muscle-Invasive Urothelial Carcinoma. J Mol Diagn, 2022. 24: 992. https://www.ncbi.nlm.nih.gov/pubmed/35853574
+
+100.Ramirez, D., et al. Microscopic haematuria at time of diagnosis is associated with lower disease stage in patients with newly diagnosed bladder cancer. BJU Int, 2016. 117: 783. https://www.ncbi.nlm.nih.gov/pubmed/26435378
+
+101.Trinh, T.W., et al. Bladder cancer diagnosis with CT urography: test characteristics and reasons for false-positive and false-negative results. Abdom Radiol (NY), 2018. 43: 663. https://www.ncbi.nlm.nih.gov/pubmed/28677000
+
+102.Waisbrod, S., et al. Assessment of Diagnostic Yield of Cystoscopy and Computed Tomographic Urography for Urinary Tract Cancers in Patients Evaluated for Microhematuria: A Systematic Review and Meta-analysis. JAMA Netw Open, 2021. 4: e218409. https://www.ncbi.nlm.nih.gov/pubmed/33970257
+
+103.Nolte-Ernsting, C., et al. Understanding multislice CT urography techniques: Many roads lead to Rome. Eur Radiol, 2006. 16: 2670. https://www.ncbi.nlm.nih.gov/pubmed/16953373
+
+104.Goessl, C., et al. Is routine excretory urography necessary at first diagnosis of bladder cancer? J Urol, 1997. 157: 480. https://www.ncbi.nlm.nih.gov/pubmed/8996338
+
+105.Palou, J., et al. Multivariate analysis of clinical parameters of synchronous primary superficial bladder cancer and upper urinary tract tumor. J Urol, 2005. 174: 859. https://www.ncbi.nlm.nih.gov/pubmed/16093970
+
+106.Holmang, S., et al. Long-term followup of a bladder carcinoma cohort: routine followup urography is not necessary. J Urol, 1998. 160: 45. https://www.ncbi.nlm.nih.gov/pubmed/9628602
+
+107.Millan-Rodriguez, F., et al. Upper urinary tract tumors after primary superficial bladder tumors: prognostic factors and risk groups. J Urol, 2000. 164: 1183. https://www.ncbi.nlm.nih.gov/pubmed/10992362
+
+108.Tan, W.S., et al. Can Renal and Bladder Ultrasound Replace Computerized Tomography Urogram in Patients Investigated for Microscopic Hematuria? J Urol, 2018. 200: 973. https://www.ncbi.nlm.nih.gov/pubmed/29702097
+
+109.Hilton, S., et al. Recent advances in imaging cancer of the kidney and urinary tract. Surg Oncol Clin N Am, 2014. 23: 863. https://www.ncbi.nlm.nih.gov/pubmed/25246053
+
+110.Panebianco, V., et al. Multiparametric Magnetic Resonance Imaging for Bladder Cancer: Development of VI-RADS (Vesical Imaging-Reporting And Data System). Eur Urol, 2018. 74: 294. https://www.ncbi.nlm.nih.gov/pubmed/29755006
+
+111.Del Giudice, F., et al. The accuracy of Vesical Imaging-Reporting and Data System (VI-RADS): an updated comprehensive multi-institutional, multi-readers systematic review and meta-analysis from diagnostic evidence into future clinical recommendations. World J Urol, 2022. 40: 1617. https://www.ncbi.nlm.nih.gov/pubmed/35294583
+
+112.Saouli, A., et al. Utility of MRI in NMIBC and feasibility of avoiding Re-TURB in carefully selected patients: a systematic review. World J Urol, 2025. 43: 95. https://www.ncbi.nlm.nih.gov/pubmed/39883196
+
+113.Yafi, F.A., et al. Prospective analysis of sensitivity and specificity of urinary cytology and other urinary biomarkers for bladder cancer. Urol Oncol, 2015. 33: 66 e25. https://www.ncbi.nlm.nih.gov/pubmed/25037483
+
+114.Tetu, B. Diagnosis of urothelial carcinoma from urine. Mod Pathol, 2009. 22 Suppl 2: S53. https://www.ncbi.nlm.nih.gov/pubmed/19494853
+
+115.Lobo, J., et al. Evaluation of the Implementation and Diagnostic Accuracy of the Paris Classification for Reporting Urinary Cytology in Voided Urine Specimens: A Cyto-Histological Correlation Study in a Cancer Center. Pathobiology, 2023. 90: 233. https://www.ncbi.nlm.nih.gov/pubmed/36574757
+
+116.Raitanen, M.P., et al. Differences between local and review urinary cytology in diagnosis of bladder cancer. An interobserver multicenter analysis. Eur Urol, 2002. 41: 284. https://www.ncbi.nlm.nih.gov/pubmed/12180229
+
+117.Karakiewicz, P.I., et al. Institutional variability in the accuracy of urinary cytology for predicting recurrence of transitional cell carcinoma of the bladder. BJU Int, 2006. 97: 997. https://www.ncbi.nlm.nih.gov/pubmed/16542342
+
+118.Tian, W., et al. Significant reduction of indeterminate (atypical) diagnosis after implementation of The Paris System for Reporting Urinary Cytology: A single-institution study of more than 27,000 cases. Cancer Cytopathol, 2021. 129: 114. https://www.ncbi.nlm.nih.gov/pubmed/32931158
+
+119.Lebret, T., et al. Artificial intelligence to improve cytology performances in bladder carcinoma detection: results of the VisioCyt test. BJU Int, 2022. 129: 356. https://www.ncbi.nlm.nih.gov/pubmed/33751774
+
+120.Wojcik, E.M., Kurtycz, D.F.I., Rosenthal, D.L., The Paris System for Reporting Urinary Cytology, ed. E.M. Wojcik, Kurtycz, DFI, Rosenthal, D.L., Eds. Vol. 2nd Edn. . 2022. https://link.springer.com/book/10.1007/978-3-030-88686-8
+
+121.Pastorello, R.G., et al. Experience on the use of The Paris System for Reporting Urinary Cytopathology: review of the published literature. J Am Soc Cytopathol, 2021. 10: 79. https://www.ncbi.nlm.nih.gov/pubmed/33160893
+
+122.Meilleroux, J., et al. One year of experience using the Paris System for Reporting Urinary Cytology. Cancer Cytopathol, 2018. 126: 430. https://www.ncbi.nlm.nih.gov/pubmed/29663682
+
+123.Gomez Del Canizo, C., et al. Voided urine cytology is a useful tool predicting non-muscle-invasive bladder cancer risk before surgery. Urol Oncol, 2024. 42: 246 e15. https://www.ncbi.nlm.nih.gov/pubmed/38664179
+
+124.Nabi, G., et al. Suspicious urinary cytology with negative evaluation for malignancy in the diagnostic investigation of haematuria: how to follow up? J Clin Pathol, 2004. 57: 365. https://www.ncbi.nlm.nih.gov/pubmed/15047737
+
+125.Soria, F., et al. An up-to-date catalog of available urinary biomarkers for the surveillance of non-muscle invasive bladder cancer. World J Urol, 2018. 36: 1981. https://www.ncbi.nlm.nih.gov/pubmed/29931526
+
+126.Heard, J.R., et al. Noninvasive Tests for Bladder Cancer Detection and Surveillance: A Systematic Review of Commercially Available Assays. Bladder Cancer, 2024. 10: 71. https://www.ncbi.nlm.nih.gov/pubmed/38993533
+
+127.Schmitz-Drager, B.J., et al. Results of the Prospective Randomized UroFollow Trial Comparing Marker-guided Versus Cystoscopy-based Surveillance in Patients with Low/Intermediate-risk Bladder Cancer. Eur Urol Oncol, 2025. 8: 1041. https://www.ncbi.nlm.nih.gov/pubmed/40340174
+
+128.Dreyer, T., et al. Use of the Xpert Bladder Cancer Monitor Urinary Biomarker Test for Guiding Cystoscopy in High-grade Non-muscle-invasive Bladder Cancer: Results from the Randomized Controlled DaBlaCa-15 Trial. Eur Urol, 2025. 88: 23. https://www.ncbi.nlm.nih.gov/pubmed/40280776
+
+129.Moulavasilis, N., et al. The Paris system classification for urinary cytology in patients under bacillus Calmette-Guerin treatment. Diagn Cytopathol, 2022. 50: 289. https://www.ncbi.nlm.nih.gov/pubmed/35262275
+
+130.D’Andrea, D., et al. Diagnostic accuracy, clinical utility and influence on decision-making of a methylation urine biomarker test in the surveillance of non-muscle-invasive bladder cancer. BJU Int, 2019. 123: 959. https://www.ncbi.nlm.nih.gov/pubmed/30653818
+
+131.Ribal, M.J., et al. Gene expression test for the non-invasive diagnosis of bladder cancer: A prospective, blinded, international and multicenter validation study. Eur J Cancer, 2016. 54: 131. https://www.ncbi.nlm.nih.gov/pubmed/26761785
+
+132.Wolff, I., et al. Real-world performance of Uromonitor(R) in urothelial bladder cancer detection: a multicentric trial. BJU Int, 2024. https://www.ncbi.nlm.nih.gov/pubmed/38923777
+
+133.Fiorentino, V., et al. Bladder Epicheck Test: A Novel Tool to Support Urothelial Carcinoma Diagnosis in Urine Samples. Int J Mol Sci, 2023. 24. https://www.ncbi.nlm.nih.gov/pubmed/37569864
+
+134.Sharma, G., et al. Xpert bladder cancer monitor in surveillance of bladder cancer: Systematic review and meta-analysis. Urol Oncol, 2022. 40: 163 e1. https://www.ncbi.nlm.nih.gov/pubmed/34535354
+
+135.van der Aa, M.N., et al. Microsatellite analysis of voided-urine samples for surveillance of low-grade non-muscle-invasive urothelial carcinoma: feasibility and clinical utility in a prospective multicenter study (Cost-Effectiveness of Follow-Up of Urinary Bladder Cancer trial [CEFUB]). Eur Urol, 2009. 55: 659. https://www.ncbi.nlm.nih.gov/pubmed/18501499
+
+136.Roupret, M., et al. A comparison of the performance of microsatellite and methylation urine analysis for predicting the recurrence of urothelial cell carcinoma, and definition of a set of markers by Bayesian network analysis. BJU Int, 2008. 101: 1448. https://www.ncbi.nlm.nih.gov/pubmed/18325051
+
+137.Todenhofer, T., et al. Prognostic relevance of positive urine markers in patients with negative cystoscopy during surveillance of bladder cancer. BMC Cancer, 2015. 15: 155. https://www.ncbi.nlm.nih.gov/pubmed/25884545
+
+138.Grossman, H.B., et al. Detection of bladder cancer using a point-of-care proteomic assay. JAMA, 2005. 293: 810. https://www.ncbi.nlm.nih.gov/pubmed/15713770
+
+139.Kim, P.H., et al. Reflex fluorescence in situ hybridization assay for suspicious urinary cytology in patients with bladder cancer with negative surveillance cystoscopy. BJU Int, 2014. 114: 354. https://www.ncbi.nlm.nih.gov/pubmed/24128299
+
+140.Palou, J., et al. Management of Patients with Normal Cystoscopy but Positive Cytology or Urine Markers. Eur Urol Oncol, 2020. 3: 548. https://www.ncbi.nlm.nih.gov/pubmed/31331861
+
+141.Beukers, W., et al. FGFR3, TERT and OTX1 as a Urinary Biomarker Combination for Surveillance of Patients with Bladder Cancer in a Large Prospective Multicenter Study. J Urol, 2017. 197: 1410. https://www.ncbi.nlm.nih.gov/pubmed/28049011
+
+142.Critelli, R., et al. Detection of multiple mutations in urinary exfoliated cells from male bladder cancer patients at diagnosis and during follow-up. Oncotarget, 2016. 7: 67435. https://www.ncbi.nlm.nih.gov/pubmed/27611947
+
+143.Liedberg, F., et al. Clinical Implementation of Urinary Biomarkers for Surveillance of Non-muscle-invasive Bladder Cancer (NMIBC): Considerations from the European Association of Urology NMIBC Guideline Panel. Eur Urol Oncol, 2024. https://www.ncbi.nlm.nih.gov/pubmed/39343636
+
+144.Roobol, M.J., et al. Feasibility study of screening for bladder cancer with urinary molecular markers (the BLU-P project). Urol Oncol, 2010. 28: 686. https://www.ncbi.nlm.nih.gov/pubmed/21062653
+
+145.Starke, N., et al. Long-term outcomes in a high-risk bladder cancer screening cohort. BJU Int, 2016. 117: 611. https://www.ncbi.nlm.nih.gov/pubmed/25891519
+
+146.Shang, D., et al. Diagnostic value comparison of CellDetect, fluorescent in situ hybridization (FISH), and cytology in urothelial carcinoma. Cancer Cell Int, 2021. 21: 465. https://www.ncbi.nlm.nih.gov/pubmed/34488763
+
+147.Valenberg, F., et al. Validation of an mRNA-based Urine Test for the Detection of Bladder Cancer in Patients with Haematuria. Eur Urol Oncol, 2021. 4: 93. https://www.ncbi.nlm.nih.gov/pubmed/33004290
+
+148.Lotan, Y., et al. A Multicenter Prospective Randomized Controlled Trial Comparing Cxbladder Triage to Cystoscopy in Patients With Microhematuria: The Safe Testing of Risk for Asymptomatic Microhematuria Trial. J Urol, 2024. 212: 41. https://www.ncbi.nlm.nih.gov/pubmed/38700731
+
+149.Kurth, K.H., et al. Current methods of assessing and treating carcinoma in situ of the bladder with or without involvement of the prostatic urethra. Int J Urol, 1995. 2 Suppl 2: 8. https://www.ncbi.nlm.nih.gov/pubmed/7553309
+
+150.Krajewski, W., et al. How different cystoscopy methods influence patient sexual satisfaction, anxiety, and depression levels: a randomized prospective trial. Qual Life Res, 2017. 26: 625. https://www.ncbi.nlm.nih.gov/pubmed/28050795
+
+151.Aaronson, D.S., et al. Meta-analysis: does lidocaine gel before flexible cystoscopy provide pain relief? BJU Int, 2009. 104: 506. https://www.ncbi.nlm.nih.gov/pubmed/19239453
+
+152.Beaghler, M., et al. Flexible cystoscopic bladder biopsies: a technique for outpatient evaluation of the lower urinary tract urothelium. Urology, 1994. 44: 756. https://www.ncbi.nlm.nih.gov/pubmed/7974952
+
+153.Berjaoui, M.B., et al. A Prospective Randomized Controlled Trial of Irrigation “Bag Squeeze” to Manage Pain for Patients Undergoing Flexible Cystoscopy. J Urol, 2020. 204: 1012. https://www.ncbi.nlm.nih.gov/pubmed/32396409
+
+154.Gunendran, T., et al. Does increasing hydrostatic pressure (“bag squeeze”) during flexible cystoscopy improve patient comfort: a randomized, controlled study. Urology, 2008. 72: 255. https://www.ncbi.nlm.nih.gov/pubmed/18554699
+
+155.Mumm, J.N., et al. Listening to Music during Outpatient Cystoscopy Reduces Pain and Anxiety and Increases Satisfaction: Results from a Prospective Randomized Study. Urol Int, 2021. 105: 792. https://www.ncbi.nlm.nih.gov/pubmed/34280934
+
+156.Gezginci, E., et al. Three Distraction Methods for Pain Reduction During Cystoscopy: A Randomized Controlled Trial Evaluating the Effects on Pain, Anxiety, and Satisfaction. J Endourol, 2018. 32: 1078. https://www.ncbi.nlm.nih.gov/pubmed/30280915
+
+157.Chen, G., et al. Does Listening to Music Improve Pain Perception and Anxiety in Patients Undergoing Cystoscopy: A Meta-Analysis. Front Surg, 2021. 8: 689782. https://www.ncbi.nlm.nih.gov/pubmed/34262933
+
+158.Suarez-Ibarrola, R., et al. Surgical checklist impact on recurrence-free survival of patients with non-muscle-invasive bladder cancer undergoing transurethral resection of bladder tumour. BJU Int, 2019. 123: 646. https://www.ncbi.nlm.nih.gov/pubmed/30248235
+
+159.Teoh, J.Y., et al. An International Collaborative Consensus Statement on En Bloc Resection of Bladder Tumour Incorporating Two Systematic Reviews, a Two-round Delphi Survey, and a Consensus Meeting. Eur Urol, 2020. 78: 546. https://www.ncbi.nlm.nih.gov/pubmed/32389447
+
+160.Anderson, C., et al. A 10-Item Checklist Improves Reporting of Critical Procedural Elements during Transurethral Resection of Bladder Tumor. J Urol, 2016. 196: 1014. https://www.ncbi.nlm.nih.gov/pubmed/27044571
+
+161.Czech, A.K., et al. The assessment of bladder cancer resectability with bimanual palpation: A prospective study in laparoscopy and open cystectomy patients. Urol Oncol, 2024. 42: 176 e1. https://www.ncbi.nlm.nih.gov/pubmed/38508941
+
+162.Mariappan, P., et al. Predicting Grade and Stage at Cystoscopy in Newly Presenting Bladder Cancers-a Prospective Double-Blind Clinical Study. Urology, 2017. 109: 134. https://www.ncbi.nlm.nih.gov/pubmed/28818537
+
+163.Breda, A., et al. The DEpth of Endoscopic Perforation scale to assess intraoperative perforations during transurethral resection of bladder tumor: subgroup analysis of a randomized controlled trial. World J Urol, 2023. 41: 2583. https://www.ncbi.nlm.nih.gov/pubmed/35665840
+
+164.Brausi, M., et al. Variability in the recurrence rate at first follow-up cystoscopy after TUR in stage Ta T1 transitional cell carcinoma of the bladder: a combined analysis of seven EORTC studies. Eur Urol, 2002. 41: 523. https://www.ncbi.nlm.nih.gov/pubmed/12074794
+
+165.Richterstetter, M., et al. The value of extended transurethral resection of bladder tumour (TURBT) in the treatment of bladder cancer. BJU Int, 2012. 110: E76. https://www.ncbi.nlm.nih.gov/pubmed/22313727
+
+166.Teoh, J.Y., et al. En-bloc resection of bladder tumour as primary treatment for patients with non-muscle-invasive bladder cancer: routine implementation in a multi-centre setting. World J Urol, 2021. 39: 3353. https://www.ncbi.nlm.nih.gov/pubmed/33774705
+
+167.Teoh, J.Y., et al. Recurrence mechanisms of non-muscle-invasive bladder cancer - a clinical perspective. Nat Rev Urol, 2022. 19: 280. https://www.ncbi.nlm.nih.gov/pubmed/35361927
+
+168.Yanagisawa, T., et al. En Bloc Resection for Bladder Tumors: An Updated Systematic Review and Meta-Analysis of Its Differential Effect on Safety, Recurrence and Histopathology. J Urol, 2022. 207: 754. https://www.ncbi.nlm.nih.gov/pubmed/35060770
+
+169.Kramer, M.W., et al. En bloc resection of urothelium carcinoma of the bladder (EBRUC): a European multicenter study to compare safety, efficacy, and outcome of laser and electrical en bloc transurethral resection of bladder tumor. World J Urol, 2015. 33: 1937. https://www.ncbi.nlm.nih.gov/pubmed/25910478
+
+170.Hurle, R., et al. “En Bloc” Resection of Nonmuscle Invasive Bladder Cancer: A Prospective Single-center Study. Urology, 2016. 90: 126. https://www.ncbi.nlm.nih.gov/pubmed/26776561
+
+171.Migliari, R., et al. Thulium Laser Endoscopic En Bloc Enucleation of Nonmuscle-Invasive Bladder Cancer. J Endourol, 2015. 29: 1258. https://www.ncbi.nlm.nih.gov/pubmed/26102556
+
+172.Zhang, X.R., et al. Two Micrometer Continuous-Wave Thulium Laser Treating Primary Non-Muscle-Invasive Bladder Cancer: Is It Feasible? A Randomized Prospective Study. Photomed Laser Surg, 2015. 33: 517. https://www.ncbi.nlm.nih.gov/pubmed/26397029
+
+173.Hashem, A., et al. Holmium Laser En-bloc Resection Versus Conventional Transurethral Resection of Bladder Tumors for Treatment of Non-muscle-invasive Bladder Cancer: A Randomized Clinical Trial. Eur Urol Focus, 2021. 7: 1035. https://www.ncbi.nlm.nih.gov/pubmed/33386289
+
+174.Fan, J., et al. Green-light laser en bloc resection versus conventional transurethral resection for initial non-muscle-invasive bladder cancer: A randomized controlled trial. Int J Urol, 2021. 28: 855. https://www.ncbi.nlm.nih.gov/pubmed/34013615
+
+175.Badawy, A., et al. Thulium laser en bloc resection versus conventional transurethral resection of urinary bladder tumor: A comparative prospective study. Urol Ann, 2023. 15: 88. https://www.ncbi.nlm.nih.gov/pubmed/37006212
+
+176.Gallioli, A., et al. En Bloc Versus Conventional Transurethral Resection of Bladder Tumors: A Single-center Prospective Randomized Noninferiority Trial. Eur Urol Oncol, 2022. 5: 440. https://www.ncbi.nlm.nih.gov/pubmed/35618567
+
+177.D’Andrea, D., et al. En Bloc Versus Conventional Resection of Primary Bladder Tumor (eBLOC): A Prospective, Multicenter, Open-label, Phase 3 Randomized Controlled Trial. Eur Urol Oncol, 2023. 6: 508. https://www.ncbi.nlm.nih.gov/pubmed/37543464
+
+178.Li, Z., et al. Systematic review and meta-analysis of randomized controlled trials of perioperative outcomes and prognosis of transurethral en-bloc resection vs. conventional transurethral resection for non-muscle-invasive bladder cancer. Int J Surg, 2022. 104: 106777. https://www.ncbi.nlm.nih.gov/pubmed/35850465
+
+179.Xu, Z., et al. An updated systematic review, meta-analysis, and trial sequential analysis of the efficacy and safety of en bloc transurethral resection vs. conventional transurethral resection for nonmuscle-invasive bladder tumor. Int J Surg, 2025. 111: 3061. https://www.ncbi.nlm.nih.gov/pubmed/39927777
+
+180.Teoh, J.Y., et al. Impact of Intravesical Bacillus Calmette-Guerin Therapy Following Transurethral En Bloc Resection of Bladder Tumour: Post Hoc Analysis of a Randomised, Multicentre, Phase 3 Trial. Eur Urol Oncol, 2025. https://www.ncbi.nlm.nih.gov/pubmed/41177716
+
+181.Yuen-Chun Teoh, J., et al. Transurethral En Bloc Resection Versus Standard Resection of Bladder Tumour: A Randomised, Multicentre, Phase 3 Trial. Eur Urol, 2024. 86: 103. https://www.ncbi.nlm.nih.gov/pubmed/38692956
+
+182.Mariappan, P., et al. Detrusor muscle in the first, apparently complete transurethral resection of bladder tumour specimen is a surrogate marker of resection quality, predicts risk of early recurrence, and is dependent on operator experience. Eur Urol, 2010. 57: 843. https://www.ncbi.nlm.nih.gov/pubmed/19524354
+
+183.Taoka, R., et al. Use of surgical checklist during transurethral resection increases detrusor muscle collection rate and improves recurrence-free survival in patients with non-muscle-invasive bladder cancer. Int J Urol, 2021. 28: 727. https://www.ncbi.nlm.nih.gov/pubmed/33742465
+
+184.Mariappan, P., et al. Enhanced Quality and Effectiveness of Transurethral Resection of Bladder Tumour in Non-muscle-invasive Bladder Cancer: A Multicentre Real-world Experience from Scotland’s Quality Performance Indicators Programme. Eur Urol, 2020. 78: 520. https://www.ncbi.nlm.nih.gov/pubmed/32690321
+
+185.Del Giudice, F., et al. Surgical checklist adherence across urology expertise levels impacts transurethral resection of bladder tumour quality indicators. BJU Int, 2023. 131: 712. https://www.ncbi.nlm.nih.gov/pubmed/36251366
+
+186.Mariappan, P., et al. Achieving Benchmarks for National Quality Indicators Reduces Recurrence and Progression in Non-muscle-invasive Bladder Cancer. Eur Urol Oncol, 2024. https://www.ncbi.nlm.nih.gov/pubmed/38296735
+
+187.Mariappan, P., et al. Good quality white-light transurethral resection of bladder tumours (GQ-WLTURBT) with experienced surgeons performing complete resections and obtaining detrusor muscle reduces early recurrence in new non-muscle-invasive bladder cancer: validation across time and place and recommendation for benchmarking. BJU Int, 2012. 109: 1666. https://www.ncbi.nlm.nih.gov/pubmed/22044434
+
+188.Neumann, E., et al. Transurethral Resection of Bladder Tumors: Next-generation Virtual Reality Training for Surgeons. Eur Urol Focus, 2019. 5: 906. https://www.ncbi.nlm.nih.gov/pubmed/29802051
+
+189.Bebane, S., et al. Perioperative outcomes of transurethral resection for t1 bladder tumors: quality evaluation based on patient, tumor and surgeon criteria. World J Urol, 2021. 39: 4159. https://www.ncbi.nlm.nih.gov/pubmed/34160681
+
+190.Jancke, G., et al. Impact of surgical experience on recurrence and progression after transurethral resection of bladder tumour in non-muscle-invasive bladder cancer. Scand J Urol, 2014. 48: 276. https://www.ncbi.nlm.nih.gov/pubmed/24286506
+
+191.Wettstein, M.S., et al. Association between surgical case volume and survival in T1 bladder cancer: A plea for regionalization of care? Canadian Urological Association Journal, 2020. 14: E394. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7492039/
+
+192.Mao, X., et al. Outcomes and Complications of Bipolar vs. Monopolar Energy for Transurethral Resection of Bladder Tumors: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Front Surg, 2021. 8: 583806. https://www.ncbi.nlm.nih.gov/pubmed/34150834
+
+193.Tzelves, L., et al. Does bipolar energy provide any advantage over monopolar surgery in transurethral resection of non-muscle invasive bladder tumors? A systematic review and meta-analysis. World J Urol, 2021. 39: 1093. https://www.ncbi.nlm.nih.gov/pubmed/32591900
+
+194.Xie, K., et al. Bipolar versus monopolar transurethral resection of non-muscle-invasive bladder cancer: a systematic review and meta-analysis of randomized controlled trials. World J Urol, 2021. 39: 1177. https://www.ncbi.nlm.nih.gov/pubmed/32462303
+
+195.Teoh, J.Y., et al. Comparison of Detrusor Muscle Sampling Rate in Monopolar and Bipolar Transurethral Resection of Bladder Tumor: A Randomized Trial. Ann Surg Oncol, 2017. 24: 1428. https://www.ncbi.nlm.nih.gov/pubmed/27882470
+
+196.Wong, C.H., et al. Monopolar versus bipolar transurethral resection of bladder Tumour: post-hoc analysis of a prospective trial. World J Urol, 2024. 42: 466. https://www.ncbi.nlm.nih.gov/pubmed/39093420
+
+197.Picozzi, S.C., et al. Is it oncologically safe performing simultaneous transurethral resection of the bladder and prostate? A meta-analysis on 1,234 patients. Int Urol Nephrol, 2012. 44: 1325. https://www.ncbi.nlm.nih.gov/pubmed/22710969
+
+198.Tsivian, A., et al. Simultaneous transurethral resection of bladder tumor and benign prostatic hyperplasia: hazardous or a safe timesaver? J Urol, 2003. 170: 2241. https://www.ncbi.nlm.nih.gov/pubmed/14634388
+
+199.Sari Motlagh, R., et al. The recurrence and progression risk after simultaneous endoscopic surgery of urothelial bladder tumour and benign prostatic hyperplasia: a systematic review and meta-analysis. BJU Int, 2021. 127: 143. https://www.ncbi.nlm.nih.gov/pubmed/32564458
+
+200.Laukhtina, E., et al. Oncological and safety profiles in patients undergoing simultaneous transurethral resection (TUR) of bladder tumour and TUR of the prostate. BJU Int, 2023. 131: 571. https://www.ncbi.nlm.nih.gov/pubmed/36134575
+
+201.van der Meijden, A., et al. Significance of bladder biopsies in Ta,T1 bladder tumors: a report from the EORTC Genito-Urinary Tract Cancer Cooperative Group. EORTC-GU Group Superficial Bladder Committee. Eur Urol, 1999. 35: 267. https://www.ncbi.nlm.nih.gov/pubmed/10419345
+
+202.Hara, T., et al. Risk of concomitant carcinoma in situ determining biopsy candidates among primary non-muscle-invasive bladder cancer patients: retrospective analysis of 173 Japanese cases. Int J Urol, 2009. 16: 293. https://www.ncbi.nlm.nih.gov/pubmed/19207607
+
+203.Palou, J., et al. Female gender and carcinoma in situ in the prostatic urethra are prognostic factors for recurrence, progression, and disease-specific mortality in T1G3 bladder cancer patients treated with bacillus Calmette-Guerin. Eur Urol, 2012. 62: 118. https://www.ncbi.nlm.nih.gov/pubmed/22101115
+
+204.Mungan, M.U., et al. Risk factors for mucosal prostatic urethral involvement in superficial transitional cell carcinoma of the bladder. Eur Urol, 2005. 48: 760. https://www.ncbi.nlm.nih.gov/pubmed/16005563
+
+205.Brant, A., et al. Prognostic implications of prostatic urethral involvement in non-muscle-invasive bladder cancer. World J Urol, 2019. 37: 2683. https://www.ncbi.nlm.nih.gov/pubmed/30850856
+
+206.Huguet, J., et al. Cystectomy in patients with high risk superficial bladder tumors who fail intravesical BCG therapy: pre-cystectomy prostate involvement as a prognostic factor. Eur Urol, 2005. 48: 53. https://www.ncbi.nlm.nih.gov/pubmed/15967252
+
+207.Kausch, I., et al. Photodynamic diagnosis in non-muscle-invasive bladder cancer: a systematic review and cumulative analysis of prospective studies. Eur Urol, 2010. 57: 595. https://www.ncbi.nlm.nih.gov/pubmed/20004052
+
+208.Mowatt, G., et al. Photodynamic diagnosis of bladder cancer compared with white light cystoscopy: Systematic review and meta-analysis. Int J Technol Assess Health Care, 2011. 27: 3. https://www.ncbi.nlm.nih.gov/pubmed/21262078
+
+209.Neuzillet, Y., et al. Assessment of diagnostic gain with hexaminolevulinate (HAL) in the setting of newly diagnosed non-muscle-invasive bladder cancer with positive results on urine cytology. Urol Oncol, 2014. 32: 1135. https://www.ncbi.nlm.nih.gov/pubmed/25023786
+
+210.Draga, R.O., et al. Photodynamic diagnosis (5-aminolevulinic acid) of transitional cell carcinoma after bacillus Calmette-Guerin immunotherapy and mitomycin C intravesical therapy. Eur Urol, 2010. 57: 655. https://www.ncbi.nlm.nih.gov/pubmed/19819064
+
+211.Ray, E.R., et al. Hexylaminolaevulinate fluorescence cystoscopy in patients previously treated with intravesical bacille Calmette-Guerin. BJU Int, 2010. 105: 789. https://www.ncbi.nlm.nih.gov/pubmed/19832725
+
+212.Chou, R., et al. Comparative Effectiveness of Fluorescent Versus White Light Cystoscopy for Initial Diagnosis or Surveillance of Bladder Cancer on Clinical Outcomes: Systematic Review and Meta-Analysis. J Urol, 2017. 197: 548. https://www.ncbi.nlm.nih.gov/pubmed/27780784
+
+213.Veeratterapillay, R., et al. Time to Turn on the Blue Lights: A Systematic Review and Meta-analysis of Photodynamic Diagnosis for Bladder Cancer. Eur Urol Open Sci, 2021. 31: 17. https://www.ncbi.nlm.nih.gov/pubmed/34467237
+
+214.Maisch, P., et al. Blue vs white light for transurethral resection of non-muscle-invasive bladder cancer: an abridged Cochrane Review. BJU Int, 2022. 130: 730. https://www.ncbi.nlm.nih.gov/pubmed/35238145
+
+215.Zhao, H., et al. Comparison of hexaminolevulinate (HAL) -guided versus white light transurethral resection for NMIBC: A systematic review and meta-analysis of randomized controlled trials. Photodiagnosis Photodyn Ther, 2023. 41: 103220. https://www.ncbi.nlm.nih.gov/pubmed/36462704
+
+216.Heer, R., et al. A Randomized Trial of PHOTOdynamic Surgery in Non-Muscle-Invasive Bladder Cancer. NEJM Evidence, 2022. 1. https://pubmed.ncbi.nlm.nih.gov/38319866/
+
+217.Zheng, C., et al. Narrow band imaging diagnosis of bladder cancer: systematic review and meta-analysis. BJU Int, 2012. 110: E680. https://www.ncbi.nlm.nih.gov/pubmed/22985502
+
+218.Drejer, D., et al. Clinical relevance of narrow-band imaging in flexible cystoscopy: the DaBlaCa-7 study. Scand J Urol, 2017. 51: 120. https://www.ncbi.nlm.nih.gov/pubmed/28266904
+
+219.Ye, Z., et al. A comparison of NBI and WLI cystoscopy in detecting non-muscle-invasive bladder cancer: A prospective, randomized and multi-center study. Sci Rep, 2015. 5: 10905. https://www.ncbi.nlm.nih.gov/pubmed/26046790
+
+220.Kim, S.B., et al. Detection and recurrence rate of transurethral resection of bladder tumors by narrow-band imaging: Prospective, randomized comparison with white light cystoscopy. Investig Clin Urol, 2018. 59: 98. https://www.ncbi.nlm.nih.gov/pubmed/29520385
+
+221.Naito, S., et al. The Clinical Research Office of the Endourological Society (CROES) Multicentre Randomised Trial of Narrow Band Imaging-Assisted Transurethral Resection of Bladder Tumour (TURBT) Versus Conventional White Light Imaging-Assisted TURBT in Primary Non-Muscle-invasive Bladder Cancer Patients: Trial Protocol and 1-year Results. Eur Urol, 2016. 70: 506. https://www.ncbi.nlm.nih.gov/pubmed/27117749
+
+222.Russo, G.I., et al. Performance of Narrow Band Imaging (NBI) and Photodynamic Diagnosis (PDD) Fluorescence Imaging Compared to White Light Cystoscopy (WLC) in Detecting Non-Muscle Invasive Bladder Cancer: A Systematic Review and Lesion-Level Diagnostic Meta-Analysis. Cancers (Basel), 2021. 13. https://www.ncbi.nlm.nih.gov/pubmed/34503188
+
+223.Li, H., et al. Novel Visualization Methods Assisted Transurethral Resection for Bladder Cancer: An Updated Survival-Based Systematic Review and Meta-Analysis. Front Oncol, 2021. 11: 644341. https://www.ncbi.nlm.nih.gov/pubmed/34327134
+
+224.Sari Motlagh, R., et al. Impact of enhanced optical techniques at time of transurethral resection of bladder tumour, with or without single immediate intravesical chemotherapy, on recurrence rate of non-muscle-invasive bladder cancer: a systematic review and network meta-analysis of randomized trials. BJU Int, 2021. 128: 280. https://www.ncbi.nlm.nih.gov/pubmed/33683778
+
+225.Howard, J.M., et al. Enhanced Endoscopy with IMAGE1 S CHROMA Improves Detection of Nonmuscle Invasive Bladder Cancer During Transurethral Resection. J Endourol, 2021. 35: 647. https://www.ncbi.nlm.nih.gov/pubmed/33176470
+
+226.Mulawkar, P., et al. Evaluation of Spectra A and B Modes in Diagnosis of Suspicious Bladder Lesions. J Endourol, 2021. 35: 1184. https://www.ncbi.nlm.nih.gov/pubmed/33446044
+
+227.de la Rosette, J., et al. Conventional white light imaging-assisted transurethral resection of bladder tumour (TURBT) versus IMAGE1S-assisted TURBT in non-muscle-invasive bladder cancer patients: trial protocol and 18 months results. World J Urol, 2022. 40: 727. https://www.ncbi.nlm.nih.gov/pubmed/34741631
+
+228.Trelles Guzman, C.R., et al. Randomized clinical trial on the use of IMAGE1 S LIGHT (SPIES) vs. white light in the prevention of recurrence during transurethral resection of bladder tumors: Analysis after 12-month follow-up. Actas Urol Esp (Engl Ed), 2024. 48: 512. https://www.ncbi.nlm.nih.gov/pubmed/38159804
+
+229.Liem, E., et al. Validation of Confocal Laser Endomicroscopy Features of Bladder Cancer: The Next Step Towards Real-time Histologic Grading. Eur Urol Focus, 2020. 6: 81. https://www.ncbi.nlm.nih.gov/pubmed/30033066
+
+230.Cumberbatch, M.G.K., et al. Repeat Transurethral Resection in Non-muscle-invasive Bladder Cancer: A Systematic Review. Eur Urol, 2018. 73: 925. https://www.ncbi.nlm.nih.gov/pubmed/29523366
+
+231.Yanagisawa, T., et al. Repeat Transurethral Resection for Non-muscle-invasive Bladder Cancer: An Updated Systematic Review and Meta-analysis in the Contemporary Era. Eur Urol Focus, 2024. 10: 41. https://www.ncbi.nlm.nih.gov/pubmed/37495458
+
+232.Naselli, A., et al. Role of Restaging Transurethral Resection for T1 Non-muscle invasive Bladder Cancer: A Systematic Review and Meta-analysis. Eur Urol Focus, 2018. 4: 558. https://www.ncbi.nlm.nih.gov/pubmed/28753839
+
+233.Elsawy, A.A., et al. Diagnostic performance and predictive capacity of early urine cytology after transurethral resection of nonmuscle invasive bladder cancer: A prospective study. Urol Oncol, 2020. 38: 935 e1. https://www.ncbi.nlm.nih.gov/pubmed/32654947
+
+234.Elsawy, A.A., et al. Can repeat biopsy be skipped after initial complete resection of T1 bladder cancer? The role of a novel urinary mRNA biomarker. Urol Oncol, 2021. 39: 437 e11. https://www.ncbi.nlm.nih.gov/pubmed/33785220
+
+235.Grimm, M.O., et al. Effect of routine repeat transurethral resection for superficial bladder cancer: a long-term observational study. J Urol, 2003. 170: 433. https://www.ncbi.nlm.nih.gov/pubmed/12853793
+
+236.Eroglu, A., et al. The prognostic value of routine second transurethral resection in patients with newly diagnosed stage pT1 non-muscle-invasive bladder cancer: results from randomized 10-year extension trial. Int J Clin Oncol, 2020. 25: 698. https://www.ncbi.nlm.nih.gov/pubmed/31760524
+
+237.Lee, K., et al. Evaluating the efficacy of secondary transurethral resection of the bladder for high-grade Ta tumors. Investig Clin Urol, 2022. 63: 14. https://www.ncbi.nlm.nih.gov/pubmed/34983118
+
+238.Gordon, P.C., et al. Long-term Outcomes from Re-resection for High-risk Non-muscle-invasive Bladder Cancer: A Potential to Rationalize Use. Eur Urol Focus, 2019. 5: 650. https://www.ncbi.nlm.nih.gov/pubmed/29089252
+
+239.Hashine, K., et al. Results of second transurethral resection for high-grade T1 bladder cancer. Urol Ann, 2016. 8: 10. https://www.ncbi.nlm.nih.gov/pubmed/26834394
+
+240.Dalbagni, G., et al. Clinical outcome in a contemporary series of restaged patients with clinical T1 bladder cancer. Eur Urol, 2009. 56: 903. https://www.ncbi.nlm.nih.gov/pubmed/19632765
+
+241.Bishr, M., et al. Tumour stage on re-staging transurethral resection predicts recurrence and progression-free survival of patients with high-risk non-muscle invasive bladder cancer. Can Urol Assoc J, 2014. 8: E306. https://www.ncbi.nlm.nih.gov/pubmed/24940455
+
+242.Palou, J., et al. Recurrence, progression and cancer-specific mortality according to stage at re-TUR in T1G3 bladder cancer patients treated with BCG: not as bad as previously thought. World J Urol, 2018. 36: 1621. https://www.ncbi.nlm.nih.gov/pubmed/29721611
+
+243.Gontero, P., et al. The impact of re-transurethral resection on clinical outcomes in a large multicentre cohort of patients with T1 high-grade/Grade 3 bladder cancer treated with bacille Calmette-Guerin. BJU Int, 2016. 118: 44. https://www.ncbi.nlm.nih.gov/pubmed/26469362
+
+244.Hensley, P.J., et al. Implications of Guideline-based, Risk-stratified Restaging Transurethral Resection of High-grade Ta Urothelial Carcinoma on Bacillus Calmette-Guerin Therapy Outcomes. Eur Urol Oncol, 2022. 5: 347. https://www.ncbi.nlm.nih.gov/pubmed/33935020
+
+245.Baltaci, S., et al. Significance of the interval between first and second transurethral resection on recurrence and progression rates in patients with high-risk non-muscle-invasive bladder cancer treated with maintenance intravesical Bacillus Calmette-Guerin. BJU Int, 2015. 116: 721. https://www.ncbi.nlm.nih.gov/pubmed/25715815
+
+246.Paner, G.P., et al. Challenges in Pathologic Staging of Bladder Cancer: Proposals for Fresh Approaches of Assessing Pathologic Stage in Light of Recent Studies and Observations Pertaining to Bladder Histoanatomic Variances. Adv Anat Pathol, 2017. 24: 113. https://www.ncbi.nlm.nih.gov/pubmed/28398951
+
+247.ICCR. Urinary Tract Carcinoma Biopsy and Transurethral Resection Specimen (TNM8). 2019. 2022. http://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/ut-biopsy-and-tr
+
+248.Kurpad, R., et al. A multidisciplinary approach to the management of urologic malignancies: does it influence diagnostic and treatment decisions? Urol Oncol, 2011. 29: 378. https://www.ncbi.nlm.nih.gov/pubmed/19576797
+
+249.Traboulsi, S.L., et al. Pathology review impacts clinical management of patients with T1-T2 bladder cancer. Can Urol Assoc J, 2017. 11: 188. https://www.ncbi.nlm.nih.gov/pubmed/28652877
+
+250.Mostafid, H., et al. Best Practices to Optimise Quality and Outcomes of Transurethral Resection of Bladder Tumours. Eur Urol Oncol, 2021. 4: 12. https://www.ncbi.nlm.nih.gov/pubmed/32684515
+
+251.Sylvester, R.J., et al. Predicting recurrence and progression in individual patients with stage Ta T1 bladder cancer using EORTC risk tables: a combined analysis of 2596 patients from seven EORTC trials. Eur Urol, 2006. 49: 466. https://www.ncbi.nlm.nih.gov/pubmed/16442208
+
+252.Lammers, R.J., et al. Prediction model for recurrence probabilities after intravesical chemotherapy in patients with intermediate-risk non-muscle-invasive bladder cancer, including external validation. World J Urol, 2016. 34: 173. https://www.ncbi.nlm.nih.gov/pubmed/26025189
+
+253.Fernandez-Gomez, J., et al. Predicting nonmuscle invasive bladder cancer recurrence and progression in patients treated with bacillus Calmette-Guerin: the CUETO scoring model. J Urol, 2009. 182: 2195. https://www.ncbi.nlm.nih.gov/pubmed/19758621
+
+254.Fernandez-Gomez, J., et al. The EORTC tables overestimate the risk of recurrence and progression in patients with non-muscle-invasive bladder cancer treated with bacillus Calmette-Guerin: external validation of the EORTC risk tables. Eur Urol, 2011. 60: 423. https://www.ncbi.nlm.nih.gov/pubmed/21621906
+
+255.van Rhijn, B.W., et al. Molecular grade (FGFR3/MIB-1) and EORTC risk scores are predictive in primary non-muscle-invasive bladder cancer. Eur Urol, 2010. 58: 433. https://www.ncbi.nlm.nih.gov/pubmed/20646825
+
+256.Cambier, S., et al. EORTC Nomograms and Risk Groups for Predicting Recurrence, Progression, and Disease-specific and Overall Survival in Non-Muscle-invasive Stage Ta-T1 Urothelial Bladder Cancer Patients Treated with 1-3 Years of Maintenance Bacillus Calmette-Guerin. Eur Urol, 2016. 69: 60. https://www.ncbi.nlm.nih.gov/pubmed/26210894
+
+257.Sylvester, R.J., et al. European Association of Urology (EAU) Prognostic Factor Risk Groups for Non-muscle-invasive Bladder Cancer (NMIBC) Incorporating the WHO 2004/2016 and WHO 1973 Classification Systems for Grade: An Update from the EAU NMIBC Guidelines Panel. Eur Urol, 2021. 79: 480. https://www.ncbi.nlm.nih.gov/pubmed/33419683
+
+258.Gontero, P., et al. Prognostic factors and risk groups in T1G3 non-muscle-invasive bladder cancer patients initially treated with Bacillus Calmette-Guerin: results of a retrospective multicenter study of 2451 patients. Eur Urol, 2015. 67: 74. https://www.ncbi.nlm.nih.gov/pubmed/25043942
+
+259.Voskuilen, C.S., et al. Urothelial Carcinoma in Bladder Diverticula: A Multicenter Analysis of Characteristics and Clinical Outcomes. Eur Urol Focus, 2020. 6: 1226. https://www.ncbi.nlm.nih.gov/pubmed/30559065
+
+260.Alkhateeb, S.S., et al. Long-term prognostic value of the combination of EORTC risk group calculator and molecular markers in non-muscle-invasive bladder cancer patients treated with intravesical Bacille Calmette-Guerin. Urol Ann, 2011. 3: 119. https://www.ncbi.nlm.nih.gov/pubmed/21976923
+
+261.Lamm, D.L. Carcinoma in situ. Urol Clin North Am, 1992. 19: 499. https://www.ncbi.nlm.nih.gov/pubmed/1636234
+
+262.Losa, A., et al. Low dose bacillus Calmette-Guerin for carcinoma in situ of the bladder: long-term results. J Urol, 2000. 163: 68. https://www.ncbi.nlm.nih.gov/pubmed/10604316
+
+263.Griffiths, T.R., et al. Treatment of carcinoma in situ with intravesical bacillus Calmette-Guerin without maintenance. J Urol, 2002. 167: 2408. https://www.ncbi.nlm.nih.gov/pubmed/11992047
+
+264.Takenaka, A., et al. Clinical outcomes of bacillus Calmette-Guerin instillation therapy for carcinoma in situ of urinary bladder. Int J Urol, 2008. 15: 309. https://www.ncbi.nlm.nih.gov/pubmed/18380817
+
+265.Palou, J., et al. Recurrence at three months and high-grade recurrence as prognostic factor of progression in multivariate analysis of T1G2 bladder tumors. Urology, 2009. 73: 1313. https://www.ncbi.nlm.nih.gov/pubmed/19362341
+
+266.Deuker, M., et al. Bladder Cancer: A Comparison Between Non-urothelial Variant Histology and Urothelial Carcinoma Across All Stages and Treatment Modalities. Clin Genitourin Cancer, 2021. 19: 60. https://www.ncbi.nlm.nih.gov/pubmed/32782133
+
+267.Dursun, F., et al. Histological variants of non-muscle invasive bladder cancer: Survival outcomes of radical cystectomy vs. bladder preservation therapy. Urol Oncol, 2022. 40: 275 e1. https://www.ncbi.nlm.nih.gov/pubmed/35351370
+
+268.Sood, A., et al. Long-Term Oncological Outcomes in Patients Diagnosed With Nonmetastatic Plasmacytoid Variant of Bladder Cancer: A 20-Year University of Texas MD Anderson Cancer Center Experience. J Urol, 2024. 211: 241. https://www.ncbi.nlm.nih.gov/pubmed/37922370
+
+269.Lonati, C., et al. Survival Outcomes After Immediate Radical Cystectomy Versus Conservative Management with Bacillus Calmette-Guerin Among T1 High-grade Micropapillary Bladder Cancer Patients: Results from a Multicentre Collaboration. Eur Urol Focus, 2022. 8: 1270. https://www.ncbi.nlm.nih.gov/pubmed/34419381
+
+270.McFadden, J., et al. Impact of variant histology on upstaging and survival in patients with nonmuscle invasive bladder cancer undergoing radical cystectomy. Urol Oncol, 2024. 42: 69 e11. https://www.ncbi.nlm.nih.gov/pubmed/38267301
+
+271.Lobo, N., et al. Updated European Association of Urology (EAU) Prognostic Factor Risk Groups Overestimate the Risk of Progression in Patients with Non-muscle-invasive Bladder Cancer Treated with Bacillus Calmette-Guerin. Eur Urol Oncol, 2022. 5: 84. https://www.ncbi.nlm.nih.gov/pubmed/34920986
+
+272.Pijpers, O.M., et al. Risk of progression in patients with primary T1 high grade non-muscle invasive bladder cancer - a contemporary cohort. Eur Urol Oncol, 2025. 8: 249. https://www.ncbi.nlm.nih.gov/pubmed/39327188
+
+273.Guerrero-Ramos, F., et al. Predicting Recurrence and Progression in Patients with Non-Muscle-Invasive Bladder Cancer: Systematic Review on the Performance of Risk Stratification Models. Bladder Cancer, 2022. 8: 339. https://www.ncbi.nlm.nih.gov/pubmed/38994181
+
+274.Kwong, J.C.C., et al. Development and International Evaluation of an Artificial Intelligence-based Model (PROGRxN-BCa) Using the World Health Organization 2004/2022 Grading System to Predict Progression Risk and Improve Substratification for Non-muscle-invasive Bladder Cancer. Eur Urol, 2025. https://www.ncbi.nlm.nih.gov/pubmed/41062388
+
+275.Tan, W.S., et al. Intermediate-risk Non-muscle-invasive Bladder Cancer: Updated Consensus Definition and Management Recommendations from the International Bladder Cancer Group. Eur Urol Oncol, 2022. 5: 505. https://www.ncbi.nlm.nih.gov/pubmed/35718695
+
+276.Soria, F., et al. Clinical Validation of the Intermediate-risk Non-muscle-invasive Bladder Cancer Scoring System and Substratification Model Proposed by the International Bladder Cancer Group: A Multicenter Young Academic Urologists Urothelial Working Group Collaboration. Eur Urol Oncol, 2024. https://www.ncbi.nlm.nih.gov/pubmed/38906794
+
+277.Contieri, R., et al. Towards Defining Follow-up Strategies for Patients with Primary Intermediate-risk Non-muscle-invasive Bladder Cancer. Eur Urol Oncol, 2025. 8: 977. https://www.ncbi.nlm.nih.gov/pubmed/40399193
+
+278.Lammers, R.J., et al. Smoking status is a risk factor for recurrence after transurethral resection of non-muscle-invasive bladder cancer. Eur Urol, 2011. 60: 713. https://www.ncbi.nlm.nih.gov/pubmed/21794974
+
+279.Rink, M., et al. Smoking reduces the efficacy of intravesical bacillus Calmette-Guerin immunotherapy in non-muscle-invasive bladder cancer. Eur Urol, 2012. 62: 1204. https://www.ncbi.nlm.nih.gov/pubmed/22980442
+
+280.Slusarczyk, A., et al. The impact of smoking on recurrence and progression of non-muscle invasive bladder cancer: a systematic review and meta-analysis. J Cancer Res Clin Oncol, 2023. 149: 2673. https://www.ncbi.nlm.nih.gov/pubmed/36404390
+
+281.Ho, C.-H., et al. Association between Smoking and Overall and Specific Mortality in Patients with Bladder Cancer: A Population-based Study. Bladder Cancer, 2022. 8: 129. https://pubmed.ncbi.nlm.nih.gov/38993361/
+
+282.Rink, M., et al. Impact of smoking on outcomes of patients with a history of recurrent nonmuscle invasive bladder cancer. J Urol, 2012. 188: 2120. https://www.ncbi.nlm.nih.gov/pubmed/23083868
+
+283.Crivelli, J.J., et al. Effect of smoking on outcomes of urothelial carcinoma: a systematic review of the literature. Eur Urol, 2014. 65: 742. https://www.ncbi.nlm.nih.gov/pubmed/23810104
+
+284.Muller, J., et al. Trends in the risk of second primary cancer among bladder cancer survivors: a population-based cohort of 10 047 patients. BJU Int, 2016. 118: 53. https://www.ncbi.nlm.nih.gov/pubmed/26469096
+
+285.Lydom, L.N., et al. Perioperative Intensive Smoking Cessation Intervention Among Smokers Who Underwent Transurethral Resection of Bladder Tumor (TURBT) in Two Different Settings: A Randomized Controlled Trial. Cancers (Basel), 2025. 17. https://www.ncbi.nlm.nih.gov/pubmed/40002306
+
+286.Xu, Y., et al. Comparing the treatment outcomes of potassium-titanyl-phosphate laser vaporization and transurethral electroresection for primary nonmuscle-invasive bladder cancer: A prospective, randomized study. Lasers Surg Med, 2015. 47: 306. https://www.ncbi.nlm.nih.gov/pubmed/25864416
+
+287.Planelles Gomez, J., et al. Holmium YAG Photocoagulation: Safe and Economical Alternative to Transurethral Resection in Small Nonmuscle-Invasive Bladder Tumors. J Endourol, 2017. 31: 674. https://www.ncbi.nlm.nih.gov/pubmed/28462594
+
+288.Pedersen, G.L., et al. Outpatient Photodynamic Diagnosis-guided Laser Destruction of Bladder Tumors Is as Good as Conventional Inpatient Photodynamic Diagnosis-guided Transurethral Tumor Resection in Patients with Recurrent Intermediate-risk Low-grade Ta Bladder Tumors. A Prospective Randomized Noninferiority Clinical Trial. Eur Urol, 2023. 83: 125. https://www.ncbi.nlm.nih.gov/pubmed/36058804
+
+289.Vitug, C., et al. Long-term outcomes and cost savings of office fulguration of papillary Ta low-grade bladder cancer. BJU Int, 2024. 133: 289. https://www.ncbi.nlm.nih.gov/pubmed/38105525
+
+290.Deacon, N.N., et al. Patient-Reported Outcomes after Laser Ablation for Bladder Tumours Compared to Transurethral Resection-A Prospective Study. Cancers (Basel), 2024. 16. https://www.ncbi.nlm.nih.gov/pubmed/38730582
+
+291.Holmang, S., et al. Recurrence and progression in low grade papillary urothelial tumors. J Urol, 1999. 162: 702. https://www.ncbi.nlm.nih.gov/pubmed/10458347
+
+292.Holmang, S., et al. Stage Ta-T1 bladder cancer: the relationship between findings at first followup cystoscopy and subsequent recurrence and progression. J Urol, 2002. 167: 1634. https://www.ncbi.nlm.nih.gov/pubmed/11912378
+
+293.Mariappan, P., et al. Pattern of recurrence changes in noninvasive bladder tumors observed during 2 decades. J Urol, 2007. 177: 867. https://www.ncbi.nlm.nih.gov/pubmed/17296362
+
+294.Holmang, S., et al. Stage progression in Ta papillary urothelial tumors: relationship to grade, immunohistochemical expression of tumor markers, mitotic frequency and DNA ploidy. J Urol, 2001. 165: 1124. https://www.ncbi.nlm.nih.gov/pubmed/11257652
+
+295.Mariappan, P., et al. A surveillance schedule for G1Ta bladder cancer allowing efficient use of check cystoscopy and safe discharge at 5 years based on a 25-year prospective database. J Urol, 2005. 173: 1108. https://www.ncbi.nlm.nih.gov/pubmed/15758711
+
+296.Millan-Rodriguez, F. Millan-Rodriguez F, et al. Primary superficial bladder cancer risk groups according to progression, mortality and recurrence. J Urol. 2000;164(3 Pt 1):680-684. J Urol, 2000. https://pubmed.ncbi.nlm.nih.gov/10954628/
+
+297.Soloway, M.S., et al. Expectant management of small, recurrent, noninvasive papillary bladder tumors. J Urol, 2003. 170: 438. https://www.ncbi.nlm.nih.gov/pubmed/12853794
+
+298.Miyake, M., et al. Active surveillance for nonmuscle invasive bladder cancer. Investig Clin Urol, 2016. 57 Suppl 1: S4. https://www.ncbi.nlm.nih.gov/pubmed/27326406
+
+299.Marcq, G., et al. Active surveillance for non-muscle invasive bladder cancer. Transl Androl Urol, 2019. 8: 54. https://www.ncbi.nlm.nih.gov/pubmed/30976569
+
+300.Contieri, R., et al. Long-term Follow-up and Factors Associated with Active Surveillance Failure for Patients with Non-muscle-invasive Bladder Cancer: The Bladder Cancer Italian Active Surveillance (BIAS) Experience. Eur Urol Oncol, 2022. 5: 251. https://www.ncbi.nlm.nih.gov/pubmed/34059485
+
+301.Hurle, R., et al. Active surveillance for low-risk non-muscle-invasive bladder cancer: mid-term results from the Bladder cancer Italian Active Surveillance (BIAS) project. BJU Int, 2016. 118: 935. https://www.ncbi.nlm.nih.gov/pubmed/27207387
+
+302.Tan, W.S., et al. International Bladder Cancer Group Intermediate-risk Nonmuscle-invasive Bladder Cancer Scoring System Predicts Outcomes of Patients on Active Surveillance. J Urol, 2023. 210: 763. https://www.ncbi.nlm.nih.gov/pubmed/37535836
+
+303.Li, M., et al. Continuous bladder irrigation after transurethral resection of non-muscle invasive bladder cancer for prevention of tumour recurrence: a systematic review. ANZ J Surg, 2021. 91: 2592. https://www.ncbi.nlm.nih.gov/pubmed/33890701
+
+304.Mahran, A., et al. Bladder irrigation after transurethral resection of superficial bladder cancer: a systematic review of the literature. Can J Urol, 2018. 25: 9579. https://www.ncbi.nlm.nih.gov/pubmed/30553282
+
+305.Zhou, Z., et al. Meta-analysis of efficacy and safety of continuous saline bladder irrigation compared with intravesical chemotherapy after transurethral resection of bladder tumors. World J Urol, 2019. 37: 1075. https://www.ncbi.nlm.nih.gov/pubmed/30612154
+
+306.Onishi, T., et al. Randomized Study of Short-time Continuous Saline Irrigation After Transurethral Resection in Non-muscle Invasive Bladder Cancer. Anticancer Res, 2025. 45: 2653. https://www.ncbi.nlm.nih.gov/pubmed/40425326
+
+307.Soloway, M.S., et al. Urothelial susceptibility to tumor cell implantation: influence of cauterization. Cancer, 1980. 46: 1158. https://www.ncbi.nlm.nih.gov/pubmed/7214299
+
+308.Pan, J.S., et al. Inhibition of implantation of murine bladder tumor by thiotepa in cauterized bladder. J Urol, 1989. 142: 1589. https://www.ncbi.nlm.nih.gov/pubmed/2511340
+
+309.Brocks, C.P., et al. Inhibition of tumor implantation by intravesical gemcitabine in a murine model of superficial bladder cancer. J Urol, 2005. 174: 1115. https://www.ncbi.nlm.nih.gov/pubmed/16094076
+
+310.Oosterlinck, W., et al. A prospective European Organization for Research and Treatment of Cancer Genitourinary Group randomized trial comparing transurethral resection followed by a single intravesical instillation of epirubicin or water in single stage Ta, T1 papillary carcinoma of the bladder. J Urol, 1993. 149: 749. https://www.ncbi.nlm.nih.gov/pubmed/8455236
+
+311.Sylvester, R.J., et al. Systematic Review and Individual Patient Data Meta-analysis of Randomized Trials Comparing a Single Immediate Instillation of Chemotherapy After Transurethral Resection with Transurethral Resection Alone in Patients with Stage pTa-pT1 Urothelial Carcinoma of the Bladder: Which Patients Benefit from the Instillation? Eur Urol, 2016. 69: 231. https://www.ncbi.nlm.nih.gov/pubmed/26091833
+
+312.Sylvester, R.J., et al. A single immediate postoperative instillation of chemotherapy decreases the risk of recurrence in patients with stage Ta T1 bladder cancer: a meta-analysis of published results of randomized clinical trials. J Urol, 2004. 171: 2186. https://www.ncbi.nlm.nih.gov/pubmed/15126782
+
+313.Abern, M.R., et al. Perioperative intravesical chemotherapy in non-muscle-invasive bladder cancer: a systematic review and meta-analysis. J Natl Compr Canc Netw, 2013. 11: 477. https://www.ncbi.nlm.nih.gov/pubmed/23584348
+
+314.Perlis, N., et al. Immediate post-transurethral resection of bladder tumor intravesical chemotherapy prevents non-muscle-invasive bladder cancer recurrences: an updated meta-analysis on 2548 patients and quality-of-evidence review. Eur Urol, 2013. 64: 421. https://www.ncbi.nlm.nih.gov/pubmed/23830475
+
+315.Messing, E.M., et al. Effect of Intravesical Instillation of Gemcitabine vs Saline Immediately Following Resection of Suspected Low-Grade Non-Muscle-Invasive Bladder Cancer on Tumor Recurrence: SWOG S0337 Randomized Clinical Trial. JAMA, 2018. 319: 1880. https://www.ncbi.nlm.nih.gov/pubmed/29801011
+
+316.Bohle, A., et al. Single postoperative instillation of gemcitabine in patients with non-muscle-invasive transitional cell carcinoma of the bladder: a randomised, double-blind, placebo-controlled phase III multicentre study. Eur Urol, 2009. 56: 495. https://www.ncbi.nlm.nih.gov/pubmed/19560257
+
+317.Pode, D., et al. The mechanism of human bladder tumor implantation in an in vitro model. J Urol, 1986. 136: 482. https://www.ncbi.nlm.nih.gov/pubmed/3525861
+
+318.Bohle, A., et al. Inhibition of bladder carcinoma cell adhesion by oligopeptide combinations in vitro and in vivo. J Urol, 2002. 167: 357. https://www.ncbi.nlm.nih.gov/pubmed/11743356
+
+319.Gofrit, O.N., et al. The natural history of bladder carcinoma in situ after initial response to bacillus Calmette-Guerin immunotherapy. Urol Oncol, 2009. 27: 258. https://www.ncbi.nlm.nih.gov/pubmed/18440839
+
+320.Karsh, L., et al. Double-Blind, Randomized, Placebo-controlled Studies Evaluating Apaziquone (E09, Qapzola) Intravesical Instillation Post Transurethral Resection of Bladder Tumors for the Treatment of Low-risk Non-Muscle Invasive Bladder Cancer. Bladder Cancer, 2018. 4: 293. https://www.ncbi.nlm.nih.gov/pubmed/30112440
+
+321.Oddens, J.R., et al. One immediate postoperative instillation of chemotherapy in low risk Ta, T1 bladder cancer patients. Is it always safe? Eur Urol, 2004. 46: 336. https://www.ncbi.nlm.nih.gov/pubmed/15306104
+
+322.Elmamoun, M.H., et al. Destruction of the bladder by single dose Mitomycin C for low-stage transitional cell carcinoma (TCC)--avoidance, recognition, management and consent. BJU Int, 2014. 113: E34. https://www.ncbi.nlm.nih.gov/pubmed/24053461
+
+323.Dunsmore, J., et al. What influences adherence to guidance for postoperative instillation of intravesical chemotherapy to patients with bladder cancer? BJU Int, 2021. 128: 225. https://www.ncbi.nlm.nih.gov/pubmed/33450116
+
+324.Tolley, D.A., et al. The effect of intravesical mitomycin C on recurrence of newly diagnosed superficial bladder cancer: a further report with 7 years of follow up. J Urol, 1996. 155: 1233. https://www.ncbi.nlm.nih.gov/pubmed/8632538
+
+325.Huncharek, M., et al. Impact of intravesical chemotherapy on recurrence rate of recurrent superficial transitional cell carcinoma of the bladder: results of a meta-analysis. Anticancer Res, 2001. 21: 765. https://www.ncbi.nlm.nih.gov/pubmed/11299841
+
+326.Bohle, A., et al. Intravesical bacille Calmette-Guerin versus mitomycin C in superficial bladder cancer: formal meta-analysis of comparative studies on tumor progression. Urology, 2004. 63: 682. https://www.ncbi.nlm.nih.gov/pubmed/15072879
+
+327.Sylvester, R.J., et al. Intravesical bacillus Calmette-Guerin reduces the risk of progression in patients with superficial bladder cancer: a meta-analysis of the published results of randomized clinical trials. J Urol, 2002. 168: 1964. https://www.ncbi.nlm.nih.gov/pubmed/12394686
+
+328.Malmstrom, P.U., et al. An individual patient data meta-analysis of the long-term outcome of randomised studies comparing intravesical mitomycin C versus bacillus Calmette-Guerin for non-muscle-invasive bladder cancer. Eur Urol, 2009. 56: 247. https://www.ncbi.nlm.nih.gov/pubmed/19409692
+
+329.Sylvester, R.J., et al. Long-term efficacy results of EORTC genito-urinary group randomized phase 3 study 30911 comparing intravesical instillations of epirubicin, bacillus Calmette-Guerin, and bacillus Calmette-Guerin plus isoniazid in patients with intermediate- and high-risk stage Ta T1 urothelial carcinoma of the bladder. Eur Urol, 2010. 57: 766. https://www.ncbi.nlm.nih.gov/pubmed/20034729
+
+330.Shang, P.F., et al. Intravesical Bacillus Calmette-Guerin versus epirubicin for Ta and T1 bladder cancer. Cochrane Database Syst Rev, 2011: CD006885. https://www.ncbi.nlm.nih.gov/pubmed/21563157
+
+331.Khene, Z.E., et al. Gemcitabine vs Bacillus Calmette-Guerin for Intravesical Therapy in Treatment-Naive Low-Grade Intermediate-Risk Nonmuscle-Invasive Bladder Cancer. J Urol, 2025. 213: 730. https://www.ncbi.nlm.nih.gov/pubmed/39929084
+
+332.Bosschieter, J., et al. Value of an Immediate Intravesical Instillation of Mitomycin C in Patients with Non-muscle-invasive Bladder Cancer: A Prospective Multicentre Randomised Study in 2243 patients. Eur Urol, 2018. 73: 226. https://www.ncbi.nlm.nih.gov/pubmed/28705539
+
+333.Bouffioux, C., et al. Intravesical adjuvant chemotherapy for superficial transitional cell bladder carcinoma: results of 2 European Organization for Research and Treatment of Cancer randomized trials with mitomycin C and doxorubicin comparing early versus delayed instillations and short-term versus long-term treatment. European Organization for Research and Treatment of Cancer Genitourinary Group. J Urol, 1995. 153: 934. https://www.ncbi.nlm.nih.gov/pubmed/7853578
+
+334.Kaasinen, E., et al. Factors explaining recurrence in patients undergoing chemoimmunotherapy regimens for frequently recurring superficial bladder carcinoma. Eur Urol, 2002. 42: 167. https://www.ncbi.nlm.nih.gov/pubmed/12160589
+
+335.Sylvester, R.J., et al. The schedule and duration of intravesical chemotherapy in patients with non-muscle-invasive bladder cancer: a systematic review of the published results of randomized clinical trials. Eur Urol, 2008. 53: 709. https://www.ncbi.nlm.nih.gov/pubmed/18207317
+
+336.Bosschieter, J., et al. An immediate, single intravesical instillation of mitomycin C is of benefit in patients with non-muscle-invasive bladder cancer irrespective of prognostic risk groups. Urol Oncol, 2018. 36: 400 e7. https://www.ncbi.nlm.nih.gov/pubmed/30064935
+
+337.Elsawy, A.A., et al. The value of immediate postoperative intravesical epirubicin instillation as an adjunct to standard adjuvant treatment in intermediate and high-risk non-muscle-invasive bladder cancer: A preliminary results of randomized controlled trial. Urol Oncol, 2019. 37: 179 e9. https://www.ncbi.nlm.nih.gov/pubmed/30448030
+
+338.Tabayoyong, W.B., et al. Systematic Review on the Utilization of Maintenance Intravesical Chemotherapy in the Management of Non-muscle-invasive Bladder Cancer. Eur Urol Focus, 2018. 4: 512. https://www.ncbi.nlm.nih.gov/pubmed/30190111
+
+339.Au, J.L., et al. Methods to improve efficacy of intravesical mitomycin C: results of a randomized phase III trial. J Natl Cancer Inst, 2001. 93: 597. https://www.ncbi.nlm.nih.gov/pubmed/11309436
+
+340.Miyata, Y., et al. Intravesical mitomycin C (MMC) and MMC + cytosine arabinoside for non-muscle-invasive bladder cancer: a randomised clinical trial. BJU Int, 2022. 129: 534. https://www.ncbi.nlm.nih.gov/pubmed/34383381
+
+341.Myers, A.L., et al. Solubilization and Stability of Mitomycin C Solutions Prepared for Intravesical Administration. Drugs R D, 2017. 17: 297. https://www.ncbi.nlm.nih.gov/pubmed/28470465
+
+342.Giesbers, A.A., et al. Recurrence of superficial bladder carcinoma after intravesical instillation of mitomycin-C. Comparison of exposure times. Br J Urol, 1989. 63: 176. https://www.ncbi.nlm.nih.gov/pubmed/2495144
+
+343.Kuroda, M., et al. Effect of prophylactic treatment with intravesical epirubicin on recurrence of superficial bladder cancer--The 6th Trial of the Japanese Urological Cancer Research Group (JUCRG): a randomized trial of intravesical epirubicin at dose of 20mg/40ml, 30mg/40ml, 40mg/40ml. Eur Urol, 2004. 45: 600. https://www.ncbi.nlm.nih.gov/pubmed/15082202
+
+344.Zhao, H., et al. Intravesical Chemohyperthermia vs. Bacillus Calmette-Guerin Instillation for Intermediate- and High-Risk Non-muscle Invasive Bladder Cancer: A Systematic Review and Meta-Analysis. Front Surg, 2021. 8: 775527. https://www.ncbi.nlm.nih.gov/pubmed/34888347
+
+345.Arends, T.J., et al. Combined chemohyperthermia: 10-year single center experience in 160 patients with nonmuscle invasive bladder cancer. J Urol, 2014. 192: 708. https://www.ncbi.nlm.nih.gov/pubmed/24704017
+
+346.Arends, T.J., et al. Results of a Randomised Controlled Trial Comparing Intravesical Chemohyperthermia with Mitomycin C Versus Bacillus Calmette-Guerin for Adjuvant Treatment of Patients with Intermediate- and High-risk Non-Muscle-invasive Bladder Cancer. Eur Urol, 2016. 69: 1046. https://www.ncbi.nlm.nih.gov/pubmed/26803476
+
+347.Tan, W.S., et al. Adjuvant Intravesical Chemohyperthermia Versus Passive Chemotherapy in Patients with Intermediate-risk Non-muscle-invasive Bladder Cancer (HIVEC-II): A Phase 2, Open-label, Randomised Controlled Trial. Eur Urol, 2023. 83: 497. https://www.ncbi.nlm.nih.gov/pubmed/35999119
+
+348.Angulo, J.C., et al. Hyperthermic Mitomycin C in Intermediate-risk Non-muscle-invasive Bladder Cancer: Results of the HIVEC-1 Trial. Eur Urol Oncol, 2023. 6: 58. https://www.ncbi.nlm.nih.gov/pubmed/36435738
+
+349.Sachan, A., et al. A 3-arm randomized control trial to compare the efficacy of re-circulant hyperthermic intravesical chemotherapy versus conventional intravesical mitomycin C and BCG therapy for intermediate-risk non-muscle invasive bladder cancer. World J Urol, 2024. 42: 609. https://www.ncbi.nlm.nih.gov/pubmed/39480527
+
+350.Guerrero-Ramos, F., et al. Recirculating hyperthermic intravesical chemotherapy with mitomycin C (HIVEC) versus BCG in high-risk non-muscle-invasive bladder cancer: results of the HIVEC-HR randomized clinical trial. World J Urol, 2022. 40: 999. https://www.ncbi.nlm.nih.gov/pubmed/35037963
+
+351.Di Stasi, S.M., et al. Sequential BCG and electromotive mitomycin versus BCG alone for high-risk superficial bladder cancer: a randomised controlled trial. Lancet Oncol, 2006. 7: 43. https://www.ncbi.nlm.nih.gov/pubmed/16389183
+
+352.Shelley, M.D., et al. A systematic review of intravesical bacillus Calmette-Guerin plus transurethral resection vs transurethral resection alone in Ta and T1 bladder cancer. BJU Int, 2001. 88: 209. https://www.ncbi.nlm.nih.gov/pubmed/11488731
+
+353.Han, R.F., et al. Can intravesical bacillus Calmette-Guerin reduce recurrence in patients with superficial bladder cancer? A meta-analysis of randomized trials. Urology, 2006. 67: 1216. https://www.ncbi.nlm.nih.gov/pubmed/16765182
+
+354.Shelley, M.D., et al. Intravesical bacillus Calmette-Guerin is superior to mitomycin C in reducing tumour recurrence in high-risk superficial bladder cancer: a meta-analysis of randomized trials. BJU Int, 2004. 93: 485. https://www.ncbi.nlm.nih.gov/pubmed/15008714
+
+355.Bohle, A., et al. Intravesical bacillus Calmette-Guerin versus mitomycin C for superficial bladder cancer: a formal meta-analysis of comparative studies on recurrence and toxicity. J Urol, 2003. 169: 90. https://www.ncbi.nlm.nih.gov/pubmed/12478111
+
+356.Duchek, M., et al. Bacillus Calmette-Guerin is superior to a combination of epirubicin and interferon-alpha2b in the intravesical treatment of patients with stage T1 urinary bladder cancer. A prospective, randomized, Nordic study. Eur Urol, 2010. 57: 25. https://www.ncbi.nlm.nih.gov/pubmed/19819617
+
+357.Jarvinen, R., et al. Long-term efficacy of maintenance bacillus Calmette-Guerin versus maintenance mitomycin C instillation therapy in frequently recurrent TaT1 tumours without carcinoma in situ: a subgroup analysis of the prospective, randomised FinnBladder I study with a 20-year follow-up. Eur Urol, 2009. 56: 260. https://www.ncbi.nlm.nih.gov/pubmed/19395154
+
+358.Schmidt, S., et al. Intravesical Bacillus Calmette-Guerin versus mitomycin C for Ta and T1 bladder cancer. Cochrane Database Syst Rev, 2020. 1: CD011935. https://www.ncbi.nlm.nih.gov/pubmed/31912907
+
+359.Longoni, M., et al. Oncological Outcomes in Bacillus Calmette-Guerin-naive High-risk Non-muscle-invasive Bladder Cancer Patients: A Systematic Review on Current Treatment Strategies and Future Perspectives. Eur Urol Oncol, 2025. https://www.ncbi.nlm.nih.gov/pubmed/40204534
+
+360.Huncharek, M., et al. The influence of intravesical therapy on progression of superficial transitional cell carcinoma of the bladder: a metaanalytic comparison of chemotherapy versus bacilli Calmette-Guerin immunotherapy. Am J Clin Oncol, 2004. 27: 522. https://www.ncbi.nlm.nih.gov/pubmed/15596924
+
+361.Oddens, J.R., et al. The effect of age on the efficacy of maintenance bacillus Calmette-Guerin relative to maintenance epirubicin in patients with stage Ta T1 urothelial bladder cancer: results from EORTC genito-urinary group study 30911. Eur Urol, 2014. 66: 694. https://www.ncbi.nlm.nih.gov/pubmed/24948466
+
+362.Miyake, M., et al. Outcomes of subsequent non-muscle-invasive bladder cancer treated with intravesical Bacillus Calmette-Guerin after radical nephroureterectomy for upper urinary tract urothelial carcinoma. BJU Int, 2018. 121: 764. https://www.ncbi.nlm.nih.gov/pubmed/29281857
+
+363.Rentsch, C.A., et al. Bacillus Calmette-Guerin strain differences have an impact on clinical outcome in bladder cancer immunotherapy. Eur Urol, 2014. 66: 677. https://www.ncbi.nlm.nih.gov/pubmed/24674149
+
+364.Sengiku, A., et al. A prospective comparative study of intravesical bacillus Calmette-Guerin therapy with the Tokyo or Connaught strain for nonmuscle invasive bladder cancer. J Urol, 2013. 190: 50. https://www.ncbi.nlm.nih.gov/pubmed/23376145
+
+365.Boehm, B.E., et al. Efficacy of bacillus Calmette-Guerin Strains for Treatment of Nonmuscle Invasive Bladder Cancer: A Systematic Review and Network Meta-Analysis. J Urol, 2017. 198: 503. https://www.ncbi.nlm.nih.gov/pubmed/28286068
+
+366.Unda-Urzaiz, M., et al. Safety and efficacy of various strains of bacille Calmette-Guerin in the treatment of bladder tumours in standard clinical practice. Actas Urol Esp (Engl Ed), 2018. 42: 238. https://www.ncbi.nlm.nih.gov/pubmed/29295749
+
+367.Steinberg, R.L., et al. Bacillus Calmette-Guerin strain may not effect recurrence-free survival when used intravesically with interferon-alpha2b for non-muscle-invasive bladder cancer. Urol Oncol, 2017. 35: 201. https://www.ncbi.nlm.nih.gov/pubmed/28041998
+
+368.van der Meijden, A.P., et al. Maintenance Bacillus Calmette-Guerin for Ta T1 bladder tumors is not associated with increased toxicity: results from a European Organisation for Research and Treatment of Cancer Genito-Urinary Group Phase III Trial. Eur Urol, 2003. 44: 429. https://www.ncbi.nlm.nih.gov/pubmed/14499676
+
+369.Larsen, E.S., et al. The epidemiology of bacille Calmette-Guerin infections after bladder instillation from 2002 through 2017: a nationwide retrospective cohort study. BJU Int, 2019. 124: 910. https://www.ncbi.nlm.nih.gov/pubmed/31054198
+
+370.Holmberg, L., et al. Cumulative incidence of and risk factors for BCG infection after adjuvant BCG instillations. BJU Int, 2024. 134: 229. https://www.ncbi.nlm.nih.gov/pubmed/38403809
+
+371.Brausi, M., et al. Side effects of Bacillus Calmette-Guerin (BCG) in the treatment of intermediate- and high-risk Ta, T1 papillary carcinoma of the bladder: results of the EORTC genito-urinary cancers group randomised phase 3 study comparing one-third dose with full dose and 1 year with 3 years of maintenance BCG. Eur Urol, 2014. 65: 69. https://www.ncbi.nlm.nih.gov/pubmed/23910233
+
+372.Grimm, M.O., et al. Treatment of High-grade Non-muscle-invasive Bladder Carcinoma by Standard Number and Dose of BCG Instillations Versus Reduced Number and Standard Dose of BCG Instillations: Results of the European Association of Urology Research Foundation Randomised Phase III Clinical Trial “NIMBUS”. Eur Urol, 2020. 78: 690. https://www.ncbi.nlm.nih.gov/pubmed/32446864
+
+373.Shore, N.D., et al. Sasanlimab plus BCG in BCG-naive, high-risk non-muscle invasive bladder cancer: the randomized phase 3 CREST trial. Nat Med, 2025. 31: 2806. https://www.ncbi.nlm.nih.gov/pubmed/40450141
+
+374.Oddens, J.R., et al. Increasing age is not associated with toxicity leading to discontinuation of treatment in patients with urothelial non-muscle-invasive bladder cancer randomised to receive 3 years of maintenance bacille Calmette-Guerin: results from European Organisation for Research and Treatment of Cancer Genito-Urinary Group study 30911. BJU Int, 2016. 118: 423. https://www.ncbi.nlm.nih.gov/pubmed/26945890
+
+375.Danielsson, G., et al. Bladder health in patients treated with BCG instillations for T1G2-G3 bladder cancer - a follow-up five years after the start of treatment. Scand J Urol, 2018. 52: 377. https://www.ncbi.nlm.nih.gov/pubmed/30616479
+
+376.Herr, H.W. Intravesical bacillus Calmette-Guerin outcomes in patients with bladder cancer and asymptomatic bacteriuria. J Urol, 2012. 187: 435. https://www.ncbi.nlm.nih.gov/pubmed/22177154
+
+377.Colombel, M., et al. The effect of ofloxacin on bacillus calmette-guerin induced toxicity in patients with superficial bladder cancer: results of a randomized, prospective, double-blind, placebo controlled, multicenter study. J Urol, 2006. 176: 935. https://www.ncbi.nlm.nih.gov/pubmed/16890660
+
+378.Damiano, R., et al. Short-term administration of prulifloxacin in patients with nonmuscle-invasive bladder cancer: an effective option for the prevention of bacillus Calmette-Guerin-induced toxicity? BJU Int, 2009. 104: 633. https://www.ncbi.nlm.nih.gov/pubmed/19298412
+
+379.Numakura, K., et al. Effect of Levofloxacin on the Efficacy and Adverse Events in Intravesical Bacillus Calmette-Guerin Treatment for Bladder Cancer: Results of a Randomized, Prospective, Multicenter Study. Eur Urol Focus, 2022. 8: 1666. https://www.ncbi.nlm.nih.gov/pubmed/35717522
+
+380.Wong, C.H., et al. A Systematic Review and Meta-analysis of the Clinical Impact of Prophylactic Quinolones with Adjuvant Bacillus Calmette-Guerin Instillation for Non-muscle-invasive Bladder Cancer. Eur Urol Oncol, 2025. 8: 571. https://www.ncbi.nlm.nih.gov/pubmed/39880747
+
+381.Lamm, D.L., et al. Incidence and treatment of complications of bacillus Calmette-Guerin intravesical therapy in superficial bladder cancer. J Urol, 1992. 147: 596. https://www.ncbi.nlm.nih.gov/pubmed/1538436
+
+382.Messing, E.M. BCG in Immunocompromised Patients: Is it effective? Is it safe? Bladder Cancer, 2024. 10: 89. https://www.ncbi.nlm.nih.gov/pubmed/38993531
+
+383.Palou, J., et al. Intravesical bacillus Calmette-Guerin for the treatment of superficial bladder cancer in renal transplant patients. Transplantation, 2003. 76: 1514. https://www.ncbi.nlm.nih.gov/pubmed/14657696
+
+384.Yossepowitch, O., et al. Safety and efficacy of intravesical bacillus Calmette-Guerin instillations in steroid treated and immunocompromised patients. J Urol, 2006. 176: 482. https://www.ncbi.nlm.nih.gov/pubmed/16813873
+
+385.Roumeguere, T., et al. Bacillus Calmette-Guerin therapy in non-muscle-invasive bladder carcinoma after renal transplantation for end-stage aristolochic acid nephropathy. Transpl Int, 2015. 28: 199. https://www.ncbi.nlm.nih.gov/pubmed/25377421
+
+386.Jue, J.S., et al. Risk factors, management, and survival of bladder cancer after kidney transplantation. Actas Urol Esp (Engl Ed), 2021. 45: 427. https://www.ncbi.nlm.nih.gov/pubmed/34147429
+
+387.Mori, K., et al. Low compliance to guidelines in nonmuscle-invasive bladder carcinoma: A systematic review. Urol Oncol, 2020. 38: 774. https://www.ncbi.nlm.nih.gov/pubmed/32654948
+
+388.Thoft Jensen, B., et al. EAUN Guidelines on Intravesical instillation with mitomycin C and bacillus Calmette-Guérin in non-muscle-invasive bladder cancer. 2026. https://nurses.uroweb.org/guidelines
+
+389.Witjes JA, P.J., Soloway M, et al. . Clinical practice recommendations for the prevention and management of intravesical therapy-associated adverse events. Eur Urol Suppl, 2008. 7: 667. https://www.sciencedirect.com/science/article/pii/S1569905608001103
+
+390.Palou, J., et al. Intravesical treatment of severe bacillus Calmette-Guerin cystitis. Int Urol Nephrol, 2001. 33: 485. https://www.ncbi.nlm.nih.gov/pubmed/12230277
+
+391.Falkensammer, C., et al. Late occurrence of bilateral tuberculous-like epididymo-orchitis after intravesical bacille Calmette-Guerin therapy for superficial bladder carcinoma. Urology, 2005. 65: 175. https://www.ncbi.nlm.nih.gov/pubmed/15667898
+
+392.Tinazzi, E., et al. Reactive arthritis following BCG immunotherapy for urinary bladder carcinoma: a systematic review. Rheumatol Int, 2006. 26: 481. https://www.ncbi.nlm.nih.gov/pubmed/16220289
+
+393.Sun, K., et al. Mirabegron improves the irritative symptoms caused by BCG immunotherapy after transurethral resection of bladder tumors. Cancer Med, 2021. 10: 7534. https://www.ncbi.nlm.nih.gov/pubmed/34547193
+
+394.Chen, Z., et al. Comparison of treatments for preventing lower urinary tract symptoms after BCG immunotherapy of bladder tumors : a systematic review and network meta-analysis. BMC Urol, 2025. 25: 19. https://www.ncbi.nlm.nih.gov/pubmed/39875945
+
+395.European Medicines Agency. Disabling and potentially permanent side effects lead to suspension or restrictions of quinolone and fluoroquinolone antibiotics. 2019. 2022. https://www.ema.europa.eu/en/medicines/human/referrals/quinolone-fluoroquinolone-containing-medicinal-products
+
+396.Bonkat, G., et al. EAU Guidelines on Urological Infections. Edn. presented at the 41st EAU Annual Congress London 2026, 2026. https://uroweb.org/guidelines/urological-infections
+
+397.Perez-Jacoiste Asin, M.A., et al. Bacillus Calmette-Guerin (BCG) infection following intravesical BCG administration as adjunctive therapy for bladder cancer: incidence, risk factors, and outcome in a single-institution series and review of the literature. Medicine (Baltimore), 2014. 93: 236. https://www.ncbi.nlm.nih.gov/pubmed/25398060
+
+398.Durek, C., et al. The fate of bacillus Calmette-Guerin after intravesical instillation. J Urol, 2001. 165: 1765. https://www.ncbi.nlm.nih.gov/pubmed/11342972
+
+399.Morales, A., et al. Intracavitary Bacillus Calmette-Guerin in the treatment of superficial bladder tumors. J Urol, 1976. 116: 180. https://www.ncbi.nlm.nih.gov/pubmed/820877
+
+400.Lamm, D.L., et al. Maintenance bacillus Calmette-Guerin immunotherapy for recurrent TA, T1 and carcinoma in situ transitional cell carcinoma of the bladder: a randomized Southwest Oncology Group Study. J Urol, 2000. 163: 1124. https://www.ncbi.nlm.nih.gov/pubmed/10737480
+
+401.Martinez-Pineiro, L., et al. Maintenance Therapy with 3-monthly Bacillus Calmette-Guerin for 3 Years is Not Superior to Standard Induction Therapy in High-risk Non-muscle-invasive Urothelial Bladder Carcinoma: Final Results of Randomised CUETO Study 98013. Eur Urol, 2015. 68: 256. https://www.ncbi.nlm.nih.gov/pubmed/25794457
+
+402.Oddens, J., et al. Final results of an EORTC-GU cancers group randomized study of maintenance bacillus Calmette-Guerin in intermediate- and high-risk Ta, T1 papillary carcinoma of the urinary bladder: one-third dose versus full dose and 1 year versus 3 years of maintenance. Eur Urol, 2013. 63: 462. https://www.ncbi.nlm.nih.gov/pubmed/23141049
+
+403.Martinez-Pineiro, J.A., et al. Long-term follow-up of a randomized prospective trial comparing a standard 81 mg dose of intravesical bacille Calmette-Guerin with a reduced dose of 27 mg in superficial bladder cancer. BJU Int, 2002. 89: 671. https://www.ncbi.nlm.nih.gov/pubmed/11966623
+
+404.Martinez-Pineiro, J.A., et al. Has a 3-fold decreased dose of bacillus Calmette-Guerin the same efficacy against recurrences and progression of T1G3 and Tis bladder tumors than the standard dose? Results of a prospective randomized trial. J Urol, 2005. 174: 1242. https://www.ncbi.nlm.nih.gov/pubmed/16145378
+
+405.Ojea, A., et al. A multicentre, randomised prospective trial comparing three intravesical adjuvant therapies for intermediate-risk superficial bladder cancer: low-dose bacillus Calmette-Guerin (27 mg) versus very low-dose bacillus Calmette-Guerin (13.5 mg) versus mitomycin C. Eur Urol, 2007. 52: 1398. https://www.ncbi.nlm.nih.gov/pubmed/17485161
+
+406.Choi, S.Y., et al. Low-dose versus standard-dose bacille Calmette-Guerin for non-muscle-invasive bladder cancer: Systematic review and meta-analysis of randomized controlled trials. Investig Clin Urol, 2022. 63: 140. https://www.ncbi.nlm.nih.gov/pubmed/35244987
+
+407.Solsona, E., et al. Sequential combination of mitomycin C plus bacillus Calmette-Guerin (BCG) is more effective but more toxic than BCG alone in patients with non-muscle-invasive bladder cancer in intermediate- and high-risk patients: final outcome of CUETO 93009, a randomized prospective trial. Eur Urol, 2015. 67: 508. https://www.ncbi.nlm.nih.gov/pubmed/25301758
+
+408.Cui, J., et al. Combination of Intravesical Chemotherapy and Bacillus Calmette-Guerin Versus Bacillus Calmette-Guerin Monotherapy in Intermediate- and High-risk Nonmuscle Invasive Bladder Cancer: A Systematic Review and Meta-analysis. Medicine (Baltimore), 2016. 95: e2572. https://www.ncbi.nlm.nih.gov/pubmed/26817914
+
+409.Huang, D., et al. Combination of Intravesical Bacille Calmette-Guerin and Chemotherapy vs. Bacille Calmette-Guerin Alone in Non-muscle Invasive Bladder Cancer: A Meta-Analysis. Front Oncol, 2019. 9: 121. https://www.ncbi.nlm.nih.gov/pubmed/30881921
+
+410.Shepherd, A.R., et al. Intravesical Bacillus Calmette-Guerin with interferon-alpha versus intravesical Bacillus Calmette-Guerin for treating non-muscle-invasive bladder cancer. Cochrane Database Syst Rev, 2017. 3: CD012112. https://www.ncbi.nlm.nih.gov/pubmed/28268259
+
+411.Jarvinen, R., et al. Long-term outcome of patients with frequently recurrent non-muscle-invasive bladder carcinoma treated with one perioperative plus four weekly instillations of mitomycin C followed by monthly bacillus Calmette-Guerin (BCG) or alternating BCG and interferon-alpha2b instillations: prospective randomised FinnBladder-4 study. Eur Urol, 2015. 68: 611. https://www.ncbi.nlm.nih.gov/pubmed/25748117
+
+412.Marttila, T., et al. Intravesical Bacillus Calmette-Guerin Versus Combination of Epirubicin and Interferon-alpha2a in Reducing Recurrence of Non-Muscle-invasive Bladder Carcinoma: FinnBladder-6 Study. Eur Urol, 2016. 70: 341. https://www.ncbi.nlm.nih.gov/pubmed/27085624
+
+413.Delto, J. Preclinical analyses of intravesical chemotherapy for prevention of bladder cancer.Oncotarget, 2013. 2: 269. https://pubmed.ncbi.nlm.nih.gov/23563166/
+
+414.Steinberg, R.L., et al. Sequential Intravesical Gemcitabine and Docetaxel for the Salvage Treatment of Non-Muscle Invasive Bladder Cancer. Bladder Cancer, 2015. 1: 65. https://www.ncbi.nlm.nih.gov/pubmed/30561441
+
+415.McElree, I.M., et al. Sequential Intravesical Valrubicin and Docetaxel for the Salvage Treatment of Non-Muscle-Invasive Bladder Cancer. J Urol, 2022. 208: 969. https://www.ncbi.nlm.nih.gov/pubmed/35830552
+
+416.Steinberg, R.L., et al. Multi-Institution Evaluation of Sequential Gemcitabine and Docetaxel as Rescue Therapy for Nonmuscle Invasive Bladder Cancer. J Urol, 2020. 203: 902. https://www.ncbi.nlm.nih.gov/pubmed/31821066
+
+417.Taylor, J., et al. Oncologic Outcomes of Sequential Intravesical Gemcitabine and Docetaxel Compared with Bacillus Calmette-Guerin in Patients with Bacillus Calmette-Guerin-Unresponsive Non-Muscle Invasive Bladder Cancer. Eur Urol Oncol, 2025. 8: 469. https://www.ncbi.nlm.nih.gov/pubmed/39694798
+
+418.Steinberg, R.L., et al. Intravesical sequential gemcitabine and docetaxel versus bacillus calmette-guerin (BCG) plus interferon in patients with recurrent non-muscle invasive bladder cancer following a single induction course of BCG. Urol Oncol, 2022. 40: 9 e1. https://www.ncbi.nlm.nih.gov/pubmed/34092482
+
+419.McElree, I.M., et al. Sequential Intravesical Gemcitabine and Docetaxel for bacillus Calmette-Guerin-Naive High-Risk Nonmuscle-Invasive Bladder Cancer. J Urol, 2022. 208: 589. https://www.ncbi.nlm.nih.gov/pubmed/35892270
+
+420.Kolanukuduru, K.P., et al. Comparative Effectiveness of Bacillus Calmette-Guerin and Sequential Intravesical Gemcitabine and Docetaxel for Treatment-naive Intermediate-risk Non-muscle-invasive Bladder Cancer. Eur Urol Focus, 2025. 11: 142. https://www.ncbi.nlm.nih.gov/pubmed/39306526
+
+421.Maas, M., et al. PD-L1 Expression in High-Risk Non-Muscle-Invasive Bladder Cancer Is Influenced by Intravesical Bacillus Calmette-Guerin (BCG) Therapy. Cancers (Basel), 2024. 16. https://www.ncbi.nlm.nih.gov/pubmed/38611034
+
+422.De Santis, M., et al. Durvalumab in combination with BCG for BCG-naive, high-risk, non-muscle-invasive bladder cancer (POTOMAC): final analysis of a randomised, open-label, phase 3 trial. Lancet, 2025. 406: 2221. https://www.ncbi.nlm.nih.gov/pubmed/41115436
+
+423.Roupret, M., et al. ALBAN (GETUG-AFU 37): a phase III, randomized, open-label international trial of intravenous atezolizumab and intravesical Bacillus Calmette-Guerin (BCG) versus BCG alone in BCG-naive high-risk, non-muscle-invasive bladder cancer (NMIBC). Ann Oncol, 2025. https://www.ncbi.nlm.nih.gov/pubmed/41110692
+
+424.Di Stasi, S.M., et al. Electromotive instillation of mitomycin immediately before transurethral resection for patients with primary urothelial non-muscle invasive bladder cancer: a randomised controlled trial. Lancet Oncol, 2011. 12: 871. https://www.ncbi.nlm.nih.gov/pubmed/21831711
+
+425.Carrion, D.M., et al. The benefit of a neoadjuvant instillation of chemotherapy in non-muscle invasive bladder cancer: Interim analysis of the PRECAVE randomized clinical trial. Arch Esp Urol, 2021. 74: 883. https://www.ncbi.nlm.nih.gov/pubmed/34726625
+
+426.Lee, H.W., et al. Clinical Efficacy of Neoadjuvant Intravesical Mitomycin-C Therapy Immediately Before Transurethral Resection of Bladder Tumor in Patients With Nonmuscle-invasive Bladder Cancer: Preliminary Results of a Prospective, Randomized Phase II Study. J Urol, 2023. 209: 131. https://www.ncbi.nlm.nih.gov/pubmed/36250938
+
+427.Popert, R.J., et al. Superficial bladder cancer: the response of a marker tumour to a single intravesical instillation of epirubicin. Br J Urol, 1994. 74: 195. https://www.ncbi.nlm.nih.gov/pubmed/7921938
+
+428.Mostafid, A.H., et al. CALIBER: a phase II randomized feasibility trial of chemoablation with mitomycin-C vs surgical management in low-risk non-muscle-invasive bladder cancer. BJU Int, 2020. 125: 817. https://www.ncbi.nlm.nih.gov/pubmed/32124514
+
+429.Lindgren, M.S., et al. DaBlaCa-13 Study: Oncological Outcome of Short-Term, Intensive Chemoresection With Mitomycin in Nonmuscle Invasive Bladder Cancer: Primary Outcome of a Randomized Controlled Trial. J Clin Oncol, 2023. 41: 206. https://www.ncbi.nlm.nih.gov/pubmed/36223555
+
+430.Prasad, S.M., et al. Treatment of Low-grade Intermediate-risk Nonmuscle-invasive Bladder Cancer With UGN-102 +/- Transurethral Resection of Bladder Tumor Compared to Transurethral Resection of Bladder Tumor Monotherapy: A Randomized, Controlled, Phase 3 Trial (ATLAS). J Urol, 2023. 210: 619. https://www.ncbi.nlm.nih.gov/pubmed/37548555
+
+431.Prasad, S.M., et al. Primary Chemoablation of Recurrent Low-Grade Intermediate-Risk Nonmuscle-Invasive Bladder Cancer With UGN-102: A Single-Arm, Open-Label, Phase 3 Trial (ENVISION). J Urol, 2024: 101097JU0000000000004296. https://www.ncbi.nlm.nih.gov/pubmed/39446087
+
+432.Yanagisawa, T., et al. A Systematic Review and Meta-analysis of Chemoablation for Non-muscle-invasive Bladder Cancer. Eur Urol Focus, 2023. 9: 463. https://www.ncbi.nlm.nih.gov/pubmed/36517409
+
+433.Moschini, M., et al. Comparing long-term outcomes of primary and progressive carcinoma invading bladder muscle after radical cystectomy. BJU Int, 2016. 117: 604. https://www.ncbi.nlm.nih.gov/pubmed/25851271
+
+434.Schrier, B.P., et al. Prognosis of muscle-invasive bladder cancer: difference between primary and progressive tumours and implications for therapy. Eur Urol, 2004. 45: 292. https://www.ncbi.nlm.nih.gov/pubmed/15036673
+
+435.Kamat, A.M., et al. The case for early cystectomy in the treatment of nonmuscle invasive micropapillary bladder carcinoma. J Urol, 2006. 175: 881. https://www.ncbi.nlm.nih.gov/pubmed/16469571
+
+436.Scilipoti, P., et al. Outcomes of BCG vs upfront radical cystectomy for high-risk non-muscle-invasive bladder cancer. BJU Int, 2025. 136: 47. https://www.ncbi.nlm.nih.gov/pubmed/39967051
+
+437.Tillu, N., et al. Long-term multicentre analysis of robot-assisted radical cystectomy for non-muscle-invasive bladder cancer. BJU Int, 2025. 136: 545. https://www.ncbi.nlm.nih.gov/pubmed/39980082
+
+438.Raj, G.V., et al. Treatment paradigm shift may improve survival of patients with high risk superficial bladder cancer. J Urol, 2007. 177: 1283. https://www.ncbi.nlm.nih.gov/pubmed/17382713
+
+439.Stein, J.P., et al. Radical cystectomy in the treatment of invasive bladder cancer: long-term results in 1,054 patients. J Clin Oncol, 2001. 19: 666. https://www.ncbi.nlm.nih.gov/pubmed/11157016
+
+440.Hautmann, R.E., et al. Radical cystectomy for urothelial carcinoma of the bladder without neoadjuvant or adjuvant therapy: long-term results in 1100 patients. Eur Urol, 2012. 61: 1039. https://www.ncbi.nlm.nih.gov/pubmed/22381169
+
+441.Shariat, S.F., et al. Outcomes of radical cystectomy for transitional cell carcinoma of the bladder: a contemporary series from the Bladder Cancer Research Consortium. J Urol, 2006. 176: 2414. https://www.ncbi.nlm.nih.gov/pubmed/17085118
+
+442.Longoni, M., et al. Contemporary outcomes in non-muscle-invasive bladder cancer: a large European multicentre study. BJU Int, 2025. https://www.ncbi.nlm.nih.gov/pubmed/40400172
+
+443.Rieken, M., et al. Long-term cancer-specific outcomes of TaG1 urothelial carcinoma of the bladder. Eur Urol, 2014. 65: 201. https://www.ncbi.nlm.nih.gov/pubmed/23998688
+
+444.Scilipoti, P., et al. The Role of Mitomycin C in Intermediate-risk Non-muscle-invasive Bladder Cancer: A Systematic Review and Meta-analysis. Eur Urol Oncol, 2024. https://www.ncbi.nlm.nih.gov/pubmed/38902138
+
+445.Subiela, J.D., et al. Unlocking the Potential of Adequate Bacillus Calmette-Guerin Immunotherapy in Very-high-risk Non-muscle-invasive Bladder Carcinoma: A Multicenter Analysis of Oncological Outcomes and Risk Dynamics. Eur Urol Oncol, 2024. 7: 1367. https://www.ncbi.nlm.nih.gov/pubmed/38355375
+
+446.Jakse, G., et al. Intravesical BCG in patients with carcinoma in situ of the urinary bladder: long-term results of EORTC GU Group phase II protocol 30861. Eur Urol, 2001. 40: 144. https://www.ncbi.nlm.nih.gov/pubmed/11528191
+
+447.Sylvester, R.J., et al. Bacillus calmette-guerin versus chemotherapy for the intravesical treatment of patients with carcinoma in situ of the bladder: a meta-analysis of the published results of randomized clinical trials. J Urol, 2005. 174: 86. https://www.ncbi.nlm.nih.gov/pubmed/15947584
+
+448.Kaasinen, E., et al. Seventeen-year follow-up of the prospective randomized Nordic CIS study: BCG monotherapy versus alternating therapy with mitomycin C and BCG in patients with carcinoma in situ of the urinary bladder. Scand J Urol, 2016. 50: 360. https://www.ncbi.nlm.nih.gov/pubmed/27603424
+
+449.Solsona, E., et al. Extravesical involvement in patients with bladder carcinoma in situ: biological and therapy implications. J Urol, 1996. 155: 895. https://www.ncbi.nlm.nih.gov/pubmed/8583601
+
+450.Sylvester, R.J., et al. High-grade Ta urothelial carcinoma and carcinoma in situ of the bladder. Urology, 2005. 66: 90. https://www.ncbi.nlm.nih.gov/pubmed/16399418
+
+451.Palou, J., et al. Urothelial carcinoma of the prostate. Urology, 2007. 69: 50. https://www.ncbi.nlm.nih.gov/pubmed/17280908
+
+452.Palou Redorta, J., et al. Intravesical instillations with bacillus calmette-guerin for the treatment of carcinoma in situ involving prostatic ducts. Eur Urol, 2006. 49: 834. https://www.ncbi.nlm.nih.gov/pubmed/16426729
+
+453.Herr, H.W., et al. BCG-refractory vs. BCG-relapsing non-muscle-invasive bladder cancer: a prospective cohort outcomes study. Urol Oncol, 2015. 33: 108 e1. https://www.ncbi.nlm.nih.gov/pubmed/25813144
+
+454.Solsona, E., et al. The 3-month clinical response to intravesical therapy as a predictive factor for progression in patients with high risk superficial bladder cancer. J Urol, 2000. 164: 685. https://www.ncbi.nlm.nih.gov/pubmed/10953125
+
+455.Lerner, S.P., et al. Failure to achieve a complete response to induction BCG therapy is associated with increased risk of disease worsening and death in patients with high risk non-muscle invasive bladder cancer. Urol Oncol, 2009. 27: 155. https://www.ncbi.nlm.nih.gov/pubmed/18367117
+
+456.Kamat, A.M., et al. Definitions, End Points, and Clinical Trial Designs for Non-Muscle-Invasive Bladder Cancer: Recommendations From the International Bladder Cancer Group. J Clin Oncol, 2016. 34: 1935. https://www.ncbi.nlm.nih.gov/pubmed/26811532
+
+457.U.S. Department of Health and Human Services Food and Drug Administration. BCG-Unresponsive Nonmuscle Invasive Bladder Cancer: Developing Drugs and Biologics for Treatment Guidance for Industry. Center for Drug Evaluation and Research (CDER). . Center for Biologics Evaluation and Research (CBER), 2018. https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM529600.pdf
+
+458.Roumiguie, M., et al. International Bladder Cancer Group Consensus Statement on Clinical Trial Design for Patients with Bacillus Calmette-Guerin-exposed High-risk Non-muscle-invasive Bladder Cancer. Eur Urol, 2022. 82: 34. https://www.ncbi.nlm.nih.gov/pubmed/34955291
+
+459.Gallagher, B.L., et al. Impact of previous bacille Calmette-Guerin failure pattern on subsequent response to bacille Calmette-Guerin plus interferon intravesical therapy. Urology, 2008. 71: 297. https://www.ncbi.nlm.nih.gov/pubmed/18308107
+
+460.Herr, H.W., et al. Defining bacillus Calmette-Guerin refractory superficial bladder tumors. J Urol, 2003. 169: 1706. https://www.ncbi.nlm.nih.gov/pubmed/12686813
+
+461.van den Bosch, S., et al. Long-term cancer-specific survival in patients with high-risk, non-muscle-invasive bladder cancer and tumour progression: a systematic review. Eur Urol, 2011. 60: 493. https://www.ncbi.nlm.nih.gov/pubmed/21664041
+
+462.Cockerill, P.A., et al. Intravesical gemcitabine in combination with mitomycin C as salvage treatment in recurrent non-muscle-invasive bladder cancer. BJU Int, 2016. 117: 456. https://www.ncbi.nlm.nih.gov/pubmed/25682834
+
+463.Barlow, L., et al. A single-institution experience with induction and maintenance intravesical docetaxel in the management of non-muscle-invasive bladder cancer refractory to bacille Calmette-Guerin therapy. BJU Int, 2009. 104: 1098. https://www.ncbi.nlm.nih.gov/pubmed/19389012
+
+464.Jones, G., et al. Intravesical gemcitabine for non-muscle invasive bladder cancer. Cochrane Database Syst Rev, 2012. 1: CD009294. https://www.ncbi.nlm.nih.gov/pubmed/22259002
+
+465.Nativ, O., et al. Combined thermo-chemotherapy for recurrent bladder cancer after bacillus Calmette-Guerin. J Urol, 2009. 182: 1313. https://www.ncbi.nlm.nih.gov/pubmed/19683278
+
+466.Racioppi, M., et al. ElectroMotive drug administration (EMDA) of Mitomycin C as first-line salvage therapy in high risk “BCG failure” non muscle invasive bladder cancer: 3 years follow-up outcomes. BMC Cancer, 2018. 18: 1224. https://www.ncbi.nlm.nih.gov/pubmed/30522445
+
+467.Tan, W.S., et al. Radiofrequency-induced Thermo-chemotherapy Effect Versus a Second Course of Bacillus Calmette-Guerin or Institutional Standard in Patients with Recurrence of Non-muscle-invasive Bladder Cancer Following Induction or Maintenance Bacillus Calmette-Guerin Therapy (HYMN): A Phase III, Open-label, Randomised Controlled Trial. Eur Urol, 2019. 75: 63. https://www.ncbi.nlm.nih.gov/pubmed/30274699
+
+468.Morales, A., et al. Efficacy and safety of MCNA in patients with nonmuscle invasive bladder cancer at high risk for recurrence and progression after failed treatment with bacillus Calmette-Guerin. J Urol, 2015. 193: 1135. https://www.ncbi.nlm.nih.gov/pubmed/25286009
+
+469.Joudi, F.N., et al. Final results from a national multicenter phase II trial of combination bacillus Calmette-Guerin plus interferon alpha-2B for reducing recurrence of superficial bladder cancer. Urol Oncol, 2006. 24: 344. https://www.ncbi.nlm.nih.gov/pubmed/16818189
+
+470.Wright, K.M. FDA Approves Pembrolizumab for BCG-Unresponsive NMIBC. Oncology (Williston Park), 2020. 34: 44. https://www.ncbi.nlm.nih.gov/pubmed/32645193
+
+471.Black, P.C., et al. Phase 2 Trial of Atezolizumab in Bacillus Calmette-Guerin-unresponsive High-risk Non-muscle-invasive Bladder Cancer: SWOG S1605. Eur Urol, 2023. 84: 536. https://www.ncbi.nlm.nih.gov/pubmed/37596191
+
+472.Hahn, N.M., et al. A Phase 1 Trial of Durvalumab in Combination with Bacillus Calmette-Guerin (BCG) or External Beam Radiation Therapy in Patients with BCG-unresponsive Non-muscle-Invasive Bladder Cancer: The Hoosier Cancer Research Network GU16-243 ADAPT-BLADDER Study. Eur Urol, 2023. 83: 486. https://www.ncbi.nlm.nih.gov/pubmed/36717286
+
+473.Shore, N.D., et al. Intravesical rAd-IFNalpha/Syn3 for Patients With High-Grade, Bacillus Calmette-Guerin-Refractory or Relapsed Non-Muscle-Invasive Bladder Cancer: A Phase II Randomized Study. J Clin Oncol, 2017. 35: 3410. https://www.ncbi.nlm.nih.gov/pubmed/28834453
+
+474.Packiam, V.T., et al. An open label, single-arm, phase II multicenter study of the safety and efficacy of CG0070 oncolytic vector regimen in patients with BCG-unresponsive non-muscle-invasive bladder cancer: Interim results. Urol Oncol, 2018. 36: 440. https://www.ncbi.nlm.nih.gov/pubmed/28755959
+
+475.Hassler, M.R., et al. Salvage therapeutic strategies for bacillus Calmette-Guerin failure. Curr Opin Urol, 2019. 29: 239. https://www.ncbi.nlm.nih.gov/pubmed/30762670
+
+476.Daneshmand, S., et al. TAR-200 for Bacillus Calmette-Guerin-Unresponsive High-Risk Non-Muscle-Invasive Bladder Cancer: Results From the Phase IIb SunRISe-1 Study. J Clin Oncol, 2025: JCO2501651. https://www.ncbi.nlm.nih.gov/pubmed/40737582
+
+477.Kamat, A.M., et al. Evidence-based Assessment of Current and Emerging Bladder-sparing Therapies for Non-muscle-invasive Bladder Cancer After Bacillus Calmette-Guerin Therapy: A Systematic Review and Meta-analysis. Eur Urol Oncol, 2020. 3: 318. https://www.ncbi.nlm.nih.gov/pubmed/32201133
+
+478.Li, R., et al. Systematic Review of the Therapeutic Efficacy of Bladder-preserving Treatments for Non-muscle-invasive Bladder Cancer Following Intravesical Bacillus Calmette-Guerin. Eur Urol, 2020. 78: 387. https://www.ncbi.nlm.nih.gov/pubmed/32143924
+
+479.D’Andrea, D., et al. Unmet Need in Non-muscle-invasive Bladder Cancer Failing Bacillus Calmette-Guerin Therapy: A Systematic Review and Cost-effectiveness Analyses from the International Bladder Cancer Group. Eur Urol Oncol, 2025. 8: 216. https://www.ncbi.nlm.nih.gov/pubmed/39550339
+
+480.Gunelli, R., et al. Activity of endovesical gemcitabine in BCG-refractory bladder cancer patients: a translational study. Br J Cancer, 2007. 97: 1499. https://www.ncbi.nlm.nih.gov/pubmed/17987035
+
+481.Shantharam, G., et al. Intravesical docetaxel for high-risk non-muscle invasive bladder cancer after Bacillus Calmette-Guerin failure. Curr Urol, 2021. 15: 33. https://www.ncbi.nlm.nih.gov/pubmed/34084119
+
+482.Yim, K., et al. Sequential intravesical gemcitabine/docetaxel provides a durable remission in recurrent high-risk NMIBC following BCG therapy. Urol Oncol, 2023. 41: 458 e1. https://www.ncbi.nlm.nih.gov/pubmed/37690933
+
+483.Pijpers, O.M., et al. Intravesical gemcitabine and docetaxel in patients with recurrent high-grade nonmuscle invasive bladder cancer-A prospective cohort study. Urol Oncol, 2025. 43: 520 e1. https://www.ncbi.nlm.nih.gov/pubmed/40328561
+
+484.Boorjian, S.A., et al. Intravesical nadofaragene firadenovec gene therapy for BCG-unresponsive non-muscle-invasive bladder cancer: a single-arm, open-label, repeat-dose clinical trial. Lancet Oncol, 2021. 22: 107. https://www.ncbi.nlm.nih.gov/pubmed/33253641
+
+485.Narayan, V.M., et al. Efficacy of Intravesical Nadofaragene Firadenovec for Patients With Bacillus Calmette-Guerin-Unresponsive Nonmuscle-Invasive Bladder Cancer: 5-Year Follow-Up From a Phase 3 Trial. J Urol, 2024. 212: 74. https://www.ncbi.nlm.nih.gov/pubmed/38704840
+
+486.Chamie, K., et al. IL-15 Superagonist NAI in BCG-Unresponsive Non-Muscle-Invasive Bladder Cancer. NEJM Evid, 2023. 2: EVIDoa2200167. https://www.ncbi.nlm.nih.gov/pubmed/38320011
+
+487.Chamie, K., et al. Quality of Life in the Phase 2/3 Trial of N-803 Plus Bacillus Calmette-Guerin in Bacillus Calmette-Guerin‒Unresponsive Nonmuscle-Invasive Bladder Cancer. Urol Pract, 2024. 11: 367. https://www.ncbi.nlm.nih.gov/pubmed/38226931
+
+488.Balar, A.V., et al. Pembrolizumab monotherapy for the treatment of high-risk non-muscle-invasive bladder cancer unresponsive to BCG (KEYNOTE-057): an open-label, single-arm, multicentre, phase 2 study. Lancet Oncol, 2021. 22: 919. https://www.ncbi.nlm.nih.gov/pubmed/34051177
+
+489.Necchi, A., et al. Pembrolizumab monotherapy for high-risk non-muscle-invasive bladder cancer without carcinoma in situ and unresponsive to BCG (KEYNOTE-057): a single-arm, multicentre, phase 2 trial. Lancet Oncol, 2024. 25: 720. https://www.ncbi.nlm.nih.gov/pubmed/38740030
+
+490.Catto, J.W.F., et al. Erdafitinib in BCG-treated high-risk non-muscle-invasive bladder cancer. Ann Oncol, 2024. 35: 98. https://www.ncbi.nlm.nih.gov/pubmed/37871701
+
+491.Li, R., et al. Oncolytic adenoviral therapy plus pembrolizumab in BCG-unresponsive non-muscle-invasive bladder cancer: the phase 2 CORE-001 trial. Nat Med, 2024. 30: 2216. https://www.ncbi.nlm.nih.gov/pubmed/38844794
+
+492.Taylor, J.I., et al. Long-term outcomes of bladder-sparing therapy vs radical cystectomy in BCG-unresponsive non-muscle-invasive bladder cancer. BJU Int, 2025. 135: 260. https://www.ncbi.nlm.nih.gov/pubmed/39183466
+
+493.Rosevear, H.M., et al. Factors affecting response to bacillus Calmette-Guerin plus interferon for urothelial carcinoma in situ. J Urol, 2011. 186: 817. https://www.ncbi.nlm.nih.gov/pubmed/21788050
+
+494.Steinberg, G., et al. Efficacy and safety of valrubicin for the treatment of Bacillus Calmette-Guerin refractory carcinoma in situ of the bladder. The Valrubicin Study Group. J Urol, 2000. 163: 761. https://www.ncbi.nlm.nih.gov/pubmed/10687972
+
+495.Dinney, C.P., et al. Intravesical valrubicin in patients with bladder carcinoma in situ and contraindication to or failure after bacillus Calmette-Guerin. Urol Oncol, 2013. 31: 1635. https://www.ncbi.nlm.nih.gov/pubmed/22575238
+
+496.Wayment, R.O., et al. Second opinion pathology in tertiary care of patients with urologic malignancies. Urol Oncol, 2011. 29: 194. https://www.ncbi.nlm.nih.gov/pubmed/19523859
+
+497.Luchey, A.M., et al. Change in Management Based on Pathologic Second Opinion Among Bladder Cancer Patients Presenting to a Comprehensive Cancer Center: Implications for Clinical Practice. Urology, 2016. 93: 130. https://www.ncbi.nlm.nih.gov/pubmed/27041469
+
+498.Soukup, V., et al. Follow-up after surgical treatment of bladder cancer: a critical analysis of the literature. Eur Urol, 2012. 62: 290. https://www.ncbi.nlm.nih.gov/pubmed/22609313
+
+499.Gofrit, O.N., et al. Watchful waiting policy in recurrent Ta G1 bladder tumors. Eur Urol, 2006. 49: 303. https://www.ncbi.nlm.nih.gov/pubmed/16413659
+
+500.Ma, J., et al. Long-term Recurrence Rates of Low-risk Non-muscle-invasive Bladder Cancer-How Long Is Cystoscopic Surveillance Necessary? Eur Urol Focus, 2024. 10: 189. https://www.ncbi.nlm.nih.gov/pubmed/37442722
+
+501.Villegas, E., et al. Long-Term Recurrence Risk, Metastatic Potential, and Length of Cystoscopic Surveillance of Low-Grade Nonmuscle-Invasive Bladder Cancer. J Urol, 2025. 213: 295. https://www.ncbi.nlm.nih.gov/pubmed/39470318
+
+502.Shah, C.P., et al. The Value of Negative Urinary Dipstick Tests for Haematuria in Patients Undergoing Surveillance for Low-grade Ta Urothelial Cancer: A Two-stage Prospective Clinical Study in 524 Patients. Eur Urol Open Sci, 2024. 60: 24. https://www.ncbi.nlm.nih.gov/pubmed/38375346
+
+503.Olsen, L.H., et al. Prolonging follow-up intervals for non-invasive bladder tumors: a randomized controlled trial. Scand J Urol Nephrol Suppl, 1995. 172: 33. https://www.ncbi.nlm.nih.gov/pubmed/8578253
+
+504.Mariappan, P., et al. The Scottish Bladder Cancer Quality Performance Indicators Influencing Outcomes, Prognosis, and Surveillance (Scot BC Quality OPS) Clinical Project. Eur Urol Focus, 2021. 7: 905. https://www.ncbi.nlm.nih.gov/pubmed/34419380
+
+505.Holmang, S., et al. Should follow-up cystoscopy in bacillus Calmette-Guerin-treated patients continue after five tumour-free years? Eur Urol, 2012. 61: 503. https://www.ncbi.nlm.nih.gov/pubmed/22119022
+
+506.Wu, Z., et al. Double-J stenting during TURBT increases risk of metachronous upper tract urothelial carcinoma. BMC Urol, 2025. 25: 146. https://www.ncbi.nlm.nih.gov/pubmed/40457308
+
+507.Subiela, J.D., et al. Long-term Recurrence and Progression Patterns in a Contemporary Series of Patients with Carcinoma In Situ of the Bladder With or Without Associated Ta/T1 Disease Treated with Bacillus Calmette-Guerin: Implications for Risk-adapted Follow-up. Eur Urol Focus, 2023. 9: 325. https://www.ncbi.nlm.nih.gov/pubmed/36163105
+
+508.Herr, H.W. Extravesical tumor relapse in patients with superficial bladder tumors. J Clin Oncol, 1998. 16: 1099. https://www.ncbi.nlm.nih.gov/pubmed/9508196
+
+509.Haggstrom, C., et al. Risk of upper urinary tract urothelial carcinoma after primary non-muscle-invasive urinary bladder cancer: A nationwide population-based cohort study. BJUI Compass, 2025. 6: e70021. https://www.ncbi.nlm.nih.gov/pubmed/40329969
+
+510.Sari Motlagh, R., et al. Surveillance of non-muscle-invasive bladder cancer with blue-light cystoscopy: a meta-analysis. BJU Int, 2024. 134: 526. https://www.ncbi.nlm.nih.gov/pubmed/38658172
+
+511.Babjuk, M., et al. Urinary cytology and quantitative BTA and UBC tests in surveillance of patients with pTapT1 bladder urothelial carcinoma. Urology, 2008. 71: 718. https://www.ncbi.nlm.nih.gov/pubmed/18387400
+
+512.Niwa, N., et al. Comparison of outcomes between ultrasonography and cystoscopy in the surveillance of patients with initially diagnosed TaG1-2 bladder cancers: A matched-pair analysis. Urol Oncol, 2015. 33: 386 e15. https://www.ncbi.nlm.nih.gov/pubmed/26027764
+
+513.Farahani, S.J., et al. Impact of implementing the first edition of the Paris system for reporting: A systematic review and meta-analysis. Cytopathology, 2024. 35: 616. https://www.ncbi.nlm.nih.gov/pubmed/38934101
+
+514.van Rhijn, B.W., et al. Urine markers for bladder cancer surveillance: a systematic review. Eur Urol, 2005. 47: 736. https://www.ncbi.nlm.nih.gov/pubmed/15925067
+
+515.Cancel-Tassin, G., et al. Assessment of Xpert Bladder Cancer Monitor test performance for the detection of recurrence during non-muscle invasive bladder cancer follow-up. World J Urol, 2021. 39: 3329. https://www.ncbi.nlm.nih.gov/pubmed/33770241
+
+516.Cowan, B., et al. Longitudinal follow-up and performance validation of an mRNA-based urine test (Xpert((R)) Bladder Cancer Monitor ) for surveillance in patients with non-muscle-invasive bladder cancer. BJU Int, 2021. 128: 713. https://www.ncbi.nlm.nih.gov/pubmed/33793062
+
+517.van Osch, F.H.M., et al. Patients choose certainty over burden in bladder cancer surveillance. World J Urol, 2019. 37: 2747. https://www.ncbi.nlm.nih.gov/pubmed/30903352
+
+518.Roupret, M., et al. Reducing the Frequency of Follow-up Cystoscopy in Low-grade pTa Non-muscle-invasive Bladder Cancer Using the ADXBLADDER Biomarker. Eur Urol Focus, 2022. 8: 1643. https://www.ncbi.nlm.nih.gov/pubmed/35300937
+
+519.Fasulo, V., et al. Xpert Bladder Cancer Monitor May Avoid Cystoscopies in Patients Under “Active Surveillance” for Recurrent Bladder Cancer (BIAS Project): Longitudinal Cohort Study. Front Oncol, 2022. 12: 832835. https://www.ncbi.nlm.nih.gov/pubmed/35155263
+
+520.Pierconti, F., et al. The bladder epicheck test and cytology in the follow-up of patients with non-muscle-invasive high grade bladder carcinoma. Urol Oncol, 2022. 40: 108 e19. https://www.ncbi.nlm.nih.gov/pubmed/34903453
+
+521.Kavalieris, L., et al. Performance Characteristics of a Multigene Urine Biomarker Test for Monitoring for Recurrent Urothelial Carcinoma in a Multicenter Study. J Urol, 2017. 197: 1419. https://www.ncbi.nlm.nih.gov/pubmed/27986532
+
+522.Kravchuk, A.P., et al. Urine-Based Biomarker Test Uromonitor((R)) in the Detection and Disease Monitoring of Non-Muscle-Invasive Bladder Cancer-A Systematic Review and Meta-Analysis of Diagnostic Test Performance. Cancers (Basel), 2024. 16. https://www.ncbi.nlm.nih.gov/pubmed/38398144
+
+523.Ramos, P., et al. Uromonitor: Clinical Validation and Performance Assessment of a Urinary Biomarker Within the Surveillance of Patients With Nonmuscle-Invasive Bladder Cancer. J Urol, 2025. 213: 304. https://www.ncbi.nlm.nih.gov/pubmed/39561374
+
+524.Ward, D.G., et al. Highly Sensitive and Specific Detection of Bladder Cancer via Targeted Ultra-deep Sequencing of Urinary DNA. Eur Urol Oncol, 2023. 6: 67. https://www.ncbi.nlm.nih.gov/pubmed/35410825
+
+525.Nayak, A., et al. Quality of life in patients undergoing surveillance for non-muscle invasive bladder cancer-a systematic review. Transl Androl Urol, 2021. 10: 2737. https://www.ncbi.nlm.nih.gov/pubmed/34295759
+
+526.Public Health England. Living with and beyond bladder cancer - A descriptive summary of responses to a pilot of Patient Reported Outcome Measures for bladder cancer. 2015. https://www.england.nhs.uk/wp-content/uploads/2015/10/proms-bladder-cancer.pdf
+
+527.Mason, S.J., et al. Evaluating patient-reported outcome measures (PROMs) for bladder cancer: a systematic review using the COnsensus-based Standards for the selection of health Measurement INstruments (COSMIN) checklist. BJU Int, 2018. 122: 760. https://www.ncbi.nlm.nih.gov/pubmed/29726085
+
+528.Rutherford, C., et al. Development and psychometric evaluation of a patient-reported symptom index for patients with non-muscle invasive bladder cancer: the NMIBC-SI. J Patient Rep Outcomes, 2025. 9: 36. https://www.ncbi.nlm.nih.gov/pubmed/40146452
+
+529.Stover, A.M., et al. Perceived Impact on Patient Routines/Responsibilities for Surgery and a Nonsurgical Primary Treatment Option in Recurrent Low-Grade Intermediate-Risk Nonmuscle-Invasive Bladder Cancer: Findings From the ENVISION Phase 3 Trial. J Urol, 2025. 214: 18. https://www.ncbi.nlm.nih.gov/pubmed/40048558
+
+530.Mariappan, P. Propensity for Quality: No Longer a Tenuous Proposition in Bladder Cancer. Eur Urol, 2020. 78: 60. https://www.ncbi.nlm.nih.gov/pubmed/32444262
+
+531.Akand, M., et al. Quality Control Indicators for Transurethral Resection of Non-Muscle-Invasive Bladder Cancer. Clin Genitourin Cancer, 2019. 17: e784. https://www.ncbi.nlm.nih.gov/pubmed/31097388
+
+532.Khare, S.R., et al. Quality indicators in the management of bladder cancer: A modified Delphi study. Urol Oncol, 2017. 35: 328. https://www.ncbi.nlm.nih.gov/pubmed/28065393
+
+533.Leow, J.J., et al. Quality Indicators for Bladder Cancer Services: A Collaborative Review. Eur Urol, 2020. 78: 43. https://www.ncbi.nlm.nih.gov/pubmed/31563501
+
+534.NHS National Services Scotland. Bladder Cancer Quality Performance Indicators - Patients diagnosed between April 2014 and March 2017. 2018. https://www.isdscotland.org/Health-Topics/Quality-Indicators/Publications/2018-08-28/2018-08-28-Bladder-QPI-Report.pdf?774782897]
+
+535.Scottish Cancer Strategic Board, et al. Bladder Cancer Clinical Quality Performance Indicators. 2024. https://www.healthcareimprovementscotland.scot/wp-content/uploads/2024/12/CQPI-Bladder-Cancer-November-2024.pdf
+
+536.Garg, T., et al. “Faith and a sunny day”: Association of patient frailty with strain experienced by informal caregivers of older adults with non-muscle-invasive bladder cancer. J Geriatr Oncol, 2024. 15: 102060. https://www.ncbi.nlm.nih.gov/pubmed/39244892
+
+537.Contieri, R., et al. Deintensification of Treatment for Low-grade Bladder Tumors: A Collaborative Review by the International Bladder Cancer Group (IBCG). Eur Urol Oncol, 2025. 8: 179. https://www.ncbi.nlm.nih.gov/pubmed/39218742
+
+538.Fenning, S.J., et al. Realistic Medicine: Changing culture and practice in the delivery of health and social care. Patient Educ Couns, 2019. 102: 1751. https://www.ncbi.nlm.nih.gov/pubmed/31301921
+
+539.Contieri, R., et al. Oncological Outcomes for Patients with European Association of Urology Very High-risk Non-muscle-Invasive Bladder Cancer Treated with Bacillus Calmette-Guerin or Early Radical Cystectomy. Eur Urol Oncol, 2023. 6: 590. https://www.ncbi.nlm.nih.gov/pubmed/37558542
+
+  • Epidemiology And Aetiology
+
+  • Pathological Staging, Grading And Classification Systems
+
+  • Predicting Disease Recurrence And Progression
+
+  • Disease Management
+
+  • Follow-up Of Patients With Nmibc
+
+  • Patient Reported Outcome Measures And Quality Indicators For Nmibc
+
+  • Pragmatic Deintensification Strategy In Nmibc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Epidemiology And Aetiology
+
+  • Pathological Staging, Grading And Classification Systems
+
+  • Predicting Disease Recurrence And Progression
+
+  • Disease Management
+
+  • Follow-up Of Patients With Nmibc
+
+  • Patient Reported Outcome Measures And Quality Indicators For Nmibc
+
+  • Pragmatic Deintensification Strategy In Nmibc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+
+## 11. REFERENCES

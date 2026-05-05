@@ -1,0 +1,68 @@
+IntroductionMethodsEpidemiology And AetiologyClassification And Staging SystemsDiagnostic EvaluationTreatmentFollow UpQuality Of Life Outcomes In Prostate CancerReferencesConflict Of InterestCitation InformationCopyright And Terms Of Use2. METHODS2.1. Data identificationFor the 2026 Prostate Cancer (PCa) Guidelines, new and relevant evidence has been identified, collated and appraised through a structured assessment of the literature. Several comprehensive searches were performed, covering all sections of the PCa Guidelines. The searches were limited to English-language publications. Databases searched included Medline, EMBASE and the Cochrane Libraries, covering a time frame between 1 May 2024 and 1 May 2025. A total of 3,060 unique records were identified, retrieved and screened for relevance. Detailed search strategies are available online: https://uroweb.org/guideline/prostate-cancer/?type=appendices-publications.
+
+Changes in recommendations were generally only considered based on high-level evidence (i.e. systematic reviews [SRs] with meta-analysis, randomised controlled trials [RCTs] and prospective comparative studies).
+
+Recommendations within the Guidelines are developed by the panels to prioritise clinically important care decisions. The strength of each recommendation is determined by the balance between desirable and undesirable consequences of alternative management strategies, the quality of the evidence (including certainty of estimates) and the nature and variability of patient values and preferences. This decision process, which can be reviewed in the strength rating forms which accompany each guideline statement, addresses a number of key elements:
+
+Strong recommendations typically indicate a high degree of evidence quality and/or a favourable balance of benefit to harm and patient preference. Weak recommendations typically indicate availability of lower quality evidence and/or equivocal balance between benefit and harm, and uncertainty or variability of patient preference [2].
+
+Additional methodology information and a list of associations endorsing the EAU Guidelines is available online: https://uroweb.org/eau-guidelines/methodology-policies.
+
+The 2026 PCa Guidelines will be peer reviewed following publication. All reviewer comments and discussions points will be incorporated into the 2027 edition of the guidelines.
+
+Results of ongoing projects will be included in the 2027 update of the PCa Guidelines:
+
+  • Epidemiology And Aetiology
+
+  • Classification And Staging Systems
+
+  • Diagnostic Evaluation
+
+  • Quality Of Life Outcomes In Prostate Cancer
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Epidemiology And Aetiology
+
+  • Classification And Staging Systems
+
+  • Diagnostic Evaluation
+
+  • Quality Of Life Outcomes In Prostate Cancer
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • the overall quality of the evidence which exists for the recommendation [1];
+
+  • the magnitude of the effect (individual or combined effects);
+
+  • the certainty of the results (precision, consistency, heterogeneity and other statistical or study-related factors);
+
+  • the balance between desirable and undesirable outcomes;
+
+  • the impact and certainty of patient values and preferences on the intervention.
+
+  • Care pathways for the various stages of PCa management have been developed. These pathways will, in time, inform treatment flowcharts and a new EAU clinical decision support tool for PCa.
+
+
+## 2. METHODS
+
+
+
+## 2.1. Data identification
+
+
+
+## 2.2. Review
+
+
+
+## 2.3. Future goals

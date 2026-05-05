@@ -1,0 +1,122 @@
+IntroductionMethodsEpidemiology And AetiologyPathological Staging, Grading And Classification SystemsDiagnosisPredicting Disease Recurrence And ProgressionDisease ManagementFollow-up Of Patients With NmibcPatient Reported Outcome Measures And Quality Indicators For NmibcPragmatic Deintensification Strategy In NmibcReferencesConflict Of InterestCitation InformationCopyright And Terms Of Use3. EPIDEMIOLOGY AND AETIOLOGY3.1. EpidemiologyBladder cancer is the sixth most commonly diagnosed cancer in the male population worldwide, and it is the ninth when both sexes are considered [6]. The worldwide age-standardised incidence rate (per 100,000 person/years) is 9.3 in males and 2.4 in females [6]. In the European Union, the age-standardised incidence rate is 23.2 in males and 5.9 in females [6]. Worldwide, the BC age-standardised mortality rate (per 100,000 person/years) is 3.1 for males versus 0.80 for females [6]. Bladder cancer incidence and mortality rates vary across countries due to differences in risk factors, detection and diagnostic practices, and variations in access to, and delivery of, healthcare. Additionally, epidemiological variations have been attributed to differing methodologies and the quality of data from individual datasets [7]. The incidence and mortality of BC has decreased in countries across Asia, Oceania, and the Americas, possibly reflecting the decreased impact of causative factors [8].
+
+Approximately 75% of patients with BC present with a disease confined to the mucosa (stage Ta, CIS) or submucosa (stage T1); in younger patients (< 40 years of age) this percentage is even higher [9]. Patients with TaT1 and CIS have a high disease prevalence due to long-term survival in many cases and lower risk of cancer-specific mortality compared to patients with T2-4 disease [6, 7].
+
+Tobacco smoking is the most important risk factor for BC, accounting for approximately 50% of cases [7, 8, 10, 11]. The aromatic amines and polycyclic aromatic hydrocarbons within the tobacco smoke, which undergo renal excretion, are linked to the development of BC. The risk of BC increases with smoking duration and intensity (risk ratio [RR]: 2.52; 95% confidence interval [CI]: 2.41-2.64 for ten cigarettes per day; and RR: 3.27; 95% CI: 3.16-3.38 for 20 cigarettes per day) [12]. Low-tar cigarettes are not associated with a lower risk of developing BC [13]. The risk associated with electronic cigarettes has not been adequately assessed; however, carcinogens have been identified in the urine with electronic cigarettes [14]. Passive exposure to tobacco smoke is also associated with an increased risk of BC [7]. A genome-wide association study reported smoking as a modifiable risk factor for BC [15].
+
+Occupational exposure to aromatic amines, polycyclic aromatic hydrocarbons and chlorinated hydrocarbons is the second most important risk factor for BC, accounting for approximately 10% of all cases. This type of occupational exposure occurs mainly in industrial plants that process paint, dye, metal, and petroleum products [7, 8, 16, 17]. In developed industrial settings these risks have been reduced by work-safety guidelines. Chemical workers therefore no longer have a higher incidence of BC compared to the general population [7, 16, 17]. Recently, greater occupational exposure to diesel exhaust has been suggested as a significant risk factor (odds ratio [OR]: 1.61; 95% CI: 1.08-2.40) [18]. Additionally, a large registry-based study of over one million people, with a follow up of 21 years, found that residents in the Haifa Bay Area of Israel (a centre for petrochemical industry) had a significantly higher incidence of several cancers, including BC (hazard ratio [HR] 1.11; 95% CI: 1.01-1.23), compared with non-residents [19].
+
+Family history appears to have little impact [20]; however, a history of smoking and alcohol consumption seem to significantly increase the risk of BC in patients with a family history of the disease [21]. Lynch syndrome carriers appear to have a higher relative risk of developing BC [22]. A genome-wide association study combining data from three large European cohorts (United Kingdom [UK] Biobank, FinnGen and SIMPLER), including 6,984 BC cases and 708,432 controls, identified 17 susceptibility loci. The study highlighted the key role of detoxification pathways, mainly glutathione S-transferase 1 (GSTM1), in BC aetiology [15]. Genetic predisposition may lead to a higher susceptibility to other risk factors and thereby explain the familiar clustering of BC in first- and second-degree relatives (HR: 1.69; 95% CI: 1.47-1.95) [7, 23-28], that has been confirmed more recently [29]. A study identified three single nucleotide polymorphisms related to the development of aggressive NMIBC [30]. Currently, there is insufficient evidence to support genetic screening for BC.
+
+Dietary habits appear to have limited impact on the risk of developing BC. A protective impact for flavonoids has been suggested [31]. The Mediterranean diet, characterised by a high consumption of vegetables and non-saturated fat (olive oil) with moderate consumption of protein, has been linked to some reduction of BC risk (HR: 0.85; 95% CI: 0.77-0.93) [32-36]. A Western diet (high in saturated fats) and consumption of organ meat have been shown to increase the risk of BC in a recent meta-analysis [37,38]. Increased consumption of fruits has been suggested to reduce the risk of BC. This effect has been shown to be significant only in females (HR: 0.92; 95% CI: 0.85-0.99) [39]. This gender discrepancy was also evident in the BLEND study which showed that in males, moderate or high intake of vitamins B1, B2 and vitamins related to energy metabolism were found to be associated with an increased BC risk, whereas in females, high intake of the same vitamins and vitamin combinations was shown to have a protective effect with the exception of the entire B group vitamin complex [40]. In a large multi-ethnic cohort of nearly 186,979 participants with nearly two decades of follow-up, females adhering to higher quality diets, as defined by established dietary indices, had a lower risk of invasive BC [41]. This association was not observed in males. One possible explanation for this gender discrepancy is the difference in the main source of vitamin intake among study participants, being meat in males and fruits/vegetables in females. Other potential reasons include the greater influence of occupational and environmental exposures in males that may outweigh dietary benefits.
+
+In addition, higher consumption of tea has also been associated with a reduction in risk of BC in males but through an interaction with tobacco smoking; therefore, making the protective effect of this compound questionable [42]. At present, no supplement has been found to be associated with BC prevention; however, vitamin E supplementation has been associated with an increased risk of recurrence [43]. Considering patients with previous history of BC, preliminary results suggest that a dietary intervention based on cruciferous vegetables, leading to an increased level of isothiocyanates, might be beneficial in reducing the risk of recurrence and progression [44]. At present, there is no definitive evidence for the impact of diet on BC development or prevention.
+
+Although the impact of drinking habits remains uncertain, the chlorination of drinking water and subsequent levels of trihalomethanes are potentially carcinogenic [45]. Additionally, exposure to arsenic in drinking water has been suggested to increase the risk of BC [7,46]. Arsenic intake and smoking have a combined effect [47]. Conversely, chronic exposure to nitrate in drinking water does not appear to be associated with increased risk of BC [48].
+
+The association between personal hair dye use and risk of BC remains uncertain; an increased risk has been suggested in users of permanent hair dyes with a slow NAT2 acetylation phenotype [7], but a large prospective cohort study could not identify an association between hair dye and risk of cancer and cancer-related mortality [49].
+
+Exposure to pelvic ionising radiation is associated with an increased risk of BC [50,51]. In a retrospective analysis of patients with localised prostate cancer, external beam radiotherapy (EBRT) was independently associated with a risk of developing a second primary BC (HR: 1.35; OR: 1.18-1.55) [50]. A single centre study of 583 prostate cancer patients treated with brachytherapy revealed that the risk of developing BC increased in those who received additional EBRT (n = 255) (HR: 3.29; 95% CI: 1.03-10.52). The BC specific mortality was also higher when combination therapy was used [51].
+
+The impact of metabolic factors (body mass index, blood pressure, plasma glucose, cholesterol and triglycerides) remains uncertain [52]. A genome-wide association study reported abdominal obesity (waist-to-hip ratio) as a modifiable risk factor for BC [15]. Whereas other data suggest that high circulating levels of vitamin D and physical exercise are associated with a reduction in the risk of BC [15, 53, 54]. Schistosomiasis, an infection caused by a parasitic trematode, can lead to BC [7]. A weak association was also suggested for cyclophosphamide and pioglitazone [7, 46, 55].
+
+Table 3.1: Risk factors for bladder cancer
+
+Table 3.1 summarises the main bladder cancer risk factors stratified into modifiable, non-modifiable, and partly modifiable risk categorised according to the existence of an established causality or a mere association with the disease.* Reported to be protective only in females.
+
+  • Epidemiology And Aetiology
+
+  • Pathological Staging, Grading And Classification Systems
+
+  • Predicting Disease Recurrence And Progression
+
+  • Disease Management
+
+  • Follow-up Of Patients With Nmibc
+
+  • Patient Reported Outcome Measures And Quality Indicators For Nmibc
+
+  • Pragmatic Deintensification Strategy In Nmibc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Epidemiology And Aetiology
+
+  • Pathological Staging, Grading And Classification Systems
+
+  • Predicting Disease Recurrence And Progression
+
+  • Disease Management
+
+  • Follow-up Of Patients With Nmibc
+
+  • Patient Reported Outcome Measures And Quality Indicators For Nmibc
+
+  • Pragmatic Deintensification Strategy In Nmibc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Protective: Flavonoids, mediterranean diet, cruciferous vegetables, fruits*, vitamin B*, high quality diet defined by established dietary indices*
+
+  • Increased recurrence risk: Vitamin E
+
+  • 17 susceptibility loci
+
+  • Detoxification pathways, mainly glutathione S-transferase 1 (GSTM1)
+
+  • Cyclophosphamide
+
+
+## 3. EPIDEMIOLOGY AND AETIOLOGY
+
+
+
+## 3.1. Epidemiology
+
+
+
+## 3.2. Aetiology
+
+
+
+## 3.3. Summary of evidence for epidemiology and aetiology
+
+
+
+## 3.2.1. Main risk factors
+
+
+
+## 3.2.2. Genetic
+
+
+
+## 3.2.3. Dietary habits
+
+
+
+## 3.2.4. Environmental exposure
+
+
+
+## 3.2.5. Pelvic radiation
+
+
+
+## 3.2.6. Other
+
+
+
+## 3.2.1.a. Tobacco
+
+
+
+## 3.2.1.b. Occupational exposure

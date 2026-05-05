@@ -1,0 +1,116 @@
+IntroductionMethodsEpidemiology Aetiology And PathologyStaging And Classification SystemsDiagnostic EvaluationPrognostic FactorsDisease ManagementHereditary And Syndrome Specific RccFollow UpReferencesConflict Of InterestCitation InformationCopyright And Terms Of Use8. HEREDITARY AND SYNDROME SPECIFIC RCCFive to eight percent of RCCs are hereditary, although this proportion could be underestimated due to the limitations of available studies. To date, there are more than ten hereditary RCC syndromes associated with specific germline mutations, RCC histology and comorbidities. Hereditary RCC syndromes are often suggested by family history, age of onset and presence of other lesions typical for the respective syndromes. Median age for hereditary RCC is 37 years; 70% of hereditary RCC tumours are found in the lowest decile (age 46 years or younger) of all RCC tumours [197].
+
+Hereditary kidney tumours are found in the following entities: VHL syndrome; hereditary papillary RCC (HPRCC); Birt-Hogg-Dubé syndrome; Fumarate hydratase-deficient RCC (FHD-RCC), previously referred to as hereditary leiomyomatosis and RCC (HLRCC); tuberous sclerosis complex; Hereditary SDH deficient paraganglioma/ pheochromocytoma (HPP) syndrome; Phosphatase and tensin homolog (PTEN) hamartoma syndrome (PHTS); and BRCA-1 associated protein 1 (BAP1) tumour predisposition syndrome).
+
+RCC can also be associated with the following syndromes: Hyperparathyroidism-jaw tumour (HJT) syndrome, Chromosome 3 translocation (Cr3T) syndrome, and MITF-related melanoma and renal cell carcinoma predisposition syndrome. Renal medullary carcinoma can be included because of its association with hereditary haemoglobinopathies [74,728-731].
+
+Although not hereditary, somatic fusion translocations of TFE3 and TFEB may affect 15% of patients with RCC younger than 45 years and 20-45% of children and young adults diagnosed with RCC [732].
+
+Table 8.1: Syndrome-specific RCC hystotypes and extrarenal organ involvement patterns [206, 733, 734]
+
+Retinal/CNS haemangioblastomas Pancreatic cysts and neuroendocrine tumours
+
+Endolymphatic sac tumour Pheochromocytoma
+
+Fibrofolliculomas and other skin findings
+
+Uterine leiomyomas Leiomyosarcomas
+
+Subependymal giant cell astrocytoma Lymphangioleiomyomatosis
+
+Breast cancer and fibrocystic change Thyroid cancer
+
+Malignant pleural mesothelioma
+
+Other cancers (cholangiocarcinoma, basal cell carcinoma, meningioma)
+
+Data on estimated prevalence/incidence are based on https://www.orpha.net.
+
+Published recommendations for the selection of germline genetic testing panels in patients with cancer, including RCC [735] stated that germline genetic testing should be distinguished from biomarker testing (i.e. tumour genomic profiling). To establish whether gene variants identified in a tumour are germline, germline genetic testing must be performed. With advancements in next-generation sequencing technology, genetic panels now encompass an expanding list of available genes. Specific recommendations have been set for the following domains: a) family history collection; b) germline multigene panel testing; c) genes to be included in multigene panels; and d) germline testing in association with somatic genetic tumour testing [735]. For RCC, the genes recommended for testing and inclusion in multigene panels are: BAP1, FH, FLCN, MET, SDHA, SDHAF2, SDHB, SDHC, SDHD PTEN, VHL (more strongly recommended) and TSC1/TSC2 (less strongly recommended).
+
+Hereditary RCC often presents with multifocal, de-novo recurring and bilateral tumours, which requires individualised management.
+
+Patients with hereditary kidney cancer syndromes may require repeated surgical intervention [736,737]. In most hereditary RCCs, nephron-sparing approaches are recommended due to risk of CKD [738]. To avoid multiple repetitive partial nephrectomies, thermal ablation can be considered in the treatment paradigm. A registry based retrospective analysis of 53 patients with inherited RCC syndromes evaluated percutaneous cryoablation for primary mean 2.46cm tumours, demonstrating within mean follow-up of 30.4 months, estimated five-year local recurrence-free survival of 96% (95% CI: 75-99), metastases free survival 96.4% (95% CI: 77-99%), CSS 90.9% (95% CI: 51-99%) and OS 90.9% (95% CI: 51-99%). Complication rate was 1.7% and 7.4% had more than 25% reduction in kidney function [739].
+
+The exceptions to nephron-sparing approaches are FHD-RCC and high-grade SDH syndromes for which immediate surgical intervention is recommended due to the aggressive nature of these tumours. For other hereditary syndromes such as VHL, surveillance is recommended until the largest tumour reaches 3cm in diameter - this to limit the number of repeat interventions [740,741]. Active surveillance for VHL and other nonaggressive hereditary tumours, should, in individual patients, follow the size, growth rate and location of the tumours, rather than applying a standardised follow-up interval. Regular screening for both renal and extrarenal lesions should follow international guidelines for these syndromes [741]. Multidisciplinary and co-ordinated care should be offered, where appropriate [742]. In FHD-RCC, renal screening in relatives has shown benefit in detecting early-stage RCCs [54], with HLRCCs appearing to have unique molecular profiles.
+
+In the metastatic setting, systemic therapeutic options for fumarate hydratase-deficient RCC with high metastatic potential include ICI monotherapies, which offer a better disease control rate than TKI monotherapies. In a phase II trial, ORR of 51 % of combination of erlotinib and bevacizumab was achieved [700]. Another trial expressed a favourable response to ICI/TKI combinational therapy compared to bevacizumab plus erlotinib [100].
+
+Succinate dehydrogenase (SDH)-deficient RCC has a low risk of metastasis (12 %) with exception of high-grade with risk 70 %. Due to rarity of disease, no evidence for systemic therapy [700].
+
+Patients with VHL disease often develop RCC and tumours and cysts in other organs, including adrenal glands, CNS, retinal haemangioblastomas and pancreas, and commonly undergo several surgical resections in their lifetime. In VHL disease, belzutifan, a HIF-2α inhibitor, has been approved by the United States Food and Drug Administration [743] for the treatment of ccRCC and other neoplasms associated with VHL for the treatment of tumours that do not require immediate surgery. Approval was based on the results from a phase II, open-label, single-arm trial in 61 patients with tumours not larger than 3cm [744]. Belzutifan induced partial responses with an RCC ORR of 67%, and complete response rate of 11% after 41.3 months’ treatment. In total, 18% of patients reported > grade III adverse events, and eight patients (13.5%) discontinued the treatment. In the treatment with pazopanib for VHL only, 52% continued with the treatment after 24 weeks [745]. A longer follow-up at 37.8 months, ORR for RCC was increased to 64%, with a median time to response of 11.1 months (range, 2.7 to 30.5). Median duration of response per Kaplan-Meier estimate was not reached (range 5.4+ to 35.8+ months). Thirty-four of 39 patients with a confirmed response (87%) remain in response as of the data cut-off date (September 2022) [744].
+
+With favourable efficacy results and with relatively low-grade side effects, belzutifan seems to be a valuable contribution to the treatment of patients with the VHL disease. Recent data from the largest retrospective VHL cohort under active surveillance showed that 63% experienced disease progression (without systemic treatment) and surgical intervention was common: 76% required one renal surgery, and 44% multiple procedures, resulting in chronic kidney disease in 41% of them [738]. The EMA has conditional approval for belzutifan for VHL disease.
+
+TFE3-rearranged RCC showed objective response rate 25% with ICI and 0 % with TKI and more prolonged OS (62.4 months with ICI vs. 10.3 with TKI). Cabozantinib may be an exception with 16.6% objective response. A future role of ICI-TKI combination (such as nivolumab plus cabozantinib) and cabozantinib plus belzutifan has been discussed [700].
+
+TFEB-rearranged RCC: There is a general lack of information regarding the response to modern systemic therapy. A combination of ICI and mTOR inhibitors has been discussed. TFEB-amplified RCC (which occurs in elderly patients and displays more aggressive behaviour compared to TFEB-rearranged RCC) can be treated with VEGFR targeting agents or with a VEGFR-TKI combination [700].
+
+Some studies combine therapy TFE3- and TFEB-altered RCCs (due to the former grouping of both tumours to MiT family translocation RCCs). Two retrospective studies exhibit efficacy of ICI or ICI-TKI combination [746,747]. Other studies provided evidence of the activity of cabozantinib in MiT TRCC, with more durable responses than those observed historically with other VEGFR-TKIs or ICIs [748].
+
+  • Epidemiology Aetiology And Pathology
+
+  • Staging And Classification Systems
+
+  • Diagnostic Evaluation
+
+  • Prognostic Factors
+
+  • Disease Management
+
+  • Hereditary And Syndrome Specific Rcc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Epidemiology Aetiology And Pathology
+
+  • Staging And Classification Systems
+
+  • Diagnostic Evaluation
+
+  • Prognostic Factors
+
+  • Disease Management
+
+  • Hereditary And Syndrome Specific Rcc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+
+## 8. HEREDITARY AND SYNDROME SPECIFIC RCC
+
+
+
+## 8.1. Microphthalmia-associated transcription factors (MiTF) associated translocation tumours
+
+
+
+## 8.2. Management of hereditary and syndrome-specific RCC
+
+
+
+## 8.2.1. Von Hippel-Lindau-disease-associated RCC
+
+
+
+## 8.2.2. TFE3-rearranged RCC
+
+
+
+## 8.2.3. TFEB-altered RCC
+
+
+
+## 8.2.4. Combined therapy for TFE3- and TFEB-altered RCCs
+
+
+
+## 8.2.5. Summary of evidence and recommendation for hereditary and syndrome-specific RCC

@@ -1,0 +1,124 @@
+IntroductionMethodsEpidemiology And AetiologyPathological Staging, Grading And Classification SystemsDiagnosisPredicting Disease Recurrence And ProgressionDisease ManagementFollow-up Of Patients With NmibcPatient Reported Outcome Measures And Quality Indicators For NmibcPragmatic Deintensification Strategy In NmibcReferencesConflict Of InterestCitation InformationCopyright And Terms Of Use8. FOLLOW-UP OF PATIENTS WITH NMIBCDue to the risk of recurrence and progression, patients with NMIBC require follow-up after treatment. The first cystoscopy after TURBT at three months is an important prognostic indicator for recurrence and progression [264, 265, 292, 295, 498]. Therefore, the first cystoscopy should always be performed three months after TURBT in all patients with TaT1 tumours and CIS. The subsequent frequency and duration of cystoscopy and imaging follow-up should reflect the individual patient’s degree of risk. This can be defined by using the EAU NMIBC prognostic factor risk groups (Section 6.3, Tables 6.1 and 6.2) or further prognostic models for specific patient populations (Chapter 6) which predict the short- and long-term risks of recurrence and progression in individual patients (Section 8.1) [251, 253]. However, recommendations for follow-up are mainly based on retrospective data and there is a lack of RCTs investigating the possibility of safely reducing the frequency of follow-up cystoscopy.
+
+The low-risk group is nearly always low stage and LG/G1. Small, Ta LG/G1 papillary recurrence does not present an immediate danger to the patient and early detection is not essential for successful therapy [294, 499]. In addition, recurrence after five recurrence-free years is low [295]. Therefore, in low-risk tumours, after five years of follow-up, discontinuation of cystoscopy or its replacement with less invasive methods should be considered [498, 500, 501]. For example, one study found that a negative dipstick test for haematuria has a high negative predictive value in two cohorts with low-risk tumours at follow-up (0.89 and 0.94, respectively), suggesting its possible use as a surveillance strategy with limited costs [502].
+
+Patients in the intermediate-risk group carry a risk of progression somewhere in between the low- and high-risk categories [257]; therefore, the intensity of any follow-up scheme could be adapted in line with this. Based on the safety of a reduced intensity follow-up scheme compared to high-risk NMIBC, in a small RCT of multiple and/or recurrent grade 1 and 2 tumours [503], these patients can be safely followed-up with a cystoscopy at three months and, if negative, with six monthly cystoscopies for two years followed by yearly cystoscopies up to ten years. This surveillance scheme for this disease category has already been adopted by the Scottish Access Collaborative Workstream [504]. Due to lack of data supporting the safety of a reduced scheme in the subgroup of HG intermediate-risk NMIBC, the Panel recommend this group be followed-up in the same way as high-risk NMIBC.
+
+In originally high-risk or very high-risk tumours that were treated conservatively, the prompt detection of muscle-invasive and HG/G3 non-muscle-invasive recurrence is crucial and the percentage of tumours missed should be as low as possible because a delay in diagnosis and therapy can be life-threatening. Therefore, the best surveillance strategy for these patients will continue to include frequent cystoscopy and voided urine cytology. Recurrences after ten years tumour-free are not unusual [505]. Therefore, the optimal surveillance strategy for these patients includes initial frequent cystoscopy and voided urine cytology and life-long follow-up [498].
+
+The follow-up strategy must reflect the risk of extravesical recurrence (prostatic urethra in males and upper urinary tract in both genders, particularly after double-J stenting during TURBT) [506]. This risk becomes significant for both sites in high-risk tumours [107], with ten-year tumour rates in the upper urinary tract varying between 1.9% in T1 tumours [507] and 25% in patients with multiple and recurrent high-risk NMIBC [508]. In a population-based study, 3.6% of patients with high-risk tumours (Ta G3 and CIS) developed upper urinary tract disease within ten years of diagnosis [509]. Voided urine cytology, cystoscopy and CT urography are key investigations for early detection of extravesical recurrence.
+
+There may be a role for newer methods of tumour visualisation in follow-up cystoscopy. However, a systematic review and meta-analysis including two randomised trials showed that 100 blue light flexible cystoscopies (BLFC) are needed to detect any additional tumour and 50 to detect one CIS when consecutively applying BLFC during follow-up, suggesting a risk stratified strategy when considering BLFC during follow-up [510].
+
+In patients initially diagnosed with Ta LG/G1-2 BC, US of the bladder and/or a urinary marker may be a mode of surveillance if cystoscopy is not possible or refused by the patient [144, 511, 512].
+
+Non-invasive follow-up strategies include urine cytology as an adjunct (or companion) test to improve detection of HG disease at the time of flexible cystoscopy. With the implementation of the Paris system when reporting urinary tract cytology with the emphasis on improving the detection of HG tumours and recognising the limitation of cytology in diagnosing LG disease, urine cytology is not recommended for follow-up in the low-risk group and intermediate-risk group (with the exception of HG/G3 tumours). However, the Paris system has improved the clinical utility in HG disease as demonstrated in a systematic review where the average proportion HG malignancy for the three categories atypical urothelial cells (atypia), suspicious for HG UC (suspicious), and HG/G3 UC (malignant) were 40%, 81%, and 91%, respectively [513].
+
+Non-invasive follow-up strategies include urinary cytology and urinary molecular marker tests as an adjunct test to improve detection of HG disease at the time of flexible cystoscopy or as replacement tests to reduce the number of flexible cystoscopies (marker guided use). In order to reduce or replace cystoscopy altogether, urinary markers should be able to detect recurrence in all or specific risk groups. However, the reported low sensitivity for LG recurrences limits their utility in this group [141, 514] although more recent studies have shown reasonable sensitivity of 40-65% in detecting LG recurrences [515, 516].
+
+For clinical implementation of urinary molecular markers for NMIBC surveillance, some key issues are relevant [143]:
+
+Some urinary markers, chiefly those detecting multiple genetic alterations in the urine (so-called “multiplex” urine markers), have shown fairly high sensitivities to detect tumour recurrence, particularly in HG disease, along with very high NPVs to make the premises for their future implementation in follow-up [516, 518-520] (Table 8.1). Additionally, two randomised trials explored the use of marker-guided surveillance in low- and intermediate-risk patients [127] and the role of alternating a specific urinary marker (the Xpert BC Monitor) with cystoscopies in HG tumours [128], respectively, with both studies showing non-inferiority compared to standard surveillance. In the low- and intermediate-risk setting, a panel of urinary molecular markers were applied every six months after a negative three-month cystoscopy, which altogether detected > 80% of recurrences according to the study hypothesis. However, the marker or combination of markers to be adopted remains unclear [127]. In patients with HG tumours and a negative follow-up cystoscopy, alternating the urine marker with current standard surveillance (a cystoscopy at follow-up year one and two) significantly reduced the number of follow-up cystoscopies without affecting detection of any recurrence at a median of two years follow-up [127]. XPERT BC® MONITOR showed high sensitivity (91%) for the detection of HG disease at the price of 16% PPV (false positive result in nearly one out of three patients). Table 8.2 summarises the current recommended follow-up scheme for NMIBC according to the disease risk category.
+
+Table 8.1: Performance of multiplex urine markers in the surveillance setting
+
+DNA = deoxyribonucleic acid; FDFR = fibroblast growth factor receptor; HG = high-grade; KRAS = Kirsten rat sarcoma viral oncogene homolog; mRNA = messenger ribonucleic acid; n = number; TERT = telomerase reverse transcriptase.* Ranges refer to the lowest and the highest value respectively reported from available individual studies or systematic reviews.
+
+Table 8.2: Proposed follow-up schedule based on patient’s risk category
+
+*Intermediate-risk HG/G3 subgroup should be followed-up as high-risk** At the same intervals as cystoscopy
+
+  • Epidemiology And Aetiology
+
+  • Pathological Staging, Grading And Classification Systems
+
+  • Predicting Disease Recurrence And Progression
+
+  • Disease Management
+
+  • Follow-up Of Patients With Nmibc
+
+  • Patient Reported Outcome Measures And Quality Indicators For Nmibc
+
+  • Pragmatic Deintensification Strategy In Nmibc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Epidemiology And Aetiology
+
+  • Pathological Staging, Grading And Classification Systems
+
+  • Predicting Disease Recurrence And Progression
+
+  • Disease Management
+
+  • Follow-up Of Patients With Nmibc
+
+  • Patient Reported Outcome Measures And Quality Indicators For Nmibc
+
+  • Pragmatic Deintensification Strategy In Nmibc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Inflated negative predictive value (NPVs): Prevalence of recurrence influences both NPV and PPV at a given sensitivity and specificity, i.e. a low proportion of recurring patients in a cohort automatically renders a higher NPV. For example, a urinary marker missing all recurrences in a cohort in which 15% recur will display an NPV of 0.85 despite not being clinically useful.
+
+  • Clinical context: In a patient with high- or very high-risk NMIBC, the consequence if a urinary marker test misses recurrent disease is more severe than in a patient with either low- or intermediate-risk NMIBC. In these lower risk categories, the clinical utility of a urinary marker would be to postpone or even replace a cystoscopy (marker guided use). Moreover, in a high-risk NMIBC scenario, a marker-enforced application would be simultaneously relevant to improve detection of a HG recurrence.
+
+  • Patient preferences: Patients prefer certainty over the burden of cystoscopic surveillance [517].
+
+  • Cost-effectiveness: Must be shown prior to implementation, i.e. to calculate quality-adjusted life-years (QALY), total costs, and incremental cost effectiveness ratios (ICERs) for different follow-up scenarios.
+
+
+## 8. FOLLOW-UP OF PATIENTS WITH NMIBC
+
+
+
+## 8.1. Intravesical surveillance during follow-up
+
+
+
+## 8.2. Summary of evidence and recommendations for follow-up of patients after TURBT for NMIBC
+
+
+
+## 8.1.1. Follow-up of low-risk NMIBC
+
+
+
+## 8.1.2. Follow-up of intermediate-risk NMIBC
+
+
+
+## 8.1.3. Follow-up of high- and very high-risk NMIBC
+
+
+
+## 8.1.4. Follow-up of extravesical sites urothelium
+
+
+
+## 8.1.5. Aids for tumour detection during follow-up
+
+
+
+## 8.1.5.a. Enhanced visualisation
+
+
+
+## 8.1.5.b. Ultrasound
+
+
+
+## 8.1.5.c. Urine cytology
+
+
+
+## 8.1.5.d. Urinary molecular markers

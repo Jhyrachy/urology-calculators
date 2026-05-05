@@ -1,0 +1,114 @@
+IntroductionMethodsEpidemiology Aetiology And PathologyStaging And Classification SystemsDiagnostic EvaluationPrognostic FactorsDisease ManagementHereditary And Syndrome Specific RccFollow UpReferencesConflict Of InterestCitation InformationCopyright And Terms Of Use9. FOLLOW UP9.1. IntroductionSurveillance after treatment for RCC allows the urologist to monitor or identify the following:
+
+There is no consensus on follow-up strategies after RCC treatment, with limited evidence suggesting that more frequent postoperative imaging intervals do not provide any improvement for early detection of recurrence that would lead to improved survival [726]. As such, intensive radiological surveillance may not be necessary for all patients. Follow-up is also important to assess functional outcomes and to limit long-term sequelae, such as renal function impairment, ESRD and cardiovascular events [749]. Referral of patients at risk of CKD/renal function deterioration after treatment (surgery/ablation) to a nephrologist may minimise the risk of worsening of renal function; support oncologists in managing treatment-related renal adverse events; assist in the choice of optimal follow-up radiological procedures (mainly deciding if, when, and how to use CT contrast media); and deal with oncological patients on dialysis or with kidney transplant (including if and when to start dialysis, or whether to allow a kidney transplant) (expert opinion) [252]. Patients with pre-existing or treatment-induced CKD (e.g. patients with new baseline estimated GFR equal to or less than 45ml/min. [750]), and/or known comorbidities potentially affecting renal function could benefit the most from specialist nephrological assessment during follow-up (expert opinion).
+
+Currently, the key question is whether any recurrence detection during follow-up and subsequent treatment will lead to any meaningful change in survival outcome for these patients.
+
+In contrast to high-grade and/or locally advanced disease, the outcome after surgery for T1a low-grade tumours is almost always excellent. It is therefore reasonable to stratify follow-up, taking into account the risk of each different RCC to develop a local or distant recurrence. Although there is no randomised evidence, large studies have examined prognostic factors with long follow-up [220,751,752] (LE: 4). One study has shown a survival benefit in patients who were followed within a structured surveillance protocol versus patients who were not [753]; patients undergoing follow-up appear to have a longer OS when compared to patients not undergoing routine follow-up [753].
+
+Moreover, an individualised and risk-based approach to RCC follow-up has recently been proposed [754]. The authors used competing risk models, incorporating patient age, pathologic stage, relapse location and comorbidities, to calculate when the risk of non-RCC death exceeds the risk of RCC recurrence [755]. For patients with low-stage disease but with a Charlson comorbidity index > 2, the risk of non-RCC death exceeded that of abdominal recurrence risk already one month after surgery, regardless of patient age. As for psychological factors, an SR including fifteen studies revealed that psychological distress (defined as anxiety, depression or psychological distress at any time during treatment or follow-up) is also prevalent among RCC patients, reaching up to 77% in non-metastatic cases [756].
+
+The RECUR consortium, initiated by this Panel, collects similar data with the aim to provide comparators for guideline recommendations. Published RECUR data support a risk-based approach; more specifically, a competing-risk analysis showed that, for low-risk patients, the risk of non-RCC-related death exceeded the risk of RCC recurrence shortly after the initial surgery. For intermediate-risk patients, the corresponding time point was reached approximately four to five years after surgery. In high-risk patients, the risk of RCC recurrence continuously exceeded the risk of non-RCC-related death [757]. In the near future, genetic profiling may refine the existing prognostic scores and external validation in datasets from adjuvant trials have been promising in improving stratification of patient’s risk of recurrence [757,758].
+
+Recurrence after PN is rare, but early diagnosis is relevant, as the most effective treatment is surgery [717,759]. Recurrence in the contralateral kidney is rare (1-2%) and can occur late (median 5-6 years) [760] (LE: 3). Follow-up can identify local recurrences or metastases at an early stage. At recurrence, extensive metastatic tumour growth can hinder the opportunity for surgical resection. In addition, early diagnosis of tumour recurrence may enhance the efficacy of systemic treatment if the tumour burden is low.
+
+Controversy exists on the optimal duration of follow-up. Some authors argue that follow-up with imaging is not cost-effective after five years. However, late metastases are more likely to be solitary and justify more aggressive therapy with curative intent. In addition, patients with tumours that develop in the contralateral kidney can be treated with NSS if the tumours are detected early. Several authors have designed scoring systems and nomograms to quantify the likelihood of patients to develop tumour recurrences, metastases and subsequent death [282,284,766,767]. These models, the most utilised of which are summarised in Chapter 6, ‘Prognosis’, have been compared and validated [768] (LE: 2). Using prognostic variables, several stage-based follow-up regimens have been proposed, although, none propose follow-up strategies after ablative therapies [769,770]. A postoperative nomogram is available to estimate the likelihood of freedom from recurrence at five years [279]. A preoperative prognostic model based on age, symptoms and TNM staging has been published and validated [771] (LE: 3).
+
+A follow-up algorithm for monitoring patients after treatment for RCC is needed, recognising not only the patient’s risk of recurrence profile, but also the efficacy of the treatment given (Table 8.1). These prognostic systems can be used to adapt the follow-up schedule according to predicted risk of recurrence. Ancillary to the above, life-expectancy calculations based on comorbidity and age at diagnosis may be useful in counselling patients on duration of follow-up [772].
+
+An SR evaluated frequency and duration of follow-up. Most studies employ a higher imaging frequency during FU after treatment for non-metastatic RCC than recommended by the 2022 EAU Guidelines. Survival and recurrence rates suggest that more frequent imaging than recommended by the EAU may not be advantageous, although high-quality evidence is needed to further improve guidelines [773].
+
+Referral of patients at risk of CKD or with renal function deterioration after treatment to a nephrologist may minimise the risk of worsening of renal function, support oncologists in managing treatment-related renal adverse events, and assist in the choice of optimal follow-up radiological procedures (expert opinion) [252].
+
+Patients with pre-existing or treatment-induced CKD (e.g. patients with new baseline estimated GFR < 45ml/min. [252]) and/or those with known comorbidities potentially affecting renal function could benefit the most from specialist nephrological assessment during follow-up (expert opinion).
+
+Table 9.1: Proposed follow-up schedule following treatment for localised RCC, taking into account patient risk of recurrence profile and treatment efficacy (based on expert opinion [LE: 4])
+
+For non-ccRCC:pT1a-T1b pNx-0 M0 and histological grade 1 or 2.
+
+Intermediate risk of recurrence
+
+For non-ccRCC:pT1b pNx-0 and/or histological grade 3 or 4
+
+For non-ccRCC:pT2-pT4 with any histological grade
+
+pT any, pN1 cM0 with any histological grade
+
+ccRCC = clear cell renal cell carcinoma; CT = computed tomography; mos. = months; non-ccRCC = non clear cell renal cell carcinoma; yrs. = years.
+
+The table above provides recommendations on follow-up strategies for low, intermediate and high risk of recurrence in patients curatively treated for localised RCC either with NSS or RN. Computed tomography in the table refers to imaging of both chest and abdomen. Alternatively, MRI of the abdomen can be performed instead of a CT-scan.* Risk of recurrence profiles should be based on validated prognostic models. The EAU RCC Guidelines Panel recommends the 2003 Leibovich model for ccRCC [282]. However, physicians can use other validated models, based on their own national/regional recommendations. In a similar fashion, for curatively treated localised non-ccRCC, the Panel recommends the use of the University of California Los Angeles integrated staging system (UISS) to determine risk of recurrence [283].** For all risk of recurrence profiles, functional follow-up - mainly monitoring renal and cardiovascular function - may continue according to specific clinical needs irrespective of the length of the oncological follow-up.*** For low-risk profiles at > 3 years and intermediate-risk at > 5 years of follow-up, respectively, consider counselling patients about terminating oncological follow-up imaging based on assessment of comorbidities, age, life expectancy and/or patient wishes.
+
+Seek nephrological consultation during follow-up in patients treated for RCC with one or more of the following conditions:
+
+- pre-existing chronic kidney disease (CKD)- treatment-induced CKD (e.g. new baseline eGFR - known comorbidities potentially affecting renal function.
+
+  • Epidemiology Aetiology And Pathology
+
+  • Staging And Classification Systems
+
+  • Diagnostic Evaluation
+
+  • Prognostic Factors
+
+  • Disease Management
+
+  • Hereditary And Syndrome Specific Rcc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Epidemiology Aetiology And Pathology
+
+  • Staging And Classification Systems
+
+  • Diagnostic Evaluation
+
+  • Prognostic Factors
+
+  • Disease Management
+
+  • Hereditary And Syndrome Specific Rcc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • postoperative complications;
+
+  • renal function;
+
+  • local recurrence;
+
+  • recurrence in the contralateral kidney;
+
+  • distant metastases; and
+
+  • cardiovascular events.
+
+  • The sensitivity of chest radiography and US for detection of small RCC metastases is poor. The sensitivity of chest radiography is significantly lower than CT-scans, as proven in comparative studies including histological evaluation [761-763]. Therefore, follow-up for recurrence detection with chest radiography and US are less sensitive [764].
+
+  • Positron-emission tomography and PET-CT as well as bone scintigraphy should not be used routinely in RCC follow-up, due to their limited specificity and sensitivity [128,144].
+
+  • Surveillance should also include evaluation of renal function and cardiovascular risk factors [749].
+
+  • Outside the scope of regular follow-up imaging of the chest and abdomen, targeted imaging should be considered in patients with organ-specific symptoms, e.g. CT or MRI imaging of the brain in patients experiencing neurological symptoms [765].
+
+
+## 9. FOLLOW UP
+
+
+
+## 9.1. Introduction
+
+
+
+## 9.2. Which imaging investigations for which patients, and when?
+
+
+
+## 9.3. Summary of evidence and recommendations for surveillance following RN or PN or ablative therapies in RCC

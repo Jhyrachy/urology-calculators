@@ -1,0 +1,64 @@
+IntroductionMethodsEpidemiology And AetiologyPathological Staging, Grading And Classification SystemsDiagnosisPredicting Disease Recurrence And ProgressionDisease ManagementFollow-up Of Patients With NmibcPatient Reported Outcome Measures And Quality Indicators For NmibcPragmatic Deintensification Strategy In NmibcReferencesConflict Of InterestCitation InformationCopyright And Terms Of Use9. PATIENT REPORTED OUTCOME MEASURES AND QUALITY INDICATORS FOR NMIBC9.1. Patient Reported Outcome Measures and Patient Reported Experience Measures in NMIBCAs NMIBC is associated with a significant number of hospital visits and interventions (TURBT, re-TURBT, surveillance cystoscopy, intravesical instillations), survivorship has a significant effect on patient QoL [525, 526]. Several Patient Reported Outcome Measures (PROMs) and Patient Reported Experience Measures (PREMs) have been developed to gauge the impact of treatment and surveillance on patients with a view to improving quality of care; however, due to lack of standardisation and heterogeneity none of them can currently be recommended for use in clinical practice [527]. In an effort to add further outcome measures of importance to patients with NMIBC, a NMIBC Symptom Index (NMIBC-SI) has been developed [528].
+
+To provide the best possible care, clinicians should always be cognisant of the impact of disease and treatment (including surveillance) on their patients’ QoL. The use of PROMs is an important endpoint for quality metrics and RCTs should systematically incorporate PROMs for patient-centred research design. A prospective evaluation, where 108 patients filled out the ICIQ-LUTS questionnaire regarding urinary symptoms, postoperative side effects, and QoL (EQ-5D-3L) at days one and 14 postoperatively, found that the most frequently reported outcomes were postoperative haematuria and pain. Patients undergoing TURBT reported longer lasting haematuria, a higher perception of pain, and a more negative impact on QoL, compared to patients undergoing TULA [290]. From the ENVISION single arm trial, where patients received chemo-ablation with Mitomycin (UGN-102) instead of TURBT, patients perceived that TURBT interfered more with their routine/responsibilities; urinary symptoms were perceived to be similar, but bleeding, catheter issues, and time to resuming sexual activity lasted longer with TURBT, and patients would recommend UGN-102 to other patients as it was perceived to be less invasive, less painful, and less time-consuming than TURBT [529].
+
+Evidence based QIs and QPIs are designed to be surrogates of good practice and consequently, outcomes. They allow for the gap between efficacy and effectiveness to be narrowed, i.e. being able to bring research evidence and guideline recommendations into real world practice by improving compliance to them [530]. They also permit objective monitoring of the quality of care and thus facilitate quality control as well as service and process improvements.
+
+Several QIs for BC have been suggested [531-534]. The table below represents the general and NMIBC-related QIs adapted from Leow et al., [533] and the Scottish QPI programme [534]. Quality indicators and QPIs should be SMART (Specific, Measurable, Achievable, Relevant, Trainable) [530]. In 2014, Scotland introduced such a programme for BC [534] and have been an exemplar by demonstrating high levels of compliance to QPIs while reducing practice variation across the country, and also demonstrating the clinical value of such a programme [184], including development of prognostic models [504].
+
+Successful implementation of a QI programme has the potential to inspire and catalyse clinical excellence in contemporary BC practice [530]. It is equally important that prospective audit-feedback mechanisms are utilised to improve outcomes and modify QIs using emerging evidence, to ensure they are fit for purpose [535].
+
+Table 9.1: Quality indicators for general aspects of BC and NMIBC care, adapted from [533, 534]
+
+BC = bladder cancer; BCG = bacillus Calmette-Guérin; CT = computed tomography; EAU = European Association of Urology; EORTC = European Organisation for Research and Treatment of Cancer; MRI = magnetic resonance imaging; NMIBC = non-muscle-invasive bladder cancer; TURBT = transurethral resection of the bladder tumour; US = ultrasound.
+
+  • Epidemiology And Aetiology
+
+  • Pathological Staging, Grading And Classification Systems
+
+  • Predicting Disease Recurrence And Progression
+
+  • Disease Management
+
+  • Follow-up Of Patients With Nmibc
+
+  • Patient Reported Outcome Measures And Quality Indicators For Nmibc
+
+  • Pragmatic Deintensification Strategy In Nmibc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Epidemiology And Aetiology
+
+  • Pathological Staging, Grading And Classification Systems
+
+  • Predicting Disease Recurrence And Progression
+
+  • Disease Management
+
+  • Follow-up Of Patients With Nmibc
+
+  • Patient Reported Outcome Measures And Quality Indicators For Nmibc
+
+  • Pragmatic Deintensification Strategy In Nmibc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+
+## 9. PATIENT REPORTED OUTCOME MEASURES AND QUALITY INDICATORS FOR NMIBC
+
+
+
+## 9.1. Patient Reported Outcome Measures and Patient Reported Experience Measures in NMIBC
+
+
+
+## 9.2. Quality Indicators in bladder cancer

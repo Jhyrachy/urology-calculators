@@ -1,0 +1,1584 @@
+IntroductionMethodsEpidemiology Aetiology And PathologyStaging And Classification SystemsDiagnostic EvaluationPrognostic FactorsDisease ManagementHereditary And Syndrome Specific RccFollow UpReferencesConflict Of InterestCitation InformationCopyright And Terms Of Use10. REFERENCES1.Phillips, B. Oxford Centre for Evidence-based Medicine Levels of Evidence. Updated by Jeremy Howick March 2009. 1998. https://www.cebm.ox.ac.uk/resources/levels-of-evidence/oxford-centre-for-evidence-based-medicine-levels-of-evidence-march-2009
+
+2.Guyatt, G.H., et al. Going from evidence to recommendations. BMJ, 2008. 336: 1049. https://www.ncbi.nlm.nih.gov/pubmed/18467413
+
+3.Pecoraro, A., et al. Quality Indicators for Renal Cancer Care: A Systematic Review. Eur Urol Oncol, 2025. https://www.ncbi.nlm.nih.gov/pubmed/40483206
+
+4.Sordelli, F., et al. A Systematic Review and Meta-analysis of Oncological Outcomes of Treated and Untreated Complex Cystic Renal Masses. Eur Urol Focus, 2025. https://www.ncbi.nlm.nih.gov/pubmed/41309407
+
+5.Ferlay, J., et al. Cancer incidence and mortality patterns in Europe: Estimates for 40 countries and 25 major cancers in 2018. Eur J Cancer, 2018. 103: 356. https://www.ncbi.nlm.nih.gov/pubmed/30100160
+
+6.Capitanio, U., et al. Epidemiology of Renal Cell Carcinoma. Eur Urol, 2019. 75: 74. https://www.ncbi.nlm.nih.gov/pubmed/30243799
+
+7.Bray, F., et al. Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin, 2024. 74: 229. https://www.ncbi.nlm.nih.gov/pubmed/38572751
+
+8.Larcher, A., et al. Epidemiology of Renal Cancer: Incidence, Mortality, Survival, Genetic Predisposition, and Risk Factors. Eur Urol, 2025. 88: 341. https://www.ncbi.nlm.nih.gov/pubmed/40750496
+
+9.Ferlay J, et al. Global Cancer Observatory: Cancer Today (version 1.1). 2024. https://gco.iarc.who.int/today
+
+10.World Health Organization. Cancer Today. 2024. https://gco.iarc.who.int/today/en/
+
+11.Bukavina, L., et al. Epidemiology of Renal Cell Carcinoma: 2022 Update. Eur Urol, 2022. 82: 529. https://www.ncbi.nlm.nih.gov/pubmed/36100483
+
+12.World Health Organization. Global Cancer Observatory - Kidney. 2022. https://gco.iarc.who.int/media/globocan/factsheets/cancers/29-kidney-fact-sheet.pdf
+
+13.Commission, E. ECIS - European Cancer Information System. 2020. 2024. https://ecis.jrc.ec.europa.eu/
+
+14.Cirillo, L., et al. Global epidemiology of kidney cancer. Nephrol Dial Transplant, 2024. 39: 920. https://www.ncbi.nlm.nih.gov/pubmed/38341277
+
+15.Tahbaz, R., et al. Prevention of kidney cancer incidence and recurrence: lifestyle, medication and nutrition. Curr Opin Urol, 2018. 28: 62. https://www.ncbi.nlm.nih.gov/pubmed/29059103
+
+16.Huang, J., et al. A Global Trend Analysis of Kidney Cancer Incidence and Mortality and Their Associations with Smoking, Alcohol Consumption, and Metabolic Syndrome. Eur Urol Focus, 2022. 8: 200. https://www.ncbi.nlm.nih.gov/pubmed/33495133
+
+17.Du, W., et al. Association Between Metabolic Syndrome and Risk of Renal Cell Cancer: A Meta-Analysis. Front Oncol, 2022. 12: 928619. https://www.ncbi.nlm.nih.gov/pubmed/35832547
+
+18.Alcala, K., et al. The relationship between blood pressure and risk of renal cell carcinoma. Int J Epidemiol, 2022. 51: 1317. https://www.ncbi.nlm.nih.gov/pubmed/35312764
+
+19.Graff, R.E., et al. Obesity in Relation to Renal Cell Carcinoma Incidence and Survival in Three Prospective Studies. Eur Urol, 2022. 82: 247. https://www.ncbi.nlm.nih.gov/pubmed/35715363
+
+20.Gansler, T., et al. Prevalence of Cigarette Smoking among Patients with Different Histologic Types of Kidney Cancer. Cancer Epidemiol Biomarkers Prev, 2020. 29: 1406. https://www.ncbi.nlm.nih.gov/pubmed/32357956
+
+21.Al-Bayati, O., et al. Systematic review of modifiable risk factors for kidney cancer. Urol Oncol, 2019. 37: 359. https://www.ncbi.nlm.nih.gov/pubmed/30685335
+
+22.Lee, S.W., et al. Familial Risk of Renal Cell Cancer and Interaction with Obesity and Hyperglycemia: A Population-Based Study. J Urol, 2022. 208: 251. https://www.ncbi.nlm.nih.gov/pubmed/35298291
+
+23.Jakobsson, R.G., et al. Family History and Risk of Renal Cell Carcinoma: A National Multiregister Case-Control Study. J Urol, 2024. 211: 71. https://www.ncbi.nlm.nih.gov/pubmed/37862613
+
+24.Bellocco, R., et al. Alcohol drinking and risk of renal cell carcinoma: results of a meta-analysis. Ann Oncol, 2012. 23: 2235. https://www.ncbi.nlm.nih.gov/pubmed/22398178
+
+25.Wozniak, M.B., et al. Alcohol consumption and the risk of renal cancers in the European prospective investigation into cancer and nutrition (EPIC). Int J Cancer, 2015. 137: 1953. https://www.ncbi.nlm.nih.gov/pubmed/25866035
+
+26.Antwi, S.O., et al. Alcohol consumption, variability in alcohol dehydrogenase genes and risk of renal cell carcinoma. Int J Cancer, 2018. 142: 747. https://www.ncbi.nlm.nih.gov/pubmed/29023769
+
+27.Taj, T., et al. Anti-Inflammatory Diet Index and risk of renal cell carcinoma. Br J Cancer, 2025. 132: 1027. https://www.ncbi.nlm.nih.gov/pubmed/40188289
+
+28.Li, Y.D., et al. Ultra-processed food consumption and renal cell carcinoma incidence and mortality: results from a large prospective cohort. BMC Med, 2024. 22: 459. https://www.ncbi.nlm.nih.gov/pubmed/39396995
+
+29.Liao, Z., et al. The role of diet in renal cell carcinoma incidence: an umbrella review of meta-analyses of observational studies. BMC Med, 2022. 20: 39. https://www.ncbi.nlm.nih.gov/pubmed/35109847
+
+30.Rai, B.P., et al. Systematic Review of the Incidence of and Risk Factors for Urothelial Cancers and Renal Cell Carcinoma Among Patients with Haematuria. Eur Urol, 2022. 82: 182. https://www.ncbi.nlm.nih.gov/pubmed/35393159
+
+31.Stewart, G.D., et al. Abdominal Noncontrast Computed Tomography Scanning to Screen for Kidney Cancer and Other Abdominal Pathology Within Community-based Computed Tomography Screening for Lung Cancer: Results of the Yorkshire Kidney Screening Trial. Eur Urol, 2025. 87: 561. https://www.ncbi.nlm.nih.gov/pubmed/39271419
+
+32.Diana, P., et al. Screening programs for renal cell carcinoma: a systematic review by the EAU young academic urologists renal cancer working group. World J Urol, 2023. 41: 929. https://www.ncbi.nlm.nih.gov/pubmed/35362747
+
+33.Rossi, S.H., et al. Epidemiology and screening for renal cancer. World J Urol, 2018. 36: 1341. https://www.ncbi.nlm.nih.gov/pubmed/29610964
+
+34.Usher-Smith, J.A., et al. The Yorkshire Kidney Screening Trial (YKST): protocol for a feasibility study of adding non-contrast abdominal CT scanning to screen for kidney cancer and other abdominal pathology within a trial of community-based CT screening for lung cancer. BMJ Open, 2022. 12: e063018. https://www.ncbi.nlm.nih.gov/pubmed/36127097
+
+35.Usher-Smith, J.A., et al. Short-term psychosocial outcomes of adding a non-contrast abdominal computed tomography (CT) scan to the thoracic CT within lung cancer screening. BJU Int, 2024. 133: 539. https://www.ncbi.nlm.nih.gov/pubmed/38097529
+
+36.Akerlund, J., et al. Increased risk for renal cell carcinoma in end stage renal disease - a population-based case-control study. Scand J Urol, 2021. 55: 209. https://www.ncbi.nlm.nih.gov/pubmed/33769206
+
+37.Organization., W.H., Urinary and Male Genital Tumours WHO Classification of 5th, ed. WHO. Vol. 8. 2022. https://publications.iarc.fr/Book-And-Report-Series/Who-Classification-Of-Tumours/Urinary-And-Male-Genital-Tumours-2022
+
+38.Moch, H., et al. The 2022 World Health Organization Classification of Tumours of the Urinary System and Male Genital Organs-Part A: Renal, Penile, and Testicular Tumours. Eur Urol, 2022. 82: 458. https://www.ncbi.nlm.nih.gov/pubmed/35853783
+
+39.Hora, M., et al. European Association of Urology Guidelines Panel on Renal Cell Carcinoma Update on the New World Health Organization Classification of Kidney Tumours 2022: The Urologist’s Point of View. Eur Urol, 2023. 83: 97. https://www.ncbi.nlm.nih.gov/pubmed/36435661
+
+40.Moch, H., et al. The 2016 WHO Classification of Tumours of the Urinary System and Male Genital Organs-Part A: Renal, Penile, and Testicular Tumours. Eur Urol, 2016. 70: 93. https://www.ncbi.nlm.nih.gov/pubmed/26935559
+
+41.Organization., W.H., WHO Classification of Tumours of the Urinary System and Male Genital Organs. 4th ed. WHO. Vol. 8. 2016, Lyon. https://publications.iarc.fr/Book-And-Report-Series/Who-Classification-Of-Tumours/WHO-Classification-Of-Tumours-Of-The-Urinary-System-And-Male-Genital-Organs-2016
+
+42.An, J., et al. Patient Characteristics and Survival Outcomes of Non-Metastatic, Non-Clear Cell Renal Cell Carcinoma. Front Oncol, 2021. 11: 786307. https://www.ncbi.nlm.nih.gov/pubmed/35083144
+
+43.Ullah, A., et al. Demographic Patterns and Clinicopathological Analysis of Sarcomatoid Renal Cell Carcinoma in US Population. Clin Genitourin Cancer, 2024. 22: 38. https://www.ncbi.nlm.nih.gov/pubmed/37550179
+
+44.Trpkov, K., et al. New developments in existing WHO entities and evolving molecular concepts: The Genitourinary Pathology Society (GUPS) update on renal neoplasia. Mod Pathol, 2021. 34: 1392. https://www.ncbi.nlm.nih.gov/pubmed/33664427
+
+45.Hora, M. Re: Philip S. Macklin, Mark E. Sullivan, Charles R. Tapping, et al. Tumour Seeding in the Tract of Percutaneous Renal Tumour Biopsy: A Report on Seven Cases from a UK Tertiary Referral Centre. Eur Urol 2019;75:861-7. Eur Urol, 2019. 76: e96. https://www.ncbi.nlm.nih.gov/pubmed/31255420
+
+46.Shen, L., et al. World Health Organization 2022 Classification Update: Radiologic and Pathologic Features of Papillary Renal Cell Carcinomas. Acad Radiol, 2024. 31: 3257. https://www.ncbi.nlm.nih.gov/pubmed/38365492
+
+47.Liu, S., et al. External validation of a four-tiered grading system for chromophobe renal cell carcinoma. Clin Exp Med, 2024. 24: 61. https://www.ncbi.nlm.nih.gov/pubmed/38554222
+
+48.Neves, J.B., et al. Pattern, timing and predictors of recurrence after surgical resection of chromophobe renal cell carcinoma. World J Urol, 2021. 39: 3823. https://www.ncbi.nlm.nih.gov/pubmed/33851271
+
+49.Frank, I., et al. Solid renal tumors: an analysis of pathological features related to tumor size. J Urol, 2003. 170: 2217. https://www.ncbi.nlm.nih.gov/pubmed/14634382
+
+50.Keegan, K.A., et al. Histopathology of surgically treated renal cell carcinoma: survival differences by subtype and stage. J Urol, 2012. 188: 391. https://www.ncbi.nlm.nih.gov/pubmed/22698625
+
+51.Abern, M.R., et al. Characteristics and outcomes of tumors arising from the distal nephron. Urology, 2012. 80: 140. https://www.ncbi.nlm.nih.gov/pubmed/22626576
+
+52.Qian, X., et al. Impact of Treatment Modalities on Prognosis in Patients With Renal Collecting Duct Carcinoma: A Population-Based Study. Front Oncol, 2022. 12: 810096. https://www.ncbi.nlm.nih.gov/pubmed/35530344
+
+53.Kanakaraj, J., et al. The New WHO Category of “Molecularly Defined Renal Carcinomas”: Clinical and Diagnostic Features and Management Implications. Urol Oncol, 2024. 42: 211. https://www.ncbi.nlm.nih.gov/pubmed/38519377
+
+54.Forde, C., et al. Hereditary Leiomyomatosis and Renal Cell Cancer: Clinical, Molecular, and Screening Features in a Cohort of 185 Affected Individuals. Eur Urol Oncol, 2020. 3: 764. https://www.ncbi.nlm.nih.gov/pubmed/31831373
+
+55.Cimadamore, A., et al. Towards a new WHO classification of renal cell tumor: what the clinician needs to know-a narrative review. Transl Androl Urol, 2021. 10: 1506. https://www.ncbi.nlm.nih.gov/pubmed/33850785
+
+56.Amin, M.B., et al. Collecting duct carcinoma versus renal medullary carcinoma: an appeal for nosologic and biological clarity. Am J Surg Pathol, 2014. 38: 871. https://www.ncbi.nlm.nih.gov/pubmed/24805860
+
+57.Shah, A.Y., et al. Management and outcomes of patients with renal medullary carcinoma: a multicentre collaborative study. BJU Int, 2017. 120: 782. https://www.ncbi.nlm.nih.gov/pubmed/27860149
+
+58.Iacovelli, R., et al. Clinical outcome and prognostic factors in renal medullary carcinoma: A pooled analysis from 18 years of medical literature. Can Urol Assoc J, 2015. 9: E172. https://www.ncbi.nlm.nih.gov/pubmed/26085875
+
+59.Alvarez, O., et al. Renal medullary carcinoma and sickle cell trait: A systematic review. Pediatr Blood Cancer, 2015. 62: 1694. https://www.ncbi.nlm.nih.gov/pubmed/26053587
+
+60.Breda, A., et al. Clinical and pathological outcomes of renal cell carcinoma (RCC) in native kidneys of patients with end-stage renal disease: a long-term comparative retrospective study with RCC diagnosed in the general population. World J Urol, 2015. 33: 1. https://www.ncbi.nlm.nih.gov/pubmed/24504760
+
+61.Neves, J.B., et al. Growth and renal function dynamics of renal oncocytomas in patients on active surveillance. BJU Int, 2021. 128: 722. https://www.ncbi.nlm.nih.gov/pubmed/34046981
+
+62.Vijay, V., et al. Incidence of Benign Renal Masses in a Contemporary Cohort of Patients Receiving Partial Nephrectomy for Presumed Renal Cell Carcinoma. Clin Genitourin Cancer, 2023. 21: e114. https://www.ncbi.nlm.nih.gov/pubmed/36535809
+
+63.Wilson, M.P., et al. Diagnostic accuracy of 99mTc-sestamibi SPECT/CT for detecting renal oncocytomas and other benign renal lesions: a systematic review and meta-analysis. Abdom Radiol (NY), 2020. 45: 2532. https://www.ncbi.nlm.nih.gov/pubmed/32193593
+
+64.Basile, G., et al. The Role of (99m)Tc-Sestamibi Single-photon Emission Computed Tomography/Computed Tomography in the Diagnostic Pathway for Renal Masses: A Systematic Review and Meta-analysis. Eur Urol, 2024. 85: 63. https://www.ncbi.nlm.nih.gov/pubmed/37673752
+
+65.Schober, J.P., et al. Clinical Performance of Technetium-99m-Sestamibi SPECT/CT Imaging in Differentiating Oncocytic Tumors From Renal Cell Carcinoma in Routine Clinical Practice. J Urol, 2023. 210: 438. https://www.ncbi.nlm.nih.gov/pubmed/37378576
+
+66.Tzortzakakis, A., et al. (99m)Tc-Sestamibi SPECT/CT and histopathological features of oncocytic renal neoplasia. Scand J Urol, 2022. 56: 375. https://www.ncbi.nlm.nih.gov/pubmed/36065481
+
+67.Patel, H.D., et al. Surgical histopathology for suspected oncocytoma on renal mass biopsy: a systematic review and meta-analysis. BJU Int, 2017. 119: 661. https://www.ncbi.nlm.nih.gov/pubmed/28058773
+
+68.Branger, N., et al. Oncocytoma on renal mass biopsy: is it still the same histology when surgery is performed? Results from UroCCR-104 study. World J Urol, 2023. 41: 483. https://www.ncbi.nlm.nih.gov/pubmed/36633650
+
+69.Edwards, F., et al. Natural history of treated and untreated renal oncocytoma: a systematic review and meta-analysis. BJU Int, 2025. 136: 590. https://www.ncbi.nlm.nih.gov/pubmed/40623958
+
+70.Abdessater, M., et al. Renal Oncocytoma: An Algorithm for Diagnosis and Management. Urology, 2020. 143: 173. https://www.ncbi.nlm.nih.gov/pubmed/32512107
+
+71.Meagher, M.F., et al. Comparison of renal functional outcomes of active surveillance and partial nephrectomy in the management of oncocytoma. World J Urol, 2021. 39: 1195. https://www.ncbi.nlm.nih.gov/pubmed/32556559
+
+72.Bhatt, J.R., et al. Natural History of Renal Angiomyolipoma (AML): Most Patients with Large AMLs >4cm Can Be Offered Active Surveillance as an Initial Management Strategy. Eur Urol, 2016. 70: 85. https://www.ncbi.nlm.nih.gov/pubmed/26873836
+
+73.Fittschen, A., et al. Prevalence of sporadic renal angiomyolipoma: a retrospective analysis of 61,389 in- and out-patients. Abdom Imaging, 2014. 39: 1009. https://www.ncbi.nlm.nih.gov/pubmed/24705668
+
+74.Organization., W.h., Pathology and genetics of tumours of the urinary system and male genital organs . World Health Organization Classification of Tumours. 3rd, ed. J.N. Eble, et al. Vol. 7. 2004, Lyon. https://publications.iarc.fr/Book-And-Report-Series/Who-Classification-Of-Tumours/Pathology-And-Genetics-Of-Tumours-Of-The-Urinary-System-And-Male-Genital-Organs-2004
+
+75.Nese, N., et al. Pure epithelioid PEComas (so-called epithelioid angiomyolipoma) of the kidney: A clinicopathologic study of 41 cases: detailed assessment of morphology and risk stratification. Am J Surg Pathol, 2011. 35: 161. https://www.ncbi.nlm.nih.gov/pubmed/21263237
+
+76.Tsai, H.Y., et al. Clinicopathologic analysis of renal epithelioid angiomyolipoma: Consecutively excised 23 cases. Kaohsiung J Med Sci, 2019. 35: 33. https://www.ncbi.nlm.nih.gov/pubmed/30844148
+
+77.Fernandez-Pello, S., et al. Management of Sporadic Renal Angiomyolipomas: A Systematic Review of Available Evidence to Guide Recommendations from the European Association of Urology Renal Cell Carcinoma Guidelines Panel. Eur Urol Oncol, 2020. 3: 57. https://www.ncbi.nlm.nih.gov/pubmed/31171501
+
+78.Bissler, J.J., et al. Everolimus for renal angiomyolipoma in patients with tuberous sclerosis complex or sporadic lymphangioleiomyomatosis: extension of a randomized controlled trial. Nephrol Dial Transplant, 2016. 31: 111. https://www.ncbi.nlm.nih.gov/pubmed/26156073
+
+79.Bissler, J.J., et al. Everolimus long-term use in patients with tuberous sclerosis complex: Four-year update of the EXIST-2 study. PLoS One, 2017. 12: e0180939. https://www.ncbi.nlm.nih.gov/pubmed/28792952
+
+80.Geynisman, D.M., et al. Sporadic Angiomyolipomas Growth Kinetics While on Everolimus: Results of a Phase II Trial. J Urol, 2020. 204: 531. https://www.ncbi.nlm.nih.gov/pubmed/32250730
+
+81.Schoots, I.G., et al. Bosniak Classification for Complex Renal Cysts Reevaluated: A Systematic Review. J Urol, 2017. 198: 12. https://www.ncbi.nlm.nih.gov/pubmed/28286071
+
+82.Tse, J.R., et al. Prevalence of Malignancy and Histopathological Association of Bosniak Classification, Version 2019 Class III and IV Cystic Renal Masses. J Urol, 2021. 205: 1031. https://www.ncbi.nlm.nih.gov/pubmed/33085925
+
+83.Defortescu, G., et al. Diagnostic performance of contrast-enhanced ultrasonography and magnetic resonance imaging for the assessment of complex renal cysts: A prospective study. Int J Urol, 2017. 24: 184. https://www.ncbi.nlm.nih.gov/pubmed/28147450
+
+84.Silverman, S.G., et al. Bosniak Classification of Cystic Renal Masses, Version 2019: An Update Proposal and Needs Assessment. Radiology, 2019. 292: 475. https://www.ncbi.nlm.nih.gov/pubmed/31210616
+
+85.Cantisani, V., et al. EFSUMB 2020 Proposal for a Contrast-Enhanced Ultrasound-Adapted Bosniak Cyst Categorization - Position Statement. Ultraschall Med, 2021. 42: 154. https://www.ncbi.nlm.nih.gov/pubmed/33307594
+
+86.Donin, N.M., et al. Clinicopathologic outcomes of cystic renal cell carcinoma. Clin Genitourin Cancer, 2015. 13: 67. https://www.ncbi.nlm.nih.gov/pubmed/25088469
+
+87.Park, J.J., et al. Postoperative Outcome of Cystic Renal Cell Carcinoma Defined on Preoperative Imaging: A Retrospective Study. J Urol, 2017. 197: 991. https://www.ncbi.nlm.nih.gov/pubmed/27765694
+
+88.Chandrasekar, T., et al. Natural History of Complex Renal Cysts: Clinical Evidence Supporting Active Surveillance. J Urol, 2018. 199: 633. https://www.ncbi.nlm.nih.gov/pubmed/28941915
+
+89.Nouhaud, F.X., et al. Contemporary assessment of the correlation between Bosniak classification and histological characteristics of surgically removed atypical renal cysts (UroCCR-12 study). World J Urol, 2018. 36: 1643. https://www.ncbi.nlm.nih.gov/pubmed/29730837
+
+90.Bierley, J.D., et al. UICC TNM classification of malignant tumours. 2017. https://www.uicc.org/resources/tnm-classification-malignant-tumours-8th-edition
+
+91.Capitanio, U., et al. A Renewal of the TNM Staging System for Patients with Renal Cancer To Comply with Current Decision-making: Proposal from the European Association of Urology Guidelines Panel. Eur Urol, 2023. 83: 3. https://www.ncbi.nlm.nih.gov/pubmed/36253306
+
+92.Waalkes, S., et al. Is there a need to further subclassify pT2 renal cell cancers as implemented by the revised 7th TNM version? Eur Urol, 2011. 59: 258. https://www.ncbi.nlm.nih.gov/pubmed/21030143
+
+93.Bertini, R., et al. Renal sinus fat invasion in pT3a clear cell renal cell carcinoma affects outcomes of patients without nodal involvement or distant metastases. J Urol, 2009. 181: 2027. https://www.ncbi.nlm.nih.gov/pubmed/19286201
+
+94.Poon, S.A., et al. Invasion of renal sinus fat is not an independent predictor of survival in pT3a renal cell carcinoma. BJU Int, 2009. 103: 1622. https://www.ncbi.nlm.nih.gov/pubmed/19154464
+
+95.Bedke, J., et al. Perinephric and renal sinus fat infiltration in pT3a renal cell carcinoma: possible prognostic differences. BJU Int, 2009. 103: 1349. https://www.ncbi.nlm.nih.gov/pubmed/19076147
+
+96.Izumi, K., et al. Contact with renal sinus is associated with poor prognosis in surgically treated pT1 clear cell renal cell carcinoma. Int J Urol, 2020. 27: 657. https://www.ncbi.nlm.nih.gov/pubmed/32458519
+
+97.Novara, G., et al. Validation of the 2009 TNM version in a large multi-institutional cohort of patients treated for renal cell carcinoma: are further improvements needed? Eur Urol, 2010. 58: 588. https://www.ncbi.nlm.nih.gov/pubmed/20674150
+
+98.Heidenreich, A., et al. Preoperative imaging in renal cell cancer. World J Urol, 2004. 22: 307. https://www.ncbi.nlm.nih.gov/pubmed/15290202
+
+99.Sheth, S., et al. Current concepts in the diagnosis and management of renal cell carcinoma: role of multidetector ct and three-dimensional CT. Radiographics, 2001. 21 Spec No: S237. https://www.ncbi.nlm.nih.gov/pubmed/11598260
+
+100.Xu, P., et al. Predictive value of renal tumor contour irregularity score in pathological T3a upstaging of clinical T1 renal cell carcinoma: A multi-institutional study. Urol Oncol, 2022. 40: 199 e1. https://www.ncbi.nlm.nih.gov/pubmed/35365414
+
+101.Sobin LH., G.M., Wittekind C. (eds). TNM classification of malignant tumors. 2009. 7th edn. https://www.ncbi.nlm.nih.gov/nlmcatalog/101511218
+
+102.Amin, M.B., et al. The Eighth Edition AJCC Cancer Staging Manual: Continuing to build a bridge from a population-based to a more “personalized” approach to cancer staging. CA Cancer J Clin, 2017. 67: 93. https://www.ncbi.nlm.nih.gov/pubmed/28094848
+
+103.Ficarra, V., et al. The Simplified PADUA REnal (SPARE) nephrometry system: a novel classification of parenchymal renal tumours suitable for partial nephrectomy. BJU Int, 2019. 124: 621. https://www.ncbi.nlm.nih.gov/pubmed/30963680
+
+104.Simmons, M.N., et al. Diameter-axial-polar nephrometry: integration and optimization of R.E.N.A.L. and centrality index scoring systems. J Urol, 2012. 188: 384. https://www.ncbi.nlm.nih.gov/pubmed/22698624
+
+105.Klatte, T., et al. A Literature Review of Renal Surgical Anatomy and Surgical Strategies for Partial Nephrectomy. Eur Urol, 2015. 68: 980. https://www.ncbi.nlm.nih.gov/pubmed/25911061
+
+106.Spaliviero, M., et al. An Arterial Based Complexity (ABC) Scoring System to Assess the Morbidity Profile of Partial Nephrectomy. Eur Urol, 2016. 69: 72. https://www.ncbi.nlm.nih.gov/pubmed/26298208
+
+107.Hakky, T.S., et al. Zonal NePhRO scoring system: a superior renal tumor complexity classification model. Clin Genitourin Cancer, 2014. 12: e13. https://www.ncbi.nlm.nih.gov/pubmed/24120084
+
+108.Davidiuk, A.J., et al. Mayo adhesive probability score: an accurate image-based scoring system to predict adherent perinephric fat in partial nephrectomy. Eur Urol, 2014. 66: 1165. https://www.ncbi.nlm.nih.gov/pubmed/25192968
+
+109.Tanaka, H., et al. Defining Tumour Shape Irregularity for Preoperative Risk Stratification of Clinically Localised Renal Cell Carcinoma. Eur Urol Open Sci, 2023. 48: 36. https://www.ncbi.nlm.nih.gov/pubmed/36743398
+
+110.Longoni, M., et al. Head-to-head comparison of nephrometry scores for partial nephrectomy: implications for clinical guidelines. Eur J Surg Oncol, 2025. 51: 110283. https://www.ncbi.nlm.nih.gov/pubmed/40592281
+
+111.Jayson, M., et al. Increased incidence of serendipitously discovered renal cell carcinoma. Urology, 1998. 51: 203. https://www.ncbi.nlm.nih.gov/pubmed/9495698
+
+112.Campbell, S.C. Commentary RE: Increased Incidence of Serendipitously Discovered Renal Cell Carcinoma. Urology, 2020. 145: 333. https://www.ncbi.nlm.nih.gov/pubmed/32304679
+
+113.Vasudev, N.S., et al. Challenges of early renal cancer detection: symptom patterns and incidental diagnosis rate in a multicentre prospective UK cohort of patients presenting with suspected renal cancer. BMJ Open, 2020. 10: e035938. https://www.ncbi.nlm.nih.gov/pubmed/32398335
+
+114.Patard, J.J., et al. Correlation between symptom graduation, tumor characteristics and survival in renal cell carcinoma. Eur Urol, 2003. 44: 226. https://www.ncbi.nlm.nih.gov/pubmed/12875943
+
+115.Lee, C.T., et al. Mode of presentation of renal cell carcinoma provides prognostic information. Urol Oncol, 2002. 7: 135. https://www.ncbi.nlm.nih.gov/pubmed/12474528
+
+116.Sacco, E., et al. Paraneoplastic syndromes in patients with urological malignancies. Urol Int, 2009. 83: 1. https://www.ncbi.nlm.nih.gov/pubmed/19641351
+
+117.Moldovan, T., et al. Incidence and clinical relevance of paraneoplastic syndromes in patients with renal cell carcinoma. Urol Oncol, 2023. 41: 392 e11. https://www.ncbi.nlm.nih.gov/pubmed/37537025
+
+118.Kim, H.L., et al. Paraneoplastic signs and symptoms of renal cell carcinoma: implications for prognosis. J Urol, 2003. 170: 1742. https://www.ncbi.nlm.nih.gov/pubmed/14532767
+
+119.Magera, J.S., Jr., et al. Association of abnormal preoperative laboratory values with survival after radical nephrectomy for clinically confined clear cell renal cell carcinoma. Urology, 2008. 71: 278. https://www.ncbi.nlm.nih.gov/pubmed/18308103
+
+120.Uzzo, R.G., et al. Nephron sparing surgery for renal tumors: indications, techniques and outcomes. J Urol, 2001. 166: 6. https://www.ncbi.nlm.nih.gov/pubmed/11435813
+
+121.Huang, W.C., et al. Chronic kidney disease after nephrectomy in patients with renal cortical tumours: a retrospective cohort study. Lancet Oncol, 2006. 7: 735. https://www.ncbi.nlm.nih.gov/pubmed/16945768
+
+122.Israel, G.M., et al. How I do it: evaluating renal masses. Radiology, 2005. 236: 441. https://www.ncbi.nlm.nih.gov/pubmed/16040900
+
+123.Israel, G.M., et al. Pitfalls in renal mass evaluation and how to avoid them. Radiographics, 2008. 28: 1325. https://www.ncbi.nlm.nih.gov/pubmed/18794310
+
+124.Shi, X., et al. The Role of Lymph Node Dissection for Non-Metastatic Renal Cell Carcinoma: An Updated Systematic Review and Meta-Analysis. Front Oncol, 2021. 11: 790381. https://www.ncbi.nlm.nih.gov/pubmed/35096589
+
+125.Gong, I.H., et al. Relationship among total kidney volume, renal function and age. J Urol, 2012. 187: 344. https://www.ncbi.nlm.nih.gov/pubmed/22099987
+
+126.Ferda, J., et al. Assessment of the kidney tumor vascular supply by two-phase MDCT-angiography. Eur J Radiol, 2007. 62: 295. https://www.ncbi.nlm.nih.gov/pubmed/17324548
+
+127.Shao, P., et al. Precise segmental renal artery clamping under the guidance of dual-source computed tomography angiography during laparoscopic partial nephrectomy. Eur Urol, 2012. 62: 1001. https://www.ncbi.nlm.nih.gov/pubmed/22695243
+
+128.Vogel, C., et al. Imaging in Suspected Renal-Cell Carcinoma: Systematic Review. Clin Genitourin Cancer, 2019. 17: e345. https://www.ncbi.nlm.nih.gov/pubmed/30528378
+
+129.Correas, J.M., et al. [Guidelines for contrast enhanced ultrasound (CEUS)--update 2008]. J Radiol, 2009. 90: 123. https://www.ncbi.nlm.nih.gov/pubmed/19212280
+
+130.Mitterberger, M., et al. Contrast-enhanced ultrasound for diagnosis of prostate cancer and kidney lesions. Eur J Radiol, 2007. 64: 231. https://www.ncbi.nlm.nih.gov/pubmed/17881175
+
+131.Fan, X., et al. Associations between contrast-enhanced ultrasound features and WHO/ISUP grade of clear cell renal cell carcinoma: a retrospective study. Int Urol Nephrol, 2024. 56: 1157. https://www.ncbi.nlm.nih.gov/pubmed/37670195
+
+132.Mueller-Lisse, U.G., et al. Imaging of advanced renal cell carcinoma. World J Urol, 2010. 28: 253. https://www.ncbi.nlm.nih.gov/pubmed/20458484
+
+133.Hallscheidt, P.J., et al. Preoperative staging of renal cell carcinoma with inferior vena cava thrombus using multidetector CT and MRI: prospective study with histopathological correlation. J Comput Assist Tomogr, 2005. 29: 64. https://www.ncbi.nlm.nih.gov/pubmed/15665685
+
+134.Putra, L.G., et al. Improved assessment of renal lesions in pregnancy with magnetic resonance imaging. Urology, 2009. 74: 535. https://www.ncbi.nlm.nih.gov/pubmed/19604560
+
+135.Giannarini, G., et al. Potential and limitations of diffusion-weighted magnetic resonance imaging in kidney, prostate, and bladder cancer including pelvic lymph node staging: a critical analysis of the literature. Eur Urol, 2012. 61: 326. https://www.ncbi.nlm.nih.gov/pubmed/22000497
+
+136.Johnson, B.A., et al. Diagnostic performance of prospectively assigned clear cell Likelihood scores (ccLS) in small renal masses at multiparametric magnetic resonance imaging. Urol Oncol, 2019. 37: 941. https://www.ncbi.nlm.nih.gov/pubmed/31540830
+
+137.Steinberg, R.L., et al. Prospective performance of clear cell likelihood scores (ccLS) in renal masses evaluated with multiparametric magnetic resonance imaging. Eur Radiol, 2021. 31: 314. https://www.ncbi.nlm.nih.gov/pubmed/32770377
+
+138.Capogrosso, P., et al. Follow-up After Treatment for Renal Cell Carcinoma: The Evidence Beyond the Guidelines. Eur Urol Focus, 2016. 1: 272. https://www.ncbi.nlm.nih.gov/pubmed/28723399
+
+139.Furrer, M.A., et al. Comparison of the Diagnostic Performance of Contrast-enhanced Ultrasound with That of Contrast-enhanced Computed Tomography and Contrast-enhanced Magnetic Resonance Imaging in the Evaluation of Renal Masses: A Systematic Review and Meta-analysis. Eur Urol Oncol, 2020. 3: 464. https://www.ncbi.nlm.nih.gov/pubmed/31570270
+
+140.Choudhary, S., et al. Renal oncocytoma: CT features cannot reliably distinguish oncocytoma from other renal neoplasms. Clin Radiol, 2009. 64: 517. https://www.ncbi.nlm.nih.gov/pubmed/19348848
+
+141.Rosenkrantz, A.B., et al. MRI features of renal oncocytoma and chromophobe renal cell carcinoma. AJR Am J Roentgenol, 2010. 195: W421. https://www.ncbi.nlm.nih.gov/pubmed/21098174
+
+142.Hindman, N., et al. Angiomyolipoma with minimal fat: can it be differentiated from clear cell renal cell carcinoma by using standard MR techniques? Radiology, 2012. 265: 468. https://www.ncbi.nlm.nih.gov/pubmed/23012463
+
+143.Pedrosa, I., et al. MR imaging of renal masses: correlation with findings at surgery and pathologic analysis. Radiographics, 2008. 28: 985. https://www.ncbi.nlm.nih.gov/pubmed/18635625
+
+144.Park, J.W., et al. Significance of 18F-fluorodeoxyglucose positron-emission tomography/computed tomography for the postoperative surveillance of advanced renal cell carcinoma. BJU Int, 2009. 103: 615. https://www.ncbi.nlm.nih.gov/pubmed/19007371
+
+145.Rizzo, A., et al. The Emerging Role of PET/CT with PSMA-Targeting Radiopharmaceuticals in Clear Cell Renal Cancer: An Updated Systematic Review. Cancers (Basel), 2023. 15. https://www.ncbi.nlm.nih.gov/pubmed/36672305
+
+146.Wang, G., et al. Head-to-head comparison of [(68)Ga]Ga-P16-093 and 2-[(18)F]FDG PET/CT in patients with clear cell renal cell carcinoma: a pilot study. Eur J Nucl Med Mol Imaging, 2023. 50: 1499. https://www.ncbi.nlm.nih.gov/pubmed/36600099
+
+147.Singhal, T., et al. Role of PSMA-targeted PET-CT in renal cell carcinoma: a systematic review and meta-analysis. Ann Nucl Med, 2024. 38: 176. https://www.ncbi.nlm.nih.gov/pubmed/38340144
+
+148.Sadaghiani, M.S., et al. Utility of PSMA PET/CT in Staging and Restaging of Renal Cell Carcinoma: A Systematic Review and Metaanalysis. J Nucl Med, 2024. 65: 1007. https://www.ncbi.nlm.nih.gov/pubmed/38782453
+
+149.Parihar, A.S., et al. Diagnostic Accuracy of (99m)Tc-Sestamibi SPECT/CT for Characterization of Solid Renal Masses. J Nucl Med, 2023. 64: 90. https://www.ncbi.nlm.nih.gov/pubmed/35772963
+
+150.Shuch, B., et al. [(89)Zr]Zr-girentuximab for PET-CT imaging of clear-cell renal cell carcinoma: a prospective, open-label, multicentre, phase 3 trial. Lancet Oncol, 2024. 25: 1277. https://www.ncbi.nlm.nih.gov/pubmed/39270701
+
+151.Gouravani, M., et al. Diagnostic performance of artificial intelligence in detection of renal cell carcinoma: a systematic review and meta-analysis. BMC Cancer, 2025. 25: 155. https://www.ncbi.nlm.nih.gov/pubmed/39871201
+
+152.Xiong, Y., et al. Artificial intelligence links CT images to pathologic features and survival outcomes of renal masses. Nat Commun, 2025. 16: 1425. https://www.ncbi.nlm.nih.gov/pubmed/39915478
+
+153.Bechtold, R.E., et al. Imaging approach to staging of renal cell carcinoma. Urol Clin North Am, 1997. 24: 507. https://www.ncbi.nlm.nih.gov/pubmed/9275976
+
+154.Miles, K.A., et al. CT staging of renal carcinoma: a prospective comparison of three dynamic computed tomography techniques. Eur J Radiol, 1991. 13: 37. https://www.ncbi.nlm.nih.gov/pubmed/1889427
+
+155.Lim, D.J., et al. Computerized tomography in the preoperative staging for pulmonary metastases in patients with renal cell carcinoma. J Urol, 1993. 150: 1112. https://www.ncbi.nlm.nih.gov/pubmed/8371366
+
+156.Larcher, A., et al. When to perform preoperative chest computed tomography for renal cancer staging. BJU Int, 2017. 120: 490. https://www.ncbi.nlm.nih.gov/pubmed/27684653
+
+157.Voss, J., et al. Chest computed tomography for staging renal tumours: validation and simplification of a risk prediction model from a large contemporary retrospective cohort. BJU Int, 2020. 125: 561. https://www.ncbi.nlm.nih.gov/pubmed/31955483
+
+158.Ilangovan, S., et al. Staging CT chest for cT1a renal masses: Does it change management? BJUI Compass, 2025. 6: e70068. https://www.ncbi.nlm.nih.gov/pubmed/40995187
+
+159.Marshall, M.E., et al. Low incidence of asymptomatic brain metastases in patients with renal cell carcinoma. Urology, 1990. 36: 300. https://www.ncbi.nlm.nih.gov/pubmed/2219605
+
+160.Koga, S., et al. The diagnostic value of bone scan in patients with renal cell carcinoma. J Urol, 2001. 166: 2126. https://www.ncbi.nlm.nih.gov/pubmed/11696720
+
+161.Henriksson, C., et al. Skeletal metastases in 102 patients evaluated before surgery for renal cell carcinoma. Scand J Urol Nephrol, 1992. 26: 363. https://www.ncbi.nlm.nih.gov/pubmed/1292074
+
+162.Seaman, E., et al. Association of radionuclide bone scan and serum alkaline phosphatase in patients with metastatic renal cell carcinoma. Urology, 1996. 48: 692. https://www.ncbi.nlm.nih.gov/pubmed/8911510
+
+163.Beuselinck, B., et al. Whole-body diffusion-weighted magnetic resonance imaging for the detection of bone metastases and their prognostic impact in metastatic renal cell carcinoma patients treated with angiogenesis inhibitors. Acta Oncol, 2020. 59: 818. https://www.ncbi.nlm.nih.gov/pubmed/32297532
+
+164.Kotecha, R.R., et al. Prognosis of Incidental Brain Metastases in Patients With Advanced Renal Cell Carcinoma. J Natl Compr Canc Netw, 2021. 19: 432. https://www.ncbi.nlm.nih.gov/pubmed/33578374
+
+165.Warren, K.S., et al. The Bosniak classification of renal cystic masses. BJU Int, 2005. 95: 939. https://www.ncbi.nlm.nih.gov/pubmed/15839908
+
+166.Bosniak, M.A. The use of the Bosniak classification system for renal cysts and cystic tumors. J Urol, 1997. 157: 1852. https://www.ncbi.nlm.nih.gov/pubmed/9112545
+
+167.McGrath, T.A., et al. Proportion of malignancy in Bosniak classification of cystic renal masses version 2019 (v2019) classes: systematic review and meta-analysis. Eur Radiol, 2023. 33: 1307. https://www.ncbi.nlm.nih.gov/pubmed/35999371
+
+168.McGrath, T.A., et al. Bosniak Classification of Cystic Renal Masses Version 2019: Proportion of Malignancy by Class and Subclass-Systematic Review and Meta-Analysis. AJR Am J Roentgenol, 2025. 224: e2432342. https://www.ncbi.nlm.nih.gov/pubmed/39772585
+
+169.Richard, P.O., et al. Renal Tumor Biopsy for Small Renal Masses: A Single-center 13-year Experience. Eur Urol, 2015. 68: 1007. https://www.ncbi.nlm.nih.gov/pubmed/25900781
+
+170.Shannon, B.A., et al. The value of preoperative needle core biopsy for diagnosing benign lesions among small, incidentally detected renal masses. J Urol, 2008. 180: 1257. https://www.ncbi.nlm.nih.gov/pubmed/18707712
+
+171.Maturen, K.E., et al. Renal mass core biopsy: accuracy and impact on clinical management. AJR Am J Roentgenol, 2007. 188: 563. https://www.ncbi.nlm.nih.gov/pubmed/17242269
+
+172.Volpe, A., et al. Contemporary results of percutaneous biopsy of 100 small renal masses: a single center experience. J Urol, 2008. 180: 2333. https://www.ncbi.nlm.nih.gov/pubmed/18930274
+
+173.Veltri, A., et al. Diagnostic accuracy and clinical impact of imaging-guided needle biopsy of renal masses. Retrospective analysis on 150 cases. Eur Radiol, 2011. 21: 393. https://www.ncbi.nlm.nih.gov/pubmed/20809129
+
+174.Abel, E.J., et al. Percutaneous biopsy of primary tumor in metastatic renal cell carcinoma to predict high risk pathological features: comparison with nephrectomy assessment. J Urol, 2010. 184: 1877. https://www.ncbi.nlm.nih.gov/pubmed/20850148
+
+175.Richard, P.O., et al. Is Routine Renal Tumor Biopsy Associated with Lower Rates of Benign Histology following Nephrectomy for Small Renal Masses? J Urol, 2018. 200: 731. https://www.ncbi.nlm.nih.gov/pubmed/29653161
+
+176.Amaral, B.S., et al. Renal Tumor Biopsy: Rationale to Avoid Surgery in Small Renal Masses. Curr Urol Rep, 2021. 22: 46. https://www.ncbi.nlm.nih.gov/pubmed/34487255
+
+177.Marconi, L., et al. Systematic Review and Meta-analysis of Diagnostic Accuracy of Percutaneous Renal Tumour Biopsy. Eur Urol, 2016. 69: 660. https://www.ncbi.nlm.nih.gov/pubmed/26323946
+
+178.Ranieri, V., et al. Identifying the facilitators and barriers to implementation of renal tumour biopsy in the diagnostic pathway for small renal masses. BJU Int, 2024. 134: 796. https://www.ncbi.nlm.nih.gov/pubmed/39041496
+
+179.Bernstein, D.E., et al. A modified Delphi consensus statement on the role of biopsy in small renal masses. BJUI Compass, 2025. 6: e70018. https://www.ncbi.nlm.nih.gov/pubmed/40264828
+
+180.Leveridge, M.J., et al. Outcomes of small renal mass needle core biopsy, nondiagnostic percutaneous biopsy, and the role of repeat biopsy. Eur Urol, 2011. 60: 578. https://www.ncbi.nlm.nih.gov/pubmed/21704449
+
+181.Breda, A., et al. Comparison of accuracy of 14-, 18- and 20-G needles in ex-vivo renal mass biopsy: a prospective, blinded study. BJU Int, 2010. 105: 940. https://www.ncbi.nlm.nih.gov/pubmed/19888984
+
+182.Cate, F., et al. Core Needle Biopsy and Fine Needle Aspiration Alone or in Combination: Diagnostic Accuracy and Impact on Management of Renal Masses. J Urol, 2017. 197: 1396. https://www.ncbi.nlm.nih.gov/pubmed/28093293
+
+183.Yang, C.S., et al. Percutaneous biopsy of the renal mass: FNA or core needle biopsy? Cancer Cytopathol, 2017. 125: 407. https://www.ncbi.nlm.nih.gov/pubmed/28334518
+
+184.Motzer, R.J., et al. Phase II randomized trial comparing sequential first-line everolimus and second-line sunitinib versus first-line sunitinib and second-line everolimus in patients with metastatic renal cell carcinoma. J Clin Oncol, 2014. 32: 2765. https://www.ncbi.nlm.nih.gov/pubmed/25049330
+
+185.Wood, B.J., et al. Imaging guided biopsy of renal masses: indications, accuracy and impact on clinical management. J Urol, 1999. 161: 1470. https://www.ncbi.nlm.nih.gov/pubmed/10210375
+
+186.Somani, B.K., et al. Image-guided biopsy-diagnosed renal cell carcinoma: critical appraisal of technique and long-term follow-up. Eur Urol, 2007. 51: 1289. https://www.ncbi.nlm.nih.gov/pubmed/17081679
+
+187.Vasudevan, A., et al. Incidental renal tumours: the frequency of benign lesions and the role of preoperative core biopsy. BJU Int, 2006. 97: 946. https://www.ncbi.nlm.nih.gov/pubmed/16643475
+
+188.Kinnear, N., et al. Concordance between renal tumour biopsy and robotic-assisted partial and radical nephrectomy histology: a 10-year experience. J Robot Surg, 2024. 18: 45. https://www.ncbi.nlm.nih.gov/pubmed/38240940
+
+189.Neuzillet, Y., et al. Accuracy and clinical role of fine needle percutaneous biopsy with computerized tomography guidance of small (less than 4.0 cm) renal masses. J Urol, 2004. 171: 1802. https://www.ncbi.nlm.nih.gov/pubmed/15076280
+
+190.Schmidbauer, J., et al. Diagnostic accuracy of computed tomography-guided percutaneous biopsy of renal masses. Eur Urol, 2008. 53: 1003. https://www.ncbi.nlm.nih.gov/pubmed/18061339
+
+191.Wunderlich, H., et al. The accuracy of 250 fine needle biopsies of renal tumors. J Urol, 2005. 174: 44. https://www.ncbi.nlm.nih.gov/pubmed/15947574
+
+192.Abel, E.J., et al. Multi-Quadrant Biopsy Technique Improves Diagnostic Ability in Large Heterogeneous Renal Masses. J Urol, 2015. 194: 886. https://www.ncbi.nlm.nih.gov/pubmed/25837535
+
+193.Macklin, P.S., et al. Tumour Seeding in the Tract of Percutaneous Renal Tumour Biopsy: A Report on Seven Cases from a UK Tertiary Referral Centre. Eur Urol, 2019. 75: 861. https://www.ncbi.nlm.nih.gov/pubmed/30591353
+
+194.Cooper, S., et al. Diagnostic Yield and Complication Rate in Percutaneous Needle Biopsy of Renal Hilar Masses With Comparison With Renal Cortical Mass Biopsies in a Cohort of 195 Patients. AJR Am J Roentgenol, 2019. 212: 570. https://www.ncbi.nlm.nih.gov/pubmed/30645159
+
+195.Bratslavsky, G., et al. Genetic risk assessment for hereditary renal cell carcinoma: Clinical consensus statement. Cancer, 2021. 127: 3957. https://www.ncbi.nlm.nih.gov/pubmed/34343338
+
+196.Mucci, L.A., et al. Familial Risk and Heritability of Cancer Among Twins in Nordic Countries. JAMA, 2016. 315: 68. https://www.ncbi.nlm.nih.gov/pubmed/26746459
+
+197.Shuch, B., et al. Defining early-onset kidney cancer: implications for germline and somatic mutation testing and clinical management. J Clin Oncol, 2014. 32: 431. https://www.ncbi.nlm.nih.gov/pubmed/24378414
+
+198.Beckermann, K.E., et al. Renal Medullary Carcinoma: Establishing Standards in Practice. J Oncol Pract, 2017. 13: 414. https://www.ncbi.nlm.nih.gov/pubmed/28697319
+
+199.Kickuth, R., et al. Interventional management of hypervascular osseous metastasis: role of embolotherapy before orthopedic tumor resection and bone stabilization. AJR Am J Roentgenol, 2008. 191: W240. https://www.ncbi.nlm.nih.gov/pubmed/19020210
+
+200.Forauer, A.R., et al. Selective palliative transcatheter embolization of bony metastases from renal cell carcinoma. Acta Oncol, 2007. 46: 1012. https://www.ncbi.nlm.nih.gov/pubmed/17851849
+
+201.Appleman, L.J., et al. Randomized, Double-Blind Phase III Study of Pazopanib Versus Placebo in Patients With Metastatic Renal Cell Carcinoma Who Have No Evidence of Disease After Metastasectomy: ECOG-ACRIN E2810. J Clin Oncol, 2024. 42: 2061. https://www.ncbi.nlm.nih.gov/pubmed/38531002
+
+202.Procopio, G., et al. Sorafenib Versus Observation Following Radical Metastasectomy for Clear-cell Renal Cell Carcinoma: Results from the Phase 2 Randomized Open-label RESORT Study. Eur Urol Oncol, 2019. 2: 699. https://www.ncbi.nlm.nih.gov/pubmed/31542243
+
+203.Amato, R.J. Chemotherapy for renal cell carcinoma. Semin Oncol, 2000. 27: 177. https://www.ncbi.nlm.nih.gov/pubmed/10768596
+
+204.Negrier, S., et al. Medroxyprogesterone, interferon alfa-2a, interleukin 2, or combination of both cytokines in patients with metastatic renal carcinoma of intermediate prognosis: results of a randomized controlled trial. Cancer, 2007. 110: 2468. https://www.ncbi.nlm.nih.gov/pubmed/17932908
+
+205.Motzer, R.J., et al. Sunitinib versus interferon alfa in metastatic renal-cell carcinoma. N Engl J Med, 2007. 356: 115. https://www.ncbi.nlm.nih.gov/pubmed/17215529
+
+206.Carlo, M.I., et al. Familial Kidney Cancer: Implications of New Syndromes and Molecular Insights. Eur Urol, 2019. 76: 754. https://www.ncbi.nlm.nih.gov/pubmed/31326218
+
+207.Sun, M., et al. Prognostic factors and predictive models in renal cell carcinoma: a contemporary review. Eur Urol, 2011. 60: 644. https://www.ncbi.nlm.nih.gov/pubmed/21741163
+
+208.Zhang, L., et al. Tumor necrosis as a prognostic variable for the clinical outcome in patients with renal cell carcinoma: a systematic review and meta-analysis. BMC Cancer, 2018. 18: 870. https://www.ncbi.nlm.nih.gov/pubmed/30176824
+
+209.Fuhrman, S.A., et al. Prognostic significance of morphologic parameters in renal cell carcinoma. Am J Surg Pathol, 1982. 6: 655. https://www.ncbi.nlm.nih.gov/pubmed/7180965
+
+210.Delahunt, B., et al. The International Society of Urological Pathology (ISUP) grading system for renal cell carcinoma and other prognostic parameters. Am J Surg Pathol, 2013. 37: 1490. https://www.ncbi.nlm.nih.gov/pubmed/24025520
+
+211.Paner, G.P., et al. Updates in the Eighth Edition of the Tumor-Node-Metastasis Staging Classification for Urologic Cancers. Eur Urol, 2018. 73: 560. https://www.ncbi.nlm.nih.gov/pubmed/29325693
+
+212.Dagher, J., et al. Clear cell renal cell carcinoma: validation of World Health Organization/International Society of Urological Pathology grading. Histopathology, 2017. 71: 918. https://www.ncbi.nlm.nih.gov/pubmed/28718911
+
+213.Leibovich, B.C., et al. Histological subtype is an independent predictor of outcome for patients with renal cell carcinoma. J Urol, 2010. 183: 1309. https://www.ncbi.nlm.nih.gov/pubmed/20171681
+
+214.Adibi, M., et al. Percentage of sarcomatoid component as a prognostic indicator for survival in renal cell carcinoma with sarcomatoid dedifferentiation. Urol Oncol, 2015. 33: 427 e17. https://www.ncbi.nlm.nih.gov/pubmed/26004164
+
+215.Kim, T., et al. Using percentage of sarcomatoid differentiation as a prognostic factor in renal cell carcinoma. Clin Genitourin Cancer, 2015. 13: 225. https://www.ncbi.nlm.nih.gov/pubmed/25544725
+
+216.Patel, H.D., et al. Percentage of sarcomatoid histology is associated with survival in renal cell carcinoma: Stratification and implications by clinical metastatic stage. Urol Oncol, 2022. 40: 347 e1. https://www.ncbi.nlm.nih.gov/pubmed/35551862
+
+217.Ohashi, R., et al. Multi-institutional re-evaluation of prognostic factors in chromophobe renal cell carcinoma: proposal of a novel two-tiered grading scheme. Virchows Arch, 2020. 476: 409. https://www.ncbi.nlm.nih.gov/pubmed/31760491
+
+218.Cheville, J.C., et al. Comparisons of outcome and prognostic features among histologic subtypes of renal cell carcinoma. Am J Surg Pathol, 2003. 27: 612. https://www.ncbi.nlm.nih.gov/pubmed/12717246
+
+219.Patard, J.J., et al. Prognostic value of histologic subtypes in renal cell carcinoma: a multicenter experience. J Clin Oncol, 2005. 23: 2763. https://www.ncbi.nlm.nih.gov/pubmed/15837991
+
+220.Capitanio, U., et al. A critical assessment of the prognostic value of clear cell, papillary and chromophobe histological subtypes in renal cell carcinoma: a population-based study. BJU Int, 2009. 103: 1496. https://www.ncbi.nlm.nih.gov/pubmed/19076149
+
+221.Klatte, T., et al. Renal cell carcinoma associated with transcription factor E3 expression and Xp11.2 translocation: incidence, characteristics, and prognosis. Am J Clin Pathol, 2012. 137: 761. https://www.ncbi.nlm.nih.gov/pubmed/22523215
+
+222.Linehan, W.M., et al. Genetic basis of cancer of the kidney: disease-specific approaches to therapy. Clin Cancer Res, 2004. 10: 6282S. https://www.ncbi.nlm.nih.gov/pubmed/15448018
+
+223.Yang, X.J., et al. A molecular classification of papillary renal cell carcinoma. Cancer Res, 2005. 65: 5628. https://www.ncbi.nlm.nih.gov/pubmed/15994935
+
+224.Furge, K.A., et al. Identification of deregulated oncogenic pathways in renal cell carcinoma: an integrated oncogenomic approach based on gene expression profiling. Oncogene, 2007. 26: 1346. https://www.ncbi.nlm.nih.gov/pubmed/17322920
+
+225.Boissier, R., et al. Long-term oncological outcomes of cystic renal cell carcinoma according to the Bosniak classification. Int Urol Nephrol, 2019. 51: 951. https://www.ncbi.nlm.nih.gov/pubmed/30977021
+
+226.Wahlgren, T., et al. Treatment and overall survival in renal cell carcinoma: a Swedish population-based study (2000-2008). Br J Cancer, 2013. 108: 1541. https://www.ncbi.nlm.nih.gov/pubmed/23531701
+
+227.Li, P., et al. Survival among patients with advanced renal cell carcinoma in the pretargeted versus targeted therapy eras. Cancer Med, 2016. 5: 169. https://www.ncbi.nlm.nih.gov/pubmed/26645975
+
+228.Golijanin, B., et al. The natural history of renal cell carcinoma with isolated lymph node metastases following surgical resection from 2006 to 2013. Urol Oncol, 2019. 37: 932. https://www.ncbi.nlm.nih.gov/pubmed/31570248
+
+229.Fukuda, S., et al. Impact of C-reactive protein flare-response on oncological outcomes in patients with metastatic renal cell carcinoma treated with nivolumab. J Immunother Cancer, 2021. 9. https://www.ncbi.nlm.nih.gov/pubmed/33602695
+
+230.Lee, Z., et al. Local Recurrence Following Resection of Intermediate-High Risk Nonmetastatic Renal Cell Carcinoma: An Anatomical Classification and Analysis of the ASSURE (ECOG-ACRIN E2805) Adjuvant Trial. J Urol, 2020. 203: 684. https://www.ncbi.nlm.nih.gov/pubmed/31596672
+
+231.Bensalah, K., et al. Prognostic value of thrombocytosis in renal cell carcinoma. J Urol, 2006. 175: 859. https://www.ncbi.nlm.nih.gov/pubmed/16469566
+
+232.Kim, H.L., et al. Cachexia-like symptoms predict a worse prognosis in localized t1 renal cell carcinoma. J Urol, 2004. 171: 1810. https://www.ncbi.nlm.nih.gov/pubmed/15076282
+
+233.Patard, J.J., et al. Multi-institutional validation of a symptom based classification for renal cell carcinoma. J Urol, 2004. 172: 858. https://www.ncbi.nlm.nih.gov/pubmed/15310983
+
+234.Cho, D.S., et al. Prognostic significance of modified Glasgow Prognostic Score in patients with non-metastatic clear cell renal cell carcinoma. Scand J Urol, 2016. 50: 186. https://www.ncbi.nlm.nih.gov/pubmed/26878156
+
+235.Patel, A., et al. Neutrophil-to-Lymphocyte Ratio as a Prognostic Factor of Disease-free Survival in Postnephrectomy High-risk Locoregional Renal Cell Carcinoma: Analysis of the S-TRAC Trial. Clin Cancer Res, 2020. 26: 4863. https://www.ncbi.nlm.nih.gov/pubmed/32546645
+
+236.Kapur, P., et al. Determinants of late metastases in renal cell carcinoma. J Natl Cancer Inst, 2025. 117: 1387. https://www.ncbi.nlm.nih.gov/pubmed/40065697
+
+237.Shao, Y., et al. Prognostic value of pretreatment neutrophil-to-lymphocyte ratio in renal cell carcinoma: a systematic review and meta-analysis. BMC Urol, 2020. 20: 90. https://www.ncbi.nlm.nih.gov/pubmed/32631294
+
+238.Albiges, L., et al. Body Mass Index and Metastatic Renal Cell Carcinoma: Clinical and Biological Correlations. J Clin Oncol, 2016. 34: 3655. https://www.ncbi.nlm.nih.gov/pubmed/27601543
+
+239.Donin, N.M., et al. Body Mass Index and Survival in a Prospective Randomized Trial of Localized High-Risk Renal Cell Carcinoma. Cancer Epidemiol Biomarkers Prev, 2016. 25: 1326. https://www.ncbi.nlm.nih.gov/pubmed/27418270
+
+240.Ji, J., et al. Impact of BMI on the Survival of Renal Cell Carcinoma Patients Treated with Targeted Therapy: A Systematic Review and Meta-Analysis. Nutr Cancer, 2023. 75: 1768. https://www.ncbi.nlm.nih.gov/pubmed/37462083
+
+241.Bagheri, M., et al. Renal cell carcinoma survival and body mass index: a dose-response meta-analysis reveals another potential paradox within a paradox. Int J Obes (Lond), 2016. 40: 1817. https://www.ncbi.nlm.nih.gov/pubmed/27686524
+
+242.Dai, J., et al. The Prognostic Value of Body Fat Components in Metastasis Renal Cell Carcinoma Patients Treated with TKIs. Cancer Manag Res, 2020. 12: 891. https://www.ncbi.nlm.nih.gov/pubmed/32104071
+
+243.Tsutsumi, T., et al. Distinct effect of body mass index by sex as a prognostic factor in localized renal cell carcinoma treated with nephrectomy ~ data from a multi-institutional study in Japan ~. BMC Cancer, 2021. 21: 201. https://www.ncbi.nlm.nih.gov/pubmed/33639880
+
+244.Cella, D., et al. The Relationship Between Health-Related Quality of Life and Overall Survival in Patients With Advanced Renal Cell Carcinoma in CheckMate 214. Oncologist, 2024. 29: 511. https://www.ncbi.nlm.nih.gov/pubmed/38280218
+
+245.Xu, J., et al. Impact of perioperative blood transfusion on prognosis after nephrectomy in patients with renal cell carcinoma: A meta-analysis and systematic review. Medicine (Baltimore), 2024. 103: e37646. https://www.ncbi.nlm.nih.gov/pubmed/38579099
+
+246.Campi, R., et al. Impact of frailty on perioperative and oncologic outcomes in patients undergoing surgery or ablation for renal cancer: a systematic review. Minerva Urol Nephrol, 2022. 74: 146. https://www.ncbi.nlm.nih.gov/pubmed/34714036
+
+247.Pecoraro, A., et al. Frailty and Renal Cell Carcinoma: Integration of Comprehensive Geriatric Assessment into Shared Decision-making. Eur Urol Oncol, 2025. 8: 190. https://www.ncbi.nlm.nih.gov/pubmed/39306584
+
+248.Alfred Witjes, J., et al. European Association of Urology Guidelines on Muscle-invasive and Metastatic Bladder Cancer: Summary of the 2023 Guidelines. Eur Urol, 2024. 85: 17. https://www.ncbi.nlm.nih.gov/pubmed/37858453
+
+249.Tilki, D., et al. EAU-EANM-ESTRO-ESUR-ISUP-SIOG Guidelines on Prostate Cancer. Part II-2024 Update: Treatment of Relapsing and Metastatic Prostate Cancer. Eur Urol, 2024. 86: 164. https://www.ncbi.nlm.nih.gov/pubmed/38688773
+
+250.Cornford, P., et al. EAU-EANM-ESTRO-ESUR-ISUP-SIOG Guidelines on Prostate Cancer-2024 Update. Part I: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol, 2024. 86: 148. https://www.ncbi.nlm.nih.gov/pubmed/38614820
+
+251.Ellis, G., et al. Comprehensive geriatric assessment for older adults admitted to hospital. Cochrane Database Syst Rev, 2017. 9: CD006211. https://www.ncbi.nlm.nih.gov/pubmed/28898390
+
+252.Stewart, G.D., et al. The multispeciality approach to the management of localised kidney cancer. Lancet, 2022. 400: 523. https://www.ncbi.nlm.nih.gov/pubmed/35868329
+
+253.Pecoraro, A., et al. Estimating Postoperative Renal Function After Surgery for Nonmetastatic Renal Masses: A Systematic Review of Available Prediction Models. Eur Urol Oncol, 2023. 6: 137. https://www.ncbi.nlm.nih.gov/pubmed/36631353
+
+254.Tillquist, K., et al. The Nephrologist’s Perspective in Evaluation and Management of Localized Renal Masses: Core Curriculum 2025. Am J Kidney Dis, 2025. 86: 690. https://www.ncbi.nlm.nih.gov/pubmed/40910966
+
+255.Hammers, H.J., et al. CheckMate 214: A phase III, randomized, open-label study of nivolumab combined with ipilimumab versus sunitinib monotherapy in patients with previously untreated metastatic renal cell carcinoma. J Clin Oncol, 2015. 33: TPS4578. https://doi.org/10.1200/jco.2015.33.15_suppl.tps4578
+
+256.Fan, D., et al. Prognostic significance of PI3K/AKT/ mTOR signaling pathway members in clear cell renal cell carcinoma. PeerJ, 2020. 8: e9261. https://www.ncbi.nlm.nih.gov/pubmed/32547875
+
+257.Sim, S.H., et al. Prognostic utility of pre-operative circulating osteopontin, carbonic anhydrase IX and CRP in renal cell carcinoma. Br J Cancer, 2012. 107: 1131. https://www.ncbi.nlm.nih.gov/pubmed/22918393
+
+258.Sabatino, M., et al. Serum vascular endothelial growth factor and fibronectin predict clinical response to high-dose interleukin-2 therapy. J Clin Oncol, 2009. 27: 2645. https://www.ncbi.nlm.nih.gov/pubmed/19364969
+
+259.Li, G., et al. Serum carbonic anhydrase 9 level is associated with postoperative recurrence of conventional renal cell cancer. J Urol, 2008. 180: 510. https://www.ncbi.nlm.nih.gov/pubmed/18550116
+
+260.Choueiri, T.K., et al. A phase I study of cabozantinib (XL184) in patients with renal cell cancer. Ann Oncol, 2014. 25: 1603. https://www.ncbi.nlm.nih.gov/pubmed/24827131
+
+261.Raimondi, A., et al. Predictive Biomarkers of Response to Immunotherapy in Metastatic Renal Cell Cancer. Front Oncol, 2020. 10: 1644. https://www.ncbi.nlm.nih.gov/pubmed/32903369
+
+262.Klatte, T., et al. Prognostic factors and prognostic models for renal cell carcinoma: a literature review. World J Urol, 2018. 36: 1943. https://www.ncbi.nlm.nih.gov/pubmed/29713755
+
+263.Ueda, K., et al. The Prognostic Value of Systemic Inflammatory Markers in Advanced Renal Cell Carcinoma Patients Treated With Molecular Targeted Therapies. Anticancer Res, 2020. 40: 1739. https://www.ncbi.nlm.nih.gov/pubmed/32132082
+
+264.Motzer, R.J., et al. Avelumab plus axitinib versus sunitinib in advanced renal cell carcinoma: biomarker analysis of the phase 3 JAVELIN Renal 101 trial. Nat Med, 2020. 26: 1733. https://www.ncbi.nlm.nih.gov/pubmed/32895571
+
+265.Rini, B.I., et al. Molecular correlates differentiate response to atezolizumab (atezo) + bevacizumab (bev) vs sunitinib (sun): Results from a phase III study (IMmotion151) in untreated metastatic renal cell carcinoma (mRCC). Ann Oncol, 2018. 29: viii724. https://doi.org/10.1093/annonc/mdy424.037
+
+266.Scelo, G., et al. KIM-1 as a Blood-Based Marker for Early Detection of Kidney Cancer: A Prospective Nested Case-Control Study. Clin Cancer Res, 2018. 24: 5594. https://www.ncbi.nlm.nih.gov/pubmed/30037816
+
+267.Zhang, K.J., et al. Diagnostic role of kidney injury molecule-1 in renal cell carcinoma. Int Urol Nephrol, 2019. 51: 1893. https://www.ncbi.nlm.nih.gov/pubmed/31385177
+
+268.Xu, W., et al. Evaluation of circulating kidney injury marker-1 (KIM-1) as a prognostic and predictive biomarker in advanced renal cell carcinoma (aRCC): Post-hoc analysis of CheckMate 214. J Clin Oncol, 2025. 43: 437. https://doi.org/10.1200/JCO.2025.43.5_suppl.437
+
+269.Rini, B.I., et al. Circulating kidney injury molecule-1 (KIM-1) and association with outcome to adjuvant immunotherapy in renal cell carcinoma. Ann Oncol, 2025. https://www.ncbi.nlm.nih.gov/pubmed/40885527
+
+270.Dabestani, S., et al. Urine Glycosaminoglycan Scores for Surveillance of Recurrence in Intermediate- and High-risk Nonmetastatic Clear Cell Renal Cell Carcinoma-An Observational Prospective Multicentre Diagnostic Test Cohort Study. Eur Urol Oncol, 2025. https://www.ncbi.nlm.nih.gov/pubmed/40866172
+
+271.Minardi, D., et al. Loss of nuclear BAP1 protein expression is a marker of poor prognosis in patients with clear cell renal cell carcinoma. Urol Oncol, 2016. 34: 338 e11. https://www.ncbi.nlm.nih.gov/pubmed/27085487
+
+272.Kapur, P., et al. Effects on survival of BAP1 and PBRM1 mutations in sporadic clear-cell renal-cell carcinoma: a retrospective analysis with independent validation. Lancet Oncol, 2013. 14: 159. https://www.ncbi.nlm.nih.gov/pubmed/23333114
+
+273.Joseph, R.W., et al. Clear Cell Renal Cell Carcinoma Subtypes Identified by BAP1 and PBRM1 Expression. J Urol, 2016. 195: 180. https://www.ncbi.nlm.nih.gov/pubmed/26300218
+
+274.Kapur, P., et al. Predicting Oncologic Outcomes in Small Renal Tumors. Eur Urol Oncol, 2022. 5: 687. https://www.ncbi.nlm.nih.gov/pubmed/36115820
+
+275.Klatte, T., et al. Cytogenetic profile predicts prognosis of patients with clear cell renal cell carcinoma. J Clin Oncol, 2009. 27: 746. https://www.ncbi.nlm.nih.gov/pubmed/19124809
+
+276.Turajlic, S., et al. Tracking Cancer Evolution Reveals Constrained Routes to Metastases: TRACERx Renal. Cell, 2018. 173: 581. https://www.ncbi.nlm.nih.gov/pubmed/29656895
+
+277.Kroeger, N., et al. Deletions of chromosomes 3p and 14q molecularly subclassify clear cell renal cell carcinoma. Cancer, 2013. 119: 1547. https://www.ncbi.nlm.nih.gov/pubmed/23335244
+
+278.Rini, B., et al. A 16-gene assay to predict recurrence after surgery in localised renal cell carcinoma: development and validation studies. Lancet Oncol, 2015. 16: 676. https://www.ncbi.nlm.nih.gov/pubmed/25979595
+
+279.Sorbellini, M., et al. A postoperative prognostic nomogram predicting recurrence for patients with conventional clear cell renal cell carcinoma. J Urol, 2005. 173: 48. https://www.ncbi.nlm.nih.gov/pubmed/15592023
+
+280.Zisman, A., et al. Improved prognostication of renal cell carcinoma using an integrated staging system. J Clin Oncol, 2001. 19: 1649. https://www.ncbi.nlm.nih.gov/pubmed/11250993
+
+281.Frank, I., et al. An outcome prediction model for patients with clear cell renal cell carcinoma treated with radical nephrectomy based on tumor stage, size, grade and necrosis: the SSIGN score. J Urol, 2002. 168: 2395. https://www.ncbi.nlm.nih.gov/pubmed/12441925
+
+282.Leibovich, B.C., et al. Prediction of progression after radical nephrectomy for patients with clear cell renal cell carcinoma: a stratification tool for prospective clinical trials. Cancer, 2003. 97: 1663. https://www.ncbi.nlm.nih.gov/pubmed/12655523
+
+283.Patard, J.J., et al. Use of the University of California Los Angeles integrated staging system to predict survival in renal cell carcinoma: an international multicenter study. J Clin Oncol, 2004. 22: 3316. https://www.ncbi.nlm.nih.gov/pubmed/15310775
+
+284.Karakiewicz, P.I., et al. Multi-institutional validation of a new renal cancer-specific survival nomogram. J Clin Oncol, 2007. 25: 1316. https://www.ncbi.nlm.nih.gov/pubmed/17416852
+
+285.Zigeuner, R., et al. External validation of the Mayo Clinic stage, size, grade, and necrosis (SSIGN) score for clear-cell renal cell carcinoma in a single European centre applying routine pathology. Eur Urol, 2010. 57: 102. https://www.ncbi.nlm.nih.gov/pubmed/19062157
+
+286.Rosiello, G., et al. Head-to-head comparison of all the prognostic models recommended by the European Association of Urology Guidelines to predict oncologic outcomes in patients with renal cell carcinoma. Urol Oncol, 2022. 40: 271 e19. https://www.ncbi.nlm.nih.gov/pubmed/35140049
+
+287.Correa, A.F., et al. Predicting Renal Cancer Recurrence: Defining Limitations of Existing Prognostic Models With Prospective Trial-Based Validation. J Clin Oncol, 2019. 37: 2062. https://www.ncbi.nlm.nih.gov/pubmed/31216227
+
+288.Klatte, T., et al. The VENUSS prognostic model to predict disease recurrence following surgery for non-metastatic papillary renal cell carcinoma: development and evaluation using the ASSURE prospective clinical trial cohort. BMC Med, 2019. 17: 182. https://www.ncbi.nlm.nih.gov/pubmed/31578141
+
+289.Erdem, S., et al. External validation of the VENUSS prognostic model to predict recurrence after surgery in non-metastatic papillary renal cell carcinoma: A multi-institutional analysis. Urol Oncol, 2022. 40: 198 e9. https://www.ncbi.nlm.nih.gov/pubmed/35172939
+
+290.Juul, S., et al. GRade, Age, Nodes, and Tumor (GRANT) compared with Leibovich score to predict survival in localized renal cell carcinoma: A nationwide study. Int J Urol, 2022. 29: 641. https://www.ncbi.nlm.nih.gov/pubmed/35362146
+
+291.Piccinelli, M.L., et al. Assessment of the VENUSS and GRANT Models for Individual Prediction of Cancer-specific Survival in Surgically Treated Nonmetastatic Papillary Renal Cell Carcinoma. Eur Urol Open Sci, 2023. 53: 109. https://www.ncbi.nlm.nih.gov/pubmed/37441347
+
+292.Bedke, J., et al. TNM-based risk eligibility for adjuvant trials in renal cell carcinoma. Lancet, 2023. 402: 1018. https://www.ncbi.nlm.nih.gov/pubmed/37524097
+
+293.Okita, K., et al. Impact of Disagreement Between Two Risk Group Models on Prognosis in Patients With Metastatic Renal-Cell Carcinoma. Clin Genitourin Cancer, 2019. 17: e440. https://www.ncbi.nlm.nih.gov/pubmed/30772204
+
+294.Ernst, M.S., et al. Outcomes for International Metastatic Renal Cell Carcinoma Database Consortium Prognostic Groups in Contemporary First-line Combination Therapies for Metastatic Renal Cell Carcinoma. Eur Urol, 2023. 84: 109. https://www.ncbi.nlm.nih.gov/pubmed/36707357
+
+295.Massari, F., et al. Addition of Primary Metastatic Site on Bone, Brain, and Liver to IMDC Criteria in Patients With Metastatic Renal Cell Carcinoma: A Validation Study. Clin Genitourin Cancer, 2021. 19: 32. https://www.ncbi.nlm.nih.gov/pubmed/32694008
+
+296.Kang, M., et al. Prognostic Impact of Bone Metastasis on Survival Outcomes in Patients with Metastatic Renal Cell Carcinoma Treated by First Line Tyrosine Kinase Inhibitors: A Propensity-Score Matching Analysis. J Cancer, 2020. 11: 7202. https://www.ncbi.nlm.nih.gov/pubmed/33193883
+
+297.Guida, A., et al. Identification of international metastatic renal cell carcinoma database consortium (IMDC) intermediate-risk subgroups in patients with metastatic clear-cell renal cell carcinoma. Oncotarget, 2020. 11: 4582. https://www.ncbi.nlm.nih.gov/pubmed/33346231
+
+298.Rebuzzi, S.E., et al. Validation of the Meet-URO score in patients with metastatic renal cell carcinoma receiving first-line nivolumab and ipilimumab in the Italian Expanded Access Program. ESMO Open, 2022. 7: 100634. https://www.ncbi.nlm.nih.gov/pubmed/36493602
+
+299.Zisman, A., et al. Risk group assessment and clinical outcome algorithm to predict the natural history of patients with surgically resected renal cell carcinoma. J Clin Oncol, 2002. 20: 4559. https://www.ncbi.nlm.nih.gov/pubmed/12454113
+
+300.Leibovich, B.C., et al. Predicting Oncologic Outcomes in Renal Cell Carcinoma After Surgery. Eur Urol, 2018. 73: 772. https://www.ncbi.nlm.nih.gov/pubmed/29398265
+
+301.Buti, S., et al. Validation of a new prognostic model to easily predict outcome in renal cell carcinoma: the GRANT score applied to the ASSURE trial population. Ann Oncol, 2017. 28: 2747. https://www.ncbi.nlm.nih.gov/pubmed/28945839
+
+302.Motzer, R.J., et al. Interferon-alfa as a comparative treatment for clinical trials of new therapies against advanced renal cell carcinoma. J Clin Oncol, 2002. 20: 289. https://www.ncbi.nlm.nih.gov/pubmed/11773181
+
+303.Karnofsky, D.A., et al. The use of the nitrogen mustards in the palliative treatment of carcinoma.With particular reference to bronchogenic carcinoma. Cancer, 1948. 1: 634. https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/1097-0142(194811)1:4%3C634::AID-CNCR2820010410%3E3.0.CO;2-L
+
+304.Heng, D.Y., et al. External validation and comparison with other models of the International Metastatic Renal-Cell Carcinoma Database Consortium prognostic model: a population-based study. Lancet Oncol, 2013. 14: 141. https://www.ncbi.nlm.nih.gov/pubmed/23312463
+
+305.Giles, R., et al. Patient-reported Experience of Diagnosis, Management, and Burden of Renal Cell Carcinomas: Results from a Global Patient Survey in 43 Countries. Eur Urol Open Sci, 2022. 37: 3. https://www.ncbi.nlm.nih.gov/pubmed/35243386
+
+306.Charles, C., et al. Shared decision-making in the medical encounter: what does it mean? (or it takes at least two to tango). Soc Sci Med, 1997. 44: 681. https://www.ncbi.nlm.nih.gov/pubmed/9032835
+
+307.Angel, S., et al. Challenges in achieving patient participation: A review of how patient participation is addressed in empirical studies. Int J Nurs Stud, 2015. 52: 1525. https://www.ncbi.nlm.nih.gov/pubmed/25980558
+
+308.Bonetti, L., et al. Nursing interventions to promote patient engagement in cancer care: A systematic review. Int J Nurs Stud, 2022. 133: 104289. https://www.ncbi.nlm.nih.gov/pubmed/35751947
+
+309.Kelly, D., et al. The role of nursing in the management of patients with renal and hepatic cancers: A systematic literature review. Eur J Oncol Nurs, 2021. 55: 102043. https://www.ncbi.nlm.nih.gov/pubmed/34655916
+
+310.Basch, E., et al. Overall Survival Results of a Trial Assessing Patient-Reported Outcomes for Symptom Monitoring During Routine Cancer Treatment. JAMA, 2017. 318: 197. https://www.ncbi.nlm.nih.gov/pubmed/28586821
+
+311.Sheikh, M., et al. Smoking Cessation After Diagnosis of Kidney Cancer Is Associated With Reduced Risk of Mortality and Cancer Progression: A Prospective Cohort Study. J Clin Oncol, 2023. 41: 2747. https://www.ncbi.nlm.nih.gov/pubmed/36989465
+
+312.Organization, W.H. European Code Against Cancer, 5th Edition. 2025. https://cancer-code-europe.iarc.who.int/
+
+313.Beyer, K., et al. A Systematic Review of Heterogeneity in Outcome Definition and Reporting in Localised Renal Cancer. Eur Urol Open Sci, 2023. 48: 1. https://www.ncbi.nlm.nih.gov/pubmed/36578462
+
+314.MacLennan, S., et al. Systematic review of perioperative and quality-of-life outcomes following surgical management of localised renal cancer. Eur Urol, 2012. 62: 1097. https://www.ncbi.nlm.nih.gov/pubmed/22841673
+
+315.Kunath, F., et al. Partial nephrectomy versus radical nephrectomy for clinical localised renal masses. Cochrane Database Syst Rev, 2017. 5: CD012045. https://www.ncbi.nlm.nih.gov/pubmed/28485814
+
+316.Van Poppel, H., et al. A prospective, randomised EORTC intergroup phase 3 study comparing the oncologic outcome of elective nephron-sparing surgery and radical nephrectomy for low-stage renal cell carcinoma. Eur Urol, 2011. 59: 543. https://www.ncbi.nlm.nih.gov/pubmed/21186077
+
+317.Capitanio, U., et al. Nephron-sparing techniques independently decrease the risk of cardiovascular events relative to radical nephrectomy in patients with a T1a-T1b renal mass and normal preoperative renal function. Eur Urol, 2015. 67: 683. https://www.ncbi.nlm.nih.gov/pubmed/25282367
+
+318.Scosyrev, E., et al. Renal function after nephron-sparing surgery versus radical nephrectomy: results from EORTC randomized trial 30904. Eur Urol, 2014. 65: 372. https://www.ncbi.nlm.nih.gov/pubmed/23850254
+
+319.Lane, B.R., et al. Survival and Functional Stability in Chronic Kidney Disease Due to Surgical Removal of Nephrons: Importance of the New Baseline Glomerular Filtration Rate. Eur Urol, 2015. 68: 996. https://www.ncbi.nlm.nih.gov/pubmed/26012710
+
+320.Van Poppel, H., et al. A prospective randomized EORTC intergroup phase 3 study comparing the complications of elective nephron-sparing surgery and radical nephrectomy for low-stage renal cell carcinoma. Eur Urol, 2007. 51: 1606. https://www.ncbi.nlm.nih.gov/pubmed/17140723
+
+321.Poulakis, V., et al. Quality of life after surgery for localized renal cell carcinoma: comparison between radical nephrectomy and nephron-sparing surgery. Urology, 2003. 62: 814. https://www.ncbi.nlm.nih.gov/pubmed/14624900
+
+322.Mir, M.C., et al. Partial Nephrectomy Versus Radical Nephrectomy for Clinical T1b and T2 Renal Tumors: A Systematic Review and Meta-analysis of Comparative Studies. Eur Urol, 2017. 71: 606. https://www.ncbi.nlm.nih.gov/pubmed/27614693
+
+323.Janssen, M.W.W., et al. Survival outcomes in patients with large (>/=7cm) clear cell renal cell carcinomas treated with nephron-sparing surgery versus radical nephrectomy: Results of a multicenter cohort with long-term follow-up. PLoS One, 2018. 13: e0196427. https://www.ncbi.nlm.nih.gov/pubmed/29723225
+
+324.Patel, S.H., et al. Oncologic and Functional Outcomes of Radical and Partial Nephrectomy in pT3a Pathologically Upstaged Renal Cell Carcinoma: A Multi-institutional Analysis. Clin Genitourin Cancer, 2020. 18: e723. https://www.ncbi.nlm.nih.gov/pubmed/32600941
+
+325.Shah, P.H., et al. Partial Nephrectomy is Associated with Higher Risk of Relapse Compared with Radical Nephrectomy for Clinical Stage T1 Renal Cell Carcinoma Pathologically Up Staged to T3a. J Urol, 2017. 198: 289. https://www.ncbi.nlm.nih.gov/pubmed/28274620
+
+326.Veccia, A., et al. Upstaging to pT3a in Patients Undergoing Partial or Radical Nephrectomy for cT1 Renal Tumors: A Systematic Review and Meta-analysis of Outcomes and Predictive Factors. Eur Urol Focus, 2021. 7: 574. https://www.ncbi.nlm.nih.gov/pubmed/32571744
+
+327.Liu, H., et al. A meta-analysis for comparison of partial nephrectomy vs. radical nephrectomy in patients with pT3a renal cell carcinoma. Transl Androl Urol, 2021. 10: 1170. https://www.ncbi.nlm.nih.gov/pubmed/33850752
+
+328.Lane, B.R., et al. Management of the adrenal gland during partial nephrectomy. J Urol, 2009. 181: 2430. https://www.ncbi.nlm.nih.gov/pubmed/19371896
+
+329.Bekema, H.J., et al. Systematic review of adrenalectomy and lymph node dissection in locally advanced renal cell carcinoma. Eur Urol, 2013. 64: 799. https://www.ncbi.nlm.nih.gov/pubmed/23643550
+
+330.Blom, J.H., et al. Radical nephrectomy with and without lymph-node dissection: final results of European Organization for Research and Treatment of Cancer (EORTC) randomized phase 3 trial 30881. Eur Urol, 2009. 55: 28. https://www.ncbi.nlm.nih.gov/pubmed/18848382
+
+331.Capitanio, U., et al. Lymph node dissection in renal cell carcinoma. Eur Urol, 2011. 60: 1212. https://www.ncbi.nlm.nih.gov/pubmed/21940096
+
+332.Myers, A.A., et al. Contemporary Role of Lymph Node Dissection in Genitourinary Cancers: Where Are We in 2023? Eur Urol Oncol, 2024. 7: 412. https://www.ncbi.nlm.nih.gov/pubmed/37980250
+
+333.Gershman, B., et al. Radical Nephrectomy with or without Lymph Node Dissection for High Risk Nonmetastatic Renal Cell Carcinoma: A Multi-Institutional Analysis. J Urol, 2018. 199: 1143. https://www.ncbi.nlm.nih.gov/pubmed/29225056
+
+334.Kim, S., et al. 573 the Relationship of Lymph Node Dissection with Recurrence and Survival for Patients Treated with Nephrectomy for High-Risk Renal Cell Carcinoma. J Urol, 2012. 187: e233. https://doi.org/10.1016/j.juro.2012.02.649
+
+335.Dimashkieh, H.H., et al. Extranodal extension in regional lymph nodes is associated with outcome in patients with renal cell carcinoma. J Urol, 2006. 176: 1978. https://www.ncbi.nlm.nih.gov/pubmed/17070225
+
+336.Terrone, C., et al. Reassessing the current TNM lymph node staging for renal cell carcinoma. Eur Urol, 2006. 49: 324. https://www.ncbi.nlm.nih.gov/pubmed/16386352
+
+337.Whitson, J.M., et al. Lymphadenectomy improves survival of patients with renal cell carcinoma and nodal metastases. J Urol, 2011. 185: 1615. https://www.ncbi.nlm.nih.gov/pubmed/21419453
+
+338.Capitanio, U., et al. Extent of lymph node dissection at nephrectomy affects cancer-specific survival and metastatic progression in specific sub-categories of patients with renal cell carcinoma (RCC). BJU Int, 2014. 114: 210. https://www.ncbi.nlm.nih.gov/pubmed/24854206
+
+339.Gershman, B., et al. Perioperative Morbidity of Lymph Node Dissection for Renal Cell Carcinoma: A Propensity Score-based Analysis. Eur Urol, 2018. 73: 469. https://www.ncbi.nlm.nih.gov/pubmed/29132713
+
+340.Herrlinger, A., et al. What are the benefits of extended dissection of the regional renal lymph nodes in the therapy of renal cell carcinoma. J Urol, 1991. 146: 1224. https://www.ncbi.nlm.nih.gov/pubmed/1942267
+
+341.Chapin, B.F., et al. The role of lymph node dissection in renal cell carcinoma. Int J Clin Oncol, 2011. 16: 186. https://www.ncbi.nlm.nih.gov/pubmed/21523561
+
+342.Kwon, T., et al. Reassessment of renal cell carcinoma lymph node staging: analysis of patterns of progression. Urology, 2011. 77: 373. https://www.ncbi.nlm.nih.gov/pubmed/20817274
+
+343.Bex, A., et al. Intraoperative sentinel node identification and sampling in clinically node-negative renal cell carcinoma: initial experience in 20 patients. World J Urol, 2011. 29: 793. https://www.ncbi.nlm.nih.gov/pubmed/21107845
+
+344.Sherif, A.M., et al. Sentinel node detection in renal cell carcinoma. A feasibility study for detection of tumour-draining lymph nodes. BJU Int, 2012. 109: 1134. https://www.ncbi.nlm.nih.gov/pubmed/21883833
+
+345.May, M., et al. Pre-operative renal arterial embolisation does not provide survival benefit in patients with radical nephrectomy for renal cell carcinoma. Br J Radiol, 2009. 82: 724. https://www.ncbi.nlm.nih.gov/pubmed/19255117
+
+346.Subramanian, V.S., et al. Utility of preoperative renal artery embolization for management of renal tumors with inferior vena caval thrombi. Urology, 2009. 74: 154. https://www.ncbi.nlm.nih.gov/pubmed/19428069
+
+347.Maxwell, N.J., et al. Renal artery embolisation in the palliative treatment of renal carcinoma. Br J Radiol, 2007. 80: 96. https://www.ncbi.nlm.nih.gov/pubmed/17495058
+
+348.Wang, L., et al. Oncologic and perioperative outcomes of laparoscopic versus open radical nephrectomy for the treatment of renal tumor (> 7 cm): a systematic review and pooled analysis of comparative outcomes. World J Surg Oncol, 2023. 21: 35. https://www.ncbi.nlm.nih.gov/pubmed/36747217
+
+349.Gratzke, C., et al. Quality of life and perioperative outcomes after retroperitoneoscopic radical nephrectomy (RN), open RN and nephron-sparing surgery in patients with renal cell carcinoma. BJU Int, 2009. 104: 470. https://www.ncbi.nlm.nih.gov/pubmed/19239445
+
+350.Hemal, A.K., et al. Laparoscopic versus open radical nephrectomy for large renal tumors: a long-term prospective comparison. J Urol, 2007. 177: 862. https://www.ncbi.nlm.nih.gov/pubmed/17296361
+
+351.Jeong, I.G., et al. Association of Robotic-Assisted vs Laparoscopic Radical Nephrectomy With Perioperative Outcomes and Health Care Costs, 2003 to 2015. JAMA, 2017. 318: 1561. https://www.ncbi.nlm.nih.gov/pubmed/29067427
+
+352.Crocerossa, F., et al. Robot-assisted Radical Nephrectomy: A Systematic Review and Meta-analysis of Comparative Studies. Eur Urol, 2021. 80: 428. https://www.ncbi.nlm.nih.gov/pubmed/33218826
+
+353.Soga, N., et al. Comparison of radical nephrectomy techniques in one center: minimal incision portless endoscopic surgery versus laparoscopic surgery. Int J Urol, 2008. 15: 1018. https://www.ncbi.nlm.nih.gov/pubmed/19138194
+
+354.Park, Y.H., et al. Comparison of laparoendoscopic single-site radical nephrectomy with conventional laparoscopic radical nephrectomy for localized renal-cell carcinoma. J Endourol, 2010. 24: 997. https://www.ncbi.nlm.nih.gov/pubmed/20370595
+
+355.Wang, L., et al. Perioperative and oncologic outcomes of transperitoneal versus retroperitoneal laparoscopic radical nephrectomy for large-volume renal carcinoma (> 7 cm): a systematic review and pooled analysis of comparative outcomes. World J Surg Oncol, 2023. 21: 86. https://www.ncbi.nlm.nih.gov/pubmed/36894912
+
+356.Guglielmetti, G.B., et al. A Prospective, Randomized Trial Comparing the Outcomes of Open vs Laparoscopic Partial Nephrectomy. J Urol, 2022. 208: 259. https://www.ncbi.nlm.nih.gov/pubmed/35404109
+
+357.Gill, I.S., et al. Comparison of 1,800 laparoscopic and open partial nephrectomies for single renal tumors. J Urol, 2007. 178: 41. https://www.ncbi.nlm.nih.gov/pubmed/17574056
+
+358.Lane, B.R., et al. 7-year oncological outcomes after laparoscopic and open partial nephrectomy. J Urol, 2010. 183: 473. https://www.ncbi.nlm.nih.gov/pubmed/20006866
+
+359.Gong, E.M., et al. Comparison of laparoscopic and open partial nephrectomy in clinical T1a renal tumors. J Endourol, 2008. 22: 953. https://www.ncbi.nlm.nih.gov/pubmed/18363510
+
+360.Marszalek, M., et al. Laparoscopic and open partial nephrectomy: a matched-pair comparison of 200 patients. Eur Urol, 2009. 55: 1171. https://www.ncbi.nlm.nih.gov/pubmed/19232819
+
+361.Muramaki, M., et al. Prognostic Factors Influencing Postoperative Development of Chronic Kidney Disease in Patients with Small Renal Tumors who Underwent Partial Nephrectomy. Curr Urol, 2013. 6: 129. https://www.ncbi.nlm.nih.gov/pubmed/24917730
+
+362.Tugcu, V., et al. Transperitoneal versus retroperitoneal laparoscopic partial nephrectomy: initial experience. Arch Ital Urol Androl, 2011. 83: 175. https://www.ncbi.nlm.nih.gov/pubmed/22670314
+
+363.Bazzi, W.M., et al. Comparison of laparoendoscopic single-site and multiport laparoscopic radical and partial nephrectomy: a prospective, nonrandomized study. Urology, 2012. 80: 1039. https://www.ncbi.nlm.nih.gov/pubmed/22990064
+
+364.Grimm, M.O., et al. Open versus robotic-assisted partial nephrectomy in patients with intermediate/high-complexity kidney tumours: final results of the randomised, controlled, open-label, multicentre trial OpeRa. Ann Oncol, 2025. 36: 988. https://www.ncbi.nlm.nih.gov/pubmed/40250528
+
+365.Kowalewski, K.F., et al. Randomized Controlled Feasibility Trial of Robot-assisted Versus Conventional Open Partial Nephrectomy: The ROBOCOP II Study. Eur Urol Oncol, 2024. 7: 91. https://www.ncbi.nlm.nih.gov/pubmed/37316398
+
+366.Bravi, C.A., et al. The IRON Study: Investigation of Robot-assisted Versus Open Nephron-sparing Surgery. Eur Urol Open Sci, 2023. 49: 71. https://www.ncbi.nlm.nih.gov/pubmed/36874602
+
+367.Calpin, G.G., et al. Comparing the outcomes of open, laparoscopic and robot-assisted partial nephrectomy: a network meta-analysis. BJU Int, 2023. 132: 353. https://www.ncbi.nlm.nih.gov/pubmed/37259476
+
+368.Masson-Lecomte, A., et al. A prospective comparison of the pathologic and surgical outcomes obtained after elective treatment of renal cell carcinoma by open or robot-assisted partial nephrectomy. Urol Oncol, 2013. 31: 924. https://www.ncbi.nlm.nih.gov/pubmed/21906969
+
+369.Peyronnet, B., et al. Comparison of 1800 Robotic and Open Partial Nephrectomies for Renal Tumors. Ann Surg Oncol, 2016. 23: 4277. https://www.ncbi.nlm.nih.gov/pubmed/27411552
+
+370.Ni, Y., et al. A Systematic Review and Meta-Analysis of Comparison of Outcomes of Robot-Assisted versus Open Partial Nephrectomy in Clinical T1 Renal Cell Carcinoma Patients. Urol Int, 2022. 106: 757. https://www.ncbi.nlm.nih.gov/pubmed/35193139
+
+371.Nisen, H., et al. Hand-assisted laparoscopic versus open partial nephrectomy in patients with T1 renal tumor: Comparative perioperative, functional and oncological outcome. Scand J Urol, 2015. 49: 446. https://www.ncbi.nlm.nih.gov/pubmed/26317448
+
+372.Chang, K.D., et al. Functional and oncological outcomes of open, laparoscopic and robot-assisted partial nephrectomy: a multicentre comparative matched-pair analyses with a median of 5 years’ follow-up. BJU Int, 2018. 122: 618. https://www.ncbi.nlm.nih.gov/pubmed/29645344
+
+373.Choi, J.E., et al. Comparison of perioperative outcomes between robotic and laparoscopic partial nephrectomy: a systematic review and meta-analysis. Eur Urol, 2015. 67: 891. https://www.ncbi.nlm.nih.gov/pubmed/25572825
+
+374.Rich, J.M., et al. Transperitoneal Versus Retroperitoneal Single-port Robotic-assisted Partial Nephrectomy: An Analysis from the Single Port Advanced Research Consortium. Eur Urol Focus, 2023. 9: 1059. https://www.ncbi.nlm.nih.gov/pubmed/37394396
+
+375.Raver, M., et al. Adoption of Single-Port Robotic Partial Nephrectomy Increases Utilization of the Retroperitoneal Approach: A Report from the Single-Port Advanced Research Consortium. J Laparoendosc Adv Surg Tech A, 2025. 35: 131. https://www.ncbi.nlm.nih.gov/pubmed/39909473
+
+376.Biasatti, A., et al. The current landscape of single-port robotic surgery in urology. Nat Rev Urol, 2025. https://www.ncbi.nlm.nih.gov/pubmed/40897917
+
+377.Okhawere, K.E., et al. Comparison of outcomes between single-port and multiport retroperitoneal robotic partial nephrectomy. Urol Oncol, 2025. 43: 63 e1. https://www.ncbi.nlm.nih.gov/pubmed/39379208
+
+378.Hu, A., et al. Comparison of single-port versus multi-port robotic assisted partial nephrectomy: a systematic review and meta-analysis of perioperative and oncological outcomes. J Robot Surg, 2024. 18: 321. https://www.ncbi.nlm.nih.gov/pubmed/39136882
+
+379.Ficarra, V., et al. Comparison of Single- and Multiport Robot-assisted Approaches in Prostate and Renal Surgery: A Systematic Review and Meta-analysis. Eur Urol, 2025. 88: 589. https://www.ncbi.nlm.nih.gov/pubmed/41016915
+
+380.Carbonara, U., et al. Retroperitoneal Robot-assisted Partial Nephrectomy: A Systematic Review and Pooled Analysis of Comparative Outcomes. Eur Urol Open Sci, 2022. 40: 27. https://www.ncbi.nlm.nih.gov/pubmed/35515269
+
+381.Kalble, S., et al. Randomised controlled feasibility trial of retroperitoneal vs transperitoneal robot-assisted partial nephrectomy: the ROPARN study. BJU Int, 2025. 135: 977. https://www.ncbi.nlm.nih.gov/pubmed/39840817
+
+382.Ficarra, V., et al. Evaluation of Clinical Research on Novel Multiport Robotic Platforms for Urological Surgery According to the IDEAL Framework: A Systematic Review of the Literature. Eur Urol Open Sci, 2024. 67: 7. https://www.ncbi.nlm.nih.gov/pubmed/39100226
+
+383.Minervini, A., et al. Simple enucleation is equivalent to traditional partial nephrectomy for renal cell carcinoma: results of a nonrandomized, retrospective, comparative study. J Urol, 2011. 185: 1604. https://www.ncbi.nlm.nih.gov/pubmed/21419454
+
+384.Minervini, A., et al. Impact of Resection Technique on Perioperative Outcomes and Surgical Margins after Partial Nephrectomy for Localized Renal Masses: A Prospective Multicenter Study. J Urol, 2020. 203: 496. https://www.ncbi.nlm.nih.gov/pubmed/31609167
+
+385.Bertolo, R., et al. Resection Techniques During Robotic Partial Nephrectomy: A Systematic Review. Eur Urol Open Sci, 2023. 52: 7. https://www.ncbi.nlm.nih.gov/pubmed/37182118
+
+386.Lu, Q., et al. Robot-assisted Simple Enucleation Versus Standard Robot-assisted Partial Nephrectomy for Low- or Intermediate-complexity, Clinical T1 Renal Tumors: A Randomized Controlled Noninferiority Trial. Eur Urol Oncol, 2024. 7: 275. https://www.ncbi.nlm.nih.gov/pubmed/37598032
+
+387.Antonelli, A., et al. On-clamp versus off-clamp robotic partial nephrectomy: A systematic review and meta-analysis. Urologia, 2019. 86: 52. https://www.ncbi.nlm.nih.gov/pubmed/31179885
+
+388.Antonelli, A., et al. Is off-clamp robot-assisted partial nephrectomy beneficial for renal function? Data from the CLOCK trial. BJU Int, 2022. 129: 217. https://www.ncbi.nlm.nih.gov/pubmed/34086393
+
+389.Cignoli, D., et al. Risks and benefits of partial nephrectomy performed with limited or with zero ischaemia time. BJU Int, 2023. 132: 283. https://www.ncbi.nlm.nih.gov/pubmed/36932928
+
+390.Sharma, G., et al. Off-clamp Versus On-clamp Robot-assisted Partial Nephrectomy: A Propensity-matched Analysis. Eur Urol Oncol, 2023. 6: 525. https://www.ncbi.nlm.nih.gov/pubmed/37193626
+
+391.Mellouki, A., et al. Evaluation of oncological outcomes of robotic partial nephrectomy according to the type of hilar control approach (On-clamp vs Off-clamp), a multicentric study of the French network of research on kidney cancer-UROCCR 58-NCT03293563. World J Urol, 2023. 41: 287. https://www.ncbi.nlm.nih.gov/pubmed/33606044
+
+392.Piramide, F., et al. Three-dimensional Model-assisted Minimally Invasive Partial Nephrectomy: A Systematic Review with Meta-analysis of Comparative Studies. Eur Urol Oncol, 2022. 5: 640. https://www.ncbi.nlm.nih.gov/pubmed/36216739
+
+393.Pattou, M., et al. Effects of a personalized or generic three-dimensional tumoral kidney model on patient experience and caregiver-patient interactions, before and after partial nephrectomy, a randomized trial (Rein 3D Print Personalize-UroCCR 114). PLoS One, 2025. 20: e0323515. https://www.ncbi.nlm.nih.gov/pubmed/40824885
+
+394.Margue, G., et al. Clinical Trial Protocol for ACCURATE: A CCafU-UroCCR Randomized Trial: Three-dimensional Image-guided Robot-assisted Partial Nephrectomy for Renal Complex Tumor (UroCCR 99). Eur Urol Oncol, 2025. 8: 914. https://www.ncbi.nlm.nih.gov/pubmed/40199643
+
+395.Stolzenburg, J.U., et al. Use of Interactive Three-dimensional Modeling for Partial Nephrectomy in the 3DPN Study. Eur Urol Focus, 2025. 11: 8. https://www.ncbi.nlm.nih.gov/pubmed/40011129
+
+396.Henderickx, M., et al. Surgical margins after partial nephrectomy as prognostic factor for the risk of local recurrence in pT1 RCC: a systematic review and narrative synthesis. World J Urol, 2022. 40: 2169. https://www.ncbi.nlm.nih.gov/pubmed/35503118
+
+397.Tabayoyong, W., et al. Variation in Surgical Margin Status by Surgical Approach among Patients Undergoing Partial Nephrectomy for Small Renal Masses. J Urol, 2015. 194: 1548. https://www.ncbi.nlm.nih.gov/pubmed/26094808
+
+398.Porpiglia, F., et al. Partial Nephrectomy in Clinical T1b Renal Tumors: Multicenter Comparative Study of Open, Laparoscopic and Robot-assisted Approach (the RECORd Project). Urology, 2016. 89: 45. https://www.ncbi.nlm.nih.gov/pubmed/26743388
+
+399.Morrone, A., et al. Positive surgical margin’s impact on short-term oncological prognosis after robot-assisted partial nephrectomy (MARGINS study: UroCCR no 96). Sci Rep, 2022. 12: 18342. https://www.ncbi.nlm.nih.gov/pubmed/36316438
+
+400.Steinestel, J., et al. Positive surgical margins in nephron-sparing surgery: risk factors and therapeutic consequences. World J Surg Oncol, 2014. 12: 252. https://www.ncbi.nlm.nih.gov/pubmed/25103683
+
+401.Wood, E.L., et al. Local Tumor Bed Recurrence Following Partial Nephrectomy in Patients with Small Renal Masses. J Urol, 2018. 199: 393. https://www.ncbi.nlm.nih.gov/pubmed/28941919
+
+402.Bensalah, K., et al. Positive surgical margin appears to have negligible impact on survival of renal cell carcinomas treated by nephron-sparing surgery. Eur Urol, 2010. 57: 466. https://www.ncbi.nlm.nih.gov/pubmed/19359089
+
+403.Lopez-Costea, M.A., et al. Oncological outcomes and prognostic factors after nephron-sparing surgery in renal cell carcinoma. Int Urol Nephrol, 2016. 48: 681. https://www.ncbi.nlm.nih.gov/pubmed/26861062
+
+404.Shah, P.H., et al. Positive Surgical Margins Increase Risk of Recurrence after Partial Nephrectomy for High Risk Renal Tumors. J Urol, 2016. 196: 327. https://www.ncbi.nlm.nih.gov/pubmed/26907508
+
+405.Tellini, R., et al. Positive Surgical Margins Predict Progression-free Survival After Nephron-sparing Surgery for Renal Cell Carcinoma: Results From a Single Center Cohort of 459 Cases With a Minimum Follow-up of 5 Years. Clin Genitourin Cancer, 2019. 17: e26. https://www.ncbi.nlm.nih.gov/pubmed/30266249
+
+406.Ryan, S.T., et al. Impact of positive surgical margins on survival after partial nephrectomy in localized kidney cancer: analysis of the National Cancer Database. Minerva Urol Nephrol, 2021. 73: 233. https://www.ncbi.nlm.nih.gov/pubmed/32748614
+
+407.Kim, S.P., et al. Treatment of Patients with Positive Margins after Partial Nephrectomy. J Urol, 2016. 196: 301. https://www.ncbi.nlm.nih.gov/pubmed/27188474
+
+408.Antic, T., et al. Partial nephrectomy for renal tumors: lack of correlation between margin status and local recurrence. Am J Clin Pathol, 2015. 143: 645. https://www.ncbi.nlm.nih.gov/pubmed/25873497
+
+409.Marconi, L., et al. Hospital Volume as a Determinant of Outcomes After Partial Nephrectomy: A Systematic Review by the European Association of Urology Renal Cell Carcinoma Guidelines Panel. Eur Urol Oncol, 2025. 8: 616. https://www.ncbi.nlm.nih.gov/pubmed/40210551
+
+410.Yildirim, H., et al. Variation in the management of cT1 renal cancer by surgical hospital volume: A nationwide study. BJUI Compass, 2023. 4: 455. https://www.ncbi.nlm.nih.gov/pubmed/37334025
+
+411.Tran, M.G.B., et al. Guideline adherence for the surgical treatment of T1 renal tumours correlates with hospital volume: an analysis from the British Association of Urological Surgeons Nephrectomy Audit. BJU Int, 2020. 125: 73. https://www.ncbi.nlm.nih.gov/pubmed/31293036
+
+412.Couapel, J.P., et al. Is there a volume-outcome relationship for partial nephrectomy? World J Urol, 2014. 32: 1323. https://www.ncbi.nlm.nih.gov/pubmed/24270969
+
+413.Stencel, M.G., et al. Partial Nephrectomy Drives the Association Between High-volume Centers and Decreased Mortality: A Surveillance, Epidemiology, and End Results-Medicare Analysis. Urology, 2023. 181: 55. https://www.ncbi.nlm.nih.gov/pubmed/37544519
+
+414.Pfail, J., et al. Omission of intraoperative drain placement during robotic partial nephrectomy and robotic radical prostatectomy is safe: an analysis of 18,000 patients. World J Urol, 2024. 42: 601. https://www.ncbi.nlm.nih.gov/pubmed/39470850
+
+415.Territo, A., et al. To drain or not to drain in uro-oncological robotic surgery? A systematic review and meta-analysis. Minerva Urol Nephrol, 2023. 75: 144. https://www.ncbi.nlm.nih.gov/pubmed/36722161
+
+416.Kowalewski, K.F., et al. Prophylactic abdominal or retroperitoneal drain placement in major uro-oncological surgery: a systematic review and meta-analysis of comparative studies on radical prostatectomy, cystectomy and partial nephrectomy. World J Urol, 2020. 38: 1905. https://www.ncbi.nlm.nih.gov/pubmed/31664510
+
+417.Wangjian, W., et al. Application of enhanced recovery after surgery in partial nephrectomy for renal tumors: A systematic review and meta-analysis. Front Oncol, 2023. 13: 1049294. https://www.ncbi.nlm.nih.gov/pubmed/36845687
+
+418.Lane, B.R., et al. Active treatment of localized renal tumors may not impact overall survival in patients aged 75 years or older. Cancer, 2010. 116: 3119. https://www.ncbi.nlm.nih.gov/pubmed/20564627
+
+419.Hollingsworth, J.M., et al. Five-year survival after surgical treatment for kidney cancer: a population-based competing risk analysis. Cancer, 2007. 109: 1763. https://www.ncbi.nlm.nih.gov/pubmed/17351954
+
+420.Volpe, A., et al. The natural history of incidentally detected small renal masses. Cancer, 2004. 100: 738. https://www.ncbi.nlm.nih.gov/pubmed/14770429
+
+421.Sun, M., et al. Comparison of partial vs radical nephrectomy with regard to other-cause mortality in T1 renal cell carcinoma among patients aged >/=75 years with multiple comorbidities. BJU Int, 2013. 111: 67. https://www.ncbi.nlm.nih.gov/pubmed/22612472
+
+422.Zini, L., et al. A population-based comparison of survival after nephrectomy vs nonsurgical management for small renal masses. BJU Int, 2009. 103: 899. https://www.ncbi.nlm.nih.gov/pubmed/19154499
+
+423.Xing, M., et al. Comparative Effectiveness of Thermal Ablation, Surgical Resection, and Active Surveillance for T1a Renal Cell Carcinoma: A Surveillance, Epidemiology, and End Results (SEER)-Medicare-linked Population Study. Radiology, 2018. 288: 81. https://www.ncbi.nlm.nih.gov/pubmed/29737950
+
+424.Sun, M., et al. Management of localized kidney cancer: calculating cancer-specific mortality and competing risks of death for surgery and nonsurgical management. Eur Urol, 2014. 65: 235. https://www.ncbi.nlm.nih.gov/pubmed/23567066
+
+425.Huang, W.C., et al. Surveillance for the management of small renal masses: Utilization and outcomes in a population-based cohort. J Clin Oncol, 2013. 31: 343. https://doi.org/10.1200/jco.2013.31.6_suppl.343
+
+426.Hyams, E.S., et al. 1679 Partial Nephrectomy Vs. Non-Surgical Management for Small Renal Masses: A Population-Based Comparison of Disease-Specific and Overall Survival. J Urol, 2012. 187: E678. https://doi.org/10.1016/j.juro.2012.02.1552
+
+427.Jewett, M.A., et al. Active surveillance of small renal masses: progression patterns of early stage kidney cancer. Eur Urol, 2011. 60: 39. https://www.ncbi.nlm.nih.gov/pubmed/21477920
+
+428.Smaldone, M.C., et al. Small renal masses progressing to metastases under active surveillance: a systematic review and pooled analysis. Cancer, 2012. 118: 997. https://www.ncbi.nlm.nih.gov/pubmed/21766302
+
+429.Klatte, T., et al. Intermediate- and long-term oncological outcomes of active surveillance for localized renal masses: a systematic review and quantitative analysis. BJU Int, 2021. 128: 131. https://www.ncbi.nlm.nih.gov/pubmed/34060192
+
+430.Finelli, A., et al. Small Renal Mass Surveillance: Histology-specific Growth Rates in a Biopsy-characterized Cohort. Eur Urol, 2020. 78: 460. https://www.ncbi.nlm.nih.gov/pubmed/32680677
+
+431.Patel, N., et al. Active surveillance of small renal masses offers short-term oncological efficacy equivalent to radical and partial nephrectomy. BJU Int, 2012. 110: 1270. https://www.ncbi.nlm.nih.gov/pubmed/22564495
+
+432.Pierorazio, P.M., et al. Five-year analysis of a multi-institutional prospective clinical trial of delayed intervention and surveillance for small renal masses: the DISSRM registry. Eur Urol, 2015. 68: 408. https://www.ncbi.nlm.nih.gov/pubmed/25698065
+
+433.Uzosike, A.C., et al. Growth Kinetics of Small Renal Masses on Active Surveillance: Variability and Results from the DISSRM Registry. J Urol, 2018. 199: 641. https://www.ncbi.nlm.nih.gov/pubmed/28951284
+
+434.Metcalf, M.R., et al. Outcomes of Active Surveillance for Young Patients with Small Renal Masses: Prospective Data from the DISSRM Registry. J Urol, 2021. 205: 1286. https://www.ncbi.nlm.nih.gov/pubmed/33356478
+
+435.Abou Youssif, T., et al. Active surveillance for selected patients with renal masses: updated results with long-term follow-up. Cancer, 2007. 110: 1010. https://www.ncbi.nlm.nih.gov/pubmed/17628489
+
+436.Abouassaly, R., et al. Active surveillance of renal masses in elderly patients. J Urol, 2008. 180: 505. https://www.ncbi.nlm.nih.gov/pubmed/18550113
+
+437.Crispen, P.L., et al. Natural history, growth kinetics, and outcomes of untreated clinically localized renal tumors under active surveillance. Cancer, 2009. 115: 2844. https://www.ncbi.nlm.nih.gov/pubmed/19402168
+
+438.Rosales, J.C., et al. Active surveillance for renal cortical neoplasms. J Urol, 2010. 183: 1698. https://www.ncbi.nlm.nih.gov/pubmed/20299038
+
+439.Pierorazio, P., et al. 633 Quality of Life on Active Surveillance for a Small Renal Masses Versus Immediate Intervention: Interim Analysis of the Dissrm (Delayed Intervention and Surveillance for Small Renal Masses) Registry. J Urol, 2013. 189: e259. https://doi.org/10.1016/j.juro.2013.02.185
+
+440.Atwell, T.D., et al. Percutaneous ablation of renal masses measuring 3.0 cm and smaller: comparative local control and complications after radiofrequency ablation and cryoablation. AJR Am J Roentgenol, 2013. 200: 461. https://www.ncbi.nlm.nih.gov/pubmed/23345372
+
+441.Widdershoven, C.V., et al. Renal biopsies performed before versus during ablation of T1 renal tumors: implications for prevention of overtreatment and follow-up. Abdom Radiol (NY), 2021. 46: 373. https://www.ncbi.nlm.nih.gov/pubmed/32564209
+
+442.Chan, V.W., et al. The changing trends of image-guided biopsy of small renal masses before intervention-an analysis of European multinational prospective EuRECA registry. Eur Radiol, 2022. 32: 4667. https://www.ncbi.nlm.nih.gov/pubmed/35122492
+
+443.Lay, A.H., et al. Oncologic Efficacy of Radio Frequency Ablation for Small Renal Masses: Clear Cell vs Papillary Subtype. J Urol, 2015. 194: 653. https://www.ncbi.nlm.nih.gov/pubmed/25846416
+
+444.McClure, T., et al. Efficacy of percutaneous radiofrequency ablation may vary with clear cell renal cell cancer histologic subtype. Abdom Radiol (NY), 2018. 43: 1472. https://www.ncbi.nlm.nih.gov/pubmed/28936542
+
+445.Liu, N., et al. Percutaneous radiofrequency ablation for renal cell carcinoma vs. partial nephrectomy: Comparison of long-term oncologic outcomes in both clear cell and non-clear cell of the most common subtype. Urol Oncol, 2017. 35: 530 e1. https://www.ncbi.nlm.nih.gov/pubmed/28408296
+
+446.Breen, D.J., et al. Image-guided Cryoablation for Sporadic Renal Cell Carcinoma: Three- and 5-year Outcomes in 220 Patients with Biopsy-proven Renal Cell Carcinoma. Radiology, 2018. 289: 554. https://www.ncbi.nlm.nih.gov/pubmed/30084744
+
+447.Sisul, D.M., et al. RENAL nephrometry score is associated with complications after renal cryoablation: a multicenter analysis. Urology, 2013. 81: 775. https://www.ncbi.nlm.nih.gov/pubmed/23434099
+
+448.Kim, E.H., et al. 1200 Outcomes of Laparoscopic and Percutaneous Cryoablation for Renal Masses. J Urol, 2013. 189: e492. https://doi.org/10.1016/j.juro.2013.02.2554
+
+449.Goyal, J., et al. Single-center comparative oncologic outcomes of surgical and percutaneous cryoablation for treatment of renal tumors. J Endourol, 2012. 26: 1413. https://www.ncbi.nlm.nih.gov/pubmed/22642574
+
+450.Jiang, K., et al. Laparoscopic cryoablation vs. percutaneous cryoablation for treatment of small renal masses: a systematic review and meta-analysis. Oncotarget, 2017. 8: 27635. https://www.ncbi.nlm.nih.gov/pubmed/28199973
+
+451.Zargar, H., et al. Cryoablation for Small Renal Masses: Selection Criteria, Complications, and Functional and Oncologic Results. Eur Urol, 2016. 69: 116. https://www.ncbi.nlm.nih.gov/pubmed/25819723
+
+452.Pickersgill, N.A., et al. Ten-Year Experience with Percutaneous Cryoablation of Renal Tumors: Tumor Size Predicts Disease Progression. J Endourol, 2020. 34: 1211. https://www.ncbi.nlm.nih.gov/pubmed/32292059
+
+453.Morkos, J., et al. Percutaneous Cryoablation for Stage 1 Renal Cell Carcinoma: Outcomes from a 10-year Prospective Study and Comparison with Matched Cohorts from the National Cancer Database. Radiology, 2020. 296: 452. https://www.ncbi.nlm.nih.gov/pubmed/32515677
+
+454.Hebbadj, S., et al. Safety Considerations and Local Tumor Control Following Percutaneous Image-Guided Cryoablation of T1b Renal Tumors. Cardiovasc Intervent Radiol, 2018. 41: 449. https://www.ncbi.nlm.nih.gov/pubmed/29075877
+
+455.Grange, R., et al. Computed tomography-guided percutaneous cryoablation of T1b renal tumors: safety, functional and oncological outcomes. Int J Hyperthermia, 2019. 36: 1065. https://www.ncbi.nlm.nih.gov/pubmed/31648584
+
+456.Pecoraro, A., et al. Cryoablation Predisposes to Higher Cancer Specific Mortality Relative to Partial Nephrectomy in Patients with Nonmetastatic pT1b Kidney Cancer. J Urol, 2019. 202: 1120. https://www.ncbi.nlm.nih.gov/pubmed/31347950
+
+457.Andrews, J.R., et al. Oncologic Outcomes Following Partial Nephrectomy and Percutaneous Ablation for cT1 Renal Masses. Eur Urol, 2019. 76: 244. https://www.ncbi.nlm.nih.gov/pubmed/31060824
+
+458.Sundelin, M.O., et al. Repeated Cryoablation as Treatment Modality After Failure of Primary Renal Cryoablation: A European Registry for Renal Cryoablation Multinational Analysis. J Endourol, 2019. 33: 909. https://www.ncbi.nlm.nih.gov/pubmed/31507206
+
+459.Lian, H., et al. Single-center comparison of complications in laparoscopic and percutaneous radiofrequency ablation with ultrasound guidance for renal tumors. Urology, 2012. 80: 119. https://www.ncbi.nlm.nih.gov/pubmed/22633890
+
+460.Young, E.E., et al. Comparison of safety, renal function outcomes and efficacy of laparoscopic and percutaneous radio frequency ablation of renal masses. J Urol, 2012. 187: 1177. https://www.ncbi.nlm.nih.gov/pubmed/22357170
+
+461.Kim, S.D., et al. Radiofrequency ablation of renal tumors: four-year follow-up results in 47 patients. Korean J Radiol, 2012. 13: 625. https://www.ncbi.nlm.nih.gov/pubmed/22977331
+
+462.Trudeau, V., et al. Comparison of Postoperative Complications and Mortality Between Laparoscopic and Percutaneous Local Tumor Ablation for T1a Renal Cell Carcinoma: A Population-based Study. Urology, 2016. 89: 63. https://www.ncbi.nlm.nih.gov/pubmed/26514977
+
+463.Psutka, S.P., et al. Long-term oncologic outcomes after radiofrequency ablation for T1 renal cell carcinoma. Eur Urol, 2013. 63: 486. https://www.ncbi.nlm.nih.gov/pubmed/22959191
+
+464.Johnson, B.A., et al. Ten-Year Outcomes of Renal Tumor Radio Frequency Ablation. J Urol, 2019. 201: 251. https://www.ncbi.nlm.nih.gov/pubmed/30634350
+
+465.Sorce, G., et al. Cancer-specific Mortality After Cryoablation vs Heat-based Thermal Ablation in T1a Renal Cell Carcinoma. J Urol, 2023. 209: 81. https://www.ncbi.nlm.nih.gov/pubmed/36440817
+
+466.Chang, X., et al. Radio frequency ablation versus partial nephrectomy for clinical T1b renal cell carcinoma: long-term clinical and oncologic outcomes. J Urol, 2015. 193: 430. https://www.ncbi.nlm.nih.gov/pubmed/25106899
+
+467.Yu, J., et al. Percutaneous Microwave Ablation versus Laparoscopic Partial Nephrectomy for cT1a Renal Cell Carcinoma: A Propensity-matched Cohort Study of 1955 Patients. Radiology, 2020. 294: 698. https://www.ncbi.nlm.nih.gov/pubmed/31961239
+
+468.Shapiro, D.D., et al. Comparing Outcomes for Patients with Clinical T1b Renal Cell Carcinoma Treated With Either Percutaneous Microwave Ablation or Surgery. Urology, 2020. 135: 88. https://www.ncbi.nlm.nih.gov/pubmed/31585198
+
+469.Zhou, W., et al. Radiofrequency Ablation, Cryoablation, and Microwave Ablation for T1a Renal Cell Carcinoma: A Comparative Evaluation of Therapeutic and Renal Function Outcomes. J Vasc Interv Radiol, 2019. 30: 1035. https://www.ncbi.nlm.nih.gov/pubmed/30956075
+
+470.Aarts, B.M., et al. Safety and efficacy of RFA versus MWA for T1a renal cell carcinoma: a propensity score analysis. Eur Radiol, 2023. 33: 1040. https://www.ncbi.nlm.nih.gov/pubmed/36066733
+
+471.Abu-Ghanem, Y., et al. Limitations of Available Studies Prevent Reliable Comparison Between Tumour Ablation and Partial Nephrectomy for Patients with Localised Renal Masses: A Systematic Review from the European Association of Urology Renal Cell Cancer Guideline Panel. Eur Urol Oncol, 2020. 3: 433. https://www.ncbi.nlm.nih.gov/pubmed/32245655
+
+472.Huang, R.S., et al. Comparative efficacy and safety of ablative therapies in the management of primary localised renal cell carcinoma: a systematic review and meta-analysis. Lancet Oncol, 2025. 26: 387. https://www.ncbi.nlm.nih.gov/pubmed/39922208
+
+473.Chan, V.W., et al. Meta-analysis on SBRT and ablation for localised RCC. Lancet Oncol, 2025. 26: e235. https://www.ncbi.nlm.nih.gov/pubmed/40318650
+
+474.Guazzoni, G., et al. Oncologic results of laparoscopic renal cryoablation for clinical T1a tumors: 8 years of experience in a single institution. Urology, 2010. 76: 624. https://www.ncbi.nlm.nih.gov/pubmed/20579705
+
+475.Larcher, A., et al. Long-term oncologic outcomes of laparoscopic renal cryoablation as primary treatment for small renal masses. Urol Oncol, 2015. 33: 22 e1. https://www.ncbi.nlm.nih.gov/pubmed/25301741
+
+476.Thompson, R.H., et al. Comparison of partial nephrectomy and percutaneous ablation for cT1 renal masses. Eur Urol, 2015. 67: 252. https://www.ncbi.nlm.nih.gov/pubmed/25108580
+
+477.Haber, G.P., et al. Tumour in solitary kidney: laparoscopic partial nephrectomy vs laparoscopic cryoablation. BJU Int, 2012. 109: 118. https://www.ncbi.nlm.nih.gov/pubmed/21895929
+
+478.Turna, B., et al. Minimally invasive nephron sparing management for renal tumors in solitary kidneys. J Urol, 2009. 182: 2150. https://www.ncbi.nlm.nih.gov/pubmed/19758655
+
+479.Cazalas, G., et al. A multicenter comparative matched-pair analysis of percutaneous tumor ablation and robotic-assisted partial nephrectomy of T1b renal cell carcinoma (AblatT1b study-UroCCR 80). Eur Radiol, 2023. 33: 6513. https://www.ncbi.nlm.nih.gov/pubmed/37004570
+
+480.Attawettayanon, W., et al. Thermal Ablation Versus Partial Nephrectomy for cT1 Renal Mass in a Solitary Kidney: A Matched Cohort Comparative Analysis. Ann Surg Oncol, 2024. 31: 2133. https://www.ncbi.nlm.nih.gov/pubmed/38071719
+
+481.Junker, T., et al. Partial Nephrectomy versus Percutaneous Cryoablation of Small Renal Cell Carcinomas: A Comparison of Adverse Events in a Prospective Multicenter Cohort Study. J Vasc Interv Radiol, 2022. 33: 1375. https://www.ncbi.nlm.nih.gov/pubmed/35842025
+
+482.Neves, J.B., et al. Nephron Sparing Treatment (NEST) for Small Renal Masses: A Feasibility Cohort-embedded Randomised Controlled Trial Comparing Percutaneous Cryoablation and Robot-assisted Partial Nephrectomy. Eur Urol, 2024. 85: 333. https://www.ncbi.nlm.nih.gov/pubmed/37684178
+
+483.Correa, R.J.M., et al. The Emerging Role of Stereotactic Ablative Radiotherapy for Primary Renal Cell Carcinoma: A Systematic Review and Meta-Analysis. Eur Urol Focus, 2019. 5: 958. https://www.ncbi.nlm.nih.gov/pubmed/31248849
+
+484.Ali, M., et al. The Role of Stereotactic Ablative Body Radiotherapy in Renal Cell Carcinoma. Eur Urol, 2022. 82: 613. https://www.ncbi.nlm.nih.gov/pubmed/35843777
+
+485.Suleja, A., et al. Stereotactic Body Radiotherapy (SBRT) for the Treatment of Primary Localized Renal Cell Carcinoma: A Systematic Review and Meta-Analysis. Cancers (Basel), 2024. 16: 3276. https://www.ncbi.nlm.nih.gov/pubmed/39409897
+
+486.Sundahl, N., et al. Stereotactic Body Radiation Therapy Alone or in Combination with Immunotherapy in Kidney Cancer: A Systematic Review. Eur Urol, 2025. 88: 142. https://www.ncbi.nlm.nih.gov/pubmed/40221282
+
+487.Siva, S., et al. Stereotactic body radiotherapy for primary renal cell carcinoma: a systematic review and practice guideline from the International Society of Stereotactic Radiosurgery (ISRS). Lancet Oncol, 2024. 25: e18. https://www.ncbi.nlm.nih.gov/pubmed/38181809
+
+488.Siva, S., et al. Stereotactic Ablative Radiotherapy for >/=T1b Primary Renal Cell Carcinoma: A Report From the International Radiosurgery Oncology Consortium for Kidney (IROCK). Int J Radiat Oncol Biol Phys, 2020. 108: 941. https://www.ncbi.nlm.nih.gov/pubmed/32562838
+
+489.Tetar, S.U., et al. The Role of Daily Adaptive Stereotactic MR-Guided Radiotherapy for Renal Cell Cancer. Cancers (Basel), 2020. 12. https://www.ncbi.nlm.nih.gov/pubmed/32992844
+
+490.Grubb, W.R., et al. Final results of a dose escalation protocol of stereotactic body radiotherapy for poor surgical candidates with localized renal cell carcinoma. Radiother Oncol, 2021. 155: 138. https://www.ncbi.nlm.nih.gov/pubmed/33214131
+
+491.Margulis, V., et al. Neoadjuvant SABR for Renal Cell Carcinoma Inferior Vena Cava Tumor Thrombus-Safety Lead-in Results of a Phase 2 Trial. Int J Radiat Oncol Biol Phys, 2021. 110: 1135. https://www.ncbi.nlm.nih.gov/pubmed/33549705
+
+492.Swaminath, A., et al. Patient-reported Quality of Life following Stereotactic Body Radiation Therapy for Primary Kidney Cancer - Results from a Prospective Cohort Study. Clin Oncol (R Coll Radiol), 2021. 33: 468. https://www.ncbi.nlm.nih.gov/pubmed/33775496
+
+493.Grelier, L., et al. Stereotactic Body Radiotherapy for Frail Patients with Primary Renal Cell Carcinoma: Preliminary Results after 4 Years of Experience. Cancers (Basel), 2021. 13. https://www.ncbi.nlm.nih.gov/pubmed/34201451
+
+494.Glicksman, R.M., et al. Stereotactic Body Radiotherapy for Renal Cell Carcinoma: Oncological and Renal Function Outcomes. Clin Oncol (R Coll Radiol), 2023. 35: 20. https://www.ncbi.nlm.nih.gov/pubmed/35948465
+
+495.Hannan, R., et al. Phase 2 Trial of Stereotactic Ablative Radiotherapy for Patients with Primary Renal Cancer. Eur Urol, 2023. 84: 275. https://www.ncbi.nlm.nih.gov/pubmed/36898872
+
+496.Siva, S., et al. Stereotactic ablative body radiotherapy for primary kidney cancer (TROG 15.03 FASTRACK II): a non-randomised phase 2 trial. Lancet Oncol, 2024. 25: 308. https://www.ncbi.nlm.nih.gov/pubmed/38423047
+
+497.Gaudreault, M., et al. Dose-Effect Relationship of Kidney Function After SABR for Primary Renal Cell Carcinoma: TROG 15.03 FASTRACK II. Int J Radiat Oncol Biol Phys, 2024. 120: 648. https://www.ncbi.nlm.nih.gov/pubmed/38679212
+
+498.Bhindi, B., et al. The role of lymph node dissection in the management of renal cell carcinoma: a systematic review and meta-analysis. BJU Int, 2018. 121: 684. https://www.ncbi.nlm.nih.gov/pubmed/29319926
+
+499.Luo, X., et al. Influence of lymph node dissection in patients undergoing radical nephrectomy for non-metastatic renal cell carcinoma: a systematic review and meta-analysis. Eur Rev Med Pharmacol Sci, 2019. 23: 6079. https://www.ncbi.nlm.nih.gov/pubmed/31364109
+
+500.Capitanio, U., et al. When to perform lymph node dissection in patients with renal cell carcinoma: a novel approach to the preoperative assessment of risk of lymph node invasion at surgery and of lymph node progression during follow-up. BJU Int, 2013. 112: E59. https://www.ncbi.nlm.nih.gov/pubmed/23795799
+
+501.Tsui, K.H., et al. Prognostic indicators for renal cell carcinoma: a multivariate analysis of 643 patients using the revised 1997 TNM staging criteria. J Urol, 2000. 163: 1090. https://www.ncbi.nlm.nih.gov/pubmed/10737472
+
+502.Gershman, B., et al. Renal Cell Carcinoma with Isolated Lymph Node Involvement: Long-term Natural History and Predictors of Oncologic Outcomes Following Surgical Resection. Eur Urol, 2017. 72: 300. https://www.ncbi.nlm.nih.gov/pubmed/28094055
+
+503.Haferkamp, A., et al. Renal cell carcinoma with tumor thrombus extension into the vena cava: prospective long-term followup. J Urol, 2007. 177: 1703. https://www.ncbi.nlm.nih.gov/pubmed/17437789
+
+504.Skinner, D.G., et al. Vena caval involvement by renal cell carcinoma. Surgical resection provides meaningful long-term survival. Ann Surg, 1989. 210: 387. https://www.ncbi.nlm.nih.gov/pubmed/2774709
+
+505.Klatte, T., et al. Prognostic factors for renal cell carcinoma with tumor thrombus extension. J Urol, 2007. 178: 1189. https://www.ncbi.nlm.nih.gov/pubmed/17698087
+
+506.Ciancio, G., et al. Long-term survival in patients undergoing radical nephrectomy and inferior vena cava thrombectomy: single-center experience. Eur Urol, 2010. 57: 667. https://www.ncbi.nlm.nih.gov/pubmed/19560258
+
+507.Chen, Z., et al. Outcomes of renal cell carcinoma with associated venous tumor thrombus: experience from a large cohort and short time span in a single center. BMC Cancer, 2021. 21: 766. https://www.ncbi.nlm.nih.gov/pubmed/34215223
+
+508.Al-Rusan, O.M., et al. A Contemporary Clinicopathologic Analysis of Patients With Renal Cell Carcinoma and Vena Cava Involvement. Int J Surg Pathol, 2024. 32: 279. https://www.ncbi.nlm.nih.gov/pubmed/37306114
+
+509.Neves, R.J., et al. Surgical treatment of renal cancer with vena cava extension. Br J Urol, 1987. 59: 390. https://www.ncbi.nlm.nih.gov/pubmed/3594097
+
+510.Kirkali, Z., et al. A critical analysis of surgery for kidney cancer with vena cava invasion. Eur Urol, 2007. 52: 658. https://www.ncbi.nlm.nih.gov/pubmed/17548146
+
+511.Moinzadeh, A., et al. Prognostic significance of tumor thrombus level in patients with renal cell carcinoma and venous tumor thrombus extension. Is all T3b the same? J Urol, 2004. 171: 598. https://www.ncbi.nlm.nih.gov/pubmed/14713768
+
+512.Bissada, N.K., et al. Long-term experience with management of renal cell carcinoma involving the inferior vena cava. Urology, 2003. 61: 89. https://www.ncbi.nlm.nih.gov/pubmed/12559273
+
+513.Woodruff, D.Y., et al. The perioperative management of an inferior vena caval tumor thrombus in patients with renal cell carcinoma. Urol Oncol, 2013. 31: 517. https://www.ncbi.nlm.nih.gov/pubmed/21514183
+
+514.Hao, X., et al. Development and validation of a comprehensive predictive model for surgical planning in patients with renal cell carcinoma and inferior vena cava tumor thrombus. Eur J Surg Oncol, 2025. 51: 109381. https://www.ncbi.nlm.nih.gov/pubmed/39581156
+
+515.Psutka, S.P., et al. Management of inferior vena cava tumor thrombus in locally advanced renal cell carcinoma. Ther Adv Urol, 2015. 7: 216. https://www.ncbi.nlm.nih.gov/pubmed/26445601
+
+516.Abel, E.J., et al. Positive vascular wall margins have minimal impact on cancer outcomes in patients with non-metastatic renal cell carcinoma (RCC) with tumour thrombus. BJU Int, 2014. 114: 667. https://www.ncbi.nlm.nih.gov/pubmed/24128265
+
+517.Tabbara, M.M., et al. Current Approaches in Surgical and Immunotherapy-Based Management of Renal Cell Carcinoma with Tumor Thrombus. Biomedicines, 2023. 11. https://www.ncbi.nlm.nih.gov/pubmed/36672712
+
+518.Klatte, T., et al. Tyrosine kinase inhibitor treatment for renal cell carcinoma with inferior vena cava tumour thrombus: a quantitative summary. BJU Int, 2023. 131: 566. https://www.ncbi.nlm.nih.gov/pubmed/36638048
+
+519.Wang, K., et al. T.H.R.O.B.V.S. Score - A Comprehensive Model to Predict the Surgical Complexity of Renal Cell Carcinoma With Tumor Thrombus. Front Oncol, 2022. 12: 900550. https://www.ncbi.nlm.nih.gov/pubmed/35814463
+
+520.Liu, Z., et al. Renal cell carcinoma with tumor thrombus growing against the direction of venous return: an indicator of complicated surgery and poor prognosis. BMC Surg, 2021. 21: 443. https://www.ncbi.nlm.nih.gov/pubmed/34963464
+
+521.Wagner, B., et al. Prognostic value of renal vein and inferior vena cava involvement in renal cell carcinoma. Eur Urol, 2009. 55: 452. https://www.ncbi.nlm.nih.gov/pubmed/18692951
+
+522.Scilipoti, P., et al. Long-term functional outcomes in patients undergoing radical nephrectomy for renal cell carcinoma and tumor thrombus. World J Urol, 2024. 42: 264. https://www.ncbi.nlm.nih.gov/pubmed/38676733
+
+523.Lardas, M., et al. Systematic Review of Surgical Management of Nonmetastatic Renal Cell Carcinoma with Vena Caval Thrombus. Eur Urol, 2016. 70: 265. https://www.ncbi.nlm.nih.gov/pubmed/26707869
+
+524.Shi, T., et al. Robot-assisted Cavectomy Versus Thrombectomy for Level II Inferior Vena Cava Thrombus: Decision-making Scheme and Multi-institutional Analysis. Eur Urol, 2020. 78: 592. https://www.ncbi.nlm.nih.gov/pubmed/32305170
+
+525.Baboudjian, M., et al. Predictive factors of recurrence after surgery in patients with non-metastatic renal cell carcinoma with venous tumor thrombus (UroCCR-56 Study). World J Urol, 2023. 41: 295. https://www.ncbi.nlm.nih.gov/pubmed/33765164
+
+526.Garg, H., et al. A Decade of Robotic-Assisted Radical Nephrectomy with Inferior Vena Cava Thrombectomy: A Systematic Review and Meta-Analysis of Perioperative Outcomes. J Urol, 2022. 208: 542. https://www.ncbi.nlm.nih.gov/pubmed/35762219
+
+527.Zhang, Y., et al. Comparative analysis of surgical and oncologic outcomes of robotic, laparoscopic and open radical nephrectomy with venous thrombectomy: a propensity-matched cohort study. Int J Clin Oncol, 2023. 28: 145. https://www.ncbi.nlm.nih.gov/pubmed/36380158
+
+528.Ljungberg, B., et al. European Association of Urology Guidelines on Renal Cell Carcinoma: The 2022 Update. Eur Urol, 2022. 82: 399. https://www.ncbi.nlm.nih.gov/pubmed/35346519
+
+529.Lamb, G.W., et al. Management of renal masses in patients medically unsuitable for nephrectomy--natural history, complications, and outcome. Urology, 2004. 64: 909. https://www.ncbi.nlm.nih.gov/pubmed/15533476
+
+530.Hallscheidt, P., et al. [Preoperative and palliative embolization of renal cell carcinomas: follow-up of 49 patients]. Rofo, 2006. 178: 391. https://www.ncbi.nlm.nih.gov/pubmed/16612730
+
+531.Wright, B., et al. Trans-arterial embolization of renal cell carcinoma: a systematic review and meta-analysis. Abdom Radiol (NY), 2022. 47: 2238. https://www.ncbi.nlm.nih.gov/pubmed/35380246
+
+532.Stewart, G.D., et al. A Phase II study of neoadjuvant axitinib for reducing the extent of venous tumour thrombus in clear cell renal cell cancer with venous invasion (NAXIVA). Br J Cancer, 2022. 127: 1051. https://www.ncbi.nlm.nih.gov/pubmed/35739300
+
+533.Bex, A., et al. A Phase II, single-arm trial of neoadjuvant axitinib plus avelumab in patients with localized renal cell carcinoma who are at high risk of relapse after nephrectomy (NEOAVAX). Future Oncol, 2019. 15: 2203. https://www.ncbi.nlm.nih.gov/pubmed/31023100
+
+534.Hakimi, K., et al. PADRES: a phase 2 clinical trial of neoadjuvant axitinib for complex partial nephrectomy. BJU Int, 2024. 133: 425. https://www.ncbi.nlm.nih.gov/pubmed/37916303
+
+535.Gorin, M.A., et al. Neoadjuvant Nivolumab in Patients with High-risk Nonmetastatic Renal Cell Carcinoma. Eur Urol Oncol, 2022. 5: 113. https://www.ncbi.nlm.nih.gov/pubmed/34049847
+
+536.Rodriguez-Fernandez, I.A., et al. Adjuvant Radiation Therapy After Radical Nephrectomy in Patients with Localized Renal Cell Carcinoma: A Systematic Review and Meta-analysis. Eur Urol Oncol, 2019. 2: 448. https://www.ncbi.nlm.nih.gov/pubmed/31277782
+
+537.Galligioni, E., et al. Adjuvant immunotherapy treatment of renal carcinoma patients with autologous tumor cells and bacillus Calmette-Guerin: five-year results of a prospective randomized study. Cancer, 1996. 77: 2560. https://www.ncbi.nlm.nih.gov/pubmed/8640706
+
+538.Figlin, R.A., et al. Multicenter, randomized, phase III trial of CD8(+) tumor-infiltrating lymphocytes in combination with recombinant interleukin-2 in metastatic renal cell carcinoma. J Clin Oncol, 1999. 17: 2521. https://www.ncbi.nlm.nih.gov/pubmed/10561318
+
+539.Clark, J.I., et al. Adjuvant high-dose bolus interleukin-2 for patients with high-risk renal cell carcinoma: a cytokine working group randomized trial. J Clin Oncol, 2003. 21: 3133. https://www.ncbi.nlm.nih.gov/pubmed/12810695
+
+540.Atzpodien, J., et al. Adjuvant treatment with interleukin-2- and interferon-alpha2a-based chemoimmunotherapy in renal cell carcinoma post tumour nephrectomy: results of a prospectively randomised trial of the German Cooperative Renal Carcinoma Chemoimmunotherapy Group (DGCIN). Br J Cancer, 2005. 92: 843. https://www.ncbi.nlm.nih.gov/pubmed/15756254
+
+541.Jocham, D., et al. Adjuvant autologous renal tumour cell vaccine and risk of tumour progression in patients with renal-cell carcinoma after radical nephrectomy: phase III, randomised controlled trial. Lancet, 2004. 363: 594. https://www.ncbi.nlm.nih.gov/pubmed/14987883
+
+542.Chamie, K., et al. Adjuvant Weekly Girentuximab Following Nephrectomy for High-Risk Renal Cell Carcinoma: The ARISER Randomized Clinical Trial. JAMA Oncol, 2017. 3: 913. https://www.ncbi.nlm.nih.gov/pubmed/27787547
+
+543.Haas, N.B., et al. Adjuvant Treatment for High-Risk Clear Cell Renal Cancer: Updated Results of a High-Risk Subset of the ASSURE Randomized Trial. JAMA Oncol, 2017. 3: 1249. https://www.ncbi.nlm.nih.gov/pubmed/28278333
+
+544.Motzer, R.J., et al. Randomized Phase III Trial of Adjuvant Pazopanib Versus Placebo After Nephrectomy in Patients With Localized or Locally Advanced Renal Cell Carcinoma. J Clin Oncol, 2017. 35: 3916. https://www.ncbi.nlm.nih.gov/pubmed/28902533
+
+545.Motzer, R.J., et al. Adjuvant Pazopanib Versus Placebo After Nephrectomy in Patients With Localized or Locally Advanced Renal Cell Carcinoma: Final Overall Survival Analysis of the Phase 3 PROTECT Trial. Eur Urol, 2021. 79: 334. https://www.ncbi.nlm.nih.gov/pubmed/33461782
+
+546.Harshman, L.C., et al. Evaluation of disease-free survival as an intermediate metric of overall survival in patients with localized renal cell carcinoma: A trial-level meta-analysis. Cancer, 2018. 124: 925. https://www.ncbi.nlm.nih.gov/pubmed/29266178
+
+547.Lenis, A.T., et al. Adjuvant Therapy for High Risk Localized Kidney Cancer: Emerging Evidence and Future Clinical Trials. J Urol, 2018. 199: 43. https://www.ncbi.nlm.nih.gov/pubmed/28479237
+
+548.Gross-Goupil, M., et al. Axitinib versus placebo as an adjuvant treatment of renal cell carcinoma: results from the phase III, randomized ATLAS trial. Ann Oncol, 2018. 29: 2371. https://www.ncbi.nlm.nih.gov/pubmed/30346481
+
+549.Motzer, R.J., et al. Adjuvant Sunitinib for High-risk Renal Cell Carcinoma After Nephrectomy: Subgroup Analyses and Updated Overall Survival Results. Eur Urol, 2018. 73: 62. https://www.ncbi.nlm.nih.gov/pubmed/28967554
+
+550.Ryan, C.W., et al. Adjuvant everolimus after surgery for renal cell carcinoma (EVEREST): a double-blind, placebo-controlled, randomised, phase 3 trial. Lancet, 2023. 402: 1043. https://www.ncbi.nlm.nih.gov/pubmed/37524096
+
+551.Gulati, S., et al. Adjuvant Everolimus in Non-Clear Cell Renal Cell Carcinoma: A Secondary Analysis of a Randomized Clinical Trial. JAMA Netw Open, 2024. 7: e2425288. https://www.ncbi.nlm.nih.gov/pubmed/39106067
+
+552.Powles, T., et al. Pembrolizumab versus placebo as post-nephrectomy adjuvant therapy for clear cell renal cell carcinoma (KEYNOTE-564): 30-month follow-up analysis of a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol, 2022. 23: 1133. https://www.ncbi.nlm.nih.gov/pubmed/36055304
+
+553.Choueiri, T.K., et al. Adjuvant Pembrolizumab after Nephrectomy in Renal-Cell Carcinoma. N Engl J Med, 2021. 385: 683. https://www.ncbi.nlm.nih.gov/pubmed/34407342
+
+554.Choueiri, T.K., et al. Overall Survival with Adjuvant Pembrolizumab in Renal-Cell Carcinoma. N Engl J Med, 2024. 390: 1359. https://www.ncbi.nlm.nih.gov/pubmed/38631003
+
+555.Haas, N.B., et al. Five-year follow-up results from the phase 3 KEYNOTE-564 study of adjuvant pembrolizumab (pembro) for the treatment of clear cell renal cell carcinoma (ccRCC). J Clin Oncol, 2025. 43: 4514. https://doi.org/10.1200/JCO.2025.43.16_suppl.4514
+
+556.Pal, S.K., et al. Adjuvant atezolizumab versus placebo for patients with renal cell carcinoma at increased risk of recurrence following resection (IMmotion010): a multicentre, randomised, double-blind, phase 3 trial. Lancet, 2022. 400: 1103. https://www.ncbi.nlm.nih.gov/pubmed/36099926
+
+557.Motzer, R.J., et al. Adjuvant nivolumab plus ipilimumab versus placebo for localised renal cell carcinoma after nephrectomy (CheckMate 914): a double-blind, randomised, phase 3 trial. Lancet, 2023. 401: 821. https://www.ncbi.nlm.nih.gov/pubmed/36774933
+
+558.Motzer, R.J., et al. Adjuvant nivolumab monotherapy vs placebo for localized renal cell carcinoma at high risk of relapse after nephrectomy: Results from Part B of the randomized, phase 3 CheckMate 914 trial. J Clin Oncol, 2024. 42: LBA358. https://pubmed.ncbi.nlm.nih.gov/39303200/
+
+559.Motzer, R.J., et al. Adjuvant Nivolumab for Localized Renal Cell Carcinoma at High Risk of Recurrence After Nephrectomy: Part B of the Randomized, Placebo-Controlled, Phase III CheckMate 914 Trial. J Clin Oncol, 2025. 43: 189. https://www.ncbi.nlm.nih.gov/pubmed/39303200
+
+560.Allaf, M.E., et al. Perioperative nivolumab versus observation in patients with renal cell carcinoma undergoing nephrectomy (PROSPER ECOG-ACRIN EA8143): an open-label, randomised, phase 3 study. Lancet Oncol, 2024. 25: 1038. https://www.ncbi.nlm.nih.gov/pubmed/38942046
+
+561.Bedke, J., et al. 2021 Updated European Association of Urology Guidelines on the Use of Adjuvant Pembrolizumab for Renal Cell Carcinoma. Eur Urol, 2022. 81: 134. https://www.ncbi.nlm.nih.gov/pubmed/34920897
+
+562.de Bruijn, R., et al. Deferred Cytoreductive Nephrectomy Following Presurgical Vascular Endothelial Growth Factor Receptor-targeted Therapy in Patients with Primary Metastatic Clear Cell Renal Cell Carcinoma: A Pooled Analysis of Prospective Trial Data. Eur Urol Oncol, 2020. 3: 168. https://www.ncbi.nlm.nih.gov/pubmed/31956080
+
+563.Bedke, J., et al. The 2022 Updated European Association of Urology Guidelines on the Use of Adjuvant Immune Checkpoint Inhibitor Therapy for Renal Cell Carcinoma. Eur Urol, 2023. 83: 10. https://www.ncbi.nlm.nih.gov/pubmed/36511268
+
+564.Pal, S.K., et al. Atezolizumab plus cabozantinib versus cabozantinib monotherapy for patients with renal cell carcinoma after progression with previous immune checkpoint inhibitor treatment (CONTACT-03): a multicentre, randomised, open-label, phase 3 trial. Lancet, 2023. 402: 185. https://www.ncbi.nlm.nih.gov/pubmed/37290461
+
+565.Choueiri, T.K., et al. Tivozanib plus nivolumab versus tivozanib monotherapy in patients with renal cell carcinoma following an immune checkpoint inhibitor: results of the phase 3 TiNivo-2 Study. Lancet, 2024. 404: 1309. https://www.ncbi.nlm.nih.gov/pubmed/39284329
+
+566.Mejean, A., et al. Sunitinib Alone or after Nephrectomy in Metastatic Renal-Cell Carcinoma. N Engl J Med, 2018. 379: 417. https://www.ncbi.nlm.nih.gov/pubmed/29860937
+
+567.Bhindi, B., et al. Systematic Review of the Role of Cytoreductive Nephrectomy in the Targeted Therapy Era and Beyond: An Individualized Approach to Metastatic Renal Cell Carcinoma. Eur Urol, 2019. 75: 111. https://www.ncbi.nlm.nih.gov/pubmed/30467042
+
+568.Bex, A., et al. Comparison of Immediate vs Deferred Cytoreductive Nephrectomy in Patients With Synchronous Metastatic Renal Cell Carcinoma Receiving Sunitinib: The SURTIME Randomized Clinical Trial. JAMA Oncol, 2019. 5: 164. https://www.ncbi.nlm.nih.gov/pubmed/30543350
+
+569.Powles, T., et al. The outcome of patients treated with sunitinib prior to planned nephrectomy in metastatic clear cell renal cancer. Eur Urol, 2011. 60: 448. https://www.ncbi.nlm.nih.gov/pubmed/21612860
+
+570.Heng, D.Y., et al. Cytoreductive nephrectomy in patients with synchronous metastases from renal cell carcinoma: results from the International Metastatic Renal Cell Carcinoma Database Consortium. Eur Urol, 2014. 66: 704. https://www.ncbi.nlm.nih.gov/pubmed/24931622
+
+571.Ljungberg, B., et al. Survival advantage of upfront cytoreductive nephrectomy in patients with primary metastatic renal cell carcinoma compared with systemic and palliative treatments in a real-world setting. Scand J Urol, 2020. 54: 487. https://www.ncbi.nlm.nih.gov/pubmed/32897123
+
+572.Motzer, R.J., et al. Nivolumab plus Ipilimumab versus Sunitinib in Advanced Renal-Cell Carcinoma. N Engl J Med, 2018. 378: 1277. https://www.ncbi.nlm.nih.gov/pubmed/29562145
+
+573.Choueiri, T.K., et al. Nivolumab plus Cabozantinib versus Sunitinib for Advanced Renal-Cell Carcinoma. N Engl J Med, 2021. 384: 829. https://www.ncbi.nlm.nih.gov/pubmed/33657295
+
+574.Motzer, R.J., et al. Avelumab plus Axitinib versus Sunitinib for Advanced Renal-Cell Carcinoma. N Engl J Med, 2019. 380: 1103. https://www.ncbi.nlm.nih.gov/pubmed/30779531
+
+575.Powles, T., et al. Pembrolizumab plus axitinib versus sunitinib monotherapy as first-line treatment of advanced renal cell carcinoma (KEYNOTE-426): extended follow-up from a randomised, open-label, phase 3 trial. Lancet Oncol, 2020. 21: 1563. https://www.ncbi.nlm.nih.gov/pubmed/33284113
+
+576.Motzer, R., et al. Lenvatinib plus Pembrolizumab or Everolimus for Advanced Renal Cell Carcinoma. N Engl J Med, 2021. 384: 1289. https://www.ncbi.nlm.nih.gov/pubmed/33616314
+
+577.Pignot, G., et al. Oncological Outcomes of Delayed Nephrectomy After Optimal Response to Immune Checkpoint Inhibitors for Metastatic Renal Cell Carcinoma. Eur Urol Oncol, 2022. 5: 577. https://www.ncbi.nlm.nih.gov/pubmed/35853818
+
+578.Yip, W., et al. Perioperative Complications and Oncologic Outcomes of Nephrectomy Following Immune Checkpoint Inhibitor Therapy: A Multicenter Collaborative Study. Eur Urol Oncol, 2023. 6: 604. https://www.ncbi.nlm.nih.gov/pubmed/37005212
+
+579.Dragomir, A., et al. Outcomes of Cytoreductive Nephrectomy for Patients with Metastatic Renal Cell Carcinoma: Real World Data from Canadian Centers. Eur Urol Focus, 2022. 8: 1703. https://www.ncbi.nlm.nih.gov/pubmed/34736870
+
+580.Iisager, L., et al. Multicenter randomized trial of deferred cytoreductive nephrectomy in synchronous metastatic renal cell carcinoma receiving checkpoint inhibitors: the NORDIC-SUN-Trial. BMC Cancer, 2024. 24: 260. https://www.ncbi.nlm.nih.gov/pubmed/38402173
+
+581.Albiges, L., et al. Towards a Consensus on the Management of Metastatic Renal Cell Carcinoma: Insights from a European Delphi Study. Eur Urol Oncol, 2025. https://www.ncbi.nlm.nih.gov/pubmed/39924391
+
+582.Marvaso, G., et al. Delphi consensus on stereotactic ablative radiotherapy for oligometastatic and oligoprogressive renal cell carcinoma-a European Society for Radiotherapy and Oncology study endorsed by the European Association of Urology. Lancet Oncol, 2024. 25: e193. https://www.ncbi.nlm.nih.gov/pubmed/38697165
+
+583.Heng, D.Y., et al. Prognostic factors for overall survival in patients with metastatic renal cell carcinoma treated with vascular endothelial growth factor-targeted agents: results from a large, multicenter study. J Clin Oncol, 2009. 27: 5794. https://www.ncbi.nlm.nih.gov/pubmed/19826129
+
+584.Harrison, M.R., et al. Active surveillance of metastatic renal cell carcinoma: Results from a prospective observational study (MaRCC). Cancer, 2021. 127: 2204. https://www.ncbi.nlm.nih.gov/pubmed/33765337
+
+585.Rini, B.I., et al. Active surveillance in metastatic renal-cell carcinoma: a prospective, phase 2 trial. Lancet Oncol, 2016. 17: 1317. https://www.ncbi.nlm.nih.gov/pubmed/27498080
+
+586.Dabestani, S., et al. Local treatments for metastases of renal cell carcinoma: a systematic review. Lancet Oncol, 2014. 15: e549. https://www.ncbi.nlm.nih.gov/pubmed/25439697
+
+587.Ljungberg, B., et al. EAU guidelines on renal cell carcinoma: 2014 update. Eur Urol, 2015. 67: 913. https://www.ncbi.nlm.nih.gov/pubmed/25616710
+
+588.Ouzaid, I., et al. Surgical Metastasectomy in Renal Cell Carcinoma: A Systematic Review. Eur Urol Oncol, 2019. 2: 141. https://www.ncbi.nlm.nih.gov/pubmed/31017089
+
+589.Fung, K.F.K., et al. Beyond the Scalpel: the Role of Image-Guided Thermal Ablation in Management of Metastatic Renal Cell Carcinoma in the Era of Immunotherapy. Cardiovasc Intervent Radiol, 2025. 48: 1104. https://www.ncbi.nlm.nih.gov/pubmed/40555768
+
+590.Brinkmann, O.A., et al. The Role of Residual Tumor Resection in Patients with Metastatic Renal Cell Carcinoma and Partial Remission following Immunochemotherapy. Eur Urol Suppl, 2007. 6: 641. https://www.sciencedirect.com/science/article/pii/S1569905607000978
+
+591.Alt, A.L., et al. Survival after complete surgical resection of multiple metastases from renal cell carcinoma. Cancer, 2011. 117: 2873. https://www.ncbi.nlm.nih.gov/pubmed/21692048
+
+592.Kwak, C., et al. Metastasectomy without systemic therapy in metastatic renal cell carcinoma: comparison with conservative treatment. Urol Int, 2007. 79: 145. https://www.ncbi.nlm.nih.gov/pubmed/17851285
+
+593.Petralia, G., et al. 450 Complete Metastasectomy Is an Independent Predictor of Cancer-Specific Survival in Patients with Clinically Metastatic Renal Cell Carcinoma. Eur Urol Suppl, 2010. 9: 162. https://doi.org/10.1016/S1569-9056(10)60446-0
+
+594.Russo, P., et al. Cytoreductive nephrectomy and nephrectomy/complete metastasectomy for metastatic renal cancer. ScientificWorldJournal, 2007. 7: 768. https://www.ncbi.nlm.nih.gov/pubmed/17619759
+
+595.Staehler, M.D., et al. Liver resection for metastatic disease prolongs survival in renal cell carcinoma: 12-year results from a retrospective comparative analysis. World J Urol, 2010. 28: 543. https://www.ncbi.nlm.nih.gov/pubmed/20440505
+
+596.Eggener, S.E., et al. Risk score and metastasectomy independently impact prognosis of patients with recurrent renal cell carcinoma. J Urol, 2008. 180: 873. https://www.ncbi.nlm.nih.gov/pubmed/18635225
+
+597.Lee, S.E., et al. Metastatectomy prior to immunochemotherapy for metastatic renal cell carcinoma. Urol Int, 2006. 76: 256. https://www.ncbi.nlm.nih.gov/pubmed/16601390
+
+598.Tang, C., et al. Metastasis-directed radiotherapy without systemic therapy for oligometastatic clear-cell renal-cell carcinoma: primary efficacy analysis of a single-arm, single-centre, phase 2 trial. Lancet Oncol, 2025. 26: 1289. https://www.ncbi.nlm.nih.gov/pubmed/40915303
+
+599.Monda, S., et al. Post-Metastasectomy Adjuvant Therapy in Patients with Renal Cell Carcinoma: A Systematic Review. Kidney Cancer, 2024. 8: 115. https://www.ncbi.nlm.nih.gov/pubmed/39263257
+
+600.Bedke, J., et al. The 2021 Updated European Association of Urology Guidelines on Renal Cell Carcinoma: Immune Checkpoint Inhibitor-based Combination Therapies for Treatment-naive Metastatic Clear-cell Renal Cell Carcinoma Are Standard of Care. Eur Urol, 2021. 80: 393. https://www.ncbi.nlm.nih.gov/pubmed/34074559
+
+601.Patel, P.H., et al. Targeting von Hippel-Lindau pathway in renal cell carcinoma. Clin Cancer Res, 2006. 12: 7215. https://www.ncbi.nlm.nih.gov/pubmed/17189392
+
+602.Yang, J.C., et al. A randomized trial of bevacizumab, an anti-vascular endothelial growth factor antibody, for metastatic renal cancer. N Engl J Med, 2003. 349: 427. https://www.ncbi.nlm.nih.gov/pubmed/12890841
+
+603.Patard, J.J., et al. Understanding the importance of smart drugs in renal cell carcinoma. Eur Urol, 2006. 49: 633. https://www.ncbi.nlm.nih.gov/pubmed/16481093
+
+604.Motzer, R.J., et al. Overall survival and updated results for sunitinib compared with interferon alfa in patients with metastatic renal cell carcinoma. J Clin Oncol, 2009. 27: 3584. https://www.ncbi.nlm.nih.gov/pubmed/19487381
+
+605.Motzer, R.J., et al. Randomized phase II trial of sunitinib on an intermittent versus continuous dosing schedule as first-line therapy for advanced renal cell carcinoma. J Clin Oncol, 2012. 30: 1371. https://www.ncbi.nlm.nih.gov/pubmed/22430274
+
+606.Bracarda, S., et al. Sunitinib administered on 2/1 schedule in patients with metastatic renal cell carcinoma: the RAINBOW analysis. Ann Oncol, 2016. 27: 366. https://www.ncbi.nlm.nih.gov/pubmed/26685011
+
+607.Jonasch, E., et al. A randomized phase 2 study of MK-2206 versus everolimus in refractory renal cell carcinoma. Ann Oncol, 2017. 28: 804. https://www.ncbi.nlm.nih.gov/pubmed/28049139
+
+608.Sternberg, C.N., et al. Pazopanib in locally advanced or metastatic renal cell carcinoma: results of a randomized phase III trial. J Clin Oncol, 2010. 28: 1061. https://www.ncbi.nlm.nih.gov/pubmed/20100962
+
+609.Motzer, R.J., et al. Pazopanib versus sunitinib in metastatic renal-cell carcinoma. N Engl J Med, 2013. 369: 722. https://www.ncbi.nlm.nih.gov/pubmed/23964934
+
+610.Escudier, B., et al. Randomized, controlled, double-blind, cross-over trial assessing treatment preference for pazopanib versus sunitinib in patients with metastatic renal cell carcinoma: PISCES Study. J Clin Oncol, 2014. 32: 1412. https://www.ncbi.nlm.nih.gov/pubmed/24687826
+
+611.Rini, B.I., et al. Comparative effectiveness of axitinib versus sorafenib in advanced renal cell carcinoma (AXIS): a randomised phase 3 trial. Lancet, 2011. 378: 1931. https://www.ncbi.nlm.nih.gov/pubmed/22056247
+
+612.Motzer, R.J., et al. Axitinib versus sorafenib as second-line treatment for advanced renal cell carcinoma: overall survival analysis and updated results from a randomised phase 3 trial. Lancet Oncol, 2013. 14: 552. https://www.ncbi.nlm.nih.gov/pubmed/23598172
+
+613.Hutson, T.E., et al. Axitinib versus sorafenib as first-line therapy in patients with metastatic renal-cell carcinoma: a randomised open-label phase 3 trial. Lancet Oncol, 2013. 14: 1287. https://www.ncbi.nlm.nih.gov/pubmed/24206640
+
+614.Choueiri, T.K., et al. Cabozantinib versus Everolimus in Advanced Renal-Cell Carcinoma. N Engl J Med, 2015. 373: 1814. https://www.ncbi.nlm.nih.gov/pubmed/26406150
+
+615.Choueiri, T.K., et al. Cabozantinib versus everolimus in advanced renal cell carcinoma (METEOR): final results from a randomised, open-label, phase 3 trial. Lancet Oncol, 2016. 17: 917. https://www.ncbi.nlm.nih.gov/pubmed/27279544
+
+616.Choueiri, T.K., et al. Cabozantinib Versus Sunitinib As Initial Targeted Therapy for Patients With Metastatic Renal Cell Carcinoma of Poor or Intermediate Risk: The Alliance A031203 CABOSUN Trial. J Clin Oncol, 2017. 35: 591. https://www.ncbi.nlm.nih.gov/pubmed/28199818
+
+617.Choueiri, T.K., et al. Cabozantinib versus sunitinib as initial therapy for metastatic renal cell carcinoma of intermediate or poor risk (Alliance A031203 CABOSUN randomised trial): Progression-free survival by independent review and overall survival update. Eur J Cancer, 2018. 94: 115. https://www.ncbi.nlm.nih.gov/pubmed/29550566
+
+618.Motzer, R.J., et al. Lenvatinib, everolimus, and the combination in patients with metastatic renal cell carcinoma: a randomised, phase 2, open-label, multicentre trial. Lancet Oncol, 2015. 16: 1473. https://www.ncbi.nlm.nih.gov/pubmed/26482279
+
+619.Motzer, R.J., et al. Tivozanib versus sorafenib as initial targeted therapy for patients with metastatic renal cell carcinoma: results from a phase III trial. J Clin Oncol, 2013. 31: 3791. https://www.ncbi.nlm.nih.gov/pubmed/24019545
+
+620.Molina, A.M., et al. Efficacy of tivozanib treatment after sorafenib in patients with advanced renal cell carcinoma: crossover of a phase 3 study. Eur J Cancer, 2018. 94: 87. https://www.ncbi.nlm.nih.gov/pubmed/29547835
+
+621.Escudier, B., et al. Phase III trial of bevacizumab plus interferon alfa-2a in patients with metastatic renal cell carcinoma (AVOREN): final analysis of overall survival. J Clin Oncol, 2010. 28: 2144. https://www.ncbi.nlm.nih.gov/pubmed/20368553
+
+622.Rini, B.I., et al. Bevacizumab plus interferon alfa compared with interferon alfa monotherapy in patients with metastatic renal cell carcinoma: CALGB 90206. J Clin Oncol, 2008. 26: 5422. https://www.ncbi.nlm.nih.gov/pubmed/18936475
+
+623.Rini, B.I., et al. Phase III trial of bevacizumab plus interferon alfa versus interferon alfa monotherapy in patients with metastatic renal cell carcinoma: final results of CALGB 90206. J Clin Oncol, 2010. 28: 2137. https://www.ncbi.nlm.nih.gov/pubmed/20368558
+
+624.Rini, B.I., et al. Atezolizumab plus bevacizumab versus sunitinib in patients with previously untreated metastatic renal cell carcinoma (IMmotion151): a multicentre, open-label, phase 3, randomised controlled trial. Lancet, 2019. 393: 2404. https://www.ncbi.nlm.nih.gov/pubmed/31079938
+
+625.Larkin, J.M., et al. Kinase inhibitors in the treatment of renal cell carcinoma. Crit Rev Oncol Hematol, 2006. 60: 216. https://www.ncbi.nlm.nih.gov/pubmed/16860997
+
+626.Motzer, R.J., et al. Efficacy of everolimus in advanced renal cell carcinoma: a double-blind, randomised, placebo-controlled phase III trial. Lancet, 2008. 372: 449. https://www.ncbi.nlm.nih.gov/pubmed/18653228
+
+627.Jonasch, E., et al. Belzutifan for Renal Cell Carcinoma in von Hippel-Lindau Disease. N Engl J Med, 2021. 385: 2036. https://www.ncbi.nlm.nih.gov/pubmed/34818478
+
+628.Choueiri, T.K., et al. Belzutifan versus Everolimus for Advanced Renal-Cell Carcinoma. N Engl J Med, 2024. 391: 710. https://www.ncbi.nlm.nih.gov/pubmed/39167807
+
+629.Choueiri, T.K., et al. Belzutifan plus cabozantinib for patients with advanced clear cell renal cell carcinoma previously treated with immunotherapy: an open-label, single-arm, phase 2 study. Lancet Oncol, 2023. 24: 553. https://www.ncbi.nlm.nih.gov/pubmed/37011650
+
+630.Brown, J.E., et al. Temporary treatment cessation versus continuation of first-line tyrosine kinase inhibitor in patients with advanced clear cell renal cell carcinoma (STAR): an open-label, non-inferiority, randomised, controlled, phase 2/3 trial. Lancet Oncol, 2023. 24: 213. https://www.ncbi.nlm.nih.gov/pubmed/36796394
+
+631.Ribas, A. Tumor immunotherapy directed at PD-1. N Engl J Med, 2012. 366: 2517. https://www.ncbi.nlm.nih.gov/pubmed/22658126
+
+632.Motzer, R.J., et al. Nivolumab versus Everolimus in Advanced Renal-Cell Carcinoma. N Engl J Med, 2015. 373: 1803. https://www.ncbi.nlm.nih.gov/pubmed/26406148
+
+633.Motzer, R.J., et al. Nivolumab versus everolimus in patients with advanced renal cell carcinoma: Updated results with long-term follow-up of the randomized, open-label, phase 3 CheckMate 025 trial. Cancer, 2020. 126: 4156. https://www.ncbi.nlm.nih.gov/pubmed/32673417
+
+634.McDermott, D.F., et al. Open-Label, Single-Arm Phase II Study of Pembrolizumab Monotherapy as First-Line Therapy in Patients With Advanced Clear Cell Renal Cell Carcinoma. J Clin Oncol, 2021. 39: 1020. https://www.ncbi.nlm.nih.gov/pubmed/33529051
+
+635.Atkins, M.B., et al. Phase II Study of Nivolumab and Salvage Nivolumab/Ipilimumab in Treatment-Naive Patients With Advanced Clear Cell Renal Cell Carcinoma (HCRN GU16-260-Cohort A). J Clin Oncol, 2022. 40: 2913. https://www.ncbi.nlm.nih.gov/pubmed/35442713
+
+636.Choueiri, T.K., et al. FRACTION-RCC: nivolumab plus ipilimumab for advanced renal cell carcinoma after progression on immuno-oncology therapy. J Immunother Cancer, 2022. 10. https://www.ncbi.nlm.nih.gov/pubmed/36328377
+
+637.McKay, R.R., et al. A Pooled Analysis of 3 Phase II Trials of Salvage Nivolumab/Ipilimumab After Nivolumab in Renal Cell Carcinoma. Oncologist, 2024. 29: 324. https://www.ncbi.nlm.nih.gov/pubmed/37950901
+
+638.Atkins, M.B., et al. Treatment-free survival outcomes from the phase II study of nivolumab and salvage nivolumab/ipilimumab in advanced clear cell renal cell carcinoma (HCRN GU16-260-Cohort A). J Immunother Cancer, 2024. 12. https://www.ncbi.nlm.nih.gov/pubmed/38604810
+
+639.Ljungberg, B., et al. European Association of Urology Guidelines on Renal Cell Carcinoma: The 2019 Update. Eur Urol, 2019. 75: 799. https://www.ncbi.nlm.nih.gov/pubmed/30803729
+
+640.Tannir, N.M., et al. Nivolumab plus ipilimumab versus sunitinib for first-line treatment of advanced renal cell carcinoma: extended 8-year follow-up results of efficacy and safety from the phase III CheckMate 214 trial. Ann Oncol, 2024. 35: 1026. https://www.ncbi.nlm.nih.gov/pubmed/39098455
+
+641.Choueiri, T.K., et al. Nivolumab plus ipilimumab vs sunitinib for first-line treatment of advanced renal cell carcinoma: Final analysis from the phase 3 CheckMate 214 trial. J Clin Oncol, 2025. 43: 4505. https://doi.org/10.1200/JCO.2025.43.16_suppl.4505
+
+642.Choueiri, T.K., et al. Cabozantinib plus Nivolumab and Ipilimumab in Renal-Cell Carcinoma. N Engl J Med, 2023. 388: 1767. https://www.ncbi.nlm.nih.gov/pubmed/37163623
+
+643.Albiges, L., et al. Cabozantinib (C) in combination with nivolumab (N) and ipilimumab (I) in previously untreated advanced renal cell carcinoma (aRCC): Final results of COSMIC-313. J Clin Oncol, 2025. 43: 438. https://doi.org/10.1200/JCO.2025.43.5_suppl.438
+
+644.Motzer, R.J., et al. Conditional survival and long-term efficacy with nivolumab plus ipilimumab versus sunitinib in patients with advanced renal cell carcinoma. Cancer, 2022. 128: 2085. https://www.ncbi.nlm.nih.gov/pubmed/35383908
+
+645.Rini, B.I., et al. Pembrolizumab plus Axitinib versus Sunitinib for Advanced Renal-Cell Carcinoma. N Engl J Med, 2019. 380: 1116. https://www.ncbi.nlm.nih.gov/pubmed/30779529
+
+646.Plimack, E.R., et al. Pembrolizumab Plus Axitinib Versus Sunitinib as First-line Treatment of Advanced Renal Cell Carcinoma: 43-month Follow-up of the Phase 3 KEYNOTE-426 Study. Eur Urol, 2023. 84: 449. https://www.ncbi.nlm.nih.gov/pubmed/37500340
+
+647.Rini, B.I., et al. Pembrolizumab plus axitinib versus sunitinib for advanced clear cell renal cell carcinoma: 5-year survival and biomarker analyses of the phase 3 KEYNOTE-426 trial. Nat Med, 2025. 31: 3475. https://www.ncbi.nlm.nih.gov/pubmed/40750932
+
+648.Motzer, R.J., et al. Nivolumab plus cabozantinib (N+C) vs sunitinib (S) for previously untreated advanced renal cell carcinoma (aRCC): Final follow-up results from the CheckMate 9ER trial. J Clin Oncol, 2025. 43: 439. https://doi.org/10.1200/JCO.2025.43.5_suppl.439
+
+649.Motzer, R.J., et al. Lenvatinib Plus Pembrolizumab Versus Sunitinib in First-Line Treatment of Advanced Renal Cell Carcinoma: Final Prespecified Overall Survival Analysis of CLEAR, a Phase III Study. J Clin Oncol, 2024. 42: 1222. https://www.ncbi.nlm.nih.gov/pubmed/38227898
+
+650.Choueiri, T.K., et al. Avelumab + axitinib versus sunitinib as first-line treatment for patients with advanced renal cell carcinoma: final analysis of the phase III JAVELIN Renal 101 trial. Ann Oncol, 2025. 36: 387. https://www.ncbi.nlm.nih.gov/pubmed/39706335
+
+651.Motzer, R.J., et al. Final Overall Survival and Molecular Analysis in IMmotion151, a Phase 3 Trial Comparing Atezolizumab Plus Bevacizumab vs Sunitinib in Patients With Previously Untreated Metastatic Renal Cell Carcinoma. JAMA Oncol, 2022. 8: 275. https://www.ncbi.nlm.nih.gov/pubmed/34940781
+
+652.Yan, X.Q., et al. Toripalimab plus axitinib versus sunitinib as first-line treatment for advanced renal cell carcinoma: RENOTORCH, a randomized, open-label, phase III study. Ann Oncol, 2024. 35: 190. https://www.ncbi.nlm.nih.gov/pubmed/37872020
+
+653.Zhou, A., et al. First-line benmelstobart plus anlotinib versus sunitinib in advanced renal cell carcinoma (ETER100): a multicentre, randomised, open-label, phase 3 trial. Lancet Oncol, 2025. 26: 1145. https://www.ncbi.nlm.nih.gov/pubmed/40907513
+
+654.Powles, T., et al. Nivolumab plus cabozantinib versus sunitinib for first-line treatment of advanced renal cell carcinoma: extended follow-up from the phase III randomised CheckMate 9ER trial. ESMO Open, 2024. 9: 102994. https://www.ncbi.nlm.nih.gov/pubmed/38642472
+
+655.Motzer, R.J., et al. Characterization of Responses to Lenvatinib plus Pembrolizumab in Patients with Advanced Renal Cell Carcinoma at the Final Prespecified Survival Analysis of the Phase 3 CLEAR Study. Eur Urol, 2024. 86: 4. https://www.ncbi.nlm.nih.gov/pubmed/38582713
+
+656.Choueiri, T.K., et al. Updated efficacy results from the JAVELIN Renal 101 trial: first-line avelumab plus axitinib versus sunitinib in patients with advanced renal cell carcinoma. Ann Oncol, 2020. 31: 1030. https://www.ncbi.nlm.nih.gov/pubmed/32339648
+
+657.Haanen, J., et al. Extended follow-up from JAVELIN Renal 101: subgroup analysis of avelumab plus axitinib versus sunitinib by the International Metastatic Renal Cell Carcinoma Database Consortium risk group in patients with advanced renal cell carcinoma. ESMO Open, 2023. 8: 101210. https://www.ncbi.nlm.nih.gov/pubmed/37104931
+
+658.Choueiri, T.K., et al. Lenvatinib plus pembrolizumab versus sunitinib as first-line treatment of patients with advanced renal cell carcinoma (CLEAR): extended follow-up from the phase 3, randomised, open-label study. Lancet Oncol, 2023. 24: 228. https://www.ncbi.nlm.nih.gov/pubmed/36858721
+
+659.Albiges, L., et al. Nivolumab plus ipilimumab versus sunitinib for first-line treatment of advanced renal cell carcinoma: extended 4-year follow-up of the phase III CheckMate 214 trial. ESMO Open, 2020. 5: e001079. https://www.ncbi.nlm.nih.gov/pubmed/33246931
+
+660.Auvray, M., et al. Second-line targeted therapies after nivolumab-ipilimumab failure in metastatic renal cell carcinoma. Eur J Cancer, 2019. 108: 33. https://www.ncbi.nlm.nih.gov/pubmed/30616146
+
+661.Beckermann, K.E., et al. Long-Term Survival in Patients With Relapsed/Refractory Advanced Renal Cell Carcinoma Treated With Tivozanib: Analysis of the Phase III TIVO-3 Trial. Oncologist, 2024. 29: 254. https://www.ncbi.nlm.nih.gov/pubmed/38262444
+
+662.Ornstein, M.C., et al. Individualised axitinib regimen for patients with metastatic renal cell carcinoma after treatment with checkpoint inhibitors: a multicentre, single-arm, phase 2 study. Lancet Oncol, 2019. 20: 1386. https://www.ncbi.nlm.nih.gov/pubmed/31427205
+
+663.Coppin, C., et al. Targeted therapy for advanced renal cell cancer (RCC): a Cochrane systematic review of published randomised trials. BJU Int, 2011. 108: 1556. https://www.ncbi.nlm.nih.gov/pubmed/21952069
+
+664.Zelefsky, M.J., et al. Tumor control outcomes after hypofractionated and single-dose stereotactic image-guided intensity-modulated radiotherapy for extracranial metastases from renal cell carcinoma. Int J Radiat Oncol Biol Phys, 2012. 82: 1744. https://www.ncbi.nlm.nih.gov/pubmed/21596489
+
+665.Rini, B.I., et al. Tivozanib versus sorafenib in patients with advanced renal cell carcinoma (TIVO-3): a phase 3, multicentre, randomised, controlled, open-label study. Lancet Oncol, 2020. 21: 95. https://www.ncbi.nlm.nih.gov/pubmed/31810797
+
+666.Rini, B.I., et al. Long-term outcomes with nivolumab plus ipilimumab versus sunitinib in first-line treatment of patients with advanced sarcomatoid renal cell carcinoma. J Immunother Cancer, 2022. 10. https://www.ncbi.nlm.nih.gov/pubmed/36549781
+
+667.Carthon, B.C., et al. Results From a Randomized Phase II Trial of Sunitinib and Gemcitabine or Sunitinib in Advanced Renal Cell Carcinoma with Sarcomatoid Features: ECOG-ACRIN E1808. Clin Genitourin Cancer, 2023. 21: 546. https://www.ncbi.nlm.nih.gov/pubmed/37455214
+
+668.Choueiri, T.K., et al. Efficacy and biomarker analysis of patients (pts) with advanced renal cell carcinoma (aRCC) with sarcomatoid histology (sRCC): Subgroup analysis from the phase III JAVELIN renal 101 trial of first-line avelumab plus axitinib (A + Ax) vs sunitinib (S). Ann Oncol, 2019. 30: v361. https://www.sciencedirect.com/science/article/pii/S0923753419591268
+
+669.Choueiri, T.K., et al. Efficacy and correlative analyses of avelumab plus axitinib versus sunitinib in sarcomatoid renal cell carcinoma: post hoc analysis of a randomized clinical trial. ESMO Open, 2021. 6: 100101. https://www.ncbi.nlm.nih.gov/pubmed/33901870
+
+670.Rini, B.I., et al. Atezolizumab plus Bevacizumab Versus Sunitinib for Patients with Untreated Metastatic Renal Cell Carcinoma and Sarcomatoid Features: A Prespecified Subgroup Analysis of the IMmotion151 Clinical Trial. Eur Urol, 2021. 79: 659. https://www.ncbi.nlm.nih.gov/pubmed/32654802
+
+671.Motzer, R.J., et al. Nivolumab + cabozantinib (NIVO+CABO) versus sunitinib (SUN) for advanced renal cell carcinoma (aRCC): Outcomes by sarcomatoid histology and updated trial results with extended follow-up of CheckMate 9ER. J Clin Oncol, 2021. 39: 308. https://doi.org/10.1200/JCO.2021.39.6_suppl.308
+
+672.Grunwald, V., et al. Phase 3 CLEAR study in patients with advanced renal cell carcinoma: outcomes in subgroups for the lenvatinib-plus-pembrolizumab and sunitinib arms. Front Oncol, 2023. 13: 1223282. https://www.ncbi.nlm.nih.gov/pubmed/37664025
+
+673.Koh, Y., et al. Phase II trial of everolimus for the treatment of nonclear-cell renal cell carcinoma. Ann Oncol, 2013. 24: 1026. https://www.ncbi.nlm.nih.gov/pubmed/23180114
+
+674.Fernandez-Pello, S., et al. A Systematic Review and Meta-analysis Comparing the Effectiveness and Adverse Effects of Different Systemic Treatments for Non-clear Cell Renal Cell Carcinoma. Eur Urol, 2017. 71: 426. https://www.ncbi.nlm.nih.gov/pubmed/27939075
+
+675.Tannir, N.M., et al. A phase 2 trial of sunitinib in patients with advanced non-clear cell renal cell carcinoma. Eur Urol, 2012. 62: 1013. https://www.ncbi.nlm.nih.gov/pubmed/22771265
+
+676.Ravaud, A., et al. First-line treatment with sunitinib for type 1 and type 2 locally advanced or metastatic papillary renal cell carcinoma: a phase II study (SUPAP) by the French Genitourinary Group (GETUG)dagger. Ann Oncol, 2015. 26: 1123. https://www.ncbi.nlm.nih.gov/pubmed/25802238
+
+677.Escudier, B., et al. Open-label phase 2 trial of first-line everolimus monotherapy in patients with papillary metastatic renal cell carcinoma: RAPTOR final analysis. Eur J Cancer, 2016. 69: 226. https://www.ncbi.nlm.nih.gov/pubmed/27680407
+
+678.Pal, S.K., et al. A comparison of sunitinib with cabozantinib, crizotinib, and savolitinib for treatment of advanced papillary renal cell carcinoma: a randomised, open-label, phase 2 trial. Lancet, 2021. 397: 695. https://www.ncbi.nlm.nih.gov/pubmed/33592176
+
+679.Choueiri, T.K., et al. Efficacy of Savolitinib vs Sunitinib in Patients With MET-Driven Papillary Renal Cell Carcinoma: The SAVOIR Phase 3 Randomized Clinical Trial. JAMA Oncol, 2020. 6: 1247. https://www.ncbi.nlm.nih.gov/pubmed/32469384
+
+680.Barata, P., et al. Final Overall Survival Analysis of S1500: A Randomized, Phase II Study Comparing Sunitinib With Cabozantinib, Crizotinib, and Savolitinib in Advanced Papillary Renal Cell Carcinoma. J Clin Oncol, 2024. 42: 3911. https://www.ncbi.nlm.nih.gov/pubmed/39255440
+
+681.Albiges, L., et al. Pembrolizumab plus lenvatinib as first-line therapy for advanced non-clear-cell renal cell carcinoma (KEYNOTE-B61): a single-arm, multicentre, phase 2 trial. Lancet Oncol, 2023. 24: 881. https://www.ncbi.nlm.nih.gov/pubmed/37451291
+
+682.Voss, M.H., et al. First-line Pembrolizumab Plus Lenvatinib for Advanced Non-clear-cell Renal Cell Carcinoma: Updated Results from the Phase 2 KEYNOTE-B61 Trial. Eur Urol, 2025. 41: 4518. https://www.ncbi.nlm.nih.gov/pubmed/40707309
+
+683.Fitzgerald, K.N., et al. Cabozantinib Plus Nivolumab in Patients with Non-Clear Cell Renal Cell Carcinoma: Updated Results from a Phase 2 Trial. Eur Urol, 2024. 86: 90. https://www.ncbi.nlm.nih.gov/pubmed/38782695
+
+684.Suarez, C., et al. Phase II Study Investigating the Safety and Efficacy of Savolitinib and Durvalumab in Metastatic Papillary Renal Cancer (CALYPSO). J Clin Oncol, 2023. 41: 2493. https://www.ncbi.nlm.nih.gov/pubmed/36809050
+
+685.McDermott, D.F., et al. Open-Label, Single-Arm, Phase II Study of Pembrolizumab Monotherapy as First-Line Therapy in Patients With Advanced Non-Clear Cell Renal Cell Carcinoma. J Clin Oncol, 2021. 39: 1029. https://www.ncbi.nlm.nih.gov/pubmed/33529058
+
+686.Hudes, G., et al. Temsirolimus, interferon alfa, or both for advanced renal-cell carcinoma. N Engl J Med, 2007. 356: 2271. https://www.ncbi.nlm.nih.gov/pubmed/17538086
+
+687.Gore, M.E., et al. Safety and efficacy of sunitinib for metastatic renal-cell carcinoma: an expanded-access trial. Lancet Oncol, 2009. 10: 757. https://www.ncbi.nlm.nih.gov/pubmed/19615940
+
+688.Sanchez, P., et al. Non-clear cell advanced kidney cancer: is there a gold standard? Anticancer Drugs, 2011. 22 Suppl 1: S9. https://www.ncbi.nlm.nih.gov/pubmed/21173605
+
+689.Lee, C.H., et al. Phase II Trial of Cabozantinib Plus Nivolumab in Patients With Non-Clear-Cell Renal Cell Carcinoma and Genomic Correlates. J Clin Oncol, 2022. 40: 2333. https://www.ncbi.nlm.nih.gov/pubmed/35298296
+
+690.Bergmann, L., et al. Prospective randomized phase-II trial of ipilimumab/nivolumab versus standard of care in non-clear cell renal cell cancer - results of the SUNNIFORECAST trial. Ann Oncol, 2025. 36: 796. https://www.ncbi.nlm.nih.gov/pubmed/40180121
+
+691.Cancer Genome Atlas Research, N., et al. Comprehensive Molecular Characterization of Papillary Renal-Cell Carcinoma. N Engl J Med, 2016. 374: 135. https://www.ncbi.nlm.nih.gov/pubmed/26536169
+
+692.Panunzio, A., et al. Cancer specific mortality in patients with collecting duct vs. clear cell renal carcinoma. Cancer Epidemiol, 2023. 82: 102297. https://www.ncbi.nlm.nih.gov/pubmed/36401949
+
+693.Msaouel, P., et al. Updated Recommendations on the Diagnosis, Management, and Clinical Trial Eligibility Criteria for Patients With Renal Medullary Carcinoma. Clin Genitourin Cancer, 2019. 17: 1. https://www.ncbi.nlm.nih.gov/pubmed/30287223
+
+694.Beckermann, K.E., et al. Clinical and immunologic correlates of response to PD-1 blockade in a patient with metastatic renal medullary carcinoma. J Immunother Cancer, 2017. 5: 1. https://www.ncbi.nlm.nih.gov/pubmed/28105368
+
+695.Sodji, Q., et al. Predictive role of PD-L1 expression in the response of renal Medullary carcinoma to PD-1 inhibition. J Immunother Cancer, 2017. 5: 62. https://www.ncbi.nlm.nih.gov/pubmed/28807004
+
+696.Rathmell, W.K., et al. High-dose-intensity MVAC for Advanced Renal Medullary Carcinoma: Report of Three Cases and Literature Review. Urology, 2008. 72: 659. https://www.ncbi.nlm.nih.gov/pubmed/18649931
+
+697.Nze, C., et al. A Phase II Clinical Trial of Pembrolizumab Efficacy and Safety in Advanced Renal Medullary Carcinoma. Cancers (Basel), 2023. 15: 3806. https://www.ncbi.nlm.nih.gov/pubmed/37568622
+
+698.Panunzio, A., et al. Collecting duct carcinoma: Epidemiology, clinical characteristics and survival. Urol Oncol, 2023. 41: 110 e7. https://www.ncbi.nlm.nih.gov/pubmed/36456452
+
+699.Buti, S., et al. BONSAI-2 study: Nivolumab as therapeutic option after cabozantinib failure in metastatic collecting duct carcinoma patients. Tumori, 2023. 109: 418. https://www.ncbi.nlm.nih.gov/pubmed/36474412
+
+700.Rizzo, M., et al. Clinico-pathological implications of the 2022 WHO Renal Cell Carcinoma classification. Cancer Treat Rev, 2023. 116: 102558. https://www.ncbi.nlm.nih.gov/pubmed/37060647
+
+701.Iannantuono, G.M., et al. Activity of ALK Inhibitors in Renal Cancer with ALK Alterations: A Systematic Review. Int J Mol Sci, 2022. 23. https://www.ncbi.nlm.nih.gov/pubmed/35409355
+
+702.Marconi, L., et al. Local Treatment of Recurrent Renal Cell Carcinoma May Have a Significant Survival Effect Across All Risk-of-recurrence Groups. Eur Urol Open Sci, 2023. 47: 65. https://www.ncbi.nlm.nih.gov/pubmed/36601038
+
+703.Antonelli, A., et al. Features of Ipsilateral Renal Recurrences After Partial Nephrectomy: A Proposal of a Pathogenetic Classification. Clin Genitourin Cancer, 2017. 15: 540. https://www.ncbi.nlm.nih.gov/pubmed/28533051
+
+704.Bertolo, R., et al. Low Rate of Cancer Events After Partial Nephrectomy for Renal Cell Carcinoma: Clinicopathologic Analysis of 1994 Cases with Emphasis on Definition of “Recurrence”. Clin Genitourin Cancer, 2019. 17: 209. https://www.ncbi.nlm.nih.gov/pubmed/31000486
+
+705.Kreshover, J.E., et al. Renal cell recurrence for T1 tumors after laparoscopic partial nephrectomy. J Endourol, 2013. 27: 1468. https://www.ncbi.nlm.nih.gov/pubmed/24074156
+
+706.Russo, P., et al. Outcomes for Atypical Tumor Recurrences Following Minimally Invasive Kidney Cancer Operations. Eur Urol Open Sci, 2022. 40: 125. https://www.ncbi.nlm.nih.gov/pubmed/35638088
+
+707.Fallara, G., et al. Recurrence pattern in localized RCC: results from a European multicenter database (RECUR). Urol Oncol, 2022. 40: 494 e11. https://www.ncbi.nlm.nih.gov/pubmed/36127233
+
+708.Brassier, M., et al. Percutaneous Ablation Versus Surgical Resection for Local Recurrence Following Partial Nephrectomy for Renal Cell Cancer: A Propensity Score Analysis (REPART Study-UroCCR 71). Eur Urol Focus, 2022. 8: 210. https://www.ncbi.nlm.nih.gov/pubmed/33622625
+
+709.Wah, T.M., et al. Radiofrequency ablation (RFA) of renal cell carcinoma (RCC): experience in 200 tumours. BJU Int, 2014. 113: 416. https://www.ncbi.nlm.nih.gov/pubmed/24053769
+
+710.Herout, R., et al. Surgical resection of locally recurrent renal cell carcinoma after nephrectomy: Oncological outcome and predictors of survival. Urol Oncol, 2018. 36: 11 e1. https://www.ncbi.nlm.nih.gov/pubmed/28927783
+
+711.Thomas, A.Z., et al. Surgical Management of Local Retroperitoneal Recurrence of Renal Cell Carcinoma after Radical Nephrectomy. J Urol, 2015. 194: 316. https://www.ncbi.nlm.nih.gov/pubmed/25758610
+
+712.Marchioni, M., et al. Management of local recurrence after radical nephrectomy: surgical removal with or without systemic treatment is still the gold standard. Results from a multicenter international cohort. Int Urol Nephrol, 2021. 53: 2273. https://www.ncbi.nlm.nih.gov/pubmed/34417970
+
+713.Itano, N.B., et al. Outcome of isolated renal cell carcinoma fossa recurrence after nephrectomy. J Urol, 2000. 164: 322. https://www.ncbi.nlm.nih.gov/pubmed/10893575
+
+714.Margulis, V., et al. Predictors of oncological outcome after resection of locally recurrent renal cell carcinoma. J Urol, 2009. 181: 2044. https://www.ncbi.nlm.nih.gov/pubmed/19286220
+
+715.Russell, C.M., et al. Multi-institutional Survival Analysis of Incidental Pathologic T3a Upstaging in Clinical T1 Renal Cell Carcinoma Following Partial Nephrectomy. Urology, 2018. 117: 95. https://www.ncbi.nlm.nih.gov/pubmed/29678662
+
+716.Srivastava, A., et al. Incidence of T3a up-staging and survival after partial nephrectomy: Size-stratified rates and implications for prognosis. Urol Oncol, 2018. 36: 12 e7. https://www.ncbi.nlm.nih.gov/pubmed/28970053
+
+717.Sandhu, S.S., et al. Surgical excision of isolated renal-bed recurrence after radical nephrectomy for renal cell carcinoma. BJU Int, 2005. 95: 522. https://www.ncbi.nlm.nih.gov/pubmed/15705072
+
+718.Master, V.A., et al. Management of isolated renal fossa recurrence following radical nephrectomy. J Urol, 2005. 174: 473. https://www.ncbi.nlm.nih.gov/pubmed/16006867
+
+719.Psutka, S.P., et al. Renal fossa recurrence after nephrectomy for renal cell carcinoma: prognostic features and oncological outcomes. BJU Int, 2017. 119: 116. https://www.ncbi.nlm.nih.gov/pubmed/27489013
+
+720.Huang, J., et al. Surgical Management and Oncologic Outcomes for Local Retroperitoneal Recurrence of Renal Cell Carcinoma After Radical Nephrectomy. Clin Genitourin Cancer, 2023. 21: 315 e1. https://www.ncbi.nlm.nih.gov/pubmed/36396584
+
+721.Martini, A., et al. Salvage Robot-assisted Renal Surgery for Local Recurrence After Surgical Resection or Renal Mass Ablation: Classification, Techniques, and Clinical Outcomes. Eur Urol, 2021. 80: 730. https://www.ncbi.nlm.nih.gov/pubmed/34088520
+
+722.Ierardi, A.M., et al. Percutaneous microwave ablation therapy of renal cancer local relapse after radical nephrectomy: a feasibility and efficacy study. Med Oncol, 2020. 37: 27. https://www.ncbi.nlm.nih.gov/pubmed/32166412
+
+723.Ushijima, Y., et al. Cryoablation for Secondary Renal Cell Carcinoma After Surgical Nephrectomy. Cardiovasc Intervent Radiol, 2021. 44: 414. https://www.ncbi.nlm.nih.gov/pubmed/33205290
+
+724.Johnson, A., et al. Feasibility and outcomes of repeat partial nephrectomy. J Urol, 2008. 180: 89. https://www.ncbi.nlm.nih.gov/pubmed/18485404
+
+725.Mouracade, P., et al. Imaging strategy and outcome following partial nephrectomy. Urol Oncol, 2017. 35: 660 e1. https://www.ncbi.nlm.nih.gov/pubmed/28863862
+
+726.Dabestani, S., et al. Increased use of cross-sectional imaging for follow-up does not improve post-recurrence survival of surgically treated initially localized R.C.C.: results from a European multicenter database (R.E.C.U.R.). Scand J Urol, 2019. 53: 14. https://www.ncbi.nlm.nih.gov/pubmed/30907214
+
+727.Rieken, M., et al. Predictors of Cancer-specific Survival After Disease Recurrence in Patients With Renal Cell Carcinoma: The Effect of Time to Recurrence. Clin Genitourin Cancer, 2018. 16: e903. https://www.ncbi.nlm.nih.gov/pubmed/29653814
+
+728.Srigley, J.R., et al. The International Society of Urological Pathology (ISUP) Vancouver Classification of Renal Neoplasia. Am J Surg Pathol, 2013. 37: 1469. https://www.ncbi.nlm.nih.gov/pubmed/24025519
+
+729.Pignot, G., et al. Survival analysis of 130 patients with papillary renal cell carcinoma: prognostic utility of type 1 and type 2 subclassification. Urology, 2007. 69: 230. https://www.ncbi.nlm.nih.gov/pubmed/17275070
+
+730.Przybycin, C.G., et al. Hereditary syndromes with associated renal neoplasia: a practical guide to histologic recognition in renal tumor resection specimens. Adv Anat Pathol, 2013. 20: 245. https://www.ncbi.nlm.nih.gov/pubmed/23752087
+
+731.Moch, H., et al. Morphological clues to the appropriate recognition of hereditary renal neoplasms. Semin Diagn Pathol, 2018. 35: 184. https://www.ncbi.nlm.nih.gov/pubmed/29454577
+
+732.Kauffman, E.C., et al. Molecular genetics and cellular features of TFE3 and TFEB fusion kidney cancers. Nat Rev Urol, 2014. 11: 465. https://www.ncbi.nlm.nih.gov/pubmed/25048860
+
+733.Shuch, B., et al. Genetic Predisposition to Renal Cell Carcinoma: Implications for Counseling, Testing, Screening, and Management. J Clin Oncol, 2018: JCO2018792523. https://www.ncbi.nlm.nih.gov/pubmed/30372385
+
+734.Maher, E.R. Hereditary renal cell carcinoma syndromes: diagnosis, surveillance and management. World J Urol, 2018. 36: 1891. https://www.ncbi.nlm.nih.gov/pubmed/29680948
+
+735.Tung, N., et al. Selection of Germline Genetic Testing Panels in Patients With Cancer: ASCO Guideline. J Clin Oncol, 2024. 42: 2599. https://www.ncbi.nlm.nih.gov/pubmed/38759122
+
+736.Shuch, B., et al. The surgical approach to multifocal renal cancers: hereditary syndromes, ipsilateral multifocality, and bilateral tumors. Urol Clin North Am, 2012. 39: 133. https://www.ncbi.nlm.nih.gov/pubmed/22487757
+
+737.Bratslavsky, G., et al. Salvage partial nephrectomy for hereditary renal cancer: feasibility and outcomes. J Urol, 2008. 179: 67. https://www.ncbi.nlm.nih.gov/pubmed/17997447
+
+738.Linehan, W.M., et al. Longitudinal Evaluation of Clear-cell Renal Cell Carcinoma in von Hippel-Lindau Disease. Eur Urol, 2025. 88: 56. https://www.ncbi.nlm.nih.gov/pubmed/40274483
+
+739.Osman, F.H., et al. Oncological and Peri-Operative Outcomes of Percutaneous Cryoablation of Renal Cell Carcinoma for Patients with Hereditary RCC Diseases-An Analysis of European Multi-Centre Prospective EuRECA Registry. Cancers (Basel), 2023. 15: 3322. https://www.ncbi.nlm.nih.gov/pubmed/37444432
+
+740.Chahoud, J., et al. Evaluation, diagnosis and surveillance of renal masses in the setting of VHL disease. World J Urol, 2021. 39: 2409. https://www.ncbi.nlm.nih.gov/pubmed/32936333
+
+741.Aliance, V. VHLA Suggested Active Surveillance Guidelines. 2020. 2022. https://www.vhl.org/wp-content/uploads/forms/vhla-active-surveillance-guidelines.pdf
+
+742.Nielsen, S.M., et al. Von Hippel-Lindau Disease: Genetics and Role of Genetic Counseling in a Multiple Neoplasia Syndrome. J Clin Oncol, 2016. 34: 2172. https://www.ncbi.nlm.nih.gov/pubmed/27114602
+
+743.FDA. FDA D.I.S.C.O. Burst Edition: FDA approval of Welireg (belzutifan) for adult patients with von Hippel-Lindau disease who require therapy for associated renal cell carcinoma, central nervous system hemangioblastomas, or pancreatic neuroendocrine tumors, not requiring immediate surgery. 2021. https://www.fda.gov/drugs/resources-information-approved-drugs/fda-disco-burst-edition-fda-approval-welireg-belzutifan-adult-patients-von-hippel-lindau-disease-who
+
+744.Srinivasan, R., et al. Belzutifan for von Hippel-Lindau disease-associated renal cell carcinoma and other neoplasms (LITESPARK-004): 50 months follow-up from a single-arm, phase 2 study. Lancet Oncol, 2025. 26: 571. https://www.ncbi.nlm.nih.gov/pubmed/40228516
+
+745.Jonasch, E., et al. Pazopanib in patients with von Hippel-Lindau disease: a single-arm, single-centre, phase 2 trial. Lancet Oncol, 2018. 19: 1351. https://www.ncbi.nlm.nih.gov/pubmed/30236511
+
+746.Alhalabi, O., et al. Immune Checkpoint Therapy Combinations in Adult Advanced MiT Family Translocation Renal Cell Carcinomas. Oncologist, 2023. 28: 433. https://www.ncbi.nlm.nih.gov/pubmed/36640141
+
+747.Hong, J., et al. Clinical Characteristics and Outcomes of TFE3-Rearranged/TFEB-Altered Renal Cell Carcinoma with Systemic Therapies, Including Tyrosine Kinase Inhibitors or Immune Checkpoint Inhibitors: An Observational Study. J Urol Oncol, 2024. 22: 59. https://e-juo.org/journal/view.php?number=571
+
+748.Thouvenin, J., et al. Efficacy of Cabozantinib in Metastatic MiT Family Translocation Renal Cell Carcinomas. Oncologist, 2022. 27: 1041. https://www.ncbi.nlm.nih.gov/pubmed/35979929
+
+749.Capitanio, U., et al. Hypertension and Cardiovascular Morbidity Following Surgery for Kidney Cancer. Eur Urol Oncol, 2020. 3: 209. https://www.ncbi.nlm.nih.gov/pubmed/31411993
+
+750.Campbell, S.C., et al. Renal Mass and Localized Renal Cancer: Evaluation, Management, and Follow-Up: AUA Guideline: Part I. J Urol, 2021. 206: 199. https://www.ncbi.nlm.nih.gov/pubmed/34115547
+
+751.Lam, J.S., et al. Renal cell carcinoma 2005: new frontiers in staging, prognostication and targeted molecular therapy. J Urol, 2005. 173: 1853. https://www.ncbi.nlm.nih.gov/pubmed/15879764
+
+752.Scoll, B.J., et al. Age, tumor size and relative survival of patients with localized renal cell carcinoma: a surveillance, epidemiology and end results analysis. J Urol, 2009. 181: 506. https://www.ncbi.nlm.nih.gov/pubmed/19084868
+
+753.Beisland, C., et al. A prospective risk-stratified follow-up programme for radically treated renal cell carcinoma patients: evaluation after eight years of clinical use. World J Urol, 2016. 34: 1087. https://www.ncbi.nlm.nih.gov/pubmed/26922650
+
+754.Merrill, S.B., et al. Utilization of Patient-Specific Characteristics and Competing Risks to Tailor the Duration of Surveillance Imaging After Surgery for Renal Cell Carcinoma. JU Open Plus, 2024. 2. https://journals.lww.com/juop/fulltext/2024/03000/utilization_of_patient_specific_characteristics.6.aspx
+
+755.Stewart-Merrill, S.B., et al. Oncologic Surveillance After Surgical Resection for Renal Cell Carcinoma: A Novel Risk-Based Approach. J Clin Oncol, 2015. 33: 4151. https://www.ncbi.nlm.nih.gov/pubmed/26351352
+
+756.Vartolomei, L., et al. Psychological Distress in Patients Treated for Renal Cell Carcinoma: A Systematic Literature Review. J Clin Med, 2022. 11. https://www.ncbi.nlm.nih.gov/pubmed/36362610
+
+757.Dabestani, S., et al. Long-term Outcomes of Follow-up for Initially Localised Clear Cell Renal Cell Carcinoma: RECUR Database Analysis. Eur Urol Focus, 2019. 5: 857. https://www.ncbi.nlm.nih.gov/pubmed/29525381
+
+758.Rini, B.I., et al. Validation of the 16-Gene Recurrence Score in Patients with Locoregional, High-Risk Renal Cell Carcinoma from a Phase III Trial of Adjuvant Sunitinib. Clin Cancer Res, 2018. 24: 4407. https://www.ncbi.nlm.nih.gov/pubmed/29773662
+
+759.Bruno, J.J., 2nd, et al. Renal cell carcinoma local recurrences: impact of surgical treatment and concomitant metastasis on survival. BJU Int, 2006. 97: 933. https://www.ncbi.nlm.nih.gov/pubmed/16643473
+
+760.Bani-Hani, A.H., et al. Associations with contralateral recurrence following nephrectomy for renal cell carcinoma using a cohort of 2,352 patients. J Urol, 2005. 173: 391. https://www.ncbi.nlm.nih.gov/pubmed/15643178
+
+761.Schaner, E.G., et al. Comparison of computed and conventional whole lung tomography in detecting pulmonary nodules: a prospective radiologic-pathologic study. AJR Am J Roentgenol, 1978. 131: 51. https://www.ncbi.nlm.nih.gov/pubmed/97985
+
+762.Patel, T., et al. Lung Metastases Imaging. 2022. 2017. https://emedicine.medscape.com/article/358090-overview
+
+763.Chang, A.E., et al. Evaluation of computed tomography in the detection of pulmonary metastases: a prospective study. Cancer, 1979. 43: 913. https://www.ncbi.nlm.nih.gov/pubmed/284842
+
+764.Doornweerd, B.H., et al. Chest X-ray in the follow-up of renal cell carcinoma. World J Urol, 2014. 32: 1015. https://www.ncbi.nlm.nih.gov/pubmed/24096433
+
+765.Sountoulides, P., et al. Atypical presentations and rare metastatic sites of renal cell carcinoma: a review of case reports. J Med Case Rep, 2011. 5: 429. https://www.ncbi.nlm.nih.gov/pubmed/21888643
+
+766.Kattan, M.W., et al. A postoperative prognostic nomogram for renal cell carcinoma. J Urol, 2001. 166: 63. https://www.ncbi.nlm.nih.gov/pubmed/11435824
+
+767.Lam, J.S., et al. Postoperative surveillance protocol for patients with localized and locally advanced renal cell carcinoma based on a validated prognostic nomogram and risk group stratification system. J Urol, 2005. 174: 466. https://www.ncbi.nlm.nih.gov/pubmed/16006866
+
+768.Cindolo, L., et al. Comparison of predictive accuracy of four prognostic models for nonmetastatic renal cell carcinoma after nephrectomy: a multicenter European study. Cancer, 2005. 104: 1362. https://www.ncbi.nlm.nih.gov/pubmed/16116599
+
+769.Skolarikos, A., et al. A review on follow-up strategies for renal cell carcinoma after nephrectomy. Eur Urol, 2007. 51: 1490. https://www.ncbi.nlm.nih.gov/pubmed/17229521
+
+770.Chin, A.I., et al. Surveillance strategies for renal cell carcinoma patients following nephrectomy. Rev Urol, 2006. 8: 1. https://www.ncbi.nlm.nih.gov/pubmed/16985554
+
+771.Karakiewicz, P.I., et al. A preoperative prognostic model for patients treated with nephrectomy for renal cell carcinoma. Eur Urol, 2009. 55: 287. https://www.ncbi.nlm.nih.gov/pubmed/18715700
+
+772.Cho, H., et al. Comorbidity-adjusted life expectancy: a new tool to inform recommendations for optimal screening strategies. Ann Intern Med, 2013. 159: 667. https://www.ncbi.nlm.nih.gov/pubmed/24247672
+
+773.van den Brink, L., et al. Is Frequent Imaging Necessary? Impact of Computed Tomography During Follow-up After Surgical Treatment for Nonmetastatic Renal Cell Carcinoma: A Systematic Review. Eur Urol Oncol, 2025. 8: 829. https://www.ncbi.nlm.nih.gov/pubmed/39665918
+
+  • Epidemiology Aetiology And Pathology
+
+  • Staging And Classification Systems
+
+  • Diagnostic Evaluation
+
+  • Prognostic Factors
+
+  • Disease Management
+
+  • Hereditary And Syndrome Specific Rcc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Epidemiology Aetiology And Pathology
+
+  • Staging And Classification Systems
+
+  • Diagnostic Evaluation
+
+  • Prognostic Factors
+
+  • Disease Management
+
+  • Hereditary And Syndrome Specific Rcc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+
+## 10. REFERENCES

@@ -1,0 +1,120 @@
+IntroductionMethodsEpidemiology And AetiologyClassification And Staging SystemsDiagnostic EvaluationTreatmentFollow UpQuality Of Life Outcomes In Prostate CancerReferencesConflict Of InterestCitation InformationCopyright And Terms Of Use1. INTRODUCTION1.1. Aims and scopeThe Prostate Cancer (PCa) Guidelines Panel have prepared this guidelines document to assist medical professionals in the evidence-based management of PCa.
+
+It must be emphasised that clinical guidelines present the best evidence available to the experts, but following guideline recommendations will not necessarily result in the best outcome. Guidelines can never replace clinical expertise when making treatment decisions for individual patients but rather help to focus decisions, also taking personal values and preferences/individual circumstances of patients into account. Guidelines are not mandates and do not purport to be a legal standard of care.
+
+The PCa Guidelines Panel consists of an international multidisciplinary group of urologists, radiation oncologists, medical oncologists, radiologists, pathologists and patient representatives.
+
+All imaging sections in the text have been developed jointly with the European Society of Urogenital Radiology (ESUR) and the European Association of Nuclear Medicine (EANM). Representatives of the ESUR are Prof.Dr. O. Rouvière and Dr. I.G. Schoots and the EANM are Dr. A. Farolfi and Dr. D. Oprea-Lager. All radiotherapy (RT) sections have been developed jointly with the European Society for Radiotherapy & Oncology (ESTRO). Representatives of ESTRO are Prof.Dr. A.M. Henry, Prof.Dr. T. Wiegel and Prof.Dr. V. Fonteyne. The International Society of Urological Pathology (ISUP) is represented by Prof.Dr. A. van Leenders. The patient organisation Europa Uomo is represented by Erik Briers and Bo Matsen.
+
+All experts involved in the production of this document have submitted potential conflict of interest statements which can be viewed on the EAU website: https://uroweb.org/guideline/prostate-cancer/.
+
+A quick reference document, the Pocket Guidelines, is available online and in print. This is an abridged version, which may require consultation together with the full text version. Numerous scientific publications are available, all of which can be accessed on the EAU website: https://uroweb.org/guideline/prostate-cancer/. An EAU Guidelines App for iOS and Android devices is also available containing the Pocket Guidelines, interactive algorithms and calculators, clinical decision support tools, guidelines cheat sheets and links to the extended guidelines.
+
+The EAU PCa Guidelines were first published in 2001. Standard procedure for EAU Guidelines includes an annual assessment of newly published literature in the field to guide future updates. This 2026 PCa Guidelines present a limited update of the 2025 publication.
+
+For the 2026 PCa Guidelines, new and relevant evidence was identified, collated and appraised through a structured assessment of the literature for all sections of the Guidelines. Key changes include:
+
+Review and changes to summary of evidence and recommendations in:
+
+Review and adaption of Table 4.3: EAU risk groups for localised and locally advanced PCa.
+
+Review and adaption of figures:
+
+Significant review and adaption of sections:
+
+Addition of new subsections in Section 6.6.4.b.2: Androgen deprivation therapy combined with chemotherapy:
+
+  • Epidemiology And Aetiology
+
+  • Classification And Staging Systems
+
+  • Diagnostic Evaluation
+
+  • Quality Of Life Outcomes In Prostate Cancer
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Epidemiology And Aetiology
+
+  • Classification And Staging Systems
+
+  • Diagnostic Evaluation
+
+  • Quality Of Life Outcomes In Prostate Cancer
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Section 5.5.7: Recommendations for MRI imaging in biopsy indication and strategy.
+
+  • Section 5.8.5: Recommendations for staging of prostate cancer.
+
+  • Section 6.2.1.c: Summary of evidence and recommendations for active surveillance strategy.
+
+  • Section 6.4.4.d: Recommendations for imaging in patients with biochemical recurrence.
+
+  • Section 6.4.7: Recommendations for second-line therapy after treatment with curative intent.
+
+  • Section 6.6.8: Recommendations for the first-line treatment of hormone-sensitive metastatic disease.
+
+  • Section 6.7.13: Recommendations for systemic treatments of castrate-resistant disease.
+
+  • Table 5.4: Available risk calculators assessing the risk of csPCa (externally validated five or more times).
+
+  • Figure 5.1: Flow diagram to assist with decisions on prostate biopsy.
+
+  • Figure 6.5: Treatment of metastasized (M1*) - disease, M+HSPC.
+
+  • Section 5.2.4: Magnetic resonance imaging.
+
+  • Section 5.8.2.f.1: Pelvic lymph node dissection.
+
+  • Section 6.4.5.a.3: Salvage lymph node dissection.
+
+  • Section 5.3.2.g: Rare aggressive PCa (sub)types.
+
+  • Section 5.4.3: Micro-US-based indication for biopsy.
+
+  • Section 5.5.6: MRI-targeted biopsy in younger men (45-55 years).
+
+  • Section 6.7.9: Treatment emergent neuroendocrine PCa and neuroendocrine subtype.
+
+  • Triplet therapy: ADT and chemotherapy +/- ARPI.
+
+  • ADT and ARPI +/- PARPI (AMPLITUDE).
+
+  • ADT and ARPI +/- AKT inhibitor (CAPItello-281).
+
+
+## 1. INTRODUCTION
+
+
+
+## 1.1. Aims and scope
+
+
+
+## 1.2. Panel composition
+
+
+
+## 1.3. Available publications
+
+
+
+## 1.4. Publication history and summary of changes
+
+
+
+## 1.4.1. Publication history
+
+
+
+## 1.4.2. Summary of changes

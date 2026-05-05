@@ -119,13 +119,15 @@ def fetch_chapter_text(url):
 def main():
     ap = argparse.ArgumentParser(description='Download a full EAU guideline (index + all chapters).')
     ap.add_argument('slug', help='Guideline slug (e.g. prostate-cancer)')
-    ap.add_argument('-o', '--outdir', default='/opt/data/home/data',
-                    help='Output directory (default: /opt/data/home/data)')
+    ap.add_argument('-o', '--outdir', default=None,
+                    help='Output directory (default: same directory as this script/../data)')
     ap.add_argument('--skip', action='store_true',
                     help='Skip already-downloaded chapters (safe resume)')
     args = ap.parse_args()
 
-    outdir = os.path.join(args.outdir, args.slug)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    default_out = os.path.normpath(os.path.join(script_dir, '..', 'data'))
+    outdir = os.path.join(args.outdir if args.outdir else default_out, args.slug)
     os.makedirs(outdir, exist_ok=True)
 
     # 1. Fetch index

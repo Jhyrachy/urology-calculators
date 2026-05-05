@@ -1,0 +1,172 @@
+IntroductionMethodsEpidemiology And AetiologyPathological Staging, Grading And Classification SystemsDiagnosisPredicting Disease Recurrence And ProgressionDisease ManagementFollow-up Of Patients With NmibcPatient Reported Outcome Measures And Quality Indicators For NmibcPragmatic Deintensification Strategy In NmibcReferencesConflict Of InterestCitation InformationCopyright And Terms Of Use4. PATHOLOGICAL STAGING, GRADING AND CLASSIFICATION SYSTEMS4.1. Definition of non-muscle-invasive bladder cancerUrothelial tumours confined to the mucosa and invading the lamina propria are classified as stage Ta and T1, respectively, according to the Tumour, Node, Metastasis (TNM) classification system [56]. Intra-epithelial, high-grade (HG) tumours confined to the mucosa are classified as CIS (Tis). All of these tumours can be treated by transurethral resection of the bladder tumour (TURBT), eventually in combination with intravesical instillations, and are therefore grouped under the heading of NMIBC for therapeutic purposes. The term ‘non-muscle-invasive bladder cancer’ represents a group definition and all tumours should be characterised according to their stage, grade and further pathological characteristics (see Sections 4.5 and 4.7, and the International Collaboration on Cancer Reporting website: (http://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/bladder). The term ‘superficial BC’ should no longer be used, because it is incorrect.
+
+The guidelines refer to the latest TNM classification approved by the Union International Contre le Cancer (UICC) 9th Edn. (Table 4.1) [57].
+
+Table 4.1: TNM classification of urinary bladder cancer
+
+NX Regional lymph nodes cannot be assessed
+
+N0 No regional lymph node metastasis
+
+N1 Metastasis in a single lymph node in the true pelvis (hypogastric, obturator, external iliac, or presacral)
+
+N2 Metastasis in multiple regional lymph nodes in the true pelvis (hypogastric, obturator, external iliac, or presacral)
+
+N3 Metastasis in common iliac lymph node(s)
+
+The depth and extent of invasion into the lamina propria (T1 sub-staging) has been demonstrated to be of prognostic value in retrospective cohort studies [56, 58]. Its use is advised by the most recent 2022 World Health Organization (WHO) classification [59, 60]. T1 sub-staging methods are based either on micrometric (T1e and T1m) or histo-anatomic (T1a and T1b) principles; the optimal classification system, however, remains to be defined [61, 62].
+
+The presence of lymphovascular invasion (LVI) in TURBT specimens is associated with an increased risk of pathological upstaging and worse prognosis [63-67]. Immunohistochemistry for confirmation is not mandatory [59].
+
+In 2004, the WHO published a histological classification system for UCs including papillary urothelial neoplasm of low malignant potential (PUNLMP), non-invasive papillary carcinoma low-grade (LG) and HG. This system was also incorporated into the updated 2016/2022 WHO classifications [59, 60]. The system provides a different patient stratification between individual categories compared to the older 1973 WHO classification, which distinguished between grade 1 (G1), grade 2 (G2) and grade 3 (G3) categories [61, 68].
+
+There is a significant shift of patients between the categories of the WHO 1973 and the WHO 2004/2022 systems (see Figure 4.1), for example an increase in the number of HG patients (WHO 2004/2022) due to inclusion of a subset of G2 patients with a more favourable prognosis compared to the G3 category (WHO 1973) [69,70]. According to a multi-institutional individual patient data (IPD) analysis, the proportion of tumours classified as PUNLMP (WHO 2004/2016) has decreased to very low levels in the last decade [71].
+
+A systematic review and meta-analysis did not show that the 2004/2016 WHO classification outperforms the 1973 classification in prediction of recurrence and progression [69]. To compare the prognostic value of both WHO classifications, an IPD analysis of 5,145 primary TaT1 NMIBC patients from 16 centres throughout Europe and one in Canada was conducted. Patients had a TURBT followed by intravesical instillations at the physician’s discretion. In this large study, the WHO 1973 and the WHO 2004/2016 were both prognostic for progression but not for recurrence. When compared, the WHO 1973 was a stronger prognosticator of progression in TaT1 NMIBC than the WHO 2004/2016. However, a three-tier (LG/G1-G2, HG/G2 & HG/G3) hybrid combination [72] of both classification systems separating HG into HG/G2 and HG/G3 or a four-tier (LG/G1, LG/G2, HG/G2 and HG/G3) classification systems [73] that divides the large group of G2 patients into two subgroups (LG/HG) proved to be superior to either classification system alone (Figure 4.1) [74]. In a subgroup of 3,311 patients with primary Ta bladder tumours, a similar prognosis was found for PUNLMP and Ta LG carcinomas [71].
+
+Figure 4.1: Schematic representation of tumours according to the WHO 1973, WHO 2004/2022 grading systems and a three-tier and four-tier hybrid combination of the two systemsThe percentages refer to the rate of each grade for the WHO 1973, the WHO 2004/2022 and the corresponding calculated three-tier and four-tier systems in a multicentre cohort of 5,145 primary Ta, T1 NMIBC patients.G = grade; HG = high-grade; LG = low-grade; PUNLMP = papillary urothelial neoplasm of low malignant potential; WHO = World Health Organization.
+
+Carcinoma in situ is an intra-epithelial, HG, non-invasive UC. It can be missed or misinterpreted as an inflammatory lesion during cystoscopy if not biopsied. Carcinoma in situ is often multifocal and can occur in the bladder, but also in the upper urinary tract, prostatic ducts and urethra [75].
+
+From a clinical point of view, CIS can be classified as [76]:
+
+Significant variability exists among pathologists for the diagnosis of CIS, for which agreement is achieved in only 70-78% of cases [77]. Inter-observer variability is also seen in the classification of stage T1 versus Ta tumours and tumour grading in both the 1973 and 2022 WHO classifications. The general conformity between pathologists in staging and grading is 50-60% [78-81]. The 2004/2022 WHO classification provides slightly better reproducibility than the 1973 classification [69].
+
+The following differentiations of UC are currently used [82, 83]:
+
+In the new 2022 WHO classification, all subtypes are considered HG [60]. Up to 14.6% of NMIBC may harbour a urothelial subtype [84]. The percentage of subtype in the specimen should be reported since it has been shown to be of prognostic value [85]. The 2022 WHO classification considers all subtypes UC (LG and HG) with more than 5% of HG as a HG tumour [2,85-92]. Clinical implications of urothelial subtypes are discussed in Section 6.3.
+
+Tumour markers and their prognostic role have been investigated [93-97]. These methods, in particular complex approaches such as the stratification of patients based on molecular classification, are promising but have not yet been recommended by any pathological organisation and are therefore not suitable for routine application [62, 98, 99].
+
+  • Epidemiology And Aetiology
+
+  • Pathological Staging, Grading And Classification Systems
+
+  • Predicting Disease Recurrence And Progression
+
+  • Disease Management
+
+  • Follow-up Of Patients With Nmibc
+
+  • Patient Reported Outcome Measures And Quality Indicators For Nmibc
+
+  • Pragmatic Deintensification Strategy In Nmibc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • Epidemiology And Aetiology
+
+  • Pathological Staging, Grading And Classification Systems
+
+  • Predicting Disease Recurrence And Progression
+
+  • Disease Management
+
+  • Follow-up Of Patients With Nmibc
+
+  • Patient Reported Outcome Measures And Quality Indicators For Nmibc
+
+  • Pragmatic Deintensification Strategy In Nmibc
+
+  • Conflict Of Interest
+
+  • Citation Information
+
+  • Copyright And Terms Of Use
+
+  • The WHO currently supports the WHO 2004/2022 classification system for clinical application. Nevertheless, the WHO 1973 is still being used.
+
+  • The most important parameters that must be considered for clinical application of any grading system are the classification system’s inter-observer reproducibility and prognostic value (see Sections 4.5.1 and 4.6).
+
+  • These guidelines provide recommendations for tumours classified by both classification systems.
+
+  • Primary: isolated CIS with no previous or concurrent papillary tumours and no previous CIS.
+
+  • Secondary: CIS detected during follow-up of patients with a previous tumour that was not CIS.
+
+  • Concurrent: CIS in the presence of any other urothelial tumour in the bladder.
+
+  • Pure UC (more than 90% of all cases)
+
+  • UC with partial (squamous-glandular or trophoblastic) divergent differentiation
+
+  • UC with micropapillary differentiation
+
+  • UC with nested/microcystic differentiation
+
+  • UC with microtubular differentiation
+
+  • UC with large, nested differentiation
+
+  • UC with plasmacytoid differentiation
+
+  • UC with lymphoepithelioma-like differentiation
+
+  • UC with giant cell, diffuse, undifferentiated differentiation
+
+  • UC with sarcomatoid differentiation
+
+  • Some UCs with other rare differentiations, for example, clear cell differentiation
+
+  • UCs with partial neuroendocrine (NE) (NE differentiation, % to be given)
+
+  • Pure NE carcinoma (including small and large cell NE carcinomas)
+
+
+## 4. PATHOLOGICAL STAGING, GRADING AND CLASSIFICATION SYSTEMS
+
+
+
+## 4.1. Definition of non-muscle-invasive bladder cancer
+
+
+
+## 4.2. Tumour, Node, Metastasis classification
+
+
+
+## 4.3. T 1 subclassification
+
+
+
+## 4.4. Lymphovascular invasion
+
+
+
+## 4.5. Histological grading of non-muscle-invasive bladder urothelial carcinomas
+
+
+
+## 4.6. Carcinoma in situ
+
+
+
+## 4.7. Inter- and intra-observer variability in staging and grading
+
+
+
+## 4.8. Subtypes of urothelial carcinoma
+
+
+
+## 4.9. Tumour markers and molecular classification
+
+
+
+## 4.10. Summary of evidence and recommendations for bladder cancer classification
+
+
+
+## 4.5.1. Types of histological grading systems
+
+
+
+## 4.5.2. Prognostic value of histological grading
+
+
+
+## 4.5.3. Clinical application of histological grading systems
