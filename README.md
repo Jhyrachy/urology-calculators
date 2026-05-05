@@ -1,54 +1,69 @@
 # 🧮 Urology Calculators
 
-Evidence-based clinical calculators for urology practice. Mobile-first PWA with offline support.
+Evidence-based clinical calculators for urology practice. All formulas are aligned with **EAU Guidelines 2026**. Mobile-first PWA with offline support.
 
 **Live:** https://jhyrachy.github.io/urology-calculators
 
 ## Features
 
-- **16 clinical calculators** covering prostate cancer, bladder cancer, renal cancer, and general oncology
+- **20 clinical calculators** covering prostate cancer, bladder cancer, renal cancer, and general oncology
 - **PWA** — installable, works offline
 - **Mobile-first** — responsive, works on any device
-- **Evidence-based** — every formula cites peer-reviewed literature and EAU Guidelines
+- **EAU 2026 aligned** — every formula cites the latest EAU Guidelines (https://uroweb.org/guidelines)
+- **DIY + External** — DIY tools implement the full calculation; non-DIY tools open the official web calculator
 - **Zero dependencies** — pure vanilla HTML/CSS/JS, no build step
 - **Open source** — MIT License
 
 ## Calculators
 
 ### Prostate Cancer
-| Calculator | Purpose |
-|---|---|
-| PSA Doubling Time | Biochemical recurrence kinetics after RP |
-| PSA Velocity | Annual PSA rise rate |
-| % Free PSA | PCa detection in grey zone (4–10 ng/mL) |
-| PSA Density | Distinguishes BPH from PCa |
-| PHI (Prostate Health Index) | Enhanced PCa detection with p2PSA |
-| cPSA (Complexed PSA) | Stable PSA fraction for PCa detection |
-| Briganti Nomogram | Lymph node invasion risk before RP |
-| CAPSRA Score | Radiotherapy outcome prediction |
+
+| Calculator | Type | Purpose |
+|---|---|---|
+| PSA Doubling Time | DIY | Biochemical recurrence kinetics after RP |
+| PSA Velocity | DIY | Annual PSA rise rate |
+| % Free PSA | DIY | PCa detection in grey zone (4–10 ng/mL) |
+| PSA Density | DIY | Distinguishes BPH from PCa using PI-RADS |
+| PHI (Prostate Health Index) | Commercial | Enhanced PCa detection with p2PSA (lab test) |
+| EAU Risk Groups | DIY | Initial risk stratification per EAU 2026 |
+| EAU BCR Risk Groups | DIY | Biochemical recurrence risk after radical treatment |
+| CAPRA-S | DIY | Post-operative adjuvant/adjuvant risk assessment |
+| Briganti Nomogram | External | Lymph node invasion risk before RP → [nomogram.org](https://www.nomogram.org) |
+| ERSPC Risk Calculator | External | Population-based PCa risk → [prostatecancer-riskcalculator.com](https://www.prostatecancer-riskcalculator.com) |
+| PCPTRC Risk Calculator | External | 20-item PCa risk estimation → [myprostatecancerrisk.com](https://www.myprostatecancerrisk.com) |
+| Gandaglia Nomogram | External | Long-term oncological outcomes after RP → [nomogram.org](https://www.nomogram.org) |
 
 ### Bladder Cancer
-| Calculator | Purpose |
-|---|---|
-| EAU NMIBC Risk Score | Recurrence/progression stratification |
-| EAU NMIBC Risk Stratification | BCG/cystectomy decision guide |
+
+| Calculator | Type | Purpose |
+|---|---|---|
+| EAU NMIBC Risk Score | DIY | Recurrence/progression stratification |
+| NM IBC Risk Stratification | DIY | BCG/cystectomy decision guide |
 
 ### Renal Cancer
-| Calculator | Purpose |
-|---|---|
-| RENAL Nephrometry Score | Tumor complexity for PN vs RN planning |
+
+| Calculator | Type | Purpose |
+|---|---|---|
+| RENAL Nephrometry Score | DIY | Tumor complexity for PN vs RN planning |
+| eGFR (CKD-EPI 2021) | DIY | Kidney function assessment |
 
 ### General Oncology
-| Calculator | Purpose |
-|---|---|
-| NLR | Systemic inflammation marker |
-| PLR | Systemic inflammation marker |
-| PNI | Nutritional-immune status |
 
-### Renal Function
-| Calculator | Purpose |
-|---|---|
-| eGFR (CKD-EPI 2021) | Kidney function assessment |
+| Calculator | Type | Purpose |
+|---|---|---|
+| NLR (Neutrophil-to-Lymphocyte Ratio) | DIY | Systemic inflammation marker |
+| PLR (Platelet-to-Lymphocyte Ratio) | DIY | Systemic inflammation marker |
+| PNI (Prognostic Nutritional Index) | DIY | Nutritional-immune status |
+
+### Laboratory Inputs
+
+These are **not** standalone calculators — they are clinical parameters (typically from lab reports) used as inputs for other tools:
+
+| Parameter | Type | Note |
+|---|---|---|
+| cPSA (Complexed PSA) | Lab input | Stable PSA fraction |
+| ePSi (Early Prostate Specific Antigen) | Lab input | Precursor form |
+| fPSA (Free PSA) | Lab input | Used in % Free PSA ratio |
 
 ## Development
 
@@ -73,6 +88,8 @@ export const id          = 'my-calc';
 export const name        = 'My Calculator';
 export const category    = 'Prostate Cancer';
 export const tags        = ['tag1', 'tag2'];
+export const isDIY       = true;        // false = opens external website
+export const isCommercial = false;       // true for lab tests (PHI, 4Kscore, etc.)
 export const description = 'One-line description.';
 export const inputs      = [{ id: 'x', label: 'X value', type: 'number' }];
 export const formula     = 'Formula in plain text';
@@ -87,6 +104,15 @@ export function renderResult(result) {
 }
 ```
 
+For **non-DIY** calculators, also include:
+
+```js
+export const output = [
+  { id: 'resource', label: 'Official Calculator', type: 'text',
+    value: 'https://www.example.com/calculator' }
+];
+```
+
 Then add the import to `js/app.js` — that's it.
 
 ## Disclaimer
@@ -95,4 +121,4 @@ Then add the import to `js/app.js` — that's it.
 
 ## Bibliography
 
-All formulas are sourced from peer-reviewed literature and the [EAU Guidelines](https://uroweb.org/guidelines).
+All formulas are sourced from peer-reviewed literature and the [EAU Guidelines 2026](https://uroweb.org/guidelines).
