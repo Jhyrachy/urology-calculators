@@ -1,11 +1,35 @@
 // Service Worker — enables offline PWA support
-const CACHE = 'uro-calc-v1';
+const CACHE = 'uro-calc-v2';
 const ASSETS = [
   '/',
   '/index.html',
   '/manifest.json',
   '/css/style.css',
   '/js/app.js',
+  '/js/calculators/psa-doubling-time.js',
+  '/js/calculators/briganti.js',
+  '/js/calculators/gandaglia.js',
+  '/js/calculators/epsi.js',
+  '/js/calculators/phi.js',
+  '/js/calculators/cpsa.js',
+  '/js/calculators/psa-density.js',
+  '/js/calculators/psa-velocity.js',
+  '/js/calculators/nlr.js',
+  '/js/calculators/plr.js',
+  '/js/calculators/pni.js',
+  '/js/calculators/capra-s.js',
+  '/js/calculators/fpsa.js',
+  '/js/calculators/egfr.js',
+  '/js/calculators/renal-nephrometry.js',
+  '/js/calculators/nmibc-risk.js',
+  '/js/calculators/eau-risk-groups.js',
+  '/js/calculators/eau-bcr-risk.js',
+  '/js/calculators/erspc-risk-calculator.js',
+  '/js/calculators/pcptrc-20.js',
+  '/js/flowcharts/pc-screening.js',
+  '/js/flowcharts/pc-active-surveillance.js',
+  '/js/flowcharts/pc-bcr-followup.js',
+  '/js/flowcharts/pc-adt-monitoring.js',
 ];
 
 // Install: cache core assets
