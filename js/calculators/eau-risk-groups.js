@@ -1,14 +1,23 @@
 /**
- * EAU Risk Groups — Table 4.3 (EAU 2026)
- * Stratifies localized/locally advanced PCa:
+ * EAU Risk Groups — Table 4.3 (EAU 2026, revised)
+ * Stratifies newly diagnosed localized/locally advanced PCa:
  *   Low / Favourable Intermediate / Unfavourable Intermediate / High Risk
  *
  * EAU 2026 Reference: Table 4.3 [110] + Summary of Changes 2026
  * Criteria: ISUP Grade Group + PSA + cT stage (DRE-based)
- * DIY: YES
  *
- * NOTE: Table 4.3 revised in 2026 — intermediate-risk split updated.
- *       See also: Cambridge Prognostic Groups (CPG) — 5-tier model [141-143]
+ * Table 4.3 (revised 2026):
+ *   Low:        ISUP GG 1 AND PSA < 10 AND cT1-2
+ *   Fav. Int:   ISUP GG 2 AND PSA < 10 AND cT1-2
+ *   Unfav. Int: ISUP GG 2 AND PSA 10-20 AND cT1-2
+ *                OR ISUP GG 3 AND cT1-2
+ *   High:       ISUP GG 3 AND PSA 10-20 AND cT1-2
+ *                OR ISUP GG 4-5
+ *                OR PSA > 20
+ *
+ * NOTE: cT stage is based on DRE only.
+ *
+ * DIY: YES
  */
 (function() {
   'use strict';
@@ -20,31 +29,42 @@
     inputs: [
       { id: 'isup', label: 'ISUP Grade Group (1–5)', min: 1, max: 5, step: 1, required: true },
       { id: 'psa',  label: 'PSA (ng/mL)',             min: 0, step: 0.1,  required: true },
-      { id: 'ct',   label: 'cT stage (1–4, DRE)',      min: 1, max: 4, step: 1, required: true }
+      { id: 'ct',   label: 'cT stage (DRE)',           type: 'select',
+        options: ['cT1', 'cT2', 'cT3', 'cT4'],                                   required: true }
     ],
     outputs: [
       { id: 'risk_group', label: 'EAU Risk Group' },
-      { id: 'management', label: 'Management' }
+      { id: 'management', label: 'Suggested management' }
     ],
     references: [
       'EAU 2026 Prostate Cancer Guidelines — Table 4.3 [110]',
       'Summary of Changes 2026: Table 4.3 revised'
     ]
   };
+
   function calculate({ isup, psa, ct }) {
+    const g = parseInt(isup, 10);
+    const p = parseFloat(psa);
+    const isCT2orLess = ct === 'cT1' || ct === 'cT2';
+
     let group, mgmt;
-    if (isup === 1 && psa < 10 && ct <= 2) {
-      group = 'Low Risk'; mgmt = 'AS or WW';
-    } else if ((isup === 1 && psa >= 10 && psa <= 20 && ct <= 2) ||
-               (isup === 2 && psa < 10 && ct <= 2)) {
-      group = 'Favourable Intermediate Risk'; mgmt = 'AS (selected) or curative intent (RP/EBRT) ± HT';
-    } else if ((isup === 2 && psa >= 10 && psa <= 20 && ct <= 2) || (isup === 3 && ct <= 2)) {
-      group = 'Unfavourable Intermediate Risk'; mgmt = 'Curative intent: RP ± ePLND or EBRT+ADT; multimodal approach';
+
+    if (g === 1 && p < 10 && isCT2orLess) {
+      group = 'Low Risk';
+      mgmt = 'AS or WW preferred; curative intent if patient chooses';
+    } else if (g === 2 && p < 10 && isCT2orLess) {
+      group = 'Favourable Intermediate Risk';
+      mgmt = 'AS (selected) or curative intent (RP/EBRT ± HT)';
+    } else if ((g === 2 && p >= 10 && p <= 20 && isCT2orLess) || (g === 3 && isCT2orLess)) {
+      group = 'Unfavourable Intermediate Risk';
+      mgmt = 'Curative intent: RP ± ePLND or EBRT+ADT; multimodal approach';
     } else {
-      group = 'High Risk / Locally Advanced'; mgmt = 'Curative intent: RP ± ePLND or EBRT+ADT± chemo; multimodal';
+      group = 'High Risk / Locally Advanced';
+      mgmt = 'Curative intent: RP ± ePLND or EBRT+ADT± chemo; multimodal';
     }
     return { risk_group: group, management: mgmt };
   }
+
   if (typeof window !== 'undefined') window.__registerCalculator__(meta.id, meta, calculate);
   if (typeof module !== 'undefined') module.exports = { meta, calculate };
 })();

@@ -31,7 +31,6 @@
       'Loeb S et al. Eur Urol 2015;68:464-471 — PHI meta-analysis',
       'Beckman Coulter PHI assay — FDA-approved'
     ],
-    isDIY: false,
     isCommercial: true,
     disclaimer: 'PHI is a commercial laboratory test. The p2PSA isoform measurement requires the Beckman Coulter proprietary assay and cannot be approximated. Enter the PHI value from your laboratory report.'
   };

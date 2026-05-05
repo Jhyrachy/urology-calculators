@@ -22,10 +22,13 @@ import * as renalNeph from './calculators/renal-nephrometry.js';
 import * as nmibc     from './calculators/nmibc-risk.js';
 import * as eauRisk   from './calculators/eau-risk-groups.js';
 import * as eauBcr    from './calculators/eau-bcr-risk.js';
+import * as erspc     from './calculators/erspc-risk-calculator.js';
+import * as pcptrc    from './calculators/pcptrc-20.js';
 
 const CALCULATORS = [
   psaDt, briganti, gandaglia, espl, phi, cpsa, psaDens, psaVel,
-  nlr, plr, pni, capsra, fpsa, egfr, renalNeph, nmibc, eauRisk, eauBcr
+  nlr, plr, pni, capsra, fpsa, egfr, renalNeph, nmibc, eauRisk, eauBcr,
+  erspc, pcptrc
 ];
 
 // ---- PWA init ----
@@ -152,7 +155,8 @@ function renderDetail(id) {
       ${c.meta.isDIY === false ? `
       <div class="info-box warning">
         <h3>🔒 Not DIY</h3>
-        <p>This tool requires a commercial laboratory assay or proprietary nomogram coefficients that cannot be reproduced here. Use the official web calculator linked in the references.</p>
+        <p>This tool requires a commercial laboratory assay or proprietary nomogram coefficients that cannot be reproduced here.</p>
+        ${c.meta.outputs?.find(o => o.value && (o.value.startsWith('http') || o.label.toLowerCase().includes('resource'))) ? `<a class="ext-btn" href="${c.meta.outputs.find(o => o.value && (o.value.startsWith('http') || o.label.toLowerCase().includes('resource'))).value}" target="_blank" rel="noopener">Open official calculator ↗</a>` : ''}
       </div>` : ''}
     </div>
   `;

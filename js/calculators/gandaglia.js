@@ -23,7 +23,8 @@
         value: 'NOT DIY. Use official web nomogram for Gandaglia 2014.' }
     ],
     outputs: [
-      { id: 'reference', label: 'Citation', value: 'Gandaglia D et al. Eur Urol 2014;66(2):406-412' }
+      { id: 'resource', label: 'Official resource', value: 'https://www.nomogram.org' },
+      { id: 'citation', label: 'Citation', value: 'Gandaglia D et al. Eur Urol 2014;66(2):406-412' }
     ],
     references: [
       'Gandaglia D et al. Eur Urol 2014;66(2):406-412',

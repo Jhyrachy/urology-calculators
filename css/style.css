@@ -233,6 +233,21 @@ input:focus, select:focus { outline: 2px solid var(--accent-light); border-color
 /* ---- No results ---- */
 .no-results { text-align: center; color: var(--text-muted); padding: 3rem 1rem; grid-column: 1 / -1; }
 
+/* ---- External calculator button ---- */
+.ext-btn {
+  display: inline-block;
+  margin-top: 0.75rem;
+  padding: 0.6rem 1.25rem;
+  background: var(--accent);
+  color: #fff;
+  border-radius: var(--radius);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.875rem;
+  transition: opacity 0.15s;
+}
+.ext-btn:hover { opacity: 0.85; }
+
 /* ---- Responsive ---- */
 @media (min-width: 600px) {
   main { padding: 1.5rem; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }

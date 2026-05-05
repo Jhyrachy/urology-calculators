@@ -1,23 +1,20 @@
 /**
  * Briganti 2017/2019 Nomogram — Lymph Node Invasion (LNI) Prediction
- * EAU 2026: Sect. 5.4.3 (Diagnostic Evaluation) [518]
+ * EAU 2026: Sect. 5.4.3 (Diagnostic Evaluation) [517,518,519]
  *
- * NOT DIY — Regression coefficients NOT published in EAU guidelines.
- * The full logistic regression model (beta coefficients) is proprietary
- * to the original Briganti 2017/2019 publications and hosted as a
- * web-based nomogram (https://www.nomogram.org/).
+ * NOT DIY — Beta regression coefficients NOT published in EAU guidelines.
+ * Published in: Briganti A et al. Eur Urol 2017;71(3):407-414 (Briganti 2017)
+ * Briganti 2019: PSMA PET-enhanced model externally validated in n=757 patients.
  *
- * Published references:
- *   - Briganti A et al. Eur Urol 2017;71(3):407-414 (Briganti 2017)
- *   - External validation: external cohort n=305 [518]
- *   - Briganti 2019: PSMA PET-enhanced model [518]
- *
- * Clinical use: Pre-operative prediction of LNI in PCa candidates for ePLND.
- * EAU 2026: "Given the excellent specificity of PSMA PET, it remains
+ * EAU 2026 notes: "Given the excellent specificity of PSMA PET, it remains
  * unclear whether a nomogram is required in patients with PSMA PET-positive
  * lesions" [518].
  *
- * DIY: NO — use the official web nomogram linked above
+ * Clinical use: Pre-operative prediction of LNI in PCa candidates for ePLND.
+ * Alternative: Briganti 2019 nomogram incorporating PSMA PET findings.
+ *
+ * DIY: NO — use official web nomogram
+ * EAU-referenced resource: https://www.nomogram.org (general urology nomograms)
  */
 (function() {
   'use strict';
@@ -27,23 +24,22 @@
     shortName: 'Briganti',
     category: 'nomogram-closed',
     inputs: [
-      { id: 'info', label: 'Note', type: 'info',
-        value: 'NOT DIY. Beta coefficients from original paper required. Use web nomogram.' }
+      { id: 'note', label: 'Note', type: 'info',
+        value: 'NOT DIY. Beta coefficients from the original publications are required.' }
     ],
     outputs: [
-      { id: 'reference', label: 'Official resource', value: 'https://www.nomogram.org/' },
+      { id: 'resource', label: 'Official resource', value: 'https://www.nomogram.org' },
       { id: 'citation', label: 'Citation', value: 'Briganti A et al. Eur Urol 2017;71(3):407-414' }
     ],
     references: [
-      'EAU 2026 Prostate Cancer Guidelines — Sect. 5.4.3 [518]',
+      'EAU 2026 Prostate Cancer Guidelines — Sect. 5.4.3 [517,518,519]',
       'Briganti A et al. Eur Urol 2017;71(3):407-414',
-      'Briganti 2019 external validation: similar performance to Briganti 2017'
+      'Briganti 2019 PSMA PET: external validation n=757 [518]'
     ],
-    isCommercial: false,
     isDIY: false,
-    disclaimer: 'Briganti nomogram is a published logistic regression nomogram. Coefficients are not reproduced here because they are not freely available in the EAU guidelines. Please use the official nomogram platform.'
+    disclaimer: 'This is a reference page. The Briganti 2017/2019 nomogram requires beta coefficients from the original publications and is available as a web nomogram. This page does not implement the formula.'
   };
-  function calculate() { return meta.inputs[0]; }
+  function calculate() { return {}; }
   if (typeof window !== 'undefined') window.__registerCalculator__(meta.id, meta, calculate);
   if (typeof module !== 'undefined') module.exports = { meta, calculate };
 })();
