@@ -25,6 +25,18 @@ import * as eauBcr    from './calculators/eau-bcr-risk.js';
 import * as erspc     from './calculators/erspc-risk-calculator.js';
 import * as pcptrc    from './calculators/pcptrc-20.js';
 
+import { render as renderScreening }   from './flowcharts/pc-screening.js';
+import { render as renderAS }          from './flowcharts/pc-active-surveillance.js';
+import { render as renderBCR }         from './flowcharts/pc-bcr-followup.js';
+import { render as renderADT }         from './flowcharts/pc-adt-monitoring.js';
+
+const FLOWCHARTS = [
+  { id: 'pc-screening',    name: 'Screening PCa',        shortDesc: 'Screening e PSA opportunistic',     icon: '🔍', render: renderScreening },
+  { id: 'pc-as',           name: 'Active Surveillance',  shortDesc: 'Criteri, protocollo e trigger',      icon: '👁',  render: renderAS          },
+  { id: 'pc-bcr',          name: 'Follow-up post-RP/RT', shortDesc: 'BCR e monitoraggio post-trattamento', icon: '📉', render: renderBCR         },
+  { id: 'pc-adt',          name: 'Monitoraggio ADT',      shortDesc: 'Follow-up durante terapia androgenica', icon: '💉', render: renderADT         },
+];
+
 const CALCULATORS = [
   psaDt, briganti, gandaglia, espl, phi, cpsa, psaDens, psaVel,
   nlr, plr, pni, capraS, fpsa, egfr, renalNeph, nmibc, eauRisk, eauBcr,
@@ -56,7 +68,26 @@ function renderHome(filter = '') {
       )
     : CALCULATORS;
 
-  appEl.innerHTML = filtered.length
+  const fcHtml = FLOWCHARTS.length && !q ? `
+    <section>
+      <h3 class="section-title">📊 Flowchart — EAU 2026 Prostate Cancer</h3>
+      <div class="flowcharts-grid">
+        ${FLOWCHARTS.map(fc => `
+          <div class="fc-card" role="button" tabindex="0"
+               onclick="window._openFlowchart('${fc.id}')"
+               onkeydown="event.key==='Enter'&&window._openFlowchart('${fc.id}')">
+            <div class="fc-card-icon">${fc.icon}</div>
+            <div class="fc-card-title">${fc.name}</div>
+            <div class="fc-card-sub">${fc.shortDesc}</div>
+            <span class="fc-card-badge">EAU 2026 · PCa</span>
+          </div>
+        `).join('')}
+      </div>
+    </section>
+    <hr style="border-color:var(--border);margin:0.5rem 0">
+  ` : '';
+
+  appEl.innerHTML = fcHtml + (filtered.length
     ? filtered.map(c => `
       <article class="card" role="button" tabindex="0"
                onclick="window._openCalc('${c.meta.id}')"
@@ -201,6 +232,16 @@ window._openCalc = (id) => {
   renderDetail(id);
   window.scrollTo(0, 0);
 };
+window._openFlowchart = (id) => {
+  const fc = FLOWCHARTS.find(f => f.id === id);
+  if (!fc) return;
+  appEl.classList.add('hidden');
+  detailEl.classList.remove('hidden');
+  detailEl.innerHTML = '<div id="fc-container"></div>';
+  fc.render(document.getElementById('fc-container'));
+  history.pushState({ flowchart: id }, '', `#flowchart-' + id);
+  window.scrollTo(0, 0);
+};
 window._back = () => {
   history.pushState({}, '', '/');
   renderHome(searchEl.value);
@@ -210,12 +251,18 @@ window._back = () => {
 // ---- Router ----
 window.addEventListener('popstate', (e) => {
   if (e.state?.calc) renderDetail(e.state.calc);
-  else renderHome(searchEl.value);
+  else if (e.state?.flowchart) {
+    window._openFlowchart(e.state.flowchart);
+  } else renderHome(searchEl.value);
 });
 
 if (location.hash) {
-  const id = location.hash.slice(1);
-  renderDetail(id);
+  const hash = location.hash.slice(1);
+  if (hash.startsWith('flowchart-')) {
+    window._openFlowchart(hash.replace('flowchart-', ''));
+  } else {
+    renderDetail(hash);
+  }
 } else {
   renderHome();
 }
