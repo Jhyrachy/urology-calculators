@@ -243,9 +243,13 @@ window._openFlowchart = (id) => {
   window.scrollTo(0, 0);
 };
 window._back = () => {
-  history.pushState({}, '', '/');
-  renderHome(searchEl.value);
-  window.scrollTo(0, 0);
+  if (history.length > 1) {
+    history.back();
+  } else {
+    history.pushState({}, '', '/');
+    renderHome(searchEl.value);
+    window.scrollTo(0, 0);
+  }
 };
 
 // ---- Router ----

@@ -1,39 +1,38 @@
 /**
- * Gandaglia 2014 Nomogram — Post-RP Complications Prediction
- * EAU 2026: referenced in Sect. 6.3.1 (post-RP complications)
+ * Gandaglia Nomogram — Lymph Node Invasion (LNI) Risk Prediction
+ * EAU 2026: Sect. 5.4.3 [517,518,519]
  *
  * NOT DIY — Regression coefficients NOT publicly disclosed in EAU guidelines.
- * Published Gandaglia D et al. Eur Urol 2014;66(2):406-412.
- * Hosted as web-based nomogram.
+ * Published: Gandaglia G et al. Eur Urol 2017;72:632-640 (Briganti 2017 updated model)
+ * Gandaglia G et al. Eur Urol 2019;75:506-514 (PSMA PET-enhanced LNI model)
  *
- * Clinical use: Predicts 30-day complications after RP (e.g. ePLND extent).
- * EAU 2019+: cited as reference for extended PLND risk-benefit assessment.
+ * Clinical use: Predicts lymph node invasion (LNI) risk to guide extended PLND (ePLND).
+ * EAU 2026: "Consider Briganti/Gandaglia nomogram when ePLND is planned" [517]
+ * EAU-referenced resource: MSKCC nomograms or Evidencio platform
  *
  * DIY: NO — use official web nomogram
  */
-(function() {
-  'use strict';
-  const meta = {
-    id: 'gandaglia',
-    name: 'Gandaglia Nomogram (RP Complications)',
-    shortName: 'Gandaglia',
-    category: 'nomogram-closed',
-    inputs: [
-      { id: 'info', label: 'Note', type: 'info',
-        value: 'NOT DIY. Use official web nomogram for Gandaglia 2014.' }
-    ],
-    outputs: [
-      { id: 'resource', label: 'Official resource', value: 'https://www.nomogram.org' },
-      { id: 'citation', label: 'Citation', value: 'Gandaglia D et al. Eur Urol 2014;66(2):406-412' }
-    ],
-    references: [
-      'Gandaglia D et al. Eur Urol 2014;66(2):406-412',
-      'EAU 2026 Prostate Cancer Guidelines — Sect. 6.3.1'
-    ],
-    isDIY: false,
-    disclaimer: 'Gandaglia 2014 nomogram coefficients are not publicly reproduced here. Use the published nomogram platform.'
-  };
-  function calculate() { return {}; }
-  if (typeof window !== 'undefined') window.__registerCalculator__(meta.id, meta, calculate);
-  if (typeof module !== 'undefined') module.exports = { meta, calculate };
-})();
+
+export const meta = {
+  id: 'gandaglia',
+  name: 'Gandaglia Nomogram (LNI)',
+  shortName: 'Gandaglia',
+  category: 'nomogram-closed',
+  inputs: [
+    { id: 'info', label: 'Note', type: 'info',
+      value: 'NOT DIY. Use official web nomogram for LNI risk assessment.' }
+  ],
+  outputs: [
+    { id: 'resource', label: 'Official resource', value: 'https://www.evidencio.com/models/show/1555' },
+    { id: 'citation', label: 'Citation', value: 'Gandaglia G et al. Eur Urol 2017;72:632-640' }
+  ],
+  references: [
+    'Gandaglia G et al. Eur Urol 2017;72:632-640 — LNI nomogram',
+    'Gandaglia G et al. Eur Urol 2019;75:506-514 — PSMA PET-enhanced model',
+    'EAU 2026 Prostate Cancer Guidelines — Sect. 5.4.3 [517,518,519]'
+  ],
+  isDIY: false,
+  disclaimer: 'Gandaglia nomogram coefficients are not publicly reproduced here. Use the published nomogram platform (Evidencio or MSKCC).'
+};
+
+export function calculate() { return {}; }

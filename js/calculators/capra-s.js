@@ -20,49 +20,48 @@
  *
  * DIY: YES — requires RP pathology report
  */
-(function() {
-  'use strict';
-  const meta = {
-    id: 'capra-s',
-    name: 'CAPRA-S Score',
-    shortName: 'CAPRA-S',
-    category: 'post-rp-risk',
-    inputs: [
-      { id: 'psa',    label: 'Pre-op PSA (ng/mL)',                min: 0, step: 0.01, required: true },
-      { id: 'pt',     label: 'Pathological T stage',            type: 'select',
-        options: ['pT2a', 'pT2b', 'pT3a', 'pT3b', 'pT4'],                         required: true },
-      { id: 'margins',label: 'Positive surgical margins?',       type: 'select',
-        options: ['No', 'Yes'],                                                          required: true },
-      { id: 'lni',    label: 'Lymph node involvement?',          type: 'select',
-        options: ['No', 'Yes'],                                                          required: true },
-      { id: 'isup',   label: 'Pathological ISUP Grade Group',     min: 1, max: 5, step: 1, required: true }
-    ],
-    outputs: [
-      { id: 'score',      label: 'CAPRA-S Score (0-10)' },
-      { id: 'risk_group', label: 'Risk Group' }
-    ],
-    references: [
-      'Cooperberg MR et al. J Urol 2011;185:1161-1165 — CAPRA-S',
-      'EAU 2026 Prostate Cancer Guidelines — Sect. 6.2.5 [614]'
-    ]
-  };
-  function psaPts(psa) {
-    if (psa < 0.2)  return 0;
-    if (psa < 0.5)  return 1;
-    if (psa < 1.0)  return 2;
-    if (psa < 2.0)  return 3;
-    if (psa < 3.0)  return 4;
-    return 5;
-  }
-  function ptPts(pt) { return { pT2a: 1, pT2b: 2, pT3a: 3, 'pT3b': 4, pT4: 4 }[pt] || 0; }
-  function ggPts(gg) { return Math.max(0, gg - 1); }
 
-  function calculate({ psa, pt, margins, lni, isup }) {
-    const total = psaPts(psa) + ptPts(pt) + (margins === 'Yes' ? 1 : 0) + (lni === 'Yes' ? 2 : 0) + ggPts(isup);
-    const score = Math.min(total, 10);
-    const group = score <= 1 ? 'Low' : score <= 3 ? 'Intermediate' : score <= 5 ? 'High' : 'Very High';
-    return { score, risk_group: group };
-  }
-  if (typeof window !== 'undefined') window.__registerCalculator__(meta.id, meta, calculate);
-  if (typeof module !== 'undefined') module.exports = { meta, calculate };
-})();
+export const meta = {
+  id: 'capra-s',
+  name: 'CAPRA-S Score',
+  shortName: 'CAPRA-S',
+  category: 'post-rp-risk',
+  inputs: [
+    { id: 'psa',    label: 'Pre-op PSA (ng/mL)',                min: 0, step: 0.01, required: true },
+    { id: 'pt',     label: 'Pathological T stage',            type: 'select',
+      options: ['pT2a', 'pT2b', 'pT3a', 'pT3b', 'pT4'],                         required: true },
+    { id: 'margins',label: 'Positive surgical margins?',       type: 'select',
+      options: ['No', 'Yes'],                                                          required: true },
+    { id: 'lni',    label: 'Lymph node involvement?',          type: 'select',
+      options: ['No', 'Yes'],                                                          required: true },
+    { id: 'isup',   label: 'Pathological ISUP Grade Group',     min: 1, max: 5, step: 1, required: true }
+  ],
+  outputs: [
+    { id: 'score',      label: 'CAPRA-S Score (0-10)' },
+    { id: 'risk_group', label: 'Risk Group' }
+  ],
+  references: [
+    'Cooperberg MR et al. J Urol 2011;185:1161-1165 — CAPRA-S',
+    'EAU 2026 Prostate Cancer Guidelines — Sect. 6.2.5 [614]'
+  ]
+};
+
+function psaPts(psa) {
+  if (psa < 0.2)  return 0;
+  if (psa < 0.5)  return 1;
+  if (psa < 1.0)  return 2;
+  if (psa < 2.0)  return 3;
+  if (psa < 3.0)  return 4;
+  return 5;
+}
+
+function ptPts(pt) { return { pT2a: 1, pT2b: 2, pT3a: 3, 'pT3b': 4, pT4: 4 }[pt] || 0; }
+
+function ggPts(gg) { return Math.min(Math.max(0, gg - 1), 3); }
+
+export function calculate({ psa, pt, margins, lni, isup }) {
+  const total = psaPts(psa) + ptPts(pt) + (margins === 'Yes' ? 1 : 0) + (lni === 'Yes' ? 2 : 0) + ggPts(isup);
+  const score = Math.min(total, 10);
+  const group = score <= 1 ? 'Low' : score <= 3 ? 'Intermediate' : score <= 5 ? 'High' : 'Very High';
+  return { score, risk_group: group };
+}

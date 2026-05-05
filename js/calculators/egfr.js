@@ -13,44 +13,41 @@
  *
  * DIY: YES
  */
-(function() {
-  'use strict';
-  const meta = {
-    id: 'egfr',
-    name: 'eGFR (CKD-EPI 2021)',
-    shortName: 'eGFR',
-    category: 'renal-function',
-    inputs: [
-      { id: 'age',         label: 'Age (years)',            min: 18, max: 120, step: 1, required: true },
-      { id: 'sex',         label: 'Sex',                   type: 'select',
-        options: ['Male', 'Female'],                                                required: true },
-      { id: 'creatinine',  label: 'Serum Creatinine (mg/dL)', min: 0.1, step: 0.01, required: true }
-    ],
-    outputs: [
-      { id: 'result',    label: 'eGFR (mL/min/1.73m²)' },
-      { id: 'ckd_stage', label: 'CKD Stage' }
-    ],
-    references: [
-      'Inker LA et al. N Engl J Med 2021;385:1737-1749 — CKD-EPI 2021',
-      'EAU 2026 — drug dosing and treatment eligibility'
-    ]
-  };
-  function calculate({ age, sex, creatinine }) {
-    if (creatinine <= 0) return { error: 'Invalid creatinine' };
-    const isF = sex === 'Female';
-    const κ = isF ? 0.7 : 0.9;
-    const a  = isF ? -0.241 : -0.302;
-    const scr_κ = creatinine / κ;
-    const egfr = 142 * Math.pow(Math.min(scr_κ, 1), a) * Math.pow(Math.max(scr_κ, 1), -1.20) * Math.pow(0.9938, age) * (isF ? 1.011 : 1);
-    const val = parseFloat(egfr.toFixed(1));
-    const stage = val >= 90 ? 'G1 — Normal'
+
+export const meta = {
+  id: 'egfr',
+  name: 'eGFR (CKD-EPI 2021)',
+  shortName: 'eGFR',
+  category: 'renal-function',
+  inputs: [
+    { id: 'age',         label: 'Age (years)',            min: 18, max: 120, step: 1, required: true },
+    { id: 'sex',         label: 'Sex',                   type: 'select',
+      options: ['Male', 'Female'],                                                required: true },
+    { id: 'creatinine',  label: 'Serum Creatinine (mg/dL)', min: 0.1, step: 0.01, required: true }
+  ],
+  outputs: [
+    { id: 'result',    label: 'eGFR (mL/min/1.73m²)' },
+    { id: 'ckd_stage', label: 'CKD Stage' }
+  ],
+  references: [
+    'Inker LA et al. N Engl J Med 2021;385:1737-1749 — CKD-EPI 2021',
+    'EAU 2026 — drug dosing and treatment eligibility'
+  ]
+};
+
+export function calculate({ age, sex, creatinine }) {
+  if (creatinine <= 0) return { error: 'Invalid creatinine' };
+  const isF = sex === 'Female';
+  const κ = isF ? 0.7 : 0.9;
+  const a  = isF ? -0.241 : -0.302;
+  const scr_κ = creatinine / κ;
+  const egfr = 142 * Math.pow(Math.min(scr_κ, 1), a) * Math.pow(Math.max(scr_κ, 1), -1.20) * Math.pow(0.9938, age) * (isF ? 1.011 : 1);
+  const val = parseFloat(egfr.toFixed(1));
+  const stage = val >= 90 ? 'G1 — Normal'
                 : val >= 60 ? 'G2 — Mildly decreased'
                 : val >= 45 ? 'G3a — Mildly-moderately decreased'
                 : val >= 30 ? 'G3b — Moderately-severely decreased'
                 : val >= 15 ? 'G4 — Severely decreased'
                 : 'G5 — Kidney failure';
-    return { result: val, ckd_stage: stage };
-  }
-  if (typeof window !== 'undefined') window.__registerCalculator__(meta.id, meta, calculate);
-  if (typeof module !== 'undefined') module.exports = { meta, calculate };
-})();
+  return { result: val, ckd_stage: stage };
+}
