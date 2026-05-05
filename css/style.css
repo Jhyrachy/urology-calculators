@@ -1,0 +1,214 @@
+/* ============================================
+   Urology Calculators — Mobile-first styles
+   ============================================ */
+
+:root {
+  --bg: #0d1117;
+  --surface: #161b22;
+  --border: #30363d;
+  --text: #e6edf3;
+  --text-muted: #8b949e;
+  --accent: #1a5276;
+  --accent-light: #2980b9;
+  --accent-glow: rgba(41, 128, 185, 0.2);
+  --danger: #da3633;
+  --success: #238636;
+  --warning: #d29922;
+  --radius: 12px;
+  --font: system-ui, -apple-system, sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  line-height: 1.6;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ---- Header ---- */
+header {
+  background: linear-gradient(135deg, var(--accent), #1a6f9e);
+  padding: 1.25rem 1rem;
+  text-align: center;
+}
+header h1 { font-size: 1.5rem; font-weight: 700; }
+header .subtitle { color: rgba(255,255,255,0.75); font-size: 0.875rem; margin-top: 0.25rem; }
+
+/* ---- Search ---- */
+nav { padding: 0.75rem 1rem; background: var(--surface); border-bottom: 1px solid var(--border); }
+#search {
+  width: 100%;
+  padding: 0.6rem 1rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  font-size: 1rem;
+}
+#search:focus { outline: 2px solid var(--accent-light); border-color: var(--accent-light); }
+
+/* ---- Main / Cards ---- */
+main { flex: 1; padding: 1rem; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  cursor: pointer;
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.15s;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.card:hover, .card:focus {
+  border-color: var(--accent-light);
+  box-shadow: 0 0 0 3px var(--accent-glow);
+  transform: translateY(-2px);
+}
+.card:active { transform: translateY(0); }
+
+.card-category {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-light);
+  font-weight: 600;
+}
+.card h2 { font-size: 1rem; font-weight: 600; color: var(--text); }
+.card p { font-size: 0.85rem; color: var(--text-muted); flex: 1; }
+.card-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.25rem; }
+.tag {
+  font-size: 0.7rem;
+  background: rgba(41,128,185,0.15);
+  color: var(--accent-light);
+  border: 1px solid rgba(41,128,185,0.3);
+  border-radius: 20px;
+  padding: 0.1rem 0.5rem;
+}
+
+/* ---- Footer ---- */
+footer {
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+footer a { color: var(--accent-light); }
+
+/* ---- Calculator Detail View ---- */
+#calc-detail {
+  position: fixed;
+  inset: 0;
+  background: var(--bg);
+  overflow-y: auto;
+  z-index: 100;
+  padding: 1rem;
+}
+#calc-detail.hidden { display: none; }
+
+.calc-header {
+  background: linear-gradient(135deg, var(--accent), #1a6f9e);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+}
+.calc-header h2 { font-size: 1.25rem; margin-bottom: 0.25rem; }
+.calc-header .category { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: rgba(255,255,255,0.7); }
+.back-btn {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.back-btn:hover { border-color: var(--accent-light); }
+
+/* ---- Form ---- */
+.form-group { margin-bottom: 1rem; }
+label { display: block; font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.3rem; }
+input, select {
+  width: 100%;
+  padding: 0.65rem 0.85rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  font-size: 1rem;
+}
+input:focus, select:focus { outline: 2px solid var(--accent-light); border-color: var(--accent-light); }
+.calc-btn {
+  width: 100%;
+  padding: 0.85rem;
+  background: linear-gradient(135deg, var(--accent), #1a6f9e);
+  color: white;
+  border: none;
+  border-radius: var(--radius);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 0.5rem;
+}
+.calc-btn:active { opacity: 0.85; }
+
+/* ---- Result ---- */
+.result-box {
+  margin-top: 1.25rem;
+  padding: 1rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--surface);
+}
+.result-box.danger { border-color: var(--danger); background: rgba(218,54,51,0.08); }
+.result-box.success { border-color: var(--success); background: rgba(35,134,54,0.08); }
+.result-box.warning { border-color: var(--warning); background: rgba(210,153,34,0.08); }
+.result-value { font-size: 1.5rem; font-weight: 700; }
+.result-label { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem; }
+
+/* ---- Info / Bibliography ---- */
+.info-section {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.info-box {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem;
+}
+.info-box h3 { font-size: 0.85rem; color: var(--accent-light); margin-bottom: 0.5rem; text-transform: uppercase; letter-spacing: 0.06em; }
+.info-box p, .info-box li { font-size: 0.875rem; color: var(--text-muted); }
+.info-box ul { padding-left: 1.25rem; }
+.formula-block {
+  font-family: 'Courier New', monospace;
+  background: rgba(0,0,0,0.3);
+  padding: 0.75rem;
+  border-radius: 8px;
+  font-size: 0.875rem;
+  color: var(--text);
+  overflow-x: auto;
+}
+
+/* ---- No results ---- */
+.no-results { text-align: center; color: var(--text-muted); padding: 3rem 1rem; grid-column: 1 / -1; }
+
+/* ---- Responsive ---- */
+@media (min-width: 600px) {
+  main { padding: 1.5rem; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+  #calc-detail { padding: 1.5rem; max-width: 640px; margin: 0 auto; }
+}
